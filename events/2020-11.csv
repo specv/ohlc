@@ -1,0 +1,396 @@
+datetime,currency,title,impact,forecast,previous,actual
+2020-11-01 16:30,AUD,AIG Manufacturing Index,Low,,46.7,56.3
+2020-11-01 16:45,NZD,Building Consents m/m,Low,,0.2%,3.6%
+2020-11-01 19:00,AUD,MI Inflation Gauge m/m,Low,,0.1%,-0.1%
+2020-11-01 19:30,AUD,ANZ Job Advertisements m/m,Low,,8.3%,9.4%
+2020-11-01 20:45,CNY,Caixin Manufacturing PMI,Low,52.9,53.0,53.6
+2020-11-02 00:00,AUD,Building Approvals m/m,Low,1.5%,-2.3%,15.4%
+2020-11-02 00:00,JPY,Final Manufacturing PMI,Low,48.0,48.0,48.7
+2020-11-02 00:00,USD,Construction Spending m/m,Low,1.0%,0.8%,0.3%
+2020-11-02 00:00,USD,ISM Manufacturing Prices,Low,60.5,62.8,65.5
+2020-11-02 00:30,AUD,Commodity Prices y/y,Low,,-5.2%,-0.3%
+2020-11-02 03:15,EUR,Spanish Manufacturing PMI,Low,51.0,50.8,52.5
+2020-11-02 03:30,CHF,Manufacturing PMI,Low,53.6,53.1,52.3
+2020-11-02 03:45,EUR,Italian Manufacturing PMI,Low,53.9,53.2,53.8
+2020-11-02 03:50,EUR,French Final Manufacturing PMI,Low,51.0,51.0,51.3
+2020-11-02 03:55,EUR,German Final Manufacturing PMI,Low,58.0,58.0,58.2
+2020-11-02 04:00,EUR,Final Manufacturing PMI,Low,54.4,54.4,54.8
+2020-11-02 04:30,GBP,Final Manufacturing PMI,Medium,53.3,53.3,53.7
+2020-11-02 09:30,CAD,Manufacturing PMI,Medium,,56.0,55.5
+2020-11-02 09:45,USD,Final Manufacturing PMI,Low,53.3,53.3,53.4
+2020-11-02 10:00,USD,ISM Manufacturing PMI,High,55.6,55.4,59.3
+2020-11-02 22:30,AUD,Cash Rate,High,0.10%,0.25%,0.10%
+2020-11-03 00:00,AUD,RBA Gov Lowe Speaks,High,,,
+2020-11-03 00:00,AUD,RBA Rate Statement,High,,,
+2020-11-03 02:30,CHF,CPI m/m,Low,0.0%,0.0%,0.0%
+2020-11-03 02:45,EUR,French Gov Budget Balance,Low,,-165.7B,-161.6B
+2020-11-03 09:12,NZD,GDT Price Index,Low,,0.4%,-2.0%
+2020-11-03 10:00,USD,Factory Orders m/m,Low,1.0%,0.6%,1.1%
+2020-11-03 15:29,USD,Congressional Elections,High,,,
+2020-11-03 15:29,USD,Presidential Election,High,,,
+2020-11-03 15:29,USD,Wards Total Vehicle Sales,Low,16.5M,16.3M,16.2M
+2020-11-03 16:30,AUD,AIG Construction Index,Low,,45.2,52.7
+2020-11-03 16:45,NZD,Employment Change q/q,High,-0.7%,-0.3%,-0.8%
+2020-11-03 18:50,JPY,Monetary Base y/y,Low,14.5%,14.3%,16.3%
+2020-11-03 19:00,NZD,ANZ Commodity Prices m/m,Low,,-0.2%,1.9%
+2020-11-03 20:45,CNY,Caixin Services PMI,Low,55.1,54.8,56.8
+2020-11-03 22:35,JPY,10-y Bond Auction,Low,,0.02|4.1,0.05|4.1
+2020-11-04 00:00,JPY,Monetary Policy Meeting Minutes,Low,,,
+2020-11-04 00:00,NZD,Labor Cost Index q/q,Low,0.2%,0.2%,0.4%
+2020-11-04 00:00,NZD,Unemployment Rate,High,5.3%,4.0%,5.3%
+2020-11-04 00:00,USD,Trade Balance,Low,-64.2B,-67.0B,-63.9B
+2020-11-04 03:00,EUR,Spanish Unemployment Change,Low,50.2K,-26.3K,49.6K
+2020-11-04 03:15,EUR,Spanish Services PMI,Low,40.0,42.4,41.4
+2020-11-04 03:45,EUR,Italian Services PMI,Low,47.4,48.8,46.7
+2020-11-04 03:50,EUR,French Final Services PMI,Low,46.5,46.5,46.5
+2020-11-04 03:55,EUR,German Final Services PMI,Low,48.9,48.9,49.5
+2020-11-04 04:00,EUR,Final Services PMI,Low,46.2,46.2,46.9
+2020-11-04 04:30,GBP,Final Services PMI,Low,52.3,52.3,51.4
+2020-11-04 05:00,EUR,PPI m/m,Low,0.3%,0.1%,0.3%
+2020-11-04 08:15,USD,ADP Non-Farm Employment Change,Medium,650K,753K,365K
+2020-11-04 08:30,CAD,Trade Balance,Medium,-2.2B,-3.2B,-3.3B
+2020-11-04 09:45,USD,Final Services PMI,Low,56.0,56.0,56.9
+2020-11-04 10:00,USD,ISM Services PMI,High,57.4,57.8,56.6
+2020-11-04 10:30,USD,Crude Oil Inventories,Low,0.3M,4.3M,-8.0M
+2020-11-04 15:29,EUR,ECOFIN Meetings,Low,,,
+2020-11-04 19:00,NZD,Prelim ANZ Business Confidence,Low,,-15.7,-15.6
+2020-11-04 19:30,AUD,Goods Trade Balance,Low,3.70B,2.62B,5.63B
+2020-11-05 00:00,EUR,German Buba President Weidmann Speaks,Low,,,
+2020-11-05 00:00,EUR,Retail Sales m/m,Low,-1.4%,4.2%,-2.0%
+2020-11-05 00:00,GBP,Asset Purchase Facility,High,845B,745B,875B
+2020-11-05 00:00,GBP,BOE Monetary Policy Report,High,,,
+2020-11-05 00:00,GBP,MPC Asset Purchase Facility Votes,High,9-0-0,0-0-9,9-0-0
+2020-11-05 00:00,GBP,MPC Official Bank Rate Votes,Medium,0-0-9,0-0-9,0-0-9
+2020-11-05 00:00,GBP,Monetary Policy Summary,High,,,
+2020-11-05 00:00,GBP,Official Bank Rate,Medium,0.10%,0.10%,0.10%
+2020-11-05 00:00,USD,Federal Funds Rate,Medium,<0.25%,<0.25%,<0.25%
+2020-11-05 00:00,USD,Prelim Nonfarm Productivity q/q,Low,3.6%,10.1%,4.9%
+2020-11-05 01:45,CHF,SECO Consumer Climate,Low,-14,-12,-13
+2020-11-05 02:00,EUR,German Factory Orders m/m,Low,2.1%,4.9%,0.5%
+2020-11-05 04:15,GBP,BOE Gov Bailey Speaks,High,,,
+2020-11-05 04:30,GBP,Construction PMI,Low,55.0,56.8,53.1
+2020-11-05 05:00,EUR,EU Economic Forecasts,Medium,,,
+2020-11-05 05:12,EUR,French 10-y Bond Auction,Low,,-0.25|1.8,-0.38|2.4
+2020-11-05 07:30,USD,Challenger Job Cuts y/y,Low,,185.9%,60.4%
+2020-11-05 08:30,USD,Unemployment Claims,Medium,740K,758K,751K
+2020-11-05 08:32,USD,Prelim Unit Labor Costs q/q,Low,-10.0%,9.0%,-8.9%
+2020-11-05 10:00,CHF,Gov Board Member Maechler Speaks,Medium,,,
+2020-11-05 10:30,USD,Natural Gas Storage,Low,-34B,29B,-36B
+2020-11-05 14:00,USD,FOMC Statement,High,,,
+2020-11-05 14:30,USD,FOMC Press Conference,High,,,
+2020-11-05 16:30,AUD,AIG Services Index,Low,,36.2,51.4
+2020-11-05 18:30,JPY,Average Cash Earnings y/y,Low,-1.1%,-1.3%,-0.9%
+2020-11-05 19:30,AUD,RBA Monetary Policy Statement,Medium,,,
+2020-11-05 21:00,NZD,Inflation Expectations q/q,Medium,,1.43%,1.59%
+2020-11-06 00:00,CAD,Unemployment Rate,High,9.0%,9.0%,8.9%
+2020-11-06 00:00,EUR,French Trade Balance,Low,-6.9B,-7.7B,-5.7B
+2020-11-06 00:00,JPY,Household Spending y/y,Low,-10.5%,-6.9%,-10.2%
+2020-11-06 00:00,USD,Average Hourly Earnings m/m,High,0.2%,0.0%,0.1%
+2020-11-06 00:00,USD,Final Wholesale Inventories m/m,Low,-0.1%,-0.1%,0.4%
+2020-11-06 00:00,USD,Non-Farm Employment Change,High,595K,672K,638K
+2020-11-06 00:00,USD,Unemployment Rate,High,7.7%,7.9%,6.9%
+2020-11-06 02:00,EUR,German Industrial Production m/m,Low,2.6%,0.5%,1.6%
+2020-11-06 02:45,EUR,French Prelim Private Payrolls q/q,Low,0.2%,-0.8%,1.8%
+2020-11-06 03:00,CHF,Foreign Currency Reserves,Low,,874B,871B
+2020-11-06 03:30,GBP,Halifax HPI m/m,Low,1.0%,1.5%,0.3%
+2020-11-06 04:00,EUR,Italian Retail Sales m/m,Low,-1.5%,8.2%,-0.8%
+2020-11-06 08:30,CAD,Employment Change,High,59.0K,378.2K,83.6K
+2020-11-06 09:00,CAD,BOC Gov Macklem Speaks,Medium,,,
+2020-11-06 10:00,CAD,Ivey PMI,Medium,55.2,54.3,54.5
+2020-11-06 15:00,USD,Consumer Credit m/m,Low,7.9B,-6.9B,16.2B
+2020-11-06 22:01,CNY,Trade Balance,Low,330B,258B,402B
+2020-11-06 22:03,CNY,USD-Denominated Trade Balance,Low,46.2B,37.0B,58.4B
+2020-11-08 18:50,JPY,BOJ Summary of Opinions,Low,,,
+2020-11-08 23:59,JPY,Leading Indicators,Low,92.9%,88.4%,92.9%
+2020-11-09 01:45,CHF,Unemployment Rate,Low,3.3%,3.4%,3.3%
+2020-11-09 02:00,EUR,German Trade Balance,Low,17.2B,15.4B,17.8B
+2020-11-09 04:25,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-09 04:30,EUR,Sentix Investor Confidence,Low,-15.0,-8.3,-10.0
+2020-11-09 05:35,GBP,BOE Gov Bailey Speaks,High,,,
+2020-11-09 09:00,GBP,MPC Member Haldane Speaks,Low,,,
+2020-11-09 13:30,USD,FOMC Member Mester Speaks,Low,,,
+2020-11-09 14:00,USD,Loan Officer Survey,Low,,,
+2020-11-09 18:50,JPY,Bank Lending y/y,Low,6.3%,6.4%,6.2%
+2020-11-09 19:01,GBP,BRC Retail Sales Monitor y/y,Low,5.5%,6.1%,5.2%
+2020-11-09 19:30,AUD,NAB Business Confidence,Low,,-4,5
+2020-11-09 20:30,CNY,CPI y/y,Low,0.8%,1.7%,0.5%
+2020-11-09 22:35,JPY,30-y Bond Auction,Low,,0.64|3.5,0.64|3.8
+2020-11-10 00:00,CNY,PPI y/y,Low,-1.9%,-2.1%,-2.1%
+2020-11-10 00:00,EUR,German ZEW Economic Sentiment,Low,45.0,56.1,39.0
+2020-11-10 00:00,GBP,Claimant Count Change,Low,20.3K,-40.2K,-29.8K
+2020-11-10 00:00,GBP,Unemployment Rate,Low,4.7%,4.5%,4.8%
+2020-11-10 00:00,JPY,Current Account,Low,1.79T,1.66T,1.35T
+2020-11-10 00:00,JPY,Economy Watchers Sentiment,Low,50.9,49.3,54.5
+2020-11-10 00:00,USD,Mortgage Delinquencies,Low,,8.22%,7.65%
+2020-11-10 02:00,GBP,Average Earnings Index 3m/y,Low,1.0%,0.1%,1.3%
+2020-11-10 02:45,EUR,French Industrial Production m/m,Low,0.8%,1.1%,1.4%
+2020-11-10 04:00,EUR,Italian Industrial Production m/m,Low,-1.9%,7.4%,-5.6%
+2020-11-10 05:00,EUR,ZEW Economic Sentiment,Low,43.3,52.3,32.8
+2020-11-10 06:00,USD,NFIB Small Business Index,Low,104.3,104.0,104.0
+2020-11-10 10:00,USD,JOLTS Job Openings,Low,6.50M,6.35M,6.44M
+2020-11-10 10:02,USD,RCM/TIPP Economic Optimism,Low,56.3,55.2,50.0
+2020-11-10 12:00,USD,FOMC Member Kaplan Speaks,Low,,,
+2020-11-10 13:01,USD,10-y Bond Auction,Low,,0.77|2.5,0.96|2.3
+2020-11-10 14:30,USD,FOMC Member Quarles Speaks,Low,,,
+2020-11-10 17:00,USD,FOMC Member Brainard Speaks,Low,,,
+2020-11-10 18:30,AUD,Westpac Consumer Sentiment,Low,,11.9%,2.5%
+2020-11-10 18:50,JPY,M2 Money Stock y/y,Low,9.1%,9.0%,9.0%
+2020-11-10 20:00,NZD,Official Cash Rate,High,0.25%,0.25%,0.25%
+2020-11-10 21:00,NZD,RBNZ Press Conference,High,,,
+2020-11-11 00:00,CNY,New Loans,Low,750B,1900B,690B
+2020-11-11 00:00,NZD,RBNZ Monetary Policy Statement,High,,,
+2020-11-11 00:00,NZD,RBNZ Rate Statement,High,,,
+2020-11-11 00:59,JPY,Prelim Machine Tool Orders y/y,Low,,-15.0%,-5.9%
+2020-11-11 03:02,CNY,M2 Money Supply y/y,Low,10.9%,10.9%,10.5%
+2020-11-11 05:34,EUR,German 30-y Bond Auction,Low,,-0.16|2.4,-0.06|1.6
+2020-11-11 08:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-11 16:52,NZD,Visitor Arrivals m/m,Low,,104.7%,9.0%
+2020-11-11 18:50,JPY,Core Machinery Orders m/m,Low,-1.1%,0.2%,-4.4%
+2020-11-11 19:01,GBP,RICS House Price Balance,Low,54%,62%,68%
+2020-11-11 22:35,AUD,MI Inflation Expectations,Low,,3.4%,3.5%
+2020-11-11 23:30,JPY,Tertiary Industry Activity m/m,Low,1.3%,0.8%,1.8%
+2020-11-12 00:00,GBP,BOE Gov Bailey Speaks,High,,,
+2020-11-12 00:00,GBP,Construction Output m/m,Low,2.1%,3.8%,2.9%
+2020-11-12 00:00,GBP,GDP m/m,Low,1.5%,2.2%,1.1%
+2020-11-12 00:00,GBP,Goods Trade Balance,Low,-9.2B,-6.8B,-9.3B
+2020-11-12 00:00,GBP,Index of Services 3m/3m,Low,14.6%,6.9%,14.2%
+2020-11-12 00:00,GBP,Industrial Production m/m,Low,0.9%,0.3%,0.5%
+2020-11-12 00:00,GBP,Manufacturing Production m/m,Low,0.7%,0.9%,0.2%
+2020-11-12 00:00,GBP,Prelim Business Investment q/q,Low,14.4%,-26.5%,8.8%
+2020-11-12 00:00,GBP,Prelim GDP q/q,Medium,15.8%,-19.8%,15.5%
+2020-11-12 00:00,JPY,PPI y/y,Low,-2.0%,-0.8%,-2.1%
+2020-11-12 00:00,USD,CPI m/m,Medium,0.1%,0.2%,0.0%
+2020-11-12 00:00,USD,Core CPI m/m,Medium,0.2%,0.2%,0.0%
+2020-11-12 00:00,USD,Fed Chair Powell Speaks,High,,,
+2020-11-12 00:00,USD,Unemployment Claims,Medium,730K,757K,709K
+2020-11-12 02:00,EUR,German Final CPI m/m,Low,0.1%,0.1%,0.1%
+2020-11-12 03:00,GBP,BOE Gov Bailey Speaks,High,,,
+2020-11-12 04:00,EUR,ECB Economic Bulletin,Low,,,
+2020-11-12 05:00,EUR,Industrial Production m/m,Low,0.6%,0.6%,-0.4%
+2020-11-12 08:15,GBP,NIESR GDP Estimate,Low,,15.5%,10.2%
+2020-11-12 08:30,USD,CPI y/y,High,1.3%,1.4%,1.2%
+2020-11-12 11:00,USD,Crude Oil Inventories,Low,-2.0M,-8.0M,4.3M
+2020-11-12 11:45,EUR,ECB President Lagarde Speaks,High,,,
+2020-11-12 13:01,USD,30-y Bond Auction,Low,,1.58|2.3,1.68|2.3
+2020-11-12 13:30,CAD,Gov Council Member Wilkins Speaks,Low,,,
+2020-11-12 14:00,USD,Federal Budget Balance,Low,-274.0B,-124.6B,-284.1B
+2020-11-12 16:30,NZD,BusinessNZ Manufacturing Index,Low,,54.0,51.7
+2020-11-12 16:45,NZD,FPI m/m,Low,,-1.0%,-0.7%
+2020-11-13 00:00,EUR,Flash Employment Change q/q,Low,0.7%,-2.9%,0.9%
+2020-11-13 00:00,EUR,Flash GDP q/q,Low,12.7%,12.7%,12.6%
+2020-11-13 00:00,EUR,Trade Balance,Low,22.3B,21.0B,24.0B
+2020-11-13 00:00,USD,PPI m/m,Medium,0.2%,0.4%,0.3%
+2020-11-13 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.6%,2.8%
+2020-11-13 02:00,EUR,German WPI m/m,Low,0.1%,0.0%,-0.2%
+2020-11-13 02:30,CHF,PPI m/m,Low,0.1%,0.1%,0.0%
+2020-11-13 02:45,EUR,French Final CPI m/m,Low,-0.1%,-0.1%,0.0%
+2020-11-13 05:00,EUR,German Buba President Weidmann Speaks,Low,,,
+2020-11-13 08:30,USD,Core PPI m/m,Medium,0.2%,0.4%,0.1%
+2020-11-13 09:00,GBP,MPC Member Tenreyro Speaks,Low,,,
+2020-11-13 09:30,GBP,CB Leading Index m/m,Low,,-0.7%,-1.5%
+2020-11-13 10:00,USD,Prelim UoM Consumer Sentiment,Medium,82.1,81.8,77.0
+2020-11-13 10:30,USD,Natural Gas Storage,Low,-3B,-36B,8B
+2020-11-13 11:00,GBP,BOE Gov Bailey Speaks,Medium,,,
+2020-11-15 16:30,NZD,BusinessNZ Services Index,Low,,50.4,51.4
+2020-11-15 18:50,JPY,Prelim GDP Price Index y/y,Low,1.0%,1.3%,1.1%
+2020-11-15 19:01,GBP,Rightmove HPI m/m,Low,,1.1%,-0.5%
+2020-11-15 19:41,CNY,Foreign Direct Investment ytd/y,Low,,5.2%,6.4%
+2020-11-15 20:30,CNY,New Home Prices m/m,Low,,0.34%,0.15%
+2020-11-15 21:00,CNY,Fixed Asset Investment ytd/y,Low,1.6%,0.8%,1.8%
+2020-11-15 23:30,JPY,Revised Industrial Production m/m,Low,4.0%,4.0%,3.9%
+2020-11-16 00:00,CNY,Industrial Production y/y,Low,6.7%,6.9%,6.9%
+2020-11-16 00:00,CNY,Retail Sales y/y,Low,5.1%,3.3%,4.3%
+2020-11-16 00:00,CNY,Unemployment Rate,Low,5.3%,5.4%,5.3%
+2020-11-16 00:00,JPY,Prelim GDP q/q,Low,4.4%,-7.9%,5.0%
+2020-11-16 00:00,USD,Empire State Manufacturing Index,Low,13.8,10.5,6.3
+2020-11-16 03:25,AUD,RBA Gov Lowe Speaks,High,,,
+2020-11-16 06:00,EUR,German Buba Monthly Report,Low,,,
+2020-11-16 08:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-16 08:30,CAD,Manufacturing Sales m/m,Low,1.7%,-1.4%,1.5%
+2020-11-16 10:30,AUD,CB Leading Index m/m,Low,,0.7%,-0.2%
+2020-11-16 12:30,GBP,MPC Member Haskel Speaks,Low,,,
+2020-11-16 14:00,USD,FOMC Member Clarida Speaks,Low,,,
+2020-11-16 16:00,USD,FOMC Financial Stability Report,Low,,,
+2020-11-16 17:30,AUD,RBA Assist Gov Kent Speaks,Medium,,,
+2020-11-16 19:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2020-11-17 00:00,CAD,Wholesale Sales m/m,Low,0.4%,0.2%,0.9%
+2020-11-17 00:00,USD,Core Retail Sales m/m,High,0.6%,1.2%,0.2%
+2020-11-17 00:00,USD,FOMC Member Brainard Speaks,Low,,,
+2020-11-17 00:00,USD,Import Prices m/m,Low,0.2%,0.2%,-0.1%
+2020-11-17 00:00,USD,Industrial Production m/m,Low,1.1%,-0.4%,1.1%
+2020-11-17 00:00,USD,NAHB Housing Market Index,Low,85,85,90
+2020-11-17 00:00,USD,Retail Sales m/m,High,0.5%,1.6%,0.3%
+2020-11-17 04:02,EUR,Italian Trade Balance,Low,4.30B,3.93B,5.85B
+2020-11-17 06:00,GBP,BOE Gov Bailey Speaks,Medium,,,
+2020-11-17 06:32,GBP,30-y Bond Auction,Low,,0.84|2.2,0.92|2.3
+2020-11-17 08:13,CAD,Housing Starts,Low,220K,209K,215K
+2020-11-17 08:30,CAD,Foreign Securities Purchases,Low,5.00B,15.51B,4.46B
+2020-11-17 09:15,USD,Capacity Utilization Rate,Low,72.3%,72.0%,72.8%
+2020-11-17 09:32,NZD,GDT Price Index,Low,,-2.0%,1.8%
+2020-11-17 10:00,USD,Business Inventories m/m,Low,0.5%,0.3%,0.7%
+2020-11-17 11:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-17 12:00,GBP,MPC Member Ramsden Speaks,Low,,,
+2020-11-17 13:00,USD,Fed Chair Powell Speaks,High,,,
+2020-11-17 15:29,All,BRICS Summit,Medium,,,
+2020-11-17 15:29,All,OPEC-JMMC Meetings,High,,,
+2020-11-17 15:29,EUR,ECOFIN Meetings,Low,,,
+2020-11-17 16:00,USD,TIC Long-Term Purchases,Low,41.5B,27.8B,108.9B
+2020-11-17 16:45,NZD,PPI Input q/q,Low,-0.1%,-0.9%,0.6%
+2020-11-17 17:00,AUD,RBA Gov Lowe Speaks,High,,,
+2020-11-17 18:30,AUD,MI Leading Index m/m,Low,,0.2%,0.1%
+2020-11-17 18:50,JPY,Trade Balance,Low,0.11T,0.44T,0.31T
+2020-11-17 19:30,AUD,Wage Price Index q/q,Low,0.2%,0.2%,0.1%
+2020-11-18 00:00,CAD,Common CPI y/y,Low,1.5%,1.5%,1.6%
+2020-11-18 00:00,CAD,Median CPI y/y,Low,1.9%,1.9%,1.9%
+2020-11-18 00:00,CAD,Trimmed CPI y/y,Low,1.8%,1.7%,1.8%
+2020-11-18 00:00,EUR,Final CPI y/y,Low,-0.3%,-0.3%,-0.3%
+2020-11-18 00:00,GBP,CPI y/y,Low,0.5%,0.5%,0.7%
+2020-11-18 00:00,GBP,PPI Output m/m,Low,0.1%,-0.1%,0.0%
+2020-11-18 00:00,GBP,RPI y/y,Low,1.2%,1.1%,1.3%
+2020-11-18 00:00,NZD,PPI Output q/q,Low,0.0%,-0.2%,-0.3%
+2020-11-18 00:00,USD,Building Permits,Low,1.57M,1.55M,1.55M
+2020-11-18 00:00,USD,Housing Starts,Low,1.45M,1.46M,1.53M
+2020-11-18 02:00,GBP,Core CPI y/y,Low,1.3%,1.3%,1.5%
+2020-11-18 02:02,GBP,PPI Input m/m,Low,0.0%,0.3%,0.2%
+2020-11-18 04:30,GBP,HPI y/y,Low,2.9%,3.0%,4.7%
+2020-11-18 05:00,EUR,Final Core CPI y/y,Low,0.2%,0.2%,0.2%
+2020-11-18 05:30,GBP,MPC Member Haldane Speaks,Low,,,
+2020-11-18 05:34,EUR,German 10-y Bond Auction,Low,,-0.51|2.1,-0.57|2.0
+2020-11-18 08:30,CAD,CPI m/m,High,0.2%,-0.1%,0.4%
+2020-11-18 08:32,CAD,Core CPI m/m,Low,,0.1%,0.4%
+2020-11-18 10:30,USD,Crude Oil Inventories,Low,1.7M,4.3M,0.8M
+2020-11-18 12:15,USD,FOMC Member Williams Speaks,Low,,,
+2020-11-18 19:30,AUD,Employment Change,High,-26.7K,-42.5K,178.8K
+2020-11-19 00:00,AUD,Unemployment Rate,High,7.1%,6.9%,7.0%
+2020-11-19 00:00,USD,CB Leading Index m/m,Medium,0.7%,0.7%,0.7%
+2020-11-19 00:00,USD,Existing Home Sales,Low,6.45M,6.57M,6.85M
+2020-11-19 00:00,USD,Philly Fed Manufacturing Index,Medium,22.0,32.3,26.3
+2020-11-19 00:00,USD,Unemployment Claims,Medium,707K,711K,742K
+2020-11-19 02:00,CHF,Trade Balance,Low,3.55B,3.05B,3.86B
+2020-11-19 03:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-19 04:00,EUR,Current Account,Low,18.1B,20.9B,25.2B
+2020-11-19 06:00,GBP,CBI Industrial Order Expectations,Low,-39,-34,-40
+2020-11-19 08:30,CAD,ADP Non-Farm Employment Change,High,,-564.4K,-79.5K
+2020-11-19 10:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-19 10:30,USD,Natural Gas Storage,Low,22B,8B,31B
+2020-11-19 18:30,JPY,National Core CPI y/y,Low,-0.7%,-0.3%,-0.7%
+2020-11-19 19:01,GBP,GfK Consumer Confidence,Low,-33,-31,-33
+2020-11-19 19:30,AUD,Retail Sales m/m,Low,1.0%,-1.1%,1.6%
+2020-11-19 20:30,CNY,1-y Loan Prime Rate,Medium,3.85%,3.85%,3.85%
+2020-11-19 21:00,NZD,Credit Card Spending y/y,Low,,-9.8%,-6.3%
+2020-11-20 00:00,CAD,NHPI m/m,Low,0.8%,1.2%,0.8%
+2020-11-20 00:00,CAD,Retail Sales m/m,Medium,0.2%,0.5%,1.1%
+2020-11-20 00:00,CNY,5-y Loan Prime Rate,Medium,4.65%,4.65%,4.65%
+2020-11-20 00:00,GBP,Public Sector Net Borrowing,Low,31.6B,27.9B,21.6B
+2020-11-20 00:00,GBP,Retail Sales m/m,Medium,-0.3%,1.4%,1.2%
+2020-11-20 00:00,JPY,Flash Manufacturing PMI,Low,49.4,48.7,48.3
+2020-11-20 00:00,USD,FOMC Member Kaplan Speaks,Low,,,
+2020-11-20 02:00,EUR,German PPI m/m,Low,0.1%,0.4%,0.1%
+2020-11-20 03:15,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-20 08:30,CAD,Core Retail Sales m/m,Medium,0.0%,0.5%,1.0%
+2020-11-20 08:32,CAD,Corporate Profits q/q,Low,,-8.0%,44.9%
+2020-11-20 09:50,EUR,Consumer Confidence,Low,-18,-16,-18
+2020-11-21 15:29,All,G20 Meetings,Medium,,,
+2020-11-22 15:29,All,G20 Meetings,Medium,,,
+2020-11-22 16:45,NZD,Retail Sales q/q,Medium,20.0%,-14.8%,28.0%
+2020-11-22 16:48,NZD,Core Retail Sales q/q,Low,19.5%,-13.7%,24.1%
+2020-11-22 17:00,AUD,Flash Manufacturing PMI,Low,,54.2,56.1
+2020-11-23 00:00,AUD,Flash Services PMI,Low,,53.7,54.9
+2020-11-23 00:00,EUR,Flash Services PMI,Medium,42.2,46.9,41.3
+2020-11-23 00:00,EUR,French Flash Manufacturing PMI,Medium,50.2,51.3,49.1
+2020-11-23 00:00,EUR,German Flash Services PMI,High,46.1,49.5,46.2
+2020-11-23 00:00,GBP,Flash Services PMI,Medium,43.2,51.4,45.8
+2020-11-23 00:00,USD,Flash Services PMI,Low,55.8,56.9,57.7
+2020-11-23 03:15,EUR,French Flash Services PMI,High,39.2,46.5,38.0
+2020-11-23 03:30,EUR,German Flash Manufacturing PMI,High,56.0,58.2,57.9
+2020-11-23 04:00,EUR,Flash Manufacturing PMI,Medium,53.2,54.8,53.6
+2020-11-23 04:30,GBP,Flash Manufacturing PMI,Medium,50.5,53.7,55.2
+2020-11-23 04:40,GBP,MPC Member Haldane Speaks,Low,,,
+2020-11-23 09:00,CNY,CB Leading Index m/m,Low,,1.4%,1.3%
+2020-11-23 09:45,USD,Flash Manufacturing PMI,Medium,52.5,53.4,56.7
+2020-11-23 10:30,GBP,Monetary Policy Report Hearings,High,,,
+2020-11-23 14:00,CAD,Gov Council Member Gravelle Speaks,Low,,,
+2020-11-23 19:30,AUD,Goods Trade Balance,Low,,5.02B,4.84B
+2020-11-23 21:30,AUD,RBA Deputy Gov Debelle Speaks,Low,,,
+2020-11-24 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,5.3%,5.3%,6.6%
+2020-11-24 02:00,EUR,German Final GDP q/q,Low,8.2%,8.2%,8.5%
+2020-11-24 04:00,EUR,German ifo Business Climate,Low,90.3,92.5,90.7
+2020-11-24 06:00,GBP,CBI Realized Sales,Low,-34,-23,-25
+2020-11-24 06:30,GBP,MPC Member Haskel Speaks,Low,,,
+2020-11-24 08:52,EUR,Belgian NBB Business Climate,Low,-11.8,-8.5,-12.1
+2020-11-24 09:00,USD,HPI m/m,Low,0.8%,1.5%,1.7%
+2020-11-24 09:59,USD,Richmond Manufacturing Index,Low,20,29,15
+2020-11-24 10:00,USD,CB Consumer Confidence,Medium,97.7,101.4,96.1
+2020-11-24 12:45,CAD,Gov Council Member Wilkins Speaks,Low,,,
+2020-11-24 15:00,NZD,RBNZ Financial Stability Report,Medium,,,
+2020-11-24 17:00,NZD,RBNZ Gov Orr Speaks,High,,,
+2020-11-24 18:50,JPY,SPPI y/y,Low,-0.5%,1.4%,-0.6%
+2020-11-24 19:30,AUD,Construction Work Done q/q,Medium,-2.0%,0.5%,-2.6%
+2020-11-24 23:59,JPY,BOJ Core CPI y/y,Low,-0.1%,-0.1%,0.0%
+2020-11-25 00:00,USD,Core Durable Goods Orders m/m,Low,0.5%,0.9%,1.3%
+2020-11-25 00:00,USD,Core PCE Price Index m/m,Low,0.0%,0.2%,0.0%
+2020-11-25 00:00,USD,Durable Goods Orders m/m,Low,1.0%,2.1%,1.3%
+2020-11-25 00:00,USD,Goods Trade Balance,Low,-80.2B,-79.4B,-80.3B
+2020-11-25 00:00,USD,New Home Sales,Low,972K,1002K,999K
+2020-11-25 00:00,USD,Personal Income m/m,Low,0.0%,0.7%,-0.7%
+2020-11-25 00:00,USD,Personal Spending m/m,Low,0.4%,1.2%,0.5%
+2020-11-25 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.4%,0.4%,0.9%
+2020-11-25 00:00,USD,Revised UoM Inflation Expectations,Low,,2.8%,2.8%
+2020-11-25 00:00,USD,Unemployment Claims,Medium,732K,748K,778K
+2020-11-25 04:00,CHF,UBS Economic Expectations,Low,,2.3,30.0
+2020-11-25 04:30,EUR,ECB Financial Stability Review,Medium,,,
+2020-11-25 07:45,GBP,Autumn Forecast Statement,Medium,,,
+2020-11-25 08:30,USD,Prelim GDP q/q,Medium,33.1%,33.1%,33.1%
+2020-11-25 08:36,USD,Prelim GDP Price Index q/q,Low,3.6%,3.6%,3.6%
+2020-11-25 10:00,USD,Revised UoM Consumer Sentiment,Medium,76.9,77.0,76.9
+2020-11-25 10:30,USD,Crude Oil Inventories,Low,0.1M,0.8M,-0.8M
+2020-11-25 12:00,USD,Natural Gas Storage,Low,-18B,31B,-18B
+2020-11-25 14:00,USD,FOMC Meeting Minutes,High,,,
+2020-11-25 16:45,NZD,Trade Balance,Low,-500M,-1025M,-501M
+2020-11-25 19:30,AUD,Private Capital Expenditure q/q,Medium,-1.5%,-6.4%,-3.0%
+2020-11-26 00:00,EUR,Private Loans y/y,Low,3.1%,3.1%,3.1%
+2020-11-26 02:00,EUR,German GfK Consumer Climate,Low,-4.9,-3.2,-6.7
+2020-11-26 04:00,EUR,M3 Money Supply y/y,Low,10.4%,10.4%,10.5%
+2020-11-26 07:30,EUR,ECB Monetary Policy Meeting Accounts,Low,,,
+2020-11-26 18:30,JPY,Tokyo Core CPI y/y,Low,-0.6%,-0.5%,-0.7%
+2020-11-27 00:00,EUR,French Prelim CPI m/m,Low,0.0%,0.0%,0.2%
+2020-11-27 00:00,EUR,French Prelim GDP q/q,Low,18.2%,18.2%,18.7%
+2020-11-27 02:00,EUR,German Import Prices m/m,Low,0.1%,0.3%,0.3%
+2020-11-27 02:45,EUR,French Consumer Spending m/m,Low,3.6%,-4.4%,3.7%
+2020-11-27 05:12,EUR,Italian 10-y Bond Auction,Low,,0.79|1.3,0.59|1.6
+2020-11-29 15:29,All,OPEC-JMMC Meetings,High,,,
+2020-11-29 18:50,JPY,Prelim Industrial Production m/m,Low,2.3%,3.9%,3.8%
+2020-11-29 19:00,AUD,MI Inflation Gauge m/m,Low,,-0.1%,0.3%
+2020-11-29 19:30,AUD,Company Operating Profits q/q,Low,4.0%,15.8%,3.2%
+2020-11-29 20:00,CNY,Manufacturing PMI,Medium,51.6,51.4,52.1
+2020-11-30 00:00,AUD,Private Sector Credit m/m,Low,0.1%,0.0%,0.0%
+2020-11-30 00:00,CAD,Current Account,Low,-8.9B,-7.0B,-7.5B
+2020-11-30 00:00,CAD,IPPI m/m,Low,0.0%,0.6%,-0.4%
+2020-11-30 00:00,CAD,RMPI m/m,Low,-2.0%,-1.8%,0.5%
+2020-11-30 00:00,CNY,Non-Manufacturing PMI,Low,56.0,56.2,56.4
+2020-11-30 00:00,EUR,Italian Prelim CPI m/m,Low,-0.2%,0.2%,-0.1%
+2020-11-30 00:00,EUR,Spanish Flash CPI y/y,Low,-0.9%,-0.8%,-0.8%
+2020-11-30 00:00,GBP,Net Lending to Individuals m/m,Low,4.7B,4.2B,3.7B
+2020-11-30 00:00,JPY,Housing Starts y/y,Low,-9.0%,-9.9%,-8.3%
+2020-11-30 00:00,JPY,Retail Sales y/y,Low,6.4%,-8.7%,6.4%
+2020-11-30 00:00,NZD,ANZ Business Confidence,Low,,-15.6,-6.9
+2020-11-30 02:30,CHF,Retail Sales y/y,Low,0.6%,0.4%,3.1%
+2020-11-30 03:00,CHF,KOF Economic Barometer,Low,101.0,106.3,103.5
+2020-11-30 04:30,GBP,M4 Money Supply m/m,Low,1.0%,0.8%,0.6%
+2020-11-30 04:32,GBP,Mortgage Approvals,Low,85K,92K,98K
+2020-11-30 05:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-11-30 08:30,CAD,Building Permits m/m,Low,-3.8%,18.6%,-14.6%
+2020-11-30 09:30,GBP,MPC Member Tenreyro Speaks,Low,,,
+2020-11-30 09:45,USD,Chicago PMI,Medium,59.4,61.1,58.2
+2020-11-30 10:00,USD,Pending Home Sales m/m,Medium,1.1%,-2.0%,-1.1%
+2020-11-30 15:00,CAD,Annual Budget Release,Low,,,
+2020-11-30 15:29,All,OPEC Meetings,High,,,
+2020-11-30 15:29,EUR,Eurogroup Meetings,Low,,,
+2020-11-30 15:29,EUR,German Prelim CPI m/m,Low,-0.7%,0.1%,-0.8%
+2020-11-30 16:30,AUD,AIG Manufacturing Index,Low,,56.3,52.1
+2020-11-30 18:30,JPY,Unemployment Rate,Low,3.1%,3.0%,3.1%
+2020-11-30 18:50,JPY,Capital Spending q/y,Low,-12.0%,-11.3%,-10.6%
+2020-11-30 19:30,AUD,Building Approvals m/m,Low,-3.0%,16.2%,3.8%
+2020-11-30 20:45,CNY,Caixin Manufacturing PMI,Low,53.6,53.6,54.9
+2020-11-30 22:30,AUD,RBA Rate Statement,High,,,
+2020-11-30 22:35,JPY,10-y Bond Auction,Low,,0.05|4.1,0.02|3.4

@@ -1,0 +1,415 @@
+datetime,currency,title,impact,forecast,previous,actual
+2021-06-01 00:00,AUD,Cash Rate,Medium,0.10%,0.10%,0.10%
+2021-06-01 00:00,AUD,Company Operating Profits q/q,Low,3.6%,-4.8%,-0.3%
+2021-06-01 00:00,AUD,Current Account,Low,17.8B,16.0B,18.3B
+2021-06-01 00:00,CHF,Retail Sales y/y,Low,15.4%,23.1%,35.7%
+2021-06-01 00:00,EUR,CPI Flash Estimate y/y,Low,1.9%,1.6%,2.0%
+2021-06-01 00:00,EUR,German Unemployment Change,Low,-9K,8K,-15K
+2021-06-01 00:00,EUR,Unemployment Rate,Low,8.1%,8.1%,8.0%
+2021-06-01 00:00,USD,Construction Spending m/m,Low,0.5%,1.0%,0.2%
+2021-06-01 00:00,USD,FOMC Member Quarles Speaks,Low,,,
+2021-06-01 00:00,USD,ISM Manufacturing Prices,Low,88.9,89.6,88.0
+2021-06-01 00:30,AUD,RBA Rate Statement,High,,,
+2021-06-01 02:00,GBP,Nationwide HPI m/m,Low,0.7%,2.3%,1.8%
+2021-06-01 02:30,AUD,Commodity Prices y/y,Low,,33.6%,39.7%
+2021-06-01 03:00,CHF,GDP q/q,Low,-0.4%,0.1%,-0.5%
+2021-06-01 03:15,EUR,Spanish Manufacturing PMI,Low,59.3,57.7,59.4
+2021-06-01 03:30,CHF,Manufacturing PMI,Low,70.0,69.5,69.9
+2021-06-01 03:45,EUR,Italian Manufacturing PMI,Low,62.0,60.7,62.3
+2021-06-01 03:50,EUR,French Final Manufacturing PMI,Low,59.2,59.2,59.4
+2021-06-01 03:55,EUR,German Final Manufacturing PMI,Medium,64.0,64.0,64.4
+2021-06-01 04:00,EUR,Final Manufacturing PMI,Low,62.8,62.8,63.1
+2021-06-01 04:02,EUR,Italian Monthly Unemployment Rate,Low,10.1%,10.4%,10.7%
+2021-06-01 04:30,GBP,Final Manufacturing PMI,Low,66.1,66.1,65.6
+2021-06-01 05:00,EUR,Core CPI Flash Estimate y/y,Low,0.9%,0.7%,0.9%
+2021-06-01 08:30,CAD,GDP m/m,Medium,1.0%,0.4%,1.1%
+2021-06-01 09:30,CAD,Manufacturing PMI,Low,,57.2,57.0
+2021-06-01 09:45,USD,Final Manufacturing PMI,Low,61.5,61.5,62.1
+2021-06-01 10:00,USD,ISM Manufacturing PMI,High,60.8,60.7,61.2
+2021-06-01 10:09,NZD,GDT Price Index,Low,,-0.2%,-0.9%
+2021-06-01 11:00,GBP,BOE Gov Bailey Speaks,High,,,
+2021-06-01 14:00,USD,FOMC Member Brainard Speaks,Medium,,,
+2021-06-01 15:29,All,OPEC-JMMC Meetings,High,,,
+2021-06-01 18:45,NZD,Overseas Trade Index q/q,Low,-0.2%,1.5%,0.1%
+2021-06-01 19:01,GBP,BRC Shop Price Index y/y,Low,,-1.3%,-0.6%
+2021-06-01 19:50,JPY,Monetary Base y/y,Low,25.2%,24.3%,22.4%
+2021-06-01 21:30,AUD,GDP q/q,High,1.5%,3.2%,1.8%
+2021-06-02 00:00,EUR,PPI m/m,Low,0.9%,1.1%,1.0%
+2021-06-02 00:00,GBP,Mortgage Approvals,Low,80K,83K,87K
+2021-06-02 00:00,GBP,Net Lending to Individuals m/m,Low,7.4B,11.1B,2.9B
+2021-06-02 00:00,USD,FOMC Member Bostic Speaks,Low,,,
+2021-06-02 00:00,USD,FOMC Member Evans Speaks,Low,,,
+2021-06-02 02:00,EUR,German Retail Sales m/m,Low,-2.4%,7.7%,-5.5%
+2021-06-02 02:45,EUR,French Gov Budget Balance,Low,,-60.1B,-91.4B
+2021-06-02 03:00,EUR,Spanish Unemployment Change,Low,-115.2K,-39.0K,-129.4K
+2021-06-02 04:30,GBP,M4 Money Supply m/m,Low,0.7%,0.7%,0.1%
+2021-06-02 05:00,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2021-06-02 05:24,GBP,10-y Bond Auction,Low,,0.92|2.7,0.94|2.6
+2021-06-02 08:30,CAD,Building Permits m/m,Low,-5.2%,7.6%,-0.5%
+2021-06-02 09:45,USD,RCM/TIPP Economic Optimism,Low,55.8,54.4,56.4
+2021-06-02 11:45,EUR,German Buba President Weidmann Speaks,Low,,,
+2021-06-02 14:00,USD,Beige Book,Low,,,
+2021-06-02 15:29,USD,Wards Total Vehicle Sales,Low,17.4M,18.5M,17.0M
+2021-06-02 18:30,AUD,AIG Construction Index,Low,,59.1,58.3
+2021-06-02 21:00,NZD,ANZ Commodity Prices m/m,Low,,2.3%,1.3%
+2021-06-02 21:30,AUD,Goods Trade Balance,Low,8.35B,5.57B,8.03B
+2021-06-02 21:45,CNY,Caixin Services PMI,Low,56.3,56.3,55.1
+2021-06-02 23:35,JPY,10-y Bond Auction,Low,,0.07|3.0,0.08|2.9
+2021-06-03 00:00,USD,Revised Nonfarm Productivity q/q,Low,5.5%,5.4%,5.4%
+2021-06-03 00:00,USD,Revised Unit Labor Costs q/q,Low,-0.4%,-0.3%,1.7%
+2021-06-03 03:15,EUR,Spanish Services PMI,Low,57.8,54.6,59.4
+2021-06-03 03:45,EUR,Italian Services PMI,Low,52.4,47.3,53.1
+2021-06-03 03:50,EUR,French Final Services PMI,Low,56.6,56.6,56.6
+2021-06-03 03:55,EUR,German Final Services PMI,Low,52.8,52.8,52.8
+2021-06-03 04:00,EUR,Final Services PMI,Low,55.2,55.1,55.2
+2021-06-03 04:30,GBP,Final Services PMI,Low,61.8,61.8,62.9
+2021-06-03 05:00,EUR,French 10-y Bond Auction,Low,,0.13|1.7,0.16|2.0
+2021-06-03 07:30,USD,Challenger Job Cuts y/y,Low,,-96.6%,-93.8%
+2021-06-03 08:15,USD,ADP Non-Farm Employment Change,Medium,645K,654K,978K
+2021-06-03 08:30,USD,Unemployment Claims,Medium,400K,405K,385K
+2021-06-03 09:45,USD,Final Services PMI,Low,70.1,70.1,70.4
+2021-06-03 10:00,USD,ISM Services PMI,High,63.0,62.7,64.0
+2021-06-03 10:30,USD,Natural Gas Storage,Low,95B,115B,98B
+2021-06-03 11:00,USD,Crude Oil Inventories,Medium,-1.0M,-1.7M,-5.1M
+2021-06-03 12:00,GBP,BOE Gov Bailey Speaks,Medium,,,
+2021-06-03 12:30,USD,FOMC Member Bostic Speaks,Low,,,
+2021-06-03 15:05,USD,FOMC Member Quarles Speaks,Low,,,
+2021-06-03 19:30,JPY,Household Spending y/y,Low,8.6%,6.2%,13.0%
+2021-06-04 00:00,CAD,Labor Productivity q/q,Low,-1.0%,-2.1%,-1.7%
+2021-06-04 00:00,CAD,Unemployment Rate,High,8.2%,8.1%,8.2%
+2021-06-04 00:00,NZD,RBNZ Gov Orr Speaks,Medium,,,
+2021-06-04 00:00,USD,Average Hourly Earnings m/m,High,0.2%,0.7%,0.5%
+2021-06-04 00:00,USD,Factory Orders m/m,Low,-0.3%,1.4%,-0.6%
+2021-06-04 00:00,USD,Fed Chair Powell Speaks,High,,,
+2021-06-04 00:00,USD,Non-Farm Employment Change,High,645K,278K,559K
+2021-06-04 00:00,USD,Unemployment Rate,High,5.9%,6.1%,5.8%
+2021-06-04 03:00,CHF,SNB Chairman Jordan Speaks,Medium,,,
+2021-06-04 04:30,GBP,Construction PMI,Low,61.9,61.6,64.2
+2021-06-04 05:00,EUR,Retail Sales m/m,Low,-1.4%,3.3%,-3.1%
+2021-06-04 07:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2021-06-04 08:30,CAD,Employment Change,High,-23.5K,-207.1K,-68.0K
+2021-06-04 10:00,CAD,Ivey PMI,Medium,62.3,60.6,64.7
+2021-06-04 10:38,USD,President Biden Speaks,Low,,,
+2021-06-04 15:29,All,G7 Meetings,Low,,,
+2021-06-05 15:29,All,G7 Meetings,Low,,,
+2021-06-06 18:39,AUD,AIG Services Index,Low,,61.0,61.2
+2021-06-06 21:30,AUD,ANZ Job Advertisements m/m,Low,,4.9%,7.9%
+2021-06-06 23:00,CNY,Trade Balance,Low,266B,277B,296B
+2021-06-06 23:02,CNY,USD-Denominated Trade Balance,Low,50.5B,42.9B,45.5B
+2021-06-07 01:00,JPY,Leading Indicators,Low,103.0%,102.5%,103.0%
+2021-06-07 01:45,CHF,Unemployment Rate,Low,3.1%,3.2%,3.0%
+2021-06-07 01:58,EUR,German Factory Orders m/m,Low,0.4%,3.9%,-0.2%
+2021-06-07 02:30,CHF,CPI m/m,Low,0.3%,0.2%,0.3%
+2021-06-07 03:00,CHF,Foreign Currency Reserves,Low,,914B,902B
+2021-06-07 03:30,GBP,Halifax HPI m/m,Low,1.0%,1.5%,1.3%
+2021-06-07 04:30,EUR,Sentix Investor Confidence,Low,25.5,21.0,28.1
+2021-06-07 15:00,USD,Consumer Credit m/m,Low,19.5B,18.6B,18.6B
+2021-06-07 19:01,GBP,BRC Retail Sales Monitor y/y,Low,29.5%,39.6%,18.5%
+2021-06-07 19:30,JPY,Average Cash Earnings y/y,Low,0.8%,0.6%,1.6%
+2021-06-07 19:50,JPY,Bank Lending y/y,Low,5.6%,4.8%,2.9%
+2021-06-07 19:54,JPY,Final GDP Price Index y/y,Low,-0.2%,-0.2%,-0.1%
+2021-06-07 21:30,AUD,NAB Business Confidence,Low,,23,20
+2021-06-07 23:35,JPY,30-y Bond Auction,Low,,0.65|3.1,0.69|3.4
+2021-06-08 00:00,EUR,Final Employment Change q/q,Low,-0.3%,-0.3%,-0.3%
+2021-06-08 00:00,EUR,German ZEW Economic Sentiment,Medium,86.0,84.4,79.8
+2021-06-08 00:00,EUR,Revised GDP q/q,Low,-0.6%,-0.6%,-0.3%
+2021-06-08 00:00,JPY,Current Account,Low,1.60T,1.70T,1.55T
+2021-06-08 00:00,JPY,Final GDP q/q,Low,-1.2%,-1.3%,-1.0%
+2021-06-08 00:00,USD,Trade Balance,Low,-68.5B,-75.0B,-68.9B
+2021-06-08 00:59,JPY,Economy Watchers Sentiment,Low,33.9,39.1,38.1
+2021-06-08 01:55,EUR,German Industrial Production m/m,Low,0.3%,2.2%,-1.0%
+2021-06-08 02:45,EUR,French Trade Balance,Low,-5.3B,-6.1B,-6.2B
+2021-06-08 04:00,EUR,Italian Retail Sales m/m,Low,0.2%,0.0%,-0.4%
+2021-06-08 05:00,EUR,ZEW Economic Sentiment,Medium,85.5,84.0,81.3
+2021-06-08 06:00,USD,NFIB Small Business Index,Low,101.2,99.8,99.6
+2021-06-08 08:30,CAD,Trade Balance,Low,-0.9B,-1.3B,0.6B
+2021-06-08 09:00,GBP,MPC Member Haldane Speaks,Low,,,
+2021-06-08 10:00,USD,JOLTS Job Openings,Low,8.18M,8.29M,9.29M
+2021-06-08 18:45,NZD,Manufacturing Sales q/q,Low,,-0.2%,2.1%
+2021-06-08 19:30,AUD,RBA Assist Gov Kent Speaks,Medium,,,
+2021-06-08 19:50,JPY,M2 Money Stock y/y,Low,8.5%,9.2%,7.9%
+2021-06-08 20:30,AUD,Westpac Consumer Sentiment,Low,,-4.8%,-5.2%
+2021-06-08 21:00,NZD,Prelim ANZ Business Confidence,Medium,,1.8,-0.4
+2021-06-08 21:30,CNY,CPI y/y,Medium,1.6%,0.9%,1.3%
+2021-06-09 00:00,CAD,Overnight Rate,Medium,0.25%,0.25%,0.25%
+2021-06-09 00:00,CNY,PPI y/y,Low,8.5%,6.8%,9.0%
+2021-06-09 00:00,USD,Final Wholesale Inventories m/m,Low,0.8%,0.8%,0.8%
+2021-06-09 02:00,EUR,German Trade Balance,Low,15.7B,14.0B,15.9B
+2021-06-09 02:02,JPY,Prelim Machine Tool Orders y/y,Low,,120.8%,140.7%
+2021-06-09 05:35,EUR,German 30-y Bond Auction,Low,,0.22|1.3,0.31|1.3
+2021-06-09 10:00,CAD,BOC Rate Statement,High,,,
+2021-06-09 10:30,USD,Crude Oil Inventories,Medium,-3.3M,-5.1M,-5.2M
+2021-06-09 13:01,USD,10-y Bond Auction,Medium,,1.68|2.5,1.50|2.6
+2021-06-09 19:01,GBP,RICS House Price Balance,Low,77%,76%,83%
+2021-06-09 19:50,JPY,PPI y/y,Low,4.5%,3.8%,4.9%
+2021-06-09 21:00,AUD,MI Inflation Expectations,Low,,3.5%,4.4%
+2021-06-10 00:00,CNY,New Loans,Low,1400B,1470B,1500B
+2021-06-10 00:00,EUR,Main Refinancing Rate,Medium,0.00%,0.00%,0.00%
+2021-06-10 00:00,USD,CPI m/m,High,0.4%,0.8%,0.6%
+2021-06-10 00:00,USD,CPI y/y,High,4.7%,4.2%,5.0%
+2021-06-10 00:00,USD,Core CPI m/m,High,0.5%,0.9%,0.7%
+2021-06-10 00:00,USD,Unemployment Claims,Medium,370K,385K,376K
+2021-06-10 01:30,EUR,French Final Private Payrolls q/q,Low,0.3%,0.3%,0.5%
+2021-06-10 02:45,EUR,French Industrial Production m/m,Low,0.5%,1.0%,-0.1%
+2021-06-10 04:00,EUR,Italian Industrial Production m/m,Low,0.3%,0.3%,1.8%
+2021-06-10 04:01,CNY,M2 Money Supply y/y,Low,8.1%,8.1%,8.3%
+2021-06-10 07:45,EUR,Monetary Policy Statement,High,,,
+2021-06-10 08:05,GBP,MPC Member Haldane Speaks,Low,,,
+2021-06-10 08:30,EUR,ECB Press Conference,High,,,
+2021-06-10 10:30,USD,Natural Gas Storage,Low,99B,98B,98B
+2021-06-10 13:00,CAD,Gov Council Member Lane Speaks,Low,,,
+2021-06-10 13:01,USD,30-y Bond Auction,Medium,,2.40|2.2,2.17|2.3
+2021-06-10 14:00,USD,Federal Budget Balance,Low,-245.0B,-225.6B,-132.0B
+2021-06-10 18:30,NZD,BusinessNZ Manufacturing Index,Low,,58.3,58.6
+2021-06-10 19:50,JPY,BSI Manufacturing Index,Low,1.9,1.6,-1.4
+2021-06-11 00:00,GBP,Construction Output m/m,Low,1.0%,5.8%,-2.0%
+2021-06-11 00:00,GBP,GDP m/m,Low,2.4%,2.1%,2.3%
+2021-06-11 00:00,GBP,Goods Trade Balance,Low,-11.8B,-11.7B,-11.0B
+2021-06-11 00:00,GBP,Index of Services 3m/3m,Low,1.3%,-2.0%,1.4%
+2021-06-11 00:00,GBP,Industrial Production m/m,Low,1.2%,1.8%,-1.3%
+2021-06-11 00:00,GBP,Manufacturing Production m/m,Low,1.5%,2.1%,-0.3%
+2021-06-11 00:00,USD,Prelim UoM Inflation Expectations,Low,,4.6%,4.0%
+2021-06-11 02:00,EUR,German WPI m/m,Low,0.9%,1.1%,1.7%
+2021-06-11 04:00,EUR,Italian Quarterly Unemployment Rate,Low,10.5%,10.0%,10.4%
+2021-06-11 04:30,GBP,BOE Gov Bailey Speaks,High,,,
+2021-06-11 08:30,CAD,Capacity Utilization Rate,Low,80.5%,79.7%,81.7%
+2021-06-11 08:32,GBP,NIESR GDP Estimate,Low,,1.5%,3.8%
+2021-06-11 10:00,USD,Prelim UoM Consumer Sentiment,Medium,84.1,82.9,86.4
+2021-06-11 11:00,CAD,Gov Council Member Beaudry Speaks,Low,,,
+2021-06-11 15:29,All,G7 Meetings,Low,,,
+2021-06-12 03:00,CNY,Foreign Direct Investment ytd/y,Low,,38.6%,35.4%
+2021-06-12 15:29,All,G7 Meetings,Low,,,
+2021-06-13 15:29,All,G7 Meetings,Low,,,
+2021-06-13 18:30,NZD,BusinessNZ Services Index,Low,,61.2,56.1
+2021-06-13 18:45,NZD,Visitor Arrivals m/m,Low,,-12.4%,588.3%
+2021-06-14 00:30,JPY,Revised Industrial Production m/m,Low,2.5%,2.5%,2.9%
+2021-06-14 02:30,CHF,PPI m/m,Low,0.4%,0.7%,0.8%
+2021-06-14 05:00,EUR,Industrial Production m/m,Low,0.4%,0.4%,0.8%
+2021-06-14 08:30,CAD,Manufacturing Sales m/m,Low,1.1%,4.0%,-2.1%
+2021-06-14 09:00,GBP,BOE Gov Bailey Speaks,Medium,,,
+2021-06-14 09:30,GBP,CB Leading Index m/m,Low,,0.1%,0.3%
+2021-06-14 18:45,NZD,FPI m/m,Low,,1.1%,0.4%
+2021-06-14 21:30,AUD,Monetary Policy Meeting Minutes,Medium,,,
+2021-06-15 00:00,AUD,HPI q/q,Low,4.8%,3.0%,5.4%
+2021-06-15 00:00,GBP,Average Earnings Index 3m/y,Low,4.9%,4.3%,5.6%
+2021-06-15 00:00,GBP,BOE Gov Bailey Speaks,High,,,
+2021-06-15 00:00,GBP,Claimant Count Change,Low,25.0K,-55.8K,-92.6K
+2021-06-15 00:00,GBP,Unemployment Rate,Low,4.7%,4.8%,4.7%
+2021-06-15 00:00,USD,Capacity Utilization Rate,Low,75.2%,74.6%,75.2%
+2021-06-15 00:00,USD,Core PPI m/m,Medium,0.5%,0.7%,0.7%
+2021-06-15 00:00,USD,Empire State Manufacturing Index,Low,22.2,24.3,17.4
+2021-06-15 00:00,USD,NAHB Housing Market Index,Low,83,83,81
+2021-06-15 00:00,USD,PPI m/m,High,0.5%,0.6%,0.8%
+2021-06-15 00:00,USD,Retail Sales m/m,High,-0.6%,0.9%,-1.3%
+2021-06-15 00:30,JPY,Tertiary Industry Activity m/m,Low,-0.7%,2.4%,-0.7%
+2021-06-15 02:00,EUR,German Final CPI m/m,Low,0.5%,0.5%,0.5%
+2021-06-15 02:45,EUR,French Final CPI m/m,Low,0.3%,0.3%,0.3%
+2021-06-15 03:00,CHF,SECO Economic Forecasts,Low,,,
+2021-06-15 05:00,EUR,Trade Balance,Low,14.9B,18.3B,9.4B
+2021-06-15 06:30,GBP,30-y Bond Auction,Low,,1.30|2.2,1.27|2.2
+2021-06-15 08:15,CAD,Housing Starts,Low,279K,267K,276K
+2021-06-15 08:30,USD,Core Retail Sales m/m,High,0.4%,0.0%,-0.7%
+2021-06-15 09:15,USD,Industrial Production m/m,Medium,0.6%,0.1%,0.8%
+2021-06-15 10:00,USD,Business Inventories m/m,Low,-0.1%,0.2%,-0.2%
+2021-06-15 10:37,NZD,GDT Price Index,Low,,-0.9%,-1.3%
+2021-06-15 16:00,USD,TIC Long-Term Purchases,Low,119.5B,262.4B,100.7B
+2021-06-15 18:45,NZD,Current Account,Low,-2.49B,-2.59B,-2.90B
+2021-06-15 19:50,JPY,Core Machinery Orders m/m,Low,2.6%,3.7%,0.6%
+2021-06-15 20:30,AUD,MI Leading Index m/m,Low,,0.2%,-0.1%
+2021-06-16 00:00,CAD,Common CPI y/y,Medium,1.8%,1.7%,1.8%
+2021-06-16 00:00,CAD,Median CPI y/y,Medium,2.4%,2.3%,2.4%
+2021-06-16 00:00,CAD,Trimmed CPI y/y,Medium,2.4%,2.3%,2.7%
+2021-06-16 00:00,CAD,Wholesale Sales m/m,Low,-1.0%,3.2%,0.4%
+2021-06-16 00:00,CNY,Fixed Asset Investment ytd/y,Low,17.0%,19.9%,15.4%
+2021-06-16 00:00,CNY,Retail Sales y/y,Low,14.0%,17.7%,12.4%
+2021-06-16 00:00,CNY,Unemployment Rate,Low,5.1%,5.1%,5.0%
+2021-06-16 00:00,GBP,Core CPI y/y,Low,1.5%,1.3%,2.0%
+2021-06-16 00:00,GBP,PPI Input m/m,Low,1.0%,1.2%,1.1%
+2021-06-16 00:00,GBP,PPI Output m/m,Low,0.4%,0.4%,0.5%
+2021-06-16 00:00,GBP,RPI y/y,Low,3.3%,2.9%,3.3%
+2021-06-16 00:00,JPY,Trade Balance,Low,0.24T,0.08T,0.04T
+2021-06-16 00:00,USD,Building Permits,Low,1.73M,1.73M,1.68M
+2021-06-16 00:00,USD,FOMC Statement,High,,,
+2021-06-16 00:00,USD,Federal Funds Rate,Medium,<0.25%,<0.25%,<0.25%
+2021-06-16 00:00,USD,Housing Starts,Low,1.64M,1.52M,1.57M
+2021-06-16 00:00,USD,Import Prices m/m,Low,0.8%,0.8%,1.1%
+2021-06-16 02:00,GBP,CPI y/y,Medium,1.8%,1.5%,2.1%
+2021-06-16 03:00,CNY,Industrial Production y/y,Medium,9.2%,9.8%,8.8%
+2021-06-16 04:30,GBP,HPI y/y,Low,12.1%,9.9%,8.9%
+2021-06-16 05:33,EUR,German 10-y Bond Auction,Low,,-0.09|1.3,-0.19|1.3
+2021-06-16 08:30,CAD,CPI m/m,High,0.4%,0.5%,0.5%
+2021-06-16 08:32,CAD,Core CPI m/m,Low,,0.5%,0.4%
+2021-06-16 10:00,USD,Treasury Sec Yellen Speaks,High,,,
+2021-06-16 10:30,USD,Crude Oil Inventories,Medium,-2.1M,-5.2M,-7.4M
+2021-06-16 14:00,USD,FOMC Economic Projections,High,,,
+2021-06-16 14:30,USD,FOMC Press Conference,High,,,
+2021-06-16 18:30,CAD,BOC Gov Macklem Speaks,High,,,
+2021-06-16 18:45,NZD,GDP q/q,High,0.5%,-1.0%,1.6%
+2021-06-16 20:10,AUD,RBA Gov Lowe Speaks,High,,,
+2021-06-16 21:30,AUD,Employment Change,High,30.5K,-30.7K,115.2K
+2021-06-17 00:00,AUD,RBA Bulletin,Low,,,
+2021-06-17 00:00,AUD,Unemployment Rate,High,5.5%,5.5%,5.1%
+2021-06-17 00:00,CHF,SNB Policy Rate,Medium,-0.75%,-0.75%,-0.75%
+2021-06-17 00:00,CNY,New Home Prices m/m,Low,,0.48%,0.52%
+2021-06-17 00:00,EUR,Final CPI y/y,Low,2.0%,2.0%,2.0%
+2021-06-17 00:00,EUR,Italian Trade Balance,Low,6.23B,5.19B,5.87B
+2021-06-17 00:00,USD,Philly Fed Manufacturing Index,Medium,30.3,31.5,30.7
+2021-06-17 00:00,USD,Unemployment Claims,Medium,360K,375k,412K
+2021-06-17 00:30,CHF,SNB Financial Stability Report,Low,,,
+2021-06-17 02:02,CHF,Trade Balance,Low,4.23B,3.77B,4.95B
+2021-06-17 03:30,CHF,SNB Monetary Policy Assessment,High,,,
+2021-06-17 04:00,CHF,SNB Press Conference,High,,,
+2021-06-17 05:00,EUR,Final Core CPI y/y,Low,0.9%,0.9%,1.0%
+2021-06-17 08:30,CAD,Foreign Securities Purchases,Low,4.35B,4.12B,9.95B
+2021-06-17 08:32,CAD,ADP Non-Farm Employment Change,Low,,101.3K,101.6K
+2021-06-17 10:00,USD,CB Leading Index m/m,Low,1.3%,1.3%,1.3%
+2021-06-17 10:30,USD,Natural Gas Storage,Low,71B,98B,16B
+2021-06-17 15:29,EUR,Eurogroup Meetings,Low,,,
+2021-06-17 19:30,JPY,National Core CPI y/y,Low,0.0%,-0.1%,0.1%
+2021-06-17 23:30,JPY,Monetary Policy Statement,Medium,,,
+2021-06-18 00:00,GBP,Retail Sales m/m,Medium,1.5%,9.2%,-1.4%
+2021-06-18 00:00,JPY,BOJ Policy Rate,Low,-0.10%,-0.10%,-0.10%
+2021-06-18 02:00,EUR,German PPI m/m,Low,0.7%,0.8%,1.5%
+2021-06-18 02:30,JPY,BOJ Press Conference,Medium,,,
+2021-06-18 04:00,EUR,Current Account,Low,20.3B,17.8B,22.8B
+2021-06-18 04:30,GBP,Consumer Inflation Expectations,Low,,2.7%,2.4%
+2021-06-18 08:30,CAD,NHPI m/m,Low,1.5%,1.9%,1.4%
+2021-06-18 15:29,EUR,ECOFIN Meetings,Low,,,
+2021-06-20 19:01,GBP,Rightmove HPI m/m,Low,,1.8%,0.8%
+2021-06-20 21:30,AUD,Retail Sales m/m,Medium,0.4%,1.1%,0.1%
+2021-06-21 00:00,CNY,1-y Loan Prime Rate,Medium,3.85%,3.85%,3.85%
+2021-06-21 00:00,CNY,5-y Loan Prime Rate,Medium,4.65%,4.65%,4.65%
+2021-06-21 06:00,EUR,German Buba Monthly Report,Low,,,
+2021-06-21 08:30,EUR,ECB President Lagarde Speaks,Low,,,
+2021-06-21 10:15,EUR,ECB President Lagarde Speaks,High,,,
+2021-06-21 15:00,USD,FOMC Member Williams Speaks,Low,,,
+2021-06-21 17:00,NZD,Westpac Consumer Sentiment,Low,,105.2,107.1
+2021-06-21 23:00,NZD,Credit Card Spending y/y,Low,,87.5%,27.2%
+2021-06-22 00:00,USD,Existing Home Sales,Low,5.71M,5.85M,5.80M
+2021-06-22 00:59,JPY,BOJ Core CPI y/y,Low,0.0%,-0.1%,0.0%
+2021-06-22 02:00,GBP,Public Sector Net Borrowing,Low,24.5B,28.3B,23.6B
+2021-06-22 06:00,GBP,CBI Industrial Order Expectations,Low,16,17,19
+2021-06-22 09:59,USD,Richmond Manufacturing Index,Low,18,18,22
+2021-06-22 10:00,EUR,Consumer Confidence,Low,-3,-5,-3
+2021-06-22 10:30,AUD,CB Leading Index m/m,Low,,0.9%,0.8%
+2021-06-22 11:00,USD,FOMC Member Daly Speaks,Low,,,
+2021-06-22 14:00,USD,Fed Chair Powell Testifies,High,,,
+2021-06-22 19:00,AUD,Flash Manufacturing PMI,Low,,60.4,58.4
+2021-06-22 19:50,JPY,Monetary Policy Meeting Minutes,Low,,,
+2021-06-22 20:30,JPY,Flash Manufacturing PMI,Low,53.2,53.0,51.5
+2021-06-22 21:30,AUD,Goods Trade Balance,Low,,9.67B,13.32B
+2021-06-22 23:15,AUD,RBA Assist Gov Ellis Speaks,Medium,,,
+2021-06-23 00:00,AUD,Flash Services PMI,Low,,58.0,56.0
+2021-06-23 00:00,CAD,Retail Sales m/m,Medium,-5.1%,4.5%,-5.7%
+2021-06-23 00:00,EUR,Flash Services PMI,Medium,58.1,55.2,58.0
+2021-06-23 00:00,EUR,French Flash Services PMI,Medium,59.6,56.6,57.4
+2021-06-23 00:00,EUR,German Flash Services PMI,High,55.8,52.8,58.1
+2021-06-23 00:00,GBP,Flash Services PMI,Medium,62.9,62.9,61.7
+2021-06-23 00:00,USD,Current Account,Low,-205B,-175B,-196B
+2021-06-23 00:00,USD,FOMC Member Bowman Speaks,Low,,,
+2021-06-23 00:00,USD,Flash Services PMI,High,70.0,70.4,64.8
+2021-06-23 03:15,EUR,French Flash Manufacturing PMI,Medium,59.0,59.4,58.6
+2021-06-23 03:30,EUR,German Flash Manufacturing PMI,High,63.0,64.4,64.9
+2021-06-23 04:00,EUR,Flash Manufacturing PMI,Medium,62.4,63.1,63.1
+2021-06-23 04:30,GBP,Flash Manufacturing PMI,Medium,64.1,65.6,64.2
+2021-06-23 08:30,CAD,Core Retail Sales m/m,Medium,-4.4%,5.4%,-7.2%
+2021-06-23 09:00,CHF,SNB Quarterly Bulletin,Low,,,
+2021-06-23 09:45,USD,Flash Manufacturing PMI,High,61.5,62.1,62.6
+2021-06-23 10:00,USD,New Home Sales,Low,864K,817K,769K
+2021-06-23 10:30,USD,Crude Oil Inventories,Medium,-3.6M,-7.4M,-7.6M
+2021-06-23 11:00,USD,FOMC Member Bostic Speaks,Low,,,
+2021-06-23 12:00,EUR,ECB President Lagarde Speaks,Low,,,
+2021-06-23 19:50,JPY,SPPI y/y,Low,1.4%,1.1%,1.5%
+2021-06-24 00:00,EUR,ECB Economic Bulletin,Low,,,
+2021-06-24 00:00,GBP,MPC Asset Purchase Facility Votes,High,0-1-8,0-1-8,0-1-8
+2021-06-24 00:00,GBP,MPC Official Bank Rate Votes,Medium,0-0-9,0-0-9,0-0-9
+2021-06-24 00:00,GBP,Monetary Policy Summary,High,,,
+2021-06-24 00:00,GBP,Official Bank Rate,Medium,0.10%,0.10%,0.10%
+2021-06-24 00:00,USD,Core Durable Goods Orders m/m,Low,0.8%,1.7%,0.3%
+2021-06-24 00:00,USD,Durable Goods Orders m/m,Low,2.9%,-0.8%,2.3%
+2021-06-24 00:00,USD,Goods Trade Balance,Low,-87.4B,-85.7B,-88.1B
+2021-06-24 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.8%,1.0%,1.1%
+2021-06-24 00:00,USD,Unemployment Claims,Medium,382K,418K,411K
+2021-06-24 04:00,EUR,German ifo Business Climate,Medium,100.8,99.2,101.8
+2021-06-24 07:00,GBP,Asset Purchase Facility,High,875B,875B,875B
+2021-06-24 08:30,USD,Final GDP q/q,Medium,6.4%,6.4%,6.4%
+2021-06-24 08:36,USD,Final GDP Price Index q/q,Low,4.3%,4.3%,4.3%
+2021-06-24 08:56,EUR,Belgian NBB Business Climate,Low,8.5,6.5,9.8
+2021-06-24 09:30,USD,FOMC Member Bostic Speaks,Low,,,
+2021-06-24 10:30,USD,Natural Gas Storage,Low,64B,16B,55B
+2021-06-24 11:00,USD,FOMC Member Williams Speaks,Low,,,
+2021-06-24 16:30,USD,Bank Stress Test Results,Low,,,
+2021-06-24 18:45,NZD,Trade Balance,Low,205M,414M,469M
+2021-06-24 19:01,GBP,GfK Consumer Confidence,Low,-7,-9,-9
+2021-06-24 19:30,JPY,Tokyo Core CPI y/y,Low,-0.1%,-0.2%,0.0%
+2021-06-25 00:00,EUR,Private Loans y/y,Low,3.7%,3.8%,3.9%
+2021-06-25 00:00,USD,Personal Income m/m,Low,-2.5%,-13.1%,-2.0%
+2021-06-25 00:00,USD,Personal Spending m/m,Low,0.4%,0.9%,0.0%
+2021-06-25 00:00,USD,Revised UoM Inflation Expectations,Low,,4.0%,4.2%
+2021-06-25 02:00,EUR,German GfK Consumer Climate,Low,-3.9,-6.9,-0.3
+2021-06-25 04:00,EUR,M3 Money Supply y/y,Low,8.6%,9.2%,8.4%
+2021-06-25 06:00,GBP,CBI Realized Sales,Low,12,18,25
+2021-06-25 07:00,GBP,BOE Quarterly Bulletin,Low,,,
+2021-06-25 08:30,USD,Core PCE Price Index m/m,Medium,0.6%,0.7%,0.5%
+2021-06-25 09:15,CNY,CB Leading Index m/m,Low,,1.1%,0.9%
+2021-06-25 10:00,USD,Revised UoM Consumer Sentiment,Medium,86.5,86.4,85.5
+2021-06-27 19:50,JPY,BOJ Summary of Opinions,Low,,,
+2021-06-28 00:00,GBP,MPC Member Haldane Speaks,Low,,,
+2021-06-28 02:00,EUR,German Import Prices m/m,Low,1.3%,1.4%,1.7%
+2021-06-28 08:00,EUR,German Buba President Weidmann Speaks,Low,,,
+2021-06-28 09:00,USD,FOMC Member Williams Speaks,Low,,,
+2021-06-28 12:00,USD,FOMC Member Barkin Speaks,Low,,,
+2021-06-28 13:10,USD,FOMC Member Quarles Speaks,Low,,,
+2021-06-28 19:30,JPY,Unemployment Rate,Low,2.9%,2.8%,3.0%
+2021-06-28 19:50,JPY,Retail Sales y/y,Low,8.2%,11.9%,8.2%
+2021-06-28 22:00,NZD,RBNZ Statement of Intent,Medium,,,
+2021-06-29 00:00,GBP,Mortgage Approvals,Low,86K,87K,88K
+2021-06-29 00:00,GBP,Net Lending to Individuals m/m,Low,4.6B,2.8B,6.9B
+2021-06-29 00:00,USD,HPI m/m,Low,1.5%,1.6%,1.8%
+2021-06-29 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,14.8%,13.4%,14.9%
+2021-06-29 00:10,NZD,RBNZ Gov Orr Speaks,High,,,
+2021-06-29 02:00,GBP,Nationwide HPI m/m,Low,0.7%,1.7%,0.7%
+2021-06-29 03:00,EUR,Spanish Flash CPI y/y,Low,2.7%,2.7%,2.6%
+2021-06-29 04:30,GBP,M4 Money Supply m/m,Low,0.2%,0.1%,0.4%
+2021-06-29 09:00,USD,FOMC Member Barkin Speaks,Low,,,
+2021-06-29 09:40,EUR,ECB President Lagarde Speaks,Medium,,,
+2021-06-29 10:00,USD,CB Consumer Confidence,Medium,118.9,120.0,127.3
+2021-06-29 12:00,EUR,German Buba President Weidmann Speaks,Low,,,
+2021-06-29 15:29,EUR,German Prelim CPI m/m,Low,0.4%,0.5%,0.4%
+2021-06-29 19:01,GBP,BRC Shop Price Index y/y,Low,,-0.6%,-0.7%
+2021-06-29 19:50,JPY,Prelim Industrial Production m/m,Low,-2.1%,2.9%,-5.9%
+2021-06-29 21:00,CNY,Manufacturing PMI,Medium,50.9,51.0,50.9
+2021-06-29 21:30,AUD,Private Sector Credit m/m,Low,0.3%,0.3%,0.4%
+2021-06-30 00:00,CAD,IPPI m/m,Low,3.0%,1.8%,2.7%
+2021-06-30 00:00,CAD,RMPI m/m,Low,2.1%,1.0%,3.2%
+2021-06-30 00:00,CNY,Non-Manufacturing PMI,Low,55.3,55.2,53.5
+2021-06-30 00:00,EUR,Core CPI Flash Estimate y/y,Low,0.9%,1.0%,0.9%
+2021-06-30 00:00,EUR,French Prelim CPI m/m,Low,0.2%,0.3%,0.2%
+2021-06-30 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.0%,0.1%
+2021-06-30 00:00,GBP,Final GDP q/q,Low,-1.5%,-1.5%,-1.6%
+2021-06-30 00:00,GBP,Revised Business Investment q/q,Low,-11.9%,-11.9%,-10.7%
+2021-06-30 00:00,NZD,ANZ Business Confidence,Low,,-0.4,-0.6
+2021-06-30 00:59,JPY,Consumer Confidence,Low,34.8,34.1,37.4
+2021-06-30 01:00,JPY,Housing Starts y/y,Low,8.4%,7.1%,9.9%
+2021-06-30 02:00,GBP,Current Account,Low,-13.9B,-26.3B,-12.8B
+2021-06-30 02:45,EUR,French Consumer Spending m/m,Low,7.4%,-8.7%,10.4%
+2021-06-30 03:00,CHF,KOF Economic Barometer,Low,144.9,143.7,133.4
+2021-06-30 03:55,EUR,German Unemployment Change,Low,-20K,-19K,-38K
+2021-06-30 04:00,CHF,UBS Economic Expectations,Low,,72.2,51.3
+2021-06-30 05:00,EUR,CPI Flash Estimate y/y,Medium,1.9%,2.0%,1.9%
+2021-06-30 05:15,EUR,Italian 10-y Bond Auction,Low,,0.94|1.3,0.74|1.6
+2021-06-30 07:00,GBP,MPC Member Haldane Speaks,Low,,,
+2021-06-30 08:00,USD,FOMC Member Bostic Speaks,Low,,,
+2021-06-30 08:15,USD,ADP Non-Farm Employment Change,Medium,555K,886K,692K
+2021-06-30 08:30,CAD,GDP m/m,Medium,-0.8%,1.3%,-0.3%
+2021-06-30 09:45,USD,Chicago PMI,Medium,70.2,75.2,66.1
+2021-06-30 10:00,USD,Pending Home Sales m/m,Medium,-1.1%,-4.4%,8.0%
+2021-06-30 10:30,USD,Crude Oil Inventories,Medium,-4.2M,-7.6M,-6.7M
+2021-06-30 13:00,USD,FOMC Member Barkin Speaks,Low,,,
+2021-06-30 18:30,AUD,AIG Manufacturing Index,Low,,61.8,63.2
+2021-06-30 18:45,NZD,Building Consents m/m,Low,,5.1%,-2.8%
+2021-06-30 19:50,JPY,Tankan Manufacturing Index,Low,16,5,14
+2021-06-30 20:30,JPY,Final Manufacturing PMI,Low,51.5,51.5,52.4
+2021-06-30 21:30,AUD,Goods Trade Balance,Low,10.50B,8.16B,9.68B
+2021-06-30 21:45,CNY,Caixin Manufacturing PMI,Low,51.8,52.0,51.3
+2021-06-30 23:35,JPY,10-y Bond Auction,Low,,0.08|2.9,0.06|3.5

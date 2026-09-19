@@ -1,0 +1,379 @@
+datetime,currency,title,impact,forecast,previous,actual
+2019-07-01 00:00,CHF,Retail Sales y/y,Low,0.6%,-0.8%,-1.7%
+2019-07-01 00:00,EUR,German Unemployment Change,Low,1K,60K,-1K
+2019-07-01 00:00,EUR,Italian Monthly Unemployment Rate,Low,10.3%,10.1%,9.9%
+2019-07-01 00:00,EUR,M3 Money Supply y/y,Low,4.6%,4.7%,4.8%
+2019-07-01 00:00,EUR,Private Loans y/y,Low,3.5%,3.3%,3.3%
+2019-07-01 00:00,GBP,M4 Money Supply m/m,Low,0.6%,0.5%,-0.1%
+2019-07-01 00:00,GBP,Mortgage Approvals,Low,66K,66K,65K
+2019-07-01 00:00,GBP,Net Lending to Individuals m/m,Low,5.1B,5.1B,3.9B
+2019-07-01 00:00,JPY,Tankan Non-Manufacturing Index,Low,20,21,23
+2019-07-01 00:00,USD,Construction Spending m/m,Low,0.1%,0.4%,-0.8%
+2019-07-01 00:00,USD,ISM Manufacturing Prices,Low,52.9,53.2,47.9
+2019-07-01 01:00,JPY,Consumer Confidence,Low,39.2,39.4,38.7
+2019-07-01 02:30,AUD,Commodity Prices y/y,Low,,11.5%,13.0%
+2019-07-01 03:15,EUR,Spanish Manufacturing PMI,Low,49.6,50.1,47.9
+2019-07-01 03:30,CHF,Manufacturing PMI,Low,48.9,48.6,47.7
+2019-07-01 03:45,EUR,Italian Manufacturing PMI,Low,48.7,49.7,48.4
+2019-07-01 03:50,EUR,French Final Manufacturing PMI,Low,52.0,52.0,51.9
+2019-07-01 03:55,EUR,German Final Manufacturing PMI,Low,45.4,45.4,45.0
+2019-07-01 04:00,EUR,Final Manufacturing PMI,Low,47.8,47.8,47.6
+2019-07-01 04:30,GBP,Final Manufacturing PMI,Medium,49.5,49.4,48.0
+2019-07-01 05:00,EUR,Unemployment Rate,Low,7.6%,7.6%,7.5%
+2019-07-01 09:45,USD,Final Manufacturing PMI,Low,50.1,50.1,50.6
+2019-07-01 10:00,USD,ISM Manufacturing PMI,High,51.3,52.1,51.7
+2019-07-01 15:29,All,OPEC Meetings,High,,,
+2019-07-01 18:00,NZD,NZIER Business Confidence,Medium,,-29,-34
+2019-07-01 18:45,NZD,Building Consents m/m,Low,,-7.9%,13.2%
+2019-07-01 19:50,JPY,Monetary Base y/y,Low,3.4%,3.6%,4.0%
+2019-07-01 21:30,AUD,HIA New Home Sales m/m,Low,,-11.8%,28.8%
+2019-07-01 23:35,JPY,10-y Bond Auction,Low,,-0.11|4.0,-0.14|3.9
+2019-07-02 00:00,AUD,RBA Rate Statement,High,,,
+2019-07-02 00:00,GBP,Nationwide HPI m/m,Low,0.2%,-0.2%,0.1%
+2019-07-02 00:30,AUD,Cash Rate,High,1.00%,1.25%,1.00%
+2019-07-02 02:00,EUR,German Retail Sales m/m,Low,0.5%,-1.0%,-0.6%
+2019-07-02 02:45,EUR,French Gov Budget Balance,Low,,-67.2B,-83.9B
+2019-07-02 03:00,EUR,Spanish Unemployment Change,Low,-90.0K,-84.1K,-63.8K
+2019-07-02 04:30,GBP,Construction PMI,Low,49.4,48.6,43.1
+2019-07-02 05:00,EUR,PPI m/m,Low,0.1%,-0.3%,-0.1%
+2019-07-02 05:30,AUD,RBA Gov Lowe Speaks,High,,,
+2019-07-02 06:35,USD,FOMC Member Williams Speaks,Medium,,,
+2019-07-02 09:30,CAD,Manufacturing PMI,Low,,49.1,49.2
+2019-07-02 10:00,USD,RCM/TIPP Economic Optimism,Low,54.1,53.2,56.6
+2019-07-02 10:21,NZD,GDT Price Index,Low,,-3.8%,-0.4%
+2019-07-02 15:29,All,OPEC-JMMC Meetings,Medium,,,
+2019-07-02 15:29,USD,Wards Total Vehicle Sales,Low,17.0M,17.3M,17.3M
+2019-07-02 18:30,AUD,AIG Services Index,Low,,52.5,52.2
+2019-07-02 19:01,GBP,BRC Shop Price Index y/y,Low,,0.8%,-0.1%
+2019-07-02 21:00,NZD,ANZ Commodity Prices m/m,Low,,0.1%,-3.9%
+2019-07-02 21:30,AUD,Building Approvals m/m,High,0.0%,-3.4%,0.7%
+2019-07-02 21:45,CNY,Caixin Services PMI,Low,52.6,52.7,52.0
+2019-07-03 00:00,AUD,Goods Trade Balance,Medium,5.25B,4.82B,5.75B
+2019-07-03 00:00,USD,ADP Non-Farm Employment Change,High,140K,41K,102K
+2019-07-03 00:00,USD,Factory Orders m/m,Low,-0.4%,-1.2%,-0.7%
+2019-07-03 00:00,USD,Trade Balance,Low,-53.2B,-51.2B,-55.5B
+2019-07-03 00:00,USD,Unemployment Claims,Low,220K,229K,221K
+2019-07-03 03:15,EUR,Spanish Services PMI,Low,52.7,52.8,53.6
+2019-07-03 03:45,EUR,Italian Services PMI,Low,50.0,50.0,50.5
+2019-07-03 03:50,EUR,French Final Services PMI,Low,53.1,53.1,52.9
+2019-07-03 03:55,EUR,German Final Services PMI,Low,55.6,55.6,55.8
+2019-07-03 04:00,EUR,Final Services PMI,Low,53.4,53.4,53.6
+2019-07-03 04:30,GBP,Final Services PMI,Medium,51.0,51.0,50.2
+2019-07-03 07:30,USD,Challenger Job Cuts y/y,Low,,85.9%,12.8%
+2019-07-03 08:15,GBP,MPC Member Broadbent Speaks,Medium,,,
+2019-07-03 08:30,CAD,Trade Balance,High,-1.7B,-1.1B,0.8B
+2019-07-03 09:45,USD,Final Services PMI,Low,50.7,50.7,51.5
+2019-07-03 10:00,USD,ISM Services PMI,High,56.1,56.9,55.1
+2019-07-03 10:30,USD,Crude Oil Inventories,Low,-2.8M,-12.8M,-1.1M
+2019-07-03 12:00,USD,Natural Gas Storage,Low,85B,98B,89B
+2019-07-03 21:30,AUD,Retail Sales m/m,High,0.2%,-0.1%,0.1%
+2019-07-03 23:35,JPY,30-y Bond Auction,Low,,0.32|3.5,0.36|4.0
+2019-07-04 02:30,CHF,CPI m/m,Low,-0.1%,0.3%,0.0%
+2019-07-04 04:30,GBP,Housing Equity Withdrawal q/q,Low,-6.9B,-7.0B,-7.3B
+2019-07-04 04:54,EUR,Spanish 10-y Bond Auction,Low,,0.94|1.4,0.26|1.2
+2019-07-04 05:00,EUR,Retail Sales m/m,Low,0.4%,-0.1%,-0.3%
+2019-07-04 05:03,EUR,French 10-y Bond Auction,Low,,0.14|2.6,-0.13|2.0
+2019-07-04 18:30,AUD,AIG Construction Index,Low,,40.4,43.0
+2019-07-04 19:30,JPY,Household Spending y/y,Low,1.4%,1.3%,4.0%
+2019-07-05 00:00,CAD,Unemployment Rate,High,5.5%,5.4%,5.5%
+2019-07-05 00:00,USD,Average Hourly Earnings m/m,High,0.3%,0.3%,0.2%
+2019-07-05 00:00,USD,Non-Farm Employment Change,High,162K,72K,224K
+2019-07-05 00:00,USD,Unemployment Rate,High,3.6%,3.6%,3.7%
+2019-07-05 01:00,JPY,Leading Indicators,Low,95.3%,95.9%,95.2%
+2019-07-05 02:00,EUR,German Factory Orders m/m,Low,-0.1%,0.4%,-2.2%
+2019-07-05 02:45,EUR,French Trade Balance,Low,-4.8B,-4.9B,-3.3B
+2019-07-05 03:00,CHF,Foreign Currency Reserves,Low,,759B,759B
+2019-07-05 03:30,GBP,Halifax HPI m/m,Low,-0.4%,0.4%,-0.3%
+2019-07-05 08:30,CAD,Employment Change,High,10.0K,27.7K,-2.2K
+2019-07-05 10:00,CAD,Ivey PMI,Low,56.2,55.9,52.4
+2019-07-05 11:00,USD,Fed Monetary Policy Report,Low,,,
+2019-07-07 15:29,EUR,Greek Parliamentary Election,Medium,,,
+2019-07-07 19:50,JPY,Bank Lending y/y,Low,2.6%,2.6%,2.3%
+2019-07-07 20:30,JPY,BOJ Gov Kuroda Speaks,Medium,,,
+2019-07-07 21:30,AUD,ANZ Job Advertisements m/m,Low,,-8.2%,4.6%
+2019-07-08 00:00,EUR,German Trade Balance,Low,16.8B,16.9B,18.7B
+2019-07-08 00:00,JPY,Core Machinery Orders m/m,Low,-3.6%,5.2%,-7.8%
+2019-07-08 00:00,JPY,Current Account,Low,1.24T,1.60T,1.31T
+2019-07-08 01:00,JPY,Economy Watchers Sentiment,Low,43.9,44.1,44.0
+2019-07-08 02:00,EUR,German Industrial Production m/m,Low,0.4%,-2.0%,0.3%
+2019-07-08 04:30,EUR,Sentix Investor Confidence,Low,0.3,-3.3,-5.8
+2019-07-08 15:00,USD,Consumer Credit m/m,Low,15.2B,17.5B,17.1B
+2019-07-08 19:01,GBP,BRC Retail Sales Monitor y/y,Low,-1.5%,-3.0%,-1.6%
+2019-07-08 19:30,JPY,Average Cash Earnings y/y,Low,-0.6%,-0.3%,-0.2%
+2019-07-08 19:50,JPY,M2 Money Stock y/y,Low,2.6%,2.6%,2.3%
+2019-07-08 21:30,AUD,NAB Business Confidence,Medium,,7,2
+2019-07-09 01:45,CHF,Unemployment Rate,Low,2.4%,2.3%,2.3%
+2019-07-09 01:58,JPY,Prelim Machine Tool Orders y/y,Low,,-27.3%,-38.0%
+2019-07-09 04:00,EUR,Italian Retail Sales m/m,Low,0.2%,0.0%,-0.7%
+2019-07-09 06:00,USD,NFIB Small Business Index,Low,103.2,105.0,103.3
+2019-07-09 08:13,CAD,Housing Starts,Low,209K,197K,246K
+2019-07-09 08:30,CAD,Building Permits m/m,Low,-10.0%,16.0%,-13.0%
+2019-07-09 08:45,USD,Fed Chair Powell Speaks,High,,,
+2019-07-09 10:00,USD,JOLTS Job Openings,Low,7.51M,7.37M,7.32M
+2019-07-09 10:10,USD,FOMC Member Bullard Speaks,Medium,,,
+2019-07-09 14:00,USD,FOMC Member Quarles Speaks,Medium,,,
+2019-07-09 18:45,NZD,FPI m/m,Low,,0.7%,-0.7%
+2019-07-09 19:50,JPY,PPI y/y,Low,0.4%,0.6%,-0.1%
+2019-07-09 20:25,AUD,Westpac Consumer Sentiment,Medium,,-0.6%,-4.1%
+2019-07-09 21:30,CNY,CPI y/y,Medium,2.7%,2.7%,2.7%
+2019-07-10 00:00,CAD,BOC Rate Statement,High,,,
+2019-07-10 00:00,CAD,Overnight Rate,High,1.75%,1.75%,1.75%
+2019-07-10 00:00,CNY,PPI y/y,Low,0.3%,0.6%,0.0%
+2019-07-10 00:00,GBP,Construction Output m/m,Low,0.4%,-0.5%,0.6%
+2019-07-10 00:00,GBP,Goods Trade Balance,Low,-12.5B,-12.8B,-11.5B
+2019-07-10 00:00,GBP,Index of Services 3m/3m,Low,0.1%,0.3%,0.3%
+2019-07-10 00:00,GBP,Industrial Production m/m,Low,1.6%,-2.9%,1.4%
+2019-07-10 00:00,GBP,Manufacturing Production m/m,High,2.2%,-4.2%,1.4%
+2019-07-10 00:00,USD,Fed Chair Powell Testifies,High,,,
+2019-07-10 00:00,USD,Final Wholesale Inventories m/m,Low,0.4%,0.4%,0.4%
+2019-07-10 02:45,EUR,French Industrial Production m/m,Low,0.3%,0.5%,2.1%
+2019-07-10 04:00,EUR,Italian Industrial Production m/m,Low,0.1%,-0.8%,0.9%
+2019-07-10 04:30,GBP,GDP m/m,High,0.3%,-0.4%,0.3%
+2019-07-10 05:15,EUR,EU Economic Forecasts,Medium,,,
+2019-07-10 05:37,EUR,German 10-y Bond Auction,Low,,-0.24|1.7,-0.26|1.2
+2019-07-10 08:14,GBP,NIESR GDP Estimate,Low,,0.3%,-0.1%
+2019-07-10 10:00,CAD,BOC Monetary Policy Report,High,,,
+2019-07-10 10:30,USD,Crude Oil Inventories,Low,-1.9M,-1.1M,-9.5M
+2019-07-10 11:15,CAD,BOC Press Conference,High,,,
+2019-07-10 13:01,USD,10-y Bond Auction,Low,,2.07|3.4,2.06|2.4
+2019-07-10 13:10,GBP,MPC Member Tenreyro Speaks,Medium,,,
+2019-07-10 13:30,USD,FOMC Member Bullard Speaks,Medium,,,
+2019-07-10 14:00,USD,FOMC Meeting Minutes,High,,,
+2019-07-10 19:01,GBP,RICS House Price Balance,Low,-12%,-9%,-1%
+2019-07-10 21:00,AUD,MI Inflation Expectations,Low,,3.3%,3.2%
+2019-07-10 21:30,AUD,Home Loans m/m,Low,-0.6%,-0.9%,0.0%
+2019-07-11 00:00,GBP,FPC Meeting Minutes,Low,,,
+2019-07-11 00:00,GBP,FPC Statement,Low,,,
+2019-07-11 00:00,USD,CPI m/m,High,0.0%,0.1%,0.1%
+2019-07-11 00:00,USD,CPI y/y,High,1.6%,1.8%,1.6%
+2019-07-11 00:00,USD,Core CPI m/m,High,0.2%,0.1%,0.3%
+2019-07-11 00:00,USD,Unemployment Claims,Low,220K,222K,209K
+2019-07-11 00:30,JPY,Tertiary Industry Activity m/m,Low,-0.1%,0.8%,-0.2%
+2019-07-11 02:00,EUR,German Final CPI m/m,Low,0.3%,0.3%,0.3%
+2019-07-11 02:45,EUR,French Final CPI m/m,Low,0.2%,0.2%,0.2%
+2019-07-11 03:00,CNY,Foreign Direct Investment ytd/y,Low,,6.8%,7.2%
+2019-07-11 05:30,GBP,BOE Financial Stability Report,Medium,,,
+2019-07-11 06:00,GBP,BOE Gov Carney Speaks,High,,,
+2019-07-11 07:30,EUR,ECB Monetary Policy Meeting Accounts,Medium,,,
+2019-07-11 08:30,CAD,NHPI m/m,Low,0.2%,0.0%,-0.1%
+2019-07-11 09:10,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2019-07-11 10:00,USD,Fed Chair Powell Testifies,High,,,
+2019-07-11 10:30,USD,Natural Gas Storage,Low,71B,89B,81B
+2019-07-11 13:01,USD,30-y Bond Auction,Low,,2.61|2.3,2.64|2.1
+2019-07-11 13:30,USD,FOMC Member Quarles Speaks,Medium,,,
+2019-07-11 14:00,USD,Federal Budget Balance,Low,-7.9B,-207.8B,-8.5B
+2019-07-11 15:29,EUR,Eurogroup Meetings,Low,,,
+2019-07-11 18:30,NZD,BusinessNZ Manufacturing Index,Medium,,50.4,51.3
+2019-07-12 00:00,CNY,M2 Money Supply y/y,Low,8.6%,8.5%,8.5%
+2019-07-12 00:00,GBP,MPC Member Vlieghe Speaks,Medium,,,
+2019-07-12 00:00,USD,Core PPI m/m,Medium,0.2%,0.2%,0.3%
+2019-07-12 00:30,JPY,Revised Industrial Production m/m,Low,2.3%,2.3%,2.0%
+2019-07-12 02:00,EUR,German WPI m/m,Low,0.2%,0.3%,-0.5%
+2019-07-12 03:47,CNY,Trade Balance,Medium,276B,279B,345B
+2019-07-12 03:49,CNY,USD-Denominated Trade Balance,Low,45.2B,41.7B,51.0B
+2019-07-12 04:00,CNY,New Loans,Medium,1650B,1180B,1660B
+2019-07-12 05:00,EUR,Industrial Production m/m,Low,0.2%,-0.4%,0.9%
+2019-07-12 08:30,USD,PPI m/m,High,0.1%,0.1%,0.1%
+2019-07-12 09:30,GBP,CB Leading Index m/m,Low,,-0.3%,-0.4%
+2019-07-12 15:29,EUR,ECOFIN Meetings,Low,,,
+2019-07-14 18:30,NZD,BusinessNZ Services Index,Low,,53.5,52.7
+2019-07-14 18:45,NZD,Visitor Arrivals m/m,Low,,-3.2%,-0.2%
+2019-07-14 19:01,GBP,Rightmove HPI m/m,Low,,0.3%,-0.2%
+2019-07-14 21:30,CNY,New Home Prices m/m,Low,,0.71%,0.66%
+2019-07-14 21:58,CNY,GDP q/y,High,6.2%,6.4%,6.2%
+2019-07-14 22:00,CNY,Fixed Asset Investment ytd/y,Medium,5.6%,5.6%,5.8%
+2019-07-15 00:00,CNY,Industrial Production y/y,Medium,5.2%,5.0%,6.3%
+2019-07-15 00:00,CNY,NBS Press Conference,Low,,,
+2019-07-15 00:00,CNY,Retail Sales y/y,Low,8.5%,8.6%,9.8%
+2019-07-15 00:00,CNY,Unemployment Rate,Low,,5.0%,5.1%
+2019-07-15 02:30,CHF,PPI m/m,Low,0.1%,0.0%,-0.5%
+2019-07-15 08:30,USD,Empire State Manufacturing Index,Medium,1.6,-8.6,4.3
+2019-07-15 08:50,USD,FOMC Member Williams Speaks,Medium,,,
+2019-07-15 18:45,NZD,CPI q/q,High,0.6%,0.1%,0.6%
+2019-07-15 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2019-07-16 00:00,EUR,Trade Balance,Low,16.4B,15.7B,20.2B
+2019-07-16 00:00,EUR,ZEW Economic Sentiment,Low,-20.9,-20.2,-20.3
+2019-07-16 00:00,GBP,Claimant Count Change,Low,18.9K,24.5K,38.0K
+2019-07-16 00:00,GBP,Unemployment Rate,Low,3.8%,3.8%,3.8%
+2019-07-16 00:00,USD,Core Retail Sales m/m,High,0.1%,0.4%,0.4%
+2019-07-16 00:00,USD,Import Prices m/m,Low,-0.7%,0.0%,-0.9%
+2019-07-16 00:00,USD,Industrial Production m/m,Low,0.1%,0.4%,0.0%
+2019-07-16 00:00,USD,NAHB Housing Market Index,Low,64,64,65
+2019-07-16 00:00,USD,Retail Sales m/m,High,0.1%,0.4%,0.4%
+2019-07-16 04:00,EUR,Italian Trade Balance,Low,2.91B,2.85B,5.35B
+2019-07-16 04:30,GBP,Average Earnings Index 3m/y,High,3.1%,3.2%,3.4%
+2019-07-16 05:00,EUR,German ZEW Economic Sentiment,Medium,-22.1,-21.1,-24.5
+2019-07-16 08:00,GBP,BOE Gov Carney Speaks,High,,,
+2019-07-16 08:15,USD,FOMC Member Bowman Speaks,Medium,,,
+2019-07-16 08:30,CAD,Foreign Securities Purchases,Low,5.02B,-12.79B,10.20B
+2019-07-16 09:15,USD,Capacity Utilization Rate,Low,78.2%,78.1%,77.9%
+2019-07-16 10:00,USD,Business Inventories m/m,Low,0.4%,0.5%,0.3%
+2019-07-16 10:25,NZD,GDT Price Index,Low,,-0.4%,2.7%
+2019-07-16 13:00,USD,Fed Chair Powell Speaks,High,,,
+2019-07-16 14:40,USD,FOMC Member Evans Speaks,High,,,
+2019-07-16 16:00,USD,TIC Long-Term Purchases,Low,32.3B,46.9B,3.5B
+2019-07-16 20:30,AUD,MI Leading Index m/m,Low,,-0.1%,-0.1%
+2019-07-17 00:00,CAD,Common CPI y/y,Medium,1.8%,1.8%,1.8%
+2019-07-17 00:00,CAD,Manufacturing Sales m/m,Medium,1.6%,-0.4%,1.6%
+2019-07-17 00:00,CAD,Median CPI y/y,Medium,2.1%,2.2%,2.2%
+2019-07-17 00:00,CAD,Trimmed CPI y/y,Medium,2.2%,2.3%,2.1%
+2019-07-17 00:00,EUR,Final CPI y/y,Low,1.2%,1.2%,1.3%
+2019-07-17 00:00,GBP,Core CPI y/y,Low,1.8%,1.7%,1.8%
+2019-07-17 00:00,GBP,HPI y/y,Low,1.2%,1.5%,1.2%
+2019-07-17 00:00,GBP,PPI Input m/m,Medium,-1.0%,0.0%,-1.4%
+2019-07-17 00:00,GBP,PPI Output m/m,Low,0.1%,0.3%,-0.1%
+2019-07-17 00:00,GBP,RPI y/y,Low,2.9%,3.0%,2.9%
+2019-07-17 00:00,USD,Building Permits,Medium,1.30M,1.30M,1.22M
+2019-07-17 00:00,USD,Housing Starts,Low,1.26M,1.27M,1.25M
+2019-07-17 04:30,GBP,CPI y/y,High,2.0%,2.0%,2.0%
+2019-07-17 05:00,EUR,Final Core CPI y/y,Low,1.1%,1.1%,1.1%
+2019-07-17 05:34,EUR,German 30-y Bond Auction,Low,,0.26|1.6,0.30|1.1
+2019-07-17 08:30,CAD,CPI m/m,High,-0.3%,0.4%,-0.2%
+2019-07-17 08:32,CAD,Core CPI m/m,Low,,0.4%,0.0%
+2019-07-17 10:30,USD,Crude Oil Inventories,Low,-3.6M,-9.5M,-3.1M
+2019-07-17 14:00,USD,Beige Book,Low,,,
+2019-07-17 15:29,All,G7 Meetings,High,,,
+2019-07-17 19:50,JPY,Trade Balance,Low,-0.14T,-0.62T,-0.01T
+2019-07-17 21:30,AUD,Employment Change,High,9.1K,45.3K,0.5K
+2019-07-18 00:00,AUD,NAB Quarterly Business Confidence,Low,,-1,6
+2019-07-18 00:00,AUD,Unemployment Rate,High,5.2%,5.2%,5.2%
+2019-07-18 00:00,GBP,BOE Credit Conditions Survey,Medium,,,
+2019-07-18 00:00,USD,Philly Fed Manufacturing Index,Medium,5.0,0.3,21.8
+2019-07-18 00:00,USD,Unemployment Claims,Low,216K,208K,216K
+2019-07-18 02:00,CHF,Trade Balance,Low,3.21B,3.40B,4.10B
+2019-07-18 04:30,GBP,Retail Sales m/m,High,-0.3%,-0.6%,1.0%
+2019-07-18 04:48,EUR,Spanish 10-y Bond Auction,Low,,0.26|1.2,0.46|1.7
+2019-07-18 08:30,CAD,ADP Non-Farm Employment Change,Low,,-36.7K,30.4K
+2019-07-18 10:00,USD,CB Leading Index m/m,Low,0.1%,0.0%,-0.3%
+2019-07-18 10:30,USD,Natural Gas Storage,Low,72B,81B,62B
+2019-07-18 14:15,USD,FOMC Member Williams Speaks,Medium,,,
+2019-07-18 15:29,All,G7 Meetings,High,,,
+2019-07-18 19:30,JPY,National Core CPI y/y,Low,0.6%,0.8%,0.6%
+2019-07-18 23:00,NZD,Credit Card Spending y/y,Low,,6.7%,6.6%
+2019-07-19 00:00,CAD,Retail Sales m/m,Medium,0.3%,0.2%,-0.1%
+2019-07-19 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.7%,2.6%
+2019-07-19 00:30,JPY,All Industries Activity m/m,Low,0.3%,0.8%,0.3%
+2019-07-19 02:00,EUR,German PPI m/m,Low,-0.1%,-0.1%,-0.4%
+2019-07-19 04:00,EUR,Current Account,Low,21.2B,22.4B,29.7B
+2019-07-19 04:30,GBP,Public Sector Net Borrowing,Medium,3.4B,3.8B,6.5B
+2019-07-19 08:30,CAD,Core Retail Sales m/m,High,0.3%,0.0%,-0.3%
+2019-07-19 10:00,USD,Prelim UoM Consumer Sentiment,Medium,98.6,98.2,98.4
+2019-07-19 11:05,USD,FOMC Member Bullard Speaks,Medium,,,
+2019-07-19 16:30,USD,FOMC Member Rosengren Speaks,Medium,,,
+2019-07-22 06:00,EUR,German Buba Monthly Report,Low,,,
+2019-07-22 08:30,CAD,Wholesale Sales m/m,Low,0.8%,1.6%,-1.8%
+2019-07-22 11:00,JPY,BOJ Gov Kuroda Speaks,Medium,,,
+2019-07-22 18:30,AUD,RBA Assist Gov Kent Speaks,Medium,,,
+2019-07-23 01:00,JPY,BOJ Core CPI y/y,Low,0.6%,0.7%,0.6%
+2019-07-23 05:35,GBP,10-y Bond Auction,Low,,0.89|2.1,0.79|2.2
+2019-07-23 06:00,GBP,CBI Industrial Order Expectations,Low,-15,-15,-34
+2019-07-23 08:20,GBP,MPC Member Haldane Speaks,Medium,,,
+2019-07-23 09:00,USD,HPI m/m,Low,0.3%,0.4%,0.1%
+2019-07-23 09:58,EUR,Consumer Confidence,Low,-7,-7,-7
+2019-07-23 09:59,USD,Richmond Manufacturing Index,Low,5,3,-12
+2019-07-23 10:00,USD,Existing Home Sales,Low,5.35M,5.36M,5.27M
+2019-07-23 10:30,AUD,CB Leading Index m/m,Low,,0.2%,-0.1%
+2019-07-23 18:45,NZD,Trade Balance,Medium,100M,175M,365M
+2019-07-23 19:00,AUD,Flash Manufacturing PMI,Low,,52.0,51.4
+2019-07-23 20:30,JPY,Flash Manufacturing PMI,Low,49.7,49.3,49.6
+2019-07-24 00:00,AUD,Flash Services PMI,Low,,52.6,51.9
+2019-07-24 00:00,EUR,Flash Manufacturing PMI,Medium,47.6,47.6,46.4
+2019-07-24 00:00,EUR,Flash Services PMI,Medium,53.3,53.6,53.3
+2019-07-24 00:00,EUR,French Flash Manufacturing PMI,Medium,51.6,51.9,50.0
+2019-07-24 00:00,EUR,German Flash Services PMI,High,55.3,55.8,55.4
+2019-07-24 00:00,EUR,M3 Money Supply y/y,Low,4.6%,4.8%,4.5%
+2019-07-24 00:00,EUR,Private Loans y/y,Low,3.2%,3.3%,3.3%
+2019-07-24 00:00,USD,Flash Services PMI,Low,51.6,51.5,52.2
+2019-07-24 03:15,EUR,French Flash Services PMI,High,52.7,52.9,52.2
+2019-07-24 03:30,EUR,German Flash Manufacturing PMI,High,45.1,45.0,43.1
+2019-07-24 04:00,CHF,UBS Economic Expectations,Low,,-30.0,-24.0
+2019-07-24 04:30,GBP,High Street Lending,Low,42.9K,42.4K,42.7K
+2019-07-24 08:57,EUR,Belgian NBB Business Climate,Low,-5.0,-4.9,-5.0
+2019-07-24 09:00,CNY,CB Leading Index m/m,Low,,0.5%,0.9%
+2019-07-24 09:45,USD,Flash Manufacturing PMI,Medium,50.9,50.6,50.0
+2019-07-24 10:00,USD,New Home Sales,Low,659K,604K,646K
+2019-07-24 10:30,USD,Crude Oil Inventories,Low,-4.2M,-3.1M,-10.8M
+2019-07-24 19:50,JPY,SPPI y/y,Low,0.8%,0.9%,0.7%
+2019-07-24 23:05,AUD,RBA Gov Lowe Speaks,High,,,
+2019-07-25 00:00,EUR,Monetary Policy Statement,High,,,
+2019-07-25 00:00,USD,Core Durable Goods Orders m/m,High,0.2%,0.4%,1.2%
+2019-07-25 00:00,USD,Durable Goods Orders m/m,Medium,0.8%,-2.3%,2.0%
+2019-07-25 00:00,USD,Goods Trade Balance,Low,-72.4B,-75.0B,-74.2B
+2019-07-25 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.5%,0.4%,0.2%
+2019-07-25 00:00,USD,Unemployment Claims,Low,220K,216K,206K
+2019-07-25 03:00,EUR,Spanish Unemployment Rate,Medium,13.7%,14.7%,14.0%
+2019-07-25 04:00,EUR,German ifo Business Climate,Medium,97.1,97.5,95.7
+2019-07-25 06:00,GBP,CBI Realized Sales,Low,0,-42,-16
+2019-07-25 06:30,GBP,Prime Minister Johnson Speaks,High,,,
+2019-07-25 07:45,EUR,Main Refinancing Rate,High,0.00%,0.00%,0.00%
+2019-07-25 08:30,EUR,ECB Press Conference,High,,,
+2019-07-25 10:30,USD,Natural Gas Storage,Low,40B,62B,36B
+2019-07-25 19:30,JPY,Tokyo Core CPI y/y,Low,0.8%,0.9%,0.9%
+2019-07-26 00:00,USD,Advance GDP Price Index q/q,Medium,4.0%,0.9%,2.4%
+2019-07-26 02:00,EUR,German Import Prices m/m,Low,-0.8%,-0.1%,-1.4%
+2019-07-26 08:30,USD,Advance GDP q/q,High,1.8%,3.1%,2.1%
+2019-07-28 19:50,JPY,Retail Sales y/y,Low,0.2%,1.3%,0.5%
+2019-07-28 22:00,AUD,HIA New Home Sales m/m,Low,,28.8%,-12.4%
+2019-07-29 00:00,GBP,Mortgage Approvals,Low,66K,66K,66K
+2019-07-29 00:00,GBP,Net Lending to Individuals m/m,Low,4.4B,3.8B,4.8B
+2019-07-29 03:00,EUR,Spanish Flash CPI y/y,Low,0.6%,0.4%,0.5%
+2019-07-29 04:30,GBP,M4 Money Supply m/m,Low,0.2%,-0.1%,0.1%
+2019-07-29 18:45,NZD,Building Consents m/m,Low,,13.5%,-3.9%
+2019-07-29 19:30,JPY,Unemployment Rate,Low,2.4%,2.4%,2.3%
+2019-07-29 19:50,JPY,Prelim Industrial Production m/m,Low,-1.8%,2.0%,-3.6%
+2019-07-29 21:30,AUD,Building Approvals m/m,Medium,0.2%,0.3%,-1.2%
+2019-07-29 22:55,JPY,BOJ Outlook Report,High,,,
+2019-07-30 00:00,EUR,French Gov Budget Balance,Low,,-83.9B,-77.3B
+2019-07-30 00:00,JPY,BOJ Policy Rate,Low,-0.10%,-0.10%,-0.10%
+2019-07-30 00:00,JPY,Monetary Policy Statement,High,,,
+2019-07-30 00:00,USD,Pending Home Sales m/m,Low,0.5%,1.1%,2.8%
+2019-07-30 00:00,USD,Personal Income m/m,Low,0.4%,0.4%,0.4%
+2019-07-30 00:00,USD,Personal Spending m/m,Medium,0.3%,0.5%,0.3%
+2019-07-30 01:30,EUR,French Flash GDP q/q,Low,0.3%,0.3%,0.2%
+2019-07-30 02:00,EUR,German GfK Consumer Climate,Low,9.7,9.8,9.7
+2019-07-30 02:30,JPY,BOJ Press Conference,High,,,
+2019-07-30 02:45,EUR,French Consumer Spending m/m,Low,0.2%,0.3%,-0.1%
+2019-07-30 03:00,CHF,KOF Economic Barometer,Low,93.5,93.8,97.1
+2019-07-30 05:19,EUR,Italian 10-y Bond Auction,Low,,2.09|1.3,1.56|1.3
+2019-07-30 08:30,USD,Core PCE Price Index m/m,Medium,0.2%,0.2%,0.2%
+2019-07-30 09:00,USD,S&P/CS Composite-20 HPI y/y,Low,2.4%,2.5%,2.4%
+2019-07-30 10:00,USD,CB Consumer Confidence,High,125.1,124.3,135.7
+2019-07-30 15:29,EUR,German Prelim CPI m/m,Medium,0.3%,0.3%,0.5%
+2019-07-30 19:01,GBP,BRC Shop Price Index y/y,Low,,-0.1%,-0.1%
+2019-07-30 21:00,CNY,Manufacturing PMI,High,49.6,49.4,49.7
+2019-07-30 21:30,AUD,CPI q/q,High,0.5%,0.0%,0.6%
+2019-07-31 00:00,AUD,Private Sector Credit m/m,Low,0.3%,0.1%,0.1%
+2019-07-31 00:00,AUD,Trimmed Mean CPI q/q,High,0.4%,0.3%,0.4%
+2019-07-31 00:00,CAD,IPPI m/m,Low,-0.2%,-0.1%,-1.4%
+2019-07-31 00:00,CAD,RMPI m/m,Medium,-2.9%,-2.4%,-5.9%
+2019-07-31 00:00,CNY,Non-Manufacturing PMI,Medium,54.0,54.2,53.7
+2019-07-31 00:00,EUR,CPI Flash Estimate y/y,Medium,1.0%,1.2%,1.1%
+2019-07-31 00:00,EUR,Italian Prelim CPI m/m,Low,0.1%,0.1%,0.1%
+2019-07-31 00:00,EUR,Prelim Flash GDP q/q,Low,0.2%,0.4%,0.2%
+2019-07-31 00:00,EUR,Unemployment Rate,Low,7.5%,7.6%,7.5%
+2019-07-31 00:00,GBP,GfK Consumer Confidence,Low,-13,-13,-11
+2019-07-31 00:00,GBP,Nationwide HPI m/m,Low,0.2%,0.1%,0.3%
+2019-07-31 00:00,NZD,ANZ Business Confidence,High,,-38.1,-44.3
+2019-07-31 00:00,USD,Employment Cost Index q/q,Medium,0.7%,0.7%,0.6%
+2019-07-31 00:00,USD,FOMC Statement,High,,,
+2019-07-31 01:00,JPY,Consumer Confidence,Low,38.5,38.7,37.8
+2019-07-31 01:02,JPY,Housing Starts y/y,Low,-2.2%,-8.7%,0.3%
+2019-07-31 02:00,EUR,German Retail Sales m/m,Low,0.5%,-1.7%,3.5%
+2019-07-31 02:45,EUR,French Prelim CPI m/m,Low,-0.3%,0.2%,-0.2%
+2019-07-31 03:00,EUR,Spanish Flash GDP q/q,Medium,0.6%,0.7%,0.5%
+2019-07-31 03:55,EUR,German Unemployment Change,Low,2K,0K,1K
+2019-07-31 04:00,EUR,Italian Monthly Unemployment Rate,Low,10.0%,9.8%,9.7%
+2019-07-31 05:00,EUR,Core CPI Flash Estimate y/y,Medium,1.0%,1.1%,0.9%
+2019-07-31 05:33,EUR,German 10-y Bond Auction,Low,,-0.26|1.2,-0.41|2.0
+2019-07-31 06:00,EUR,Italian Prelim GDP q/q,Low,-0.1%,0.1%,0.0%
+2019-07-31 08:15,USD,ADP Non-Farm Employment Change,High,150K,112K,156K
+2019-07-31 08:30,CAD,GDP m/m,High,0.1%,0.3%,0.2%
+2019-07-31 09:45,USD,Chicago PMI,Medium,51.7,49.7,44.4
+2019-07-31 10:30,USD,Crude Oil Inventories,Low,-2.5M,-10.8M,-8.5M
+2019-07-31 14:00,USD,Federal Funds Rate,High,2.25%,2.50%,2.25%
+2019-07-31 14:30,USD,FOMC Press Conference,High,,,
+2019-07-31 18:30,AUD,AIG Manufacturing Index,Low,,49.4,51.3
+2019-07-31 20:30,JPY,Final Manufacturing PMI,Low,49.6,49.6,49.4
+2019-07-31 21:30,AUD,Import Prices q/q,Low,1.8%,-0.5%,0.9%
+2019-07-31 21:45,CNY,Caixin Manufacturing PMI,High,49.6,49.4,49.9
+2019-07-31 23:35,JPY,10-y Bond Auction,Low,,-0.14|3.9,-0.15|3.8

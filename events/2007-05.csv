@@ -1,0 +1,338 @@
+datetime,currency,title,impact,forecast,previous,actual
+2007-05-01 00:00,CAD,RMPI m/m,Low,1.5%,2.5%,1.3%
+2007-05-01 00:00,USD,ISM Manufacturing Prices,Low,65.9,65.5,73.0
+2007-05-01 00:00,USD,Pending Home Sales m/m,High,0.1%,1.1%,-4.9%
+2007-05-01 02:30,AUD,Commodity Prices y/y,Medium,,9.3%,8.4%
+2007-05-01 03:15,EUR,Spanish Manufacturing PMI,Low,,55.4,56.0
+2007-05-01 04:30,GBP,Final Manufacturing PMI,Medium,54.0,54.2,53.9
+2007-05-01 06:00,GBP,CBI Realized Sales,Medium,30,32,44
+2007-05-01 08:30,CAD,IPPI m/m,Low,0.9%,0.9%,1.3%
+2007-05-01 10:00,USD,ISM Manufacturing PMI,High,51.0,50.9,54.7
+2007-05-01 11:00,USD,Fed Chairman Bernanke Speaks,High,,,
+2007-05-01 16:29,USD,Total Vehicle Sales,Low,16.2M,16.3M,16.3M
+2007-05-01 19:30,AUD,Cash Rate,High,6.25%,6.25%,6.25%
+2007-05-01 19:50,JPY,Monetary Base y/y,Low,-14.0%,-19.1%,-12.2%
+2007-05-01 22:30,CNY,Caixin Manufacturing PMI,Medium,,52.3,53.3
+2007-05-02 00:00,GBP,Mortgage Approvals,Low,116K,118K,113K
+2007-05-02 00:00,GBP,Net Lending to Individuals m/m,Low,11.0B,11.1B,10.8B
+2007-05-02 03:30,CHF,Manufacturing PMI,Medium,63.5,62.0,61.9
+2007-05-02 03:45,EUR,Italian Manufacturing PMI,Low,54.2,53.8,53.9
+2007-05-02 03:55,EUR,German Unemployment Change,Medium,-36K,-58K,-44K
+2007-05-02 04:00,EUR,Final Manufacturing PMI,Medium,55.5,55.4,55.4
+2007-05-02 04:30,GBP,Construction PMI,Low,59.0,58.9,59.8
+2007-05-02 05:00,EUR,Unemployment Rate,Low,7.2%,7.3%,7.2%
+2007-05-02 07:30,USD,Challenger Job Cuts y/y,Low,,-3.9%,-24.6%
+2007-05-02 08:15,USD,ADP Non-Farm Employment Change,High,107K,98K,64K
+2007-05-02 10:00,USD,Factory Orders m/m,Medium,1.8%,1.4%,3.1%
+2007-05-02 10:30,USD,Crude Oil Inventories,Low,1.5M,2.1M,1.2M
+2007-05-02 11:00,USD,Treasury Sec Paulson Speaks,Low,,,
+2007-05-02 13:30,GBP,BOE Gov King Speaks,Medium,,,
+2007-05-02 19:30,AUD,AIG Services Index,Low,,50.6,52.8
+2007-05-02 21:00,CNY,Non-Manufacturing PMI,Low,,59.6,65.6
+2007-05-02 23:00,NZD,ANZ Commodity Prices m/m,Low,,2.0%,4.8%
+2007-05-03 00:00,USD,Prelim Unit Labor Costs q/q,Medium,3.8%,6.6%,0.6%
+2007-05-03 00:00,USD,Unemployment Claims,Low,324K,326K,305K
+2007-05-03 01:45,CHF,CPI m/m,High,0.8%,0.1%,1.1%
+2007-05-03 04:30,GBP,Final Services PMI,Medium,57.6,57.6,57.2
+2007-05-03 05:00,EUR,PPI m/m,Low,0.3%,0.3%,0.3%
+2007-05-03 08:30,USD,Prelim Nonfarm Productivity q/q,Medium,0.7%,1.6%,1.7%
+2007-05-03 10:00,USD,ISM Services PMI,High,53.2,52.4,56.0
+2007-05-03 10:30,USD,Natural Gas Storage,Low,81B,18B,87B
+2007-05-03 21:30,AUD,RBA Monetary Policy Statement,High,,,
+2007-05-04 00:00,AUD,Goods Trade Balance,Medium,-1.02B,-0.73B,-1.62B
+2007-05-04 00:00,EUR,Spanish Unemployment Change,Low,,-15.8K,-36.3K
+2007-05-04 00:00,USD,Average Hourly Earnings m/m,Medium,0.3%,0.3%,0.2%
+2007-05-04 00:00,USD,Unemployment Rate,High,4.5%,4.4%,4.5%
+2007-05-04 03:00,CHF,Foreign Currency Reserves,Low,,45B,45B
+2007-05-04 03:15,EUR,Spanish Services PMI,Low,,56.7,54.2
+2007-05-04 03:45,EUR,Italian Services PMI,Low,54.6,54.1,53.9
+2007-05-04 04:00,EUR,Final Services PMI,Low,57.6,57.4,57.0
+2007-05-04 05:00,EUR,Retail Sales m/m,Low,0.5%,0.4%,0.5%
+2007-05-04 08:30,USD,Non-Farm Employment Change,High,107K,177K,88K
+2007-05-04 09:45,USD,FOMC Member Geithner Speaks,Low,,,
+2007-05-04 10:00,CAD,Ivey PMI,High,57.5,67.3,60.9
+2007-05-04 12:15,AUD,RBA Deputy Gov Lowe Speaks,Medium,,,
+2007-05-06 16:29,EUR,French Presidential Election,Medium,,,
+2007-05-06 18:45,NZD,Labor Cost Index q/q,High,0.8%,0.9%,0.7%
+2007-05-06 19:30,AUD,AIG Construction Index,Low,,51.1,47.9
+2007-05-06 19:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2007-05-06 21:30,AUD,ANZ Job Advertisements m/m,Medium,,1.9%,3.5%
+2007-05-07 00:00,AUD,NAB Business Confidence,Low,,10,13
+2007-05-07 01:45,CHF,Unemployment Rate,Low,2.8%,2.9%,2.9%
+2007-05-07 04:30,EUR,Sentix Investor Confidence,Low,37.3,34.7,40.8
+2007-05-07 05:45,EUR,EU Economic Forecasts,Low,,,
+2007-05-07 06:00,EUR,German Factory Orders m/m,Medium,-0.4%,4.3%,2.4%
+2007-05-07 08:30,CAD,Building Permits m/m,Medium,2.9%,-23.3%,27.4%
+2007-05-07 15:00,USD,Consumer Credit m/m,Low,4.2B,5.6B,13.5B
+2007-05-07 16:29,EUR,Eurogroup Meetings,Low,,,
+2007-05-07 21:30,AUD,Building Approvals m/m,High,-4.8%,9.0%,-11.4%
+2007-05-07 23:45,JPY,10-y Bond Auction,Low,,1.66|3.1,1.65|4.0
+2007-05-08 00:00,AUD,Retail Sales m/m,High,0.5%,0.9%,1.1%
+2007-05-08 00:00,USD,JOLTS Job Openings,Low,,4.15M,4.17M
+2007-05-08 05:30,AUD,Annual Budget Release,High,,,
+2007-05-08 06:00,EUR,German Industrial Production m/m,Medium,0.0%,0.4%,-0.1%
+2007-05-08 07:30,USD,NFIB Small Business Index,Low,,97.3,96.8
+2007-05-08 08:15,CAD,Housing Starts,High,214K,214K,212K
+2007-05-08 10:00,USD,Final Wholesale Inventories m/m,Low,0.4%,0.4%,0.3%
+2007-05-08 13:00,USD,10-y Bond Auction,Medium,,4.52|2.6,4.61|2.3
+2007-05-08 16:29,EUR,ECOFIN Meetings,Low,,,
+2007-05-08 17:00,NZD,RBNZ Financial Stability Report,High,,,
+2007-05-08 18:45,NZD,FPI m/m,Low,,0.0%,0.2%
+2007-05-08 19:01,GBP,BRC Retail Sales Monitor y/y,Medium,,3.9%,2.4%
+2007-05-08 21:30,AUD,HPI q/q,Low,1.2%,1.1%,1.1%
+2007-05-09 00:00,GBP,Nationwide Consumer Confidence,Low,88,88,90
+2007-05-09 00:00,USD,FOMC Statement,High,,,
+2007-05-09 01:00,JPY,Leading Indicators,Low,40.0%,27.3%,40.0%
+2007-05-09 02:00,EUR,German Trade Balance,Low,15.0B,14.7B,15.5B
+2007-05-09 02:45,EUR,French Gov Budget Balance,Low,,-20.0B,-24.7B
+2007-05-09 03:00,EUR,ECB President Trichet Speaks,Medium,,,
+2007-05-09 05:30,GBP,BRC Shop Price Index y/y,Low,,0.7%,0.8%
+2007-05-09 10:30,USD,Crude Oil Inventories,Low,0.9M,1.2M,5.5M
+2007-05-09 13:00,CHF,Gov Board Member Jordan Speaks,Low,,,
+2007-05-09 14:15,USD,Federal Funds Rate,High,5.25%,5.25%,5.25%
+2007-05-09 18:45,NZD,Employment Change q/q,High,1.0%,0.1%,1.2%
+2007-05-09 19:50,JPY,Bank Lending y/y,Low,,1.0%,1.0%
+2007-05-09 20:00,NZD,BusinessNZ Manufacturing Index,Low,,56.8,54.2
+2007-05-09 21:30,AUD,Employment Change,High,12.5K,5.2K,49.6K
+2007-05-10 00:00,AUD,Unemployment Rate,Medium,4.5%,4.5%,4.4%
+2007-05-10 00:00,CAD,NHPI m/m,Low,0.5%,0.5%,0.3%
+2007-05-10 00:00,EUR,ECB Press Conference,High,,,
+2007-05-10 00:00,EUR,French Trade Balance,Low,-2.7B,-2.4B,-1.6B
+2007-05-10 00:00,GBP,Halifax HPI m/m,High,0.7%,1.2%,1.1%
+2007-05-10 00:00,GBP,Industrial Production m/m,Low,0.4%,-0.3%,0.3%
+2007-05-10 00:00,GBP,Manufacturing Production m/m,High,0.5%,-0.7%,0.6%
+2007-05-10 00:00,GBP,Official Bank Rate,High,5.50%,5.25%,5.50%
+2007-05-10 00:00,JPY,M2 Money Stock y/y,Low,1.1%,1.1%,1.1%
+2007-05-10 00:00,JPY,Prelim Machine Tool Orders y/y,Low,,9.7%,7.2%
+2007-05-10 00:00,NZD,Unemployment Rate,High,3.8%,3.7%,3.8%
+2007-05-10 00:00,USD,Import Prices m/m,Medium,1.1%,1.5%,1.3%
+2007-05-10 00:00,USD,Trade Balance,High,-60.0B,-57.9B,-63.9B
+2007-05-10 00:00,USD,Unemployment Claims,Low,320K,306K,297K
+2007-05-10 01:45,CHF,SECO Consumer Climate,Medium,19,17,20
+2007-05-10 02:00,EUR,German WPI m/m,Low,0.6%,0.5%,0.8%
+2007-05-10 02:45,EUR,French Industrial Production m/m,Medium,0.4%,1.2%,0.2%
+2007-05-10 03:00,JPY,Economy Watchers Sentiment,Low,50.4,50.8,49.7
+2007-05-10 04:00,EUR,Italian Industrial Production m/m,Low,0.6%,-0.4%,0.5%
+2007-05-10 04:30,GBP,Goods Trade Balance,High,-6.7B,-6.9B,-7.0B
+2007-05-10 07:00,GBP,MPC Rate Statement,High,,,
+2007-05-10 07:45,EUR,Main Refinancing Rate,Medium,3.75%,3.75%,3.75%
+2007-05-10 08:30,CAD,Trade Balance,High,5.4B,5.2B,4.6B
+2007-05-10 10:00,USD,FOMC Member Kroszner Speaks,Low,,,
+2007-05-10 10:30,USD,Natural Gas Storage,Low,96B,87B,96B
+2007-05-10 13:00,USD,30-y Bond Auction,Low,,4.81|2.5,4.84|2.0
+2007-05-10 14:00,USD,Federal Budget Balance,Medium,145.0B,-96.3B,177.7B
+2007-05-10 19:01,GBP,NIESR GDP Estimate,Low,,0.7%,0.7%
+2007-05-10 22:00,CNY,PPI y/y,Medium,2.8%,2.7%,2.9%
+2007-05-11 00:00,CAD,Unemployment Rate,High,6.1%,6.1%,6.1%
+2007-05-11 00:00,USD,Core PPI m/m,Medium,0.2%,0.0%,0.0%
+2007-05-11 00:00,USD,PPI m/m,High,0.6%,1.0%,0.7%
+2007-05-11 00:00,USD,Retail Sales m/m,High,0.4%,1.0%,-0.2%
+2007-05-11 04:55,CNY,USD-Denominated Trade Balance,High,15.0B,6.9B,16.9B
+2007-05-11 07:00,CAD,Employment Change,High,18.5K,54.9K,-5.2K
+2007-05-11 08:30,USD,Core Retail Sales m/m,High,0.5%,1.1%,0.0%
+2007-05-11 10:00,USD,Business Inventories m/m,Medium,0.2%,0.2%,-0.1%
+2007-05-12 22:00,CNY,New Loans,Medium,,442B,422B
+2007-05-13 00:00,CNY,M2 Money Supply y/y,Low,17.3%,17.3%,17.1%
+2007-05-13 18:45,NZD,Core Retail Sales m/m,High,1.9%,2.5%,0.8%
+2007-05-13 19:50,JPY,Current Account,Low,2.10T,1.48T,2.42T
+2007-05-13 21:30,AUD,Home Loans m/m,Medium,1.5%,0.1%,1.3%
+2007-05-13 22:00,CNY,CPI y/y,Medium,3.2%,3.3%,3.0%
+2007-05-14 00:00,GBP,ONS HPI y/y,Low,12.0%,11.8%,10.9%
+2007-05-14 00:00,GBP,PPI Output m/m,Low,0.5%,0.6%,0.5%
+2007-05-14 00:00,JPY,PPI y/y,Low,1.7%,2.0%,2.2%
+2007-05-14 00:00,NZD,Core Retail Sales q/q,Low,,1.8%,3.7%
+2007-05-14 00:00,NZD,Retail Sales m/m,High,-0.2%,2.1%,1.3%
+2007-05-14 00:00,NZD,Retail Sales q/q,Low,1.9%,1.8%,3.8%
+2007-05-14 03:00,EUR,Spanish Flash GDP q/q,Low,1.0%,1.2%,1.0%
+2007-05-14 04:30,GBP,PPI Input m/m,High,1.0%,1.2%,0.7%
+2007-05-14 05:00,EUR,Industrial Production m/m,Medium,0.4%,0.5%,0.4%
+2007-05-14 10:30,GBP,CB Leading Index m/m,Low,,0.8%,0.6%
+2007-05-14 14:00,USD,Loan Officer Survey,Low,,,
+2007-05-14 19:01,GBP,RICS House Price Balance,Medium,24%,27%,29%
+2007-05-14 19:50,JPY,Core Machinery Orders m/m,Medium,1.6%,-5.2%,-4.5%
+2007-05-14 22:00,CNY,Retail Sales y/y,Low,15.1%,15.3%,15.5%
+2007-05-15 00:00,CAD,New Motor Vehicle Sales m/m,Low,-0.1%,-4.0%,0.1%
+2007-05-15 00:00,GBP,Core CPI y/y,Medium,1.9%,1.9%,1.8%
+2007-05-15 00:00,GBP,RPI y/y,Medium,4.6%,4.8%,4.5%
+2007-05-15 00:00,USD,CPI m/m,Medium,0.5%,0.6%,0.4%
+2007-05-15 00:00,USD,CPI y/y,High,2.6%,2.8%,2.6%
+2007-05-15 00:00,USD,Core CPI m/m,High,0.2%,0.1%,0.2%
+2007-05-15 00:00,USD,Empire State Manufacturing Index,Medium,9.0,3.8,8.0
+2007-05-15 00:00,USD,FOMC Member Geithner Speaks,Low,,,
+2007-05-15 00:00,USD,RCM/TIPP Economic Optimism,Low,45.0,45.5,48.0
+2007-05-15 02:00,EUR,German Prelim GDP q/q,High,0.3%,1.0%,0.5%
+2007-05-15 02:40,EUR,French Prelim GDP q/q,Low,0.7%,0.5%,0.5%
+2007-05-15 02:45,EUR,French Final CPI m/m,Low,0.3%,0.4%,0.5%
+2007-05-15 03:15,CHF,Retail Sales y/y,Medium,4.0%,4.5%,7.6%
+2007-05-15 04:00,EUR,Italian Prelim GDP q/q,Low,0.2%,1.1%,0.2%
+2007-05-15 04:30,GBP,CPI y/y,High,2.8%,3.1%,2.8%
+2007-05-15 05:00,EUR,Flash GDP q/q,Medium,0.5%,0.9%,0.6%
+2007-05-15 08:10,USD,Fed Chairman Bernanke Speaks,Medium,,,
+2007-05-15 08:30,CAD,Manufacturing Sales m/m,Medium,0.8%,0.4%,2.8%
+2007-05-15 09:00,USD,TIC Long-Term Purchases,High,72.0B,58.1B,67.6B
+2007-05-15 10:00,USD,FOMC Member Kroszner Speaks,Medium,,,
+2007-05-15 13:00,USD,NAHB Housing Market Index,Low,33,33,30
+2007-05-15 18:45,NZD,PPI Input q/q,High,-0.9%,-0.3%,-1.6%
+2007-05-15 21:30,AUD,Westpac Consumer Sentiment,Medium,,-0.2%,7.5%
+2007-05-15 22:00,CNY,Industrial Production y/y,High,17.5%,17.6%,17.4%
+2007-05-16 00:00,AUD,Wage Price Index q/q,Low,1.2%,1.1%,1.0%
+2007-05-16 00:00,CNY,Foreign Direct Investment ytd/y,Low,,11.6%,10.2%
+2007-05-16 00:00,EUR,Final CPI y/y,Low,1.8%,1.8%,1.9%
+2007-05-16 00:00,GBP,BOE Monetary Policy Report,High,,,
+2007-05-16 00:00,GBP,Claimant Count Change,Medium,-5.5K,-14.3K,-15.7K
+2007-05-16 00:00,GBP,Unemployment Rate,Low,5.5%,5.5%,5.5%
+2007-05-16 00:00,NZD,PPI Output q/q,Low,-0.2%,-0.5%,-0.2%
+2007-05-16 00:00,USD,Building Permits,Medium,1.52M,1.57M,1.43M
+2007-05-16 00:00,USD,Housing Starts,Medium,1.49M,1.49M,1.53M
+2007-05-16 00:00,USD,Industrial Production m/m,Medium,0.3%,-0.3%,0.7%
+2007-05-16 00:30,JPY,Revised Industrial Production m/m,Low,-0.6%,-0.6%,-0.3%
+2007-05-16 01:00,JPY,Consumer Confidence,Low,48.5,46.8,47.4
+2007-05-16 02:00,EUR,German Final CPI m/m,Low,0.4%,0.4%,0.4%
+2007-05-16 02:45,EUR,French Prelim Private Payrolls q/q,Medium,0.3%,0.2%,0.6%
+2007-05-16 04:30,GBP,Average Earnings Index 3m/y,High,4.8%,4.6%,4.5%
+2007-05-16 05:00,EUR,Final Core CPI y/y,Low,1.9%,1.9%,1.9%
+2007-05-16 05:30,GBP,BOE Gov King Speaks,High,,,
+2007-05-16 08:30,CAD,Foreign Securities Purchases,Medium,3.23B,4.81B,4.66B
+2007-05-16 09:15,USD,Capacity Utilization Rate,Medium,81.4%,81.2%,81.6%
+2007-05-16 10:00,USD,FOMC Member Kroszner Speaks,Medium,,,
+2007-05-16 10:30,USD,Crude Oil Inventories,Low,0.0M,5.5M,1.1M
+2007-05-16 11:00,USD,FOMC Member Kohn Speaks,Medium,,,
+2007-05-16 19:50,JPY,Prelim GDP q/q,High,0.7%,1.3%,0.6%
+2007-05-16 20:30,AUD,MI Inflation Expectations,Low,,3.8%,4.4%
+2007-05-16 21:30,AUD,RBA Bulletin,Low,,,
+2007-05-16 22:00,CNY,Fixed Asset Investment ytd/y,Medium,25.3%,25.3%,25.5%
+2007-05-16 23:30,JPY,Overnight Call Rate,Medium,0.50%,0.50%,0.50%
+2007-05-17 00:00,CAD,CPI m/m,Medium,0.3%,0.8%,0.4%
+2007-05-17 00:00,JPY,Prelim GDP Price Index y/y,Medium,-0.4%,-0.5%,-0.2%
+2007-05-17 00:00,NZD,Annual Budget Release,High,,,
+2007-05-17 00:00,USD,Natural Gas Storage,Low,97B,96B,95B
+2007-05-17 00:00,USD,Unemployment Claims,Low,312K,298K,293K
+2007-05-17 02:00,JPY,BOJ Monthly Report,Low,,,
+2007-05-17 03:30,JPY,BOJ Press Conference,High,,,
+2007-05-17 05:00,EUR,ECB Monthly Bulletin,Medium,,,
+2007-05-17 07:00,CAD,Core CPI m/m,High,0.1%,0.3%,0.2%
+2007-05-17 08:30,CAD,Wholesale Sales m/m,Medium,0.4%,1.0%,1.9%
+2007-05-17 09:30,USD,Fed Chairman Bernanke Speaks,High,,,
+2007-05-17 10:00,USD,CB Leading Index m/m,Low,-0.1%,0.6%,-0.5%
+2007-05-17 10:30,CAD,BOC Review,Low,,,
+2007-05-17 12:00,USD,Philly Fed Manufacturing Index,Medium,3.0,0.2,4.2
+2007-05-17 18:45,NZD,Visitor Arrivals m/m,Low,,-1.1%,-2.2%
+2007-05-17 19:50,JPY,Tertiary Industry Activity m/m,Medium,-0.7%,1.0%,-2.2%
+2007-05-18 00:00,CAD,Retail Sales m/m,Medium,0.7%,0.2%,1.9%
+2007-05-18 00:00,USD,Prelim UoM Inflation Expectations,Low,,3.3%,3.3%
+2007-05-18 02:00,EUR,German PPI m/m,Low,0.3%,0.3%,0.1%
+2007-05-18 04:30,GBP,Retail Sales m/m,High,0.6%,0.5%,-0.1%
+2007-05-18 05:00,EUR,Italian Trade Balance,Low,-1.18B,-1.87B,-0.20B
+2007-05-18 08:30,CAD,Core Retail Sales m/m,High,1.1%,1.1%,1.1%
+2007-05-18 10:00,USD,Prelim UoM Consumer Sentiment,High,86.4,87.1,88.7
+2007-05-18 16:29,All,G8 Meetings,Medium,,,
+2007-05-20 19:01,GBP,Rightmove HPI m/m,Low,,3.6%,0.4%
+2007-05-20 23:00,NZD,Credit Card Spending y/y,Low,,7.4%,7.8%
+2007-05-21 00:00,GBP,Public Sector Net Borrowing,Low,1.4B,8.4B,1.1B
+2007-05-21 03:15,CHF,PPI m/m,Medium,0.4%,0.3%,0.9%
+2007-05-21 04:30,GBP,M4 Money Supply m/m,Low,1.0%,1.1%,1.4%
+2007-05-21 06:00,EUR,German Buba Monthly Report,Medium,,,
+2007-05-21 19:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2007-05-21 21:30,AUD,New Motor Vehicle Sales m/m,Low,,0.7%,-1.1%
+2007-05-22 00:00,EUR,Trade Balance,Low,0.5B,0.5B,5.1B
+2007-05-22 00:00,EUR,ZEW Economic Sentiment,Low,14.5,10.7,22.3
+2007-05-22 05:00,EUR,German ZEW Economic Sentiment,Medium,22.5,16.5,24.0
+2007-05-22 06:00,EUR,ECB President Trichet Speaks,Low,,,
+2007-05-22 09:15,USD,Treasury Sec Paulson Speaks,Low,,,
+2007-05-22 10:00,USD,Richmond Manufacturing Index,Low,-6,-11,-10
+2007-05-22 18:00,USD,Fed Chairman Bernanke Speaks,Medium,,,
+2007-05-22 19:50,JPY,All Industries Activity m/m,Low,-0.2%,0.9%,-1.4%
+2007-05-22 20:30,AUD,MI Leading Index m/m,Low,,0.7%,0.2%
+2007-05-23 04:00,EUR,Italian Retail Sales m/m,Low,0.2%,0.2%,0.5%
+2007-05-23 04:30,GBP,MPC Official Bank Rate Votes,High,8-0-1,2-0-7,9-0-0
+2007-05-23 05:00,EUR,Industrial New Orders m/m,Medium,1.0%,-0.6%,2.7%
+2007-05-23 05:07,EUR,German 10-y Bond Auction,Low,,4.11|1.8,4.36|1.7
+2007-05-23 08:30,CAD,Leading Index m/m,Low,0.4%,0.4%,0.4%
+2007-05-23 10:30,USD,Crude Oil Inventories,Low,0.6M,1.1M,2.0M
+2007-05-23 11:45,USD,Treasury Sec Paulson Speaks,Medium,,,
+2007-05-23 13:00,USD,FOMC Member Kroszner Speaks,Low,,,
+2007-05-23 18:45,NZD,Trade Balance,High,-100M,62M,-212M
+2007-05-23 19:50,JPY,Trade Balance,Low,0.85T,1.12T,1.03T
+2007-05-24 00:00,USD,Core Durable Goods Orders m/m,High,0.5%,0.3%,1.5%
+2007-05-24 00:00,USD,Durable Goods Orders m/m,Medium,0.9%,5.0%,0.6%
+2007-05-24 00:00,USD,Unemployment Claims,Medium,305K,296K,311K
+2007-05-24 02:00,EUR,German Final GDP q/q,Low,0.5%,0.5%,0.5%
+2007-05-24 03:15,CHF,Employment Level,Medium,3.71M,3.70M,3.71M
+2007-05-24 04:00,EUR,German ifo Business Climate,High,108.9,108.6,108.6
+2007-05-24 04:30,GBP,Prelim Business Investment q/q,Medium,2.1%,4.5%,-1.3%
+2007-05-24 05:00,CHF,UBS Economic Expectations,Medium,,-3.5,0.0
+2007-05-24 05:52,GBP,10-y Bond Auction,Low,,4.90|2.2,5.16|2.2
+2007-05-24 06:00,GBP,CBI Industrial Order Expectations,Medium,3,2,5
+2007-05-24 08:30,CAD,Corporate Profits q/q,Low,,1.5%,2.9%
+2007-05-24 09:00,EUR,Belgian NBB Business Climate,Medium,4.0,3.8,3.9
+2007-05-24 10:00,USD,New Home Sales,High,860K,844K,981K
+2007-05-24 10:30,USD,Natural Gas Storage,Low,96B,95B,104B
+2007-05-24 12:15,CHF,Gov Board Member Jordan Speaks,Low,,,
+2007-05-24 19:30,JPY,Tokyo Core CPI y/y,Medium,0.0%,0.0%,0.0%
+2007-05-24 20:00,AUD,CB Leading Index m/m,Low,,1.5%,0.5%
+2007-05-25 00:00,EUR,German Import Prices m/m,Low,0.4%,0.6%,0.9%
+2007-05-25 00:00,GBP,Index of Services 3m/3m,Low,0.8%,0.8%,0.8%
+2007-05-25 00:00,JPY,National Core CPI y/y,Low,-0.1%,-0.3%,-0.1%
+2007-05-25 00:00,USD,FOMC Member Mishkin Speaks,Low,,,
+2007-05-25 02:00,EUR,German GfK Consumer Climate,Low,6.0,5.7,7.3
+2007-05-25 02:45,EUR,French Consumer Spending m/m,Low,0.3%,0.2%,-0.3%
+2007-05-25 04:30,GBP,Second Estimate GDP q/q,High,0.7%,0.7%,0.7%
+2007-05-25 05:30,CHF,KOF Economic Barometer,Medium,1.95,1.90,1.96
+2007-05-25 10:00,USD,Existing Home Sales,High,6.14M,6.15M,5.99M
+2007-05-27 19:50,JPY,SPPI y/y,Low,0.6%,0.6%,1.1%
+2007-05-28 19:30,JPY,Household Spending y/y,Low,0.1%,0.1%,1.1%
+2007-05-28 19:50,JPY,Retail Sales y/y,Medium,-0.3%,-0.7%,-0.6%
+2007-05-28 23:00,NZD,Inflation Expectations q/q,High,,2.56%,2.58%
+2007-05-29 00:00,CAD,Overnight Rate,High,4.25%,4.25%,4.25%
+2007-05-29 00:00,EUR,Current Account,Low,-4.3B,-3.7B,5.4B
+2007-05-29 00:00,JPY,Unemployment Rate,Low,4.0%,4.0%,3.8%
+2007-05-29 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,-1.2%,-0.8%,-1.4%
+2007-05-29 02:15,CHF,Trade Balance,Medium,0.85B,0.67B,0.63B
+2007-05-29 04:00,CHF,UBS Consumption Indicator,Medium,,2.09,2.35
+2007-05-29 04:30,GBP,High Street Lending,Medium,,75.1K,64.8K
+2007-05-29 09:00,CAD,BOC Rate Statement,High,,,
+2007-05-29 10:00,USD,CB Consumer Confidence,High,104.5,106.3,108.0
+2007-05-29 15:00,EUR,German Buba President Weber Speaks,Medium,,,
+2007-05-29 18:45,NZD,Building Consents m/m,Medium,,-1.9%,0.7%
+2007-05-29 19:50,JPY,Prelim Industrial Production m/m,Medium,0.5%,-0.3%,-0.1%
+2007-05-29 21:30,AUD,Retail Sales m/m,High,0.5%,1.0%,0.1%
+2007-05-30 00:00,AUD,Construction Work Done q/q,Medium,1.4%,3.8%,2.7%
+2007-05-30 00:00,CAD,IPPI m/m,Low,0.5%,1.3%,0.2%
+2007-05-30 00:00,CAD,RMPI m/m,Low,0.9%,1.9%,3.3%
+2007-05-30 00:00,EUR,Private Loans y/y,Low,10.5%,10.5%,10.3%
+2007-05-30 00:00,EUR,Retail PMI,Low,,54.6,48.4
+2007-05-30 04:00,EUR,M3 Money Supply y/y,Low,10.6%,10.9%,10.4%
+2007-05-30 05:13,EUR,Italian 10-y Bond Auction,Low,,4.37|1.5,4.51|1.5
+2007-05-30 08:15,USD,ADP Non-Farm Employment Change,High,115K,61K,97K
+2007-05-30 08:30,CAD,Current Account,Medium,7.0B,4.6B,6.5B
+2007-05-30 13:00,GBP,MPC Member Blanchflower Speaks,Medium,,,
+2007-05-30 14:00,USD,FOMC Meeting Minutes,High,,,
+2007-05-30 16:29,EUR,German Prelim CPI m/m,Medium,0.2%,0.4%,0.2%
+2007-05-30 19:30,JPY,Final Manufacturing PMI,Low,,52.3,51.4
+2007-05-30 21:30,AUD,Private Capital Expenditure q/q,High,3.3%,0.1%,9.1%
+2007-05-30 23:00,NZD,ANZ Business Confidence,Medium,,-19.4,-48.2
+2007-05-31 00:00,AUD,Goods Trade Balance,Medium,-0.86B,-1.63B,-0.96B
+2007-05-31 00:00,AUD,Private Sector Credit m/m,Medium,1.1%,1.1%,1.2%
+2007-05-31 00:00,EUR,CPI Flash Estimate y/y,Low,1.9%,1.9%,1.9%
+2007-05-31 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.2%,0.4%
+2007-05-31 00:00,GBP,Net Lending to Individuals m/m,Low,10.6B,10.1B,9.4B
+2007-05-31 00:00,JPY,Average Cash Earnings y/y,Low,0.1%,-0.1%,-0.7%
+2007-05-31 00:00,USD,Natural Gas Storage,Low,105B,104B,107B
+2007-05-31 00:00,USD,Prelim GDP Price Index q/q,Low,4.0%,4.0%,4.0%
+2007-05-31 00:00,USD,Prelim GDP q/q,High,0.7%,1.3%,0.6%
+2007-05-31 00:00,USD,Unemployment Claims,Low,314K,314K,310K
+2007-05-31 01:00,JPY,Housing Starts y/y,Low,-4.3%,5.5%,-3.6%
+2007-05-31 01:45,CHF,GDP q/q,Medium,0.6%,0.5%,0.8%
+2007-05-31 02:00,GBP,Nationwide HPI m/m,Medium,0.6%,0.9%,0.5%
+2007-05-31 03:55,EUR,German Unemployment Change,Medium,-20K,-44K,-13K
+2007-05-31 04:30,GBP,Mortgage Approvals,Low,111K,112K,107K
+2007-05-31 05:00,EUR,Consumer Confidence,Low,-4,-4,-1
+2007-05-31 05:30,GBP,GfK Consumer Confidence,Low,-7,-6,-2
+2007-05-31 06:00,GBP,CBI Realized Sales,Medium,39,44,31
+2007-05-31 08:30,CAD,GDP m/m,High,0.5%,0.4%,0.3%
+2007-05-31 09:45,USD,Chicago PMI,Medium,54.2,52.9,61.7
+2007-05-31 10:00,USD,Construction Spending m/m,Low,-0.1%,0.6%,0.1%
+2007-05-31 10:30,USD,Crude Oil Inventories,Low,1.0M,2.0M,-2.0M
+2007-05-31 19:30,AUD,AIG Manufacturing Index,Low,,51.7,55.2
+2007-05-31 21:00,CNY,Manufacturing PMI,High,,58.6,55.7
+2007-05-31 22:30,CNY,Caixin Manufacturing PMI,Medium,,53.3,54.1

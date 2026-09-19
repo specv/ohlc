@@ -1,0 +1,388 @@
+datetime,currency,title,impact,forecast,previous,actual
+2020-05-01 00:00,GBP,M4 Money Supply m/m,Low,0.2%,0.4%,2.8%
+2020-05-01 00:00,GBP,Mortgage Approvals,Low,59K,74K,56K
+2020-05-01 00:00,JPY,Retail Sales y/y,Low,,,
+2020-05-01 00:00,USD,Construction Spending m/m,Low,-3.5%,-2.5%,0.9%
+2020-05-01 00:00,USD,ISM Manufacturing Prices,Low,30.7,37.4,35.3
+2020-05-01 01:59,GBP,Nationwide HPI m/m,Low,-0.3%,0.8%,0.7%
+2020-05-01 02:30,AUD,Commodity Prices y/y,Low,,-10.7%,-8.1%
+2020-05-01 04:30,GBP,Final Manufacturing PMI,Low,32.8,32.9,32.6
+2020-05-01 04:33,GBP,Net Lending to Individuals m/m,Low,4.2B,5.2B,1.0B
+2020-05-01 09:30,CAD,Manufacturing PMI,Low,,46.1,33.0
+2020-05-01 09:40,CAD,BOC Gov Poloz Speaks,High,,,
+2020-05-01 09:45,USD,Final Manufacturing PMI,Low,36.9,36.9,36.1
+2020-05-01 10:00,USD,ISM Manufacturing PMI,High,36.7,49.1,41.5
+2020-05-01 15:29,USD,Wards Total Vehicle Sales,Low,7.0M,11.4M,8.6M
+2020-05-03 21:00,AUD,MI Inflation Gauge m/m,Low,,0.2%,-0.1%
+2020-05-03 21:30,AUD,ANZ Job Advertisements m/m,Low,,-10.0%,-53.1%
+2020-05-04 00:00,AUD,Building Approvals m/m,Low,-15.0%,19.4%,-4.0%
+2020-05-04 03:15,EUR,Spanish Manufacturing PMI,Low,35.0,45.7,30.8
+2020-05-04 03:30,CHF,Manufacturing PMI,Low,35.2,43.7,40.7
+2020-05-04 03:45,EUR,Italian Manufacturing PMI,Low,30.3,40.3,31.1
+2020-05-04 03:50,EUR,French Final Manufacturing PMI,Low,31.5,31.5,31.5
+2020-05-04 03:55,EUR,German Final Manufacturing PMI,Low,34.4,34.4,34.5
+2020-05-04 04:00,EUR,Final Manufacturing PMI,Low,33.6,33.6,33.4
+2020-05-04 04:30,EUR,Sentix Investor Confidence,Low,-25.9,-42.9,-41.8
+2020-05-04 10:00,USD,Factory Orders m/m,Low,-9.2%,-0.1%,-10.3%
+2020-05-04 12:30,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2020-05-04 14:00,USD,Loan Officer Survey,Low,,,
+2020-05-04 18:30,AUD,AIG Construction Index,Low,,37.9,21.6
+2020-05-04 18:45,NZD,Building Consents m/m,Low,,5.7%,-21.3%
+2020-05-04 21:00,NZD,ANZ Commodity Prices m/m,Low,,-2.0%,-1.1%
+2020-05-05 00:00,AUD,RBA Rate Statement,High,,,
+2020-05-05 00:00,USD,Trade Balance,Low,-41.0B,-39.8B,-44.4B
+2020-05-05 00:30,AUD,Cash Rate,High,0.25%,0.25%,0.25%
+2020-05-05 01:45,CHF,SECO Consumer Climate,Low,-40,-40,-39
+2020-05-05 02:30,CHF,CPI m/m,Low,-0.1%,0.1%,-0.4%
+2020-05-05 02:45,EUR,French Gov Budget Balance,Low,,-35.2B,-52.5B
+2020-05-05 03:00,EUR,Spanish Unemployment Change,Low,500.0K,302.3K,282.9K
+2020-05-05 04:00,EUR,German Buba President Weidmann Speaks,Low,,,
+2020-05-05 04:11,EUR,German Constitutional Court Ruling,High,,,
+2020-05-05 04:30,GBP,Final Services PMI,Medium,12.3,12.3,13.4
+2020-05-05 05:00,EUR,PPI m/m,Low,-1.3%,-0.7%,-1.5%
+2020-05-05 08:30,CAD,Trade Balance,High,-2.5B,-0.9B,-1.4B
+2020-05-05 09:45,USD,Final Services PMI,Low,27.0,27.0,26.7
+2020-05-05 10:00,USD,ISM Services PMI,High,37.5,52.5,41.8
+2020-05-05 10:01,USD,RCM/TIPP Economic Optimism,Low,35.2,47.8,49.7
+2020-05-05 10:51,NZD,GDT Price Index,Low,,-4.2%,-0.8%
+2020-05-05 18:45,NZD,Employment Change q/q,High,-0.2%,0.1%,0.7%
+2020-05-06 00:00,EUR,Retail Sales m/m,Low,-11.2%,0.6%,-11.2%
+2020-05-06 00:00,NZD,Labor Cost Index q/q,Low,0.5%,0.6%,0.3%
+2020-05-06 00:00,NZD,Unemployment Rate,High,4.4%,4.0%,4.2%
+2020-05-06 02:00,EUR,German Factory Orders m/m,Low,-10.0%,-1.2%,-15.6%
+2020-05-06 03:15,EUR,Spanish Services PMI,Low,10.0,23.0,7.1
+2020-05-06 03:45,EUR,Italian Services PMI,Low,9.2,17.4,10.8
+2020-05-06 03:50,EUR,French Final Services PMI,Low,10.4,10.4,10.2
+2020-05-06 03:55,EUR,German Final Services PMI,Low,15.9,15.9,16.2
+2020-05-06 04:00,EUR,Final Services PMI,Low,11.7,11.7,12.0
+2020-05-06 04:30,GBP,Construction PMI,Low,21.5,39.3,8.2
+2020-05-06 05:00,EUR,EU Economic Forecasts,High,,,
+2020-05-06 08:15,USD,ADP Non-Farm Employment Change,High,-20500K,-149K,-20236K
+2020-05-06 10:30,USD,Crude Oil Inventories,Low,8.5M,9.0M,4.6M
+2020-05-06 18:30,AUD,AIG Services Index,Low,,38.7,27.1
+2020-05-06 19:50,JPY,Monetary Base y/y,Low,4.5%,2.8%,2.3%
+2020-05-06 21:30,AUD,Goods Trade Balance,High,6.40B,3.87B,10.60B
+2020-05-06 21:45,CNY,Caixin Services PMI,Medium,50.1,43.0,44.4
+2020-05-06 23:00,NZD,Inflation Expectations q/q,High,,1.93%,1.24%
+2020-05-06 23:01,CNY,Trade Balance,High,82B,139B,318B
+2020-05-06 23:02,CNY,USD-Denominated Trade Balance,Medium,9.1B,19.9B,45.3B
+2020-05-07 00:00,EUR,ECB President Lagarde Speaks,High,,,
+2020-05-07 00:00,EUR,French Prelim Private Payrolls q/q,Low,-0.3%,0.5%,-2.3%
+2020-05-07 00:00,EUR,French Trade Balance,Low,-4.6B,-5.0B,-3.3B
+2020-05-07 00:00,GBP,Asset Purchase Facility,Low,645B,645B,645B
+2020-05-07 00:00,GBP,BOE Financial Stability Report,Low,,,
+2020-05-07 00:00,GBP,BOE Monetary Policy Report,High,,,
+2020-05-07 00:00,GBP,FPC Meeting Minutes,Low,,,
+2020-05-07 00:00,GBP,FPC Statement,Low,,,
+2020-05-07 00:00,GBP,MPC Asset Purchase Facility Votes,Low,0-0-9,0-0-9,2-0-7
+2020-05-07 00:00,GBP,MPC Official Bank Rate Votes,High,0-0-9,0-0-9,0-0-9
+2020-05-07 00:00,GBP,Monetary Policy Summary,High,,,
+2020-05-07 00:00,GBP,Official Bank Rate,High,0.10%,0.10%,0.10%
+2020-05-07 00:00,USD,Prelim Nonfarm Productivity q/q,Low,-5.4%,1.2%,-2.5%
+2020-05-07 00:00,USD,Prelim Unit Labor Costs q/q,Low,4.3%,0.9%,4.8%
+2020-05-07 01:45,CHF,Unemployment Rate,Low,3.4%,2.9%,3.3%
+2020-05-07 02:00,EUR,German Industrial Production m/m,Low,-7.3%,0.3%,-9.2%
+2020-05-07 02:45,EUR,French Industrial Production m/m,Low,-12.7%,0.8%,-16.2%
+2020-05-07 03:00,CHF,Foreign Currency Reserves,Low,,763B,800B
+2020-05-07 03:30,GBP,Halifax HPI m/m,Low,-0.3%,-0.3%,-0.6%
+2020-05-07 04:00,EUR,German Buba President Weidmann Speaks,Low,,,
+2020-05-07 04:07,EUR,Italian Retail Sales m/m,Low,-14.9%,0.9%,-20.5%
+2020-05-07 05:00,GBP,BOE Gov Bailey Speaks,High,,,
+2020-05-07 05:04,EUR,French 10-y Bond Auction,Low,,0.04|2.7,0.03|2.0
+2020-05-07 07:30,USD,Challenger Job Cuts y/y,Low,,266.9%,1576.9%
+2020-05-07 08:30,USD,Unemployment Claims,High,3000K,3846K,3169K
+2020-05-07 10:00,CAD,Ivey PMI,Low,24.3,26.0,22.8
+2020-05-07 10:30,USD,Natural Gas Storage,Low,112B,70B,109B
+2020-05-07 15:00,USD,Consumer Credit m/m,Low,14.9B,19.9B,-12.0B
+2020-05-07 16:00,USD,FOMC Member Harker Speaks,Low,,,
+2020-05-07 19:01,GBP,GfK Consumer Confidence,Low,-37,-34,-33
+2020-05-07 19:30,JPY,Average Cash Earnings y/y,Low,0.1%,0.7%,0.1%
+2020-05-07 21:30,AUD,RBA Monetary Policy Statement,High,,,
+2020-05-08 00:00,CAD,Building Permits m/m,Low,-20.1%,-8.4%,-13.2%
+2020-05-08 00:00,CAD,Unemployment Rate,High,18.0%,7.8%,13.0%
+2020-05-08 00:00,JPY,Household Spending y/y,Low,-6.3%,-0.3%,-6.0%
+2020-05-08 00:00,USD,Average Hourly Earnings m/m,High,0.5%,0.5%,4.7%
+2020-05-08 00:00,USD,Non-Farm Employment Change,High,-22000K,-881K,-20537K
+2020-05-08 00:00,USD,Unemployment Rate,High,16.0%,4.4%,14.7%
+2020-05-08 02:00,EUR,German Trade Balance,Low,19.0B,21.4B,12.8B
+2020-05-08 07:00,EUR,ECB President Lagarde Speaks,High,,,
+2020-05-08 08:00,USD,President Trump Speaks,High,,,
+2020-05-08 08:17,CAD,Housing Starts,Low,107K,195K,171K
+2020-05-08 08:30,CAD,Employment Change,High,-4000.0K,-1010.7K,-1993.8K
+2020-05-08 10:00,USD,Final Wholesale Inventories m/m,Low,-1.0%,-1.0%,-0.8%
+2020-05-08 15:29,EUR,Eurogroup Meetings,Medium,,,
+2020-05-10 19:50,JPY,BOJ Summary of Opinions,Low,,,
+2020-05-10 21:00,NZD,Prelim ANZ Business Confidence,High,,-66.6,-45.6
+2020-05-11 03:32,CNY,New Loans,Low,1300B,2850B,1700B
+2020-05-11 03:33,CNY,M2 Money Supply y/y,Low,10.3%,10.1%,11.1%
+2020-05-11 04:00,EUR,Italian Industrial Production m/m,Low,-20.0%,-1.0%,-28.4%
+2020-05-11 21:30,AUD,NAB Business Confidence,Medium,,-65,-46
+2020-05-11 23:35,JPY,10-y Bond Auction,Low,,0.02|4.2,0.00|4.1
+2020-05-12 00:00,CNY,CPI y/y,Low,3.7%,4.3%,3.3%
+2020-05-12 00:00,CNY,PPI y/y,Low,-2.6%,-1.5%,-3.1%
+2020-05-12 00:00,USD,CPI m/m,High,-0.7%,-0.4%,-0.8%
+2020-05-12 00:00,USD,CPI y/y,High,0.4%,1.5%,0.3%
+2020-05-12 00:00,USD,FOMC Member Quarles Speaks,Low,,,
+2020-05-12 00:00,USD,Mortgage Delinquencies,Low,,3.77%,4.36%
+2020-05-12 01:00,JPY,Leading Indicators,Low,84.3%,91.7%,83.8%
+2020-05-12 06:00,USD,NFIB Small Business Index,Low,86.7,96.4,90.9
+2020-05-12 08:30,USD,Core CPI m/m,High,-0.2%,-0.1%,-0.4%
+2020-05-12 10:00,USD,FOMC Member Harker Speaks,Low,,,
+2020-05-12 13:01,USD,10-y Bond Auction,Low,,0.78|2.4,0.70|2.7
+2020-05-12 14:00,USD,Federal Budget Balance,Low,-729.7B,-119.1B,-737.9B
+2020-05-12 17:00,USD,FOMC Member Mester Speaks,Low,,,
+2020-05-12 19:01,GBP,BRC Retail Sales Monitor y/y,Low,-15.0%,-3.5%,5.7%
+2020-05-12 19:50,JPY,Bank Lending y/y,Low,2.0%,2.0%,3.0%
+2020-05-12 20:30,AUD,Westpac Consumer Sentiment,Low,,-17.7%,16.4%
+2020-05-12 21:30,AUD,Wage Price Index q/q,Medium,0.5%,0.5%,0.5%
+2020-05-12 22:00,NZD,Official Cash Rate,High,0.25%,0.25%,0.25%
+2020-05-12 23:00,NZD,RBNZ Press Conference,High,,,
+2020-05-13 00:00,GBP,Construction Output m/m,Low,-7.1%,-2.1%,-5.9%
+2020-05-13 00:00,GBP,GDP m/m,Medium,-7.9%,-0.2%,-5.8%
+2020-05-13 00:00,GBP,Goods Trade Balance,Low,-10.0B,-9.8B,-12.5B
+2020-05-13 00:00,GBP,Index of Services 3m/3m,Low,-2.5%,0.2%,-1.9%
+2020-05-13 00:00,GBP,Industrial Production m/m,Low,-5.5%,-0.1%,-4.2%
+2020-05-13 00:00,GBP,Prelim Business Investment q/q,Low,-3.0%,-0.5%,0.0%
+2020-05-13 00:00,JPY,Current Account,Low,1.29T,2.35T,0.94T
+2020-05-13 00:00,NZD,RBNZ Monetary Policy Statement,High,,,
+2020-05-13 00:00,NZD,RBNZ Rate Statement,High,,,
+2020-05-13 00:00,USD,PPI m/m,Medium,-0.5%,-0.2%,-1.3%
+2020-05-13 01:02,JPY,Economy Watchers Sentiment,Low,10.1,14.2,7.9
+2020-05-13 02:00,GBP,Prelim GDP q/q,High,-2.6%,0.0%,-2.0%
+2020-05-13 02:02,GBP,Manufacturing Production m/m,Medium,-6.0%,0.3%,-4.6%
+2020-05-13 05:00,EUR,Industrial Production m/m,Low,-12.3%,-0.1%,-11.3%
+2020-05-13 05:35,EUR,German 30-y Bond Auction,Low,,-0.09|1.9,-0.13|2.5
+2020-05-13 08:30,USD,Core PPI m/m,Medium,-0.1%,0.2%,-0.3%
+2020-05-13 09:00,USD,Fed Chair Powell Speaks,High,,,
+2020-05-13 09:10,GBP,NIESR GDP Estimate,Low,,-2.0%,-11.8%
+2020-05-13 10:30,USD,Crude Oil Inventories,Low,4.1M,4.6M,-0.7M
+2020-05-13 13:05,USD,30-y Bond Auction,Low,,1.33|2.4,1.34|2.3
+2020-05-13 16:10,NZD,RBNZ Gov Orr Speaks,High,,,
+2020-05-13 18:45,NZD,Visitor Arrivals m/m,Low,,-10.5%,-40.9%
+2020-05-13 19:01,GBP,RICS House Price Balance,Low,-25%,9%,-21%
+2020-05-13 19:50,JPY,M2 Money Stock y/y,Low,3.4%,3.3%,3.7%
+2020-05-13 21:00,AUD,MI Inflation Expectations,Low,,4.6%,3.4%
+2020-05-13 21:30,AUD,Employment Change,High,-575.0K,0.7K,-594.3K
+2020-05-13 22:00,NZD,Annual Budget Release,High,,,
+2020-05-13 23:35,JPY,30-y Bond Auction,Low,,0.43|3.5,0.45|3.7
+2020-05-14 00:00,AUD,Unemployment Rate,High,8.3%,5.2%,6.2%
+2020-05-14 00:00,EUR,German WPI m/m,Low,-0.3%,-0.4%,-1.4%
+2020-05-14 00:00,USD,Import Prices m/m,Low,-3.1%,-2.4%,-2.6%
+2020-05-14 00:00,USD,Natural Gas Storage,Low,107B,109B,103B
+2020-05-14 00:00,USD,Unemployment Claims,Medium,2500K,3176K,2981K
+2020-05-14 01:59,JPY,Prelim Machine Tool Orders y/y,Low,,-40.7%,-48.3%
+2020-05-14 02:00,EUR,German Final CPI m/m,Low,0.3%,0.3%,0.4%
+2020-05-14 02:30,CHF,PPI m/m,Low,-1.3%,-0.3%,-1.3%
+2020-05-14 03:13,CNY,Foreign Direct Investment ytd/y,Low,,-10.8%,-6.1%
+2020-05-14 04:00,EUR,ECB Economic Bulletin,Low,,,
+2020-05-14 04:02,EUR,Italian Trade Balance,Low,5.40B,6.09B,5.69B
+2020-05-14 06:30,GBP,BOE Gov Bailey Speaks,High,,,
+2020-05-14 08:30,CAD,Manufacturing Sales m/m,Low,-4.4%,0.4%,-9.2%
+2020-05-14 10:00,CAD,BOC Financial System Review,Medium,,,
+2020-05-14 10:30,CAD,BOC Gov Poloz Speaks,High,,,
+2020-05-14 11:00,USD,FOMC Member Kashkari Speaks,Low,,,
+2020-05-14 18:30,NZD,BusinessNZ Manufacturing Index,Low,,38.0,26.1
+2020-05-14 19:50,JPY,PPI y/y,Low,-1.4%,-0.4%,-2.3%
+2020-05-14 22:00,CNY,Fixed Asset Investment ytd/y,Medium,-9.8%,-16.1%,-10.3%
+2020-05-15 00:00,CNY,Industrial Production y/y,Medium,1.5%,-1.1%,3.9%
+2020-05-15 00:00,CNY,Retail Sales y/y,Low,-5.9%,-15.8%,-7.5%
+2020-05-15 00:00,CNY,Unemployment Rate,Low,5.8%,5.9%,6.0%
+2020-05-15 00:00,EUR,Flash GDP q/q,Low,-3.8%,-3.8%,-3.8%
+2020-05-15 00:00,EUR,Trade Balance,Low,17.2B,25.6B,23.5B
+2020-05-15 00:00,NZD,BusinessNZ Manufacturing Index,Low,,53.7,38.0
+2020-05-15 00:00,USD,Business Inventories m/m,Low,-0.3%,-0.5%,-0.2%
+2020-05-15 00:00,USD,Core Retail Sales m/m,High,-8.6%,-4.0%,-17.2%
+2020-05-15 00:00,USD,Empire State Manufacturing Index,Low,-65.0,-78.2,-48.5
+2020-05-15 00:00,USD,Industrial Production m/m,Low,-11.3%,-4.5%,-11.2%
+2020-05-15 00:00,USD,JOLTS Job Openings,Low,5.77M,7.00M,6.19M
+2020-05-15 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.1%,3.0%
+2020-05-15 00:00,USD,Retail Sales m/m,High,-12.0%,-8.3%,-16.4%
+2020-05-15 02:00,EUR,German PPI m/m,Low,-0.6%,-0.8%,-0.7%
+2020-05-15 02:45,EUR,French Final CPI m/m,Low,0.1%,0.1%,0.0%
+2020-05-15 04:00,EUR,German Prelim GDP q/q,High,-2.2%,-0.1%,-2.2%
+2020-05-15 05:00,EUR,Flash Employment Change q/q,Low,-2.0%,0.3%,-0.2%
+2020-05-15 08:30,CAD,Foreign Securities Purchases,Low,3.50B,19.42B,-9.78B
+2020-05-15 09:15,USD,Capacity Utilization Rate,Low,63.9%,73.2%,64.9%
+2020-05-15 10:00,USD,Prelim UoM Consumer Sentiment,Medium,68.0,71.8,73.7
+2020-05-15 15:29,EUR,Eurogroup Meetings,Low,,,
+2020-05-15 16:00,USD,TIC Long-Term Purchases,Low,-67.4B,49.6B,-112.6B
+2020-05-17 18:30,NZD,BusinessNZ Services Index,Low,,52.0,25.9
+2020-05-17 19:00,USD,Fed Chair Powell Speaks,High,,,
+2020-05-17 19:50,JPY,Prelim GDP Price Index y/y,Low,0.7%,1.2%,0.9%
+2020-05-17 21:30,CNY,New Home Prices m/m,Low,,0.13%,0.42%
+2020-05-18 00:00,JPY,Prelim GDP q/q,Low,-1.1%,-1.8%,-0.9%
+2020-05-18 00:30,JPY,Tertiary Industry Activity m/m,Low,-3.6%,-0.7%,-4.2%
+2020-05-18 06:00,EUR,German Buba Monthly Report,Low,,,
+2020-05-18 09:30,GBP,CB Leading Index m/m,Low,,-0.1%,-1.3%
+2020-05-18 10:00,USD,NAHB Housing Market Index,Low,35,30,37
+2020-05-18 11:00,GBP,MPC Member Tenreyro Speaks,Low,,,
+2020-05-18 16:00,USD,FOMC Financial Stability Report,Low,,,
+2020-05-18 18:45,NZD,PPI Input q/q,Low,-0.3%,0.3%,-0.3%
+2020-05-18 21:30,AUD,Monetary Policy Meeting Minutes,Medium,,,
+2020-05-19 00:00,EUR,ZEW Economic Sentiment,Low,27.4,25.2,46.0
+2020-05-19 00:00,GBP,Unemployment Rate,Low,4.4%,4.0%,3.9%
+2020-05-19 00:00,NZD,PPI Output q/q,Low,0.1%,0.5%,0.1%
+2020-05-19 00:00,USD,FOMC Member Kashkari Speaks,Low,,,
+2020-05-19 00:00,USD,Housing Starts,Low,0.95M,1.28M,0.89M
+2020-05-19 00:30,JPY,Revised Industrial Production m/m,Low,-3.7%,-3.7%,-3.7%
+2020-05-19 02:00,GBP,Claimant Count Change,High,675.0K,5.4K,856.5K
+2020-05-19 02:02,GBP,Average Earnings Index 3m/y,Low,2.7%,2.8%,2.4%
+2020-05-19 05:00,EUR,German ZEW Economic Sentiment,Low,30.0,28.2,51.0
+2020-05-19 08:30,USD,Building Permits,Medium,1.00M,1.36M,1.07M
+2020-05-19 09:00,CNY,CB Leading Index m/m,Low,,0.4%,-1.0%
+2020-05-19 10:00,USD,Fed Chair Powell Testifies,High,,,
+2020-05-19 10:30,AUD,CB Leading Index m/m,Low,,-0.5%,-0.3%
+2020-05-19 10:43,NZD,GDT Price Index,Low,,-0.8%,1.0%
+2020-05-19 15:29,All,G7 Meetings,High,,,
+2020-05-19 15:29,EUR,ECOFIN Meetings,Low,,,
+2020-05-19 18:45,NZD,FPI m/m,Low,,0.7%,1.0%
+2020-05-19 19:50,JPY,Core Machinery Orders m/m,Low,-6.8%,2.3%,-0.4%
+2020-05-19 21:00,AUD,MI Leading Index m/m,Low,,-0.7%,-1.5%
+2020-05-19 21:30,AUD,Retail Sales m/m,High,-17.7%,8.5%,-17.9%
+2020-05-20 00:00,CAD,Common CPI y/y,Low,1.7%,1.7%,1.6%
+2020-05-20 00:00,CAD,Median CPI y/y,Low,1.9%,2.0%,2.0%
+2020-05-20 00:00,CAD,Trimmed CPI y/y,Low,1.8%,1.8%,1.8%
+2020-05-20 00:00,CAD,Wholesale Sales m/m,Low,-4.5%,0.3%,-2.2%
+2020-05-20 00:00,CNY,1-y Loan Prime Rate,Medium,3.85%,3.85%,3.85%
+2020-05-20 00:00,CNY,5-y Loan Prime Rate,Medium,4.65%,4.65%,4.65%
+2020-05-20 00:00,EUR,Final CPI y/y,Low,0.4%,0.4%,0.3%
+2020-05-20 00:00,GBP,PPI Input m/m,Low,-4.2%,-3.8%,-5.1%
+2020-05-20 00:00,GBP,PPI Output m/m,Low,-0.5%,-0.2%,-0.7%
+2020-05-20 00:00,GBP,RPI y/y,Low,1.6%,2.6%,1.5%
+2020-05-20 00:00,USD,FOMC Meeting Minutes,Medium,,,
+2020-05-20 02:00,GBP,CPI y/y,Medium,0.9%,1.5%,0.8%
+2020-05-20 02:02,GBP,Core CPI y/y,Low,1.4%,1.6%,1.4%
+2020-05-20 04:00,EUR,Current Account,Low,29.2B,37.8B,27.4B
+2020-05-20 04:30,GBP,HPI y/y,Low,1.5%,2.0%,2.1%
+2020-05-20 05:00,EUR,Final Core CPI y/y,Low,0.9%,0.9%,0.9%
+2020-05-20 05:33,EUR,German 10-y Bond Auction,Low,,-0.48|2.5,-0.47|2.4
+2020-05-20 08:30,CAD,CPI m/m,Medium,-0.6%,-0.6%,-0.7%
+2020-05-20 08:32,CAD,Core CPI m/m,Low,,0.1%,-0.4%
+2020-05-20 09:30,GBP,BOE Gov Bailey Speaks,High,,,
+2020-05-20 10:00,EUR,Consumer Confidence,Low,-23,-23,-19
+2020-05-20 10:30,USD,Crude Oil Inventories,Low,1.7M,-0.7M,-5.0M
+2020-05-20 14:00,CAD,Gov Council Member Lane Speaks,Low,,,
+2020-05-20 19:00,AUD,Flash Manufacturing PMI,Low,,44.1,42.8
+2020-05-20 19:50,JPY,Trade Balance,Low,-0.65T,-0.38T,-1.00T
+2020-05-20 20:30,JPY,Flash Manufacturing PMI,Low,38.5,41.9,38.4
+2020-05-20 22:30,AUD,RBA Gov Lowe Speaks,High,,,
+2020-05-20 23:00,NZD,Credit Card Spending y/y,Low,,-9.4%,-49.4%
+2020-05-21 00:00,AUD,Flash Services PMI,Low,,19.5,25.5
+2020-05-21 00:00,CAD,NHPI m/m,Low,-0.1%,0.3%,0.0%
+2020-05-21 00:00,EUR,Flash Services PMI,Medium,25.0,12.0,28.7
+2020-05-21 00:00,EUR,French Flash Manufacturing PMI,Medium,36.0,31.5,40.3
+2020-05-21 00:00,EUR,German Flash Services PMI,High,26.3,16.2,31.4
+2020-05-21 00:00,GBP,Flash Services PMI,Medium,24.1,13.4,27.8
+2020-05-21 00:00,USD,Existing Home Sales,Low,4.31M,5.27M,4.33M
+2020-05-21 00:00,USD,FOMC Member Williams Speaks,Low,,,
+2020-05-21 00:00,USD,Flash Services PMI,Low,32.6,26.7,36.9
+2020-05-21 00:00,USD,Philly Fed Manufacturing Index,Medium,-40.0,-56.6,-43.1
+2020-05-21 00:00,USD,Unemployment Claims,Medium,2400K,2687K,2438K
+2020-05-21 03:15,EUR,French Flash Services PMI,High,27.9,10.2,29.4
+2020-05-21 03:30,EUR,German Flash Manufacturing PMI,High,39.3,34.5,36.8
+2020-05-21 04:00,EUR,Flash Manufacturing PMI,Medium,38.0,33.4,39.5
+2020-05-21 04:30,GBP,Flash Manufacturing PMI,Medium,35.1,32.6,40.6
+2020-05-21 04:55,EUR,Spanish 10-y Bond Auction,Low,,0.69|2.0,0.71|1.3
+2020-05-21 06:00,GBP,CBI Industrial Order Expectations,Low,-50,-56,-62
+2020-05-21 08:30,CAD,ADP Non-Farm Employment Change,Low,,-17.2K,-226.7K
+2020-05-21 09:45,USD,Flash Manufacturing PMI,High,39.3,36.1,39.8
+2020-05-21 10:00,USD,CB Leading Index m/m,Low,-5.5%,-7.4%,-4.4%
+2020-05-21 10:30,USD,Natural Gas Storage,Low,83B,103B,81B
+2020-05-21 13:00,USD,FOMC Member Clarida Speaks,Low,,,
+2020-05-21 14:30,USD,Fed Chair Powell Speaks,High,,,
+2020-05-21 18:45,NZD,Retail Sales q/q,Medium,-1.5%,0.0%,-0.7%
+2020-05-21 18:48,NZD,Core Retail Sales q/q,Low,0.7%,-0.1%,0.6%
+2020-05-21 19:01,GBP,GfK Consumer Confidence,Low,,-33,-34
+2020-05-21 19:30,JPY,National Core CPI y/y,Low,-0.1%,0.4%,-0.2%
+2020-05-21 21:00,JPY,Monetary Policy Statement,High,,,
+2020-05-22 00:00,CAD,Retail Sales m/m,Low,-10.3%,0.4%,-10.0%
+2020-05-22 00:00,GBP,Public Sector Net Borrowing,Low,48.7B,14.0B,61.4B
+2020-05-22 00:00,JPY,BOJ Policy Rate,Low,-0.10%,-0.10%,-0.10%
+2020-05-22 02:00,GBP,Retail Sales m/m,High,-15.8%,-5.2%,-18.1%
+2020-05-22 07:30,EUR,ECB Monetary Policy Meeting Accounts,High,,,
+2020-05-22 08:30,CAD,Core Retail Sales m/m,Medium,-4.8%,0.1%,-0.4%
+2020-05-24 21:30,AUD,Goods Trade Balance,Low,,11.35B,8.32B
+2020-05-25 02:00,EUR,German Final GDP q/q,Low,-2.2%,-2.2%,-2.2%
+2020-05-25 04:00,EUR,German ifo Business Climate,Low,78.3,74.2,79.5
+2020-05-25 08:56,EUR,Belgian NBB Business Climate,Low,-29.7,-36.1,-34.4
+2020-05-25 13:30,CAD,BOC Gov Poloz Speaks,Medium,,,
+2020-05-25 18:45,NZD,Trade Balance,Low,1250M,722M,1267M
+2020-05-25 19:50,JPY,SPPI y/y,Low,1.3%,1.6%,1.0%
+2020-05-25 21:00,JPY,BOJ Gov Kuroda Speaks,Medium,,,
+2020-05-26 00:00,USD,HPI m/m,Low,0.6%,0.8%,0.1%
+2020-05-26 00:00,USD,New Home Sales,Low,492K,619K,623K
+2020-05-26 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,3.4%,3.5%,3.9%
+2020-05-26 00:30,JPY,All Industries Activity m/m,Low,-3.9%,-0.7%,-3.8%
+2020-05-26 01:00,JPY,BOJ Core CPI y/y,Low,0.0%,0.1%,-0.1%
+2020-05-26 02:00,EUR,German GfK Consumer Climate,Low,-19.1,-23.1,-18.9
+2020-05-26 02:02,CHF,Trade Balance,Low,3.89B,3.96B,4.04B
+2020-05-26 06:00,GBP,CBI Realized Sales,Low,-65,-55,-50
+2020-05-26 09:00,EUR,ECB Financial Stability Review,Medium,,,
+2020-05-26 10:00,USD,CB Consumer Confidence,Medium,87.1,85.7,86.6
+2020-05-26 13:00,USD,FOMC Member Kashkari Speaks,Low,,,
+2020-05-26 17:00,CAD,BOC Gov Poloz Speaks,High,,,
+2020-05-26 19:00,NZD,RBNZ Gov Orr Speaks,High,,,
+2020-05-26 21:00,NZD,RBNZ Gov Orr Speaks,High,,,
+2020-05-26 21:30,AUD,Construction Work Done q/q,Low,-1.5%,-2.9%,-1.0%
+2020-05-27 00:00,NZD,RBNZ Financial Stability Report,High,,,
+2020-05-27 03:30,EUR,ECB President Lagarde Speaks,Medium,,,
+2020-05-27 04:00,CHF,UBS Economic Expectations,Low,,12.7,31.3
+2020-05-27 08:30,CAD,Building Permits m/m,Low,-16.5%,-13.4%,-17.1%
+2020-05-27 09:59,USD,Richmond Manufacturing Index,Low,-40,-53,-27
+2020-05-27 14:00,USD,Beige Book,Low,,,
+2020-05-27 20:00,AUD,RBA Gov Lowe Speaks,High,,,
+2020-05-27 21:00,NZD,ANZ Business Confidence,Medium,,-45.6,-41.8
+2020-05-27 21:30,AUD,Private Capital Expenditure q/q,High,-2.6%,-2.6%,-1.6%
+2020-05-28 00:00,USD,Core Durable Goods Orders m/m,Medium,-14.8%,-0.4%,-7.4%
+2020-05-28 00:00,USD,Durable Goods Orders m/m,Medium,-19.0%,-14.7%,-17.2%
+2020-05-28 00:00,USD,FOMC Member Williams Speaks,Low,,,
+2020-05-28 00:00,USD,Prelim GDP Price Index q/q,Low,1.3%,1.3%,1.4%
+2020-05-28 00:00,USD,Prelim GDP q/q,High,-4.8%,-4.8%,-5.0%
+2020-05-28 00:00,USD,Unemployment Claims,Medium,2100K,2446K,2123K
+2020-05-28 03:00,EUR,Spanish Flash CPI y/y,Low,-1.0%,-0.7%,-1.0%
+2020-05-28 06:00,GBP,MPC Member Saunders Speaks,Medium,,,
+2020-05-28 06:37,GBP,30-y Bond Auction,Low,,0.61|2.3,0.60|2.6
+2020-05-28 08:30,CAD,Current Account,Low,-10.2B,-9.3B,-11.1B
+2020-05-28 10:00,USD,Pending Home Sales m/m,Medium,-15.0%,-20.8%,-21.8%
+2020-05-28 10:30,USD,Natural Gas Storage,Low,113B,81B,109B
+2020-05-28 11:00,USD,Crude Oil Inventories,Low,-2.5M,-5.0M,7.9M
+2020-05-28 15:29,EUR,German Prelim CPI m/m,Low,0.1%,0.4%,-0.1%
+2020-05-28 19:30,JPY,Tokyo Core CPI y/y,Low,-0.2%,-0.1%,0.2%
+2020-05-28 19:50,JPY,Prelim Industrial Production m/m,Low,-5.5%,-3.7%,-9.1%
+2020-05-28 21:30,AUD,Private Sector Credit m/m,Low,0.6%,1.1%,0.0%
+2020-05-29 00:00,CAD,IPPI m/m,Low,-2.0%,-1.5%,-2.3%
+2020-05-29 00:00,CAD,RMPI m/m,Medium,-23.9%,-15.6%,-13.4%
+2020-05-29 00:00,EUR,CPI Flash Estimate y/y,Low,0.1%,0.3%,0.1%
+2020-05-29 00:00,EUR,French Prelim CPI m/m,Low,0.1%,0.0%,0.0%
+2020-05-29 00:00,EUR,French Prelim GDP q/q,Low,-5.8%,-5.8%,-5.3%
+2020-05-29 00:00,EUR,German Retail Sales m/m,Low,-12.0%,-4.0%,-5.3%
+2020-05-29 00:00,EUR,Italian Prelim CPI m/m,Low,-0.1%,0.1%,-0.1%
+2020-05-29 00:00,EUR,Private Loans y/y,Low,3.5%,3.4%,3.0%
+2020-05-29 00:00,JPY,Retail Sales y/y,Low,-11.2%,-4.7%,-13.7%
+2020-05-29 00:00,JPY,Unemployment Rate,Low,2.7%,2.5%,2.6%
+2020-05-29 00:00,USD,Core PCE Price Index m/m,Medium,-0.3%,0.0%,-0.4%
+2020-05-29 00:00,USD,Goods Trade Balance,Low,-64.8B,-65.0B,-69.7B
+2020-05-29 00:00,USD,Personal Income m/m,Low,-7.0%,-2.2%,10.5%
+2020-05-29 00:00,USD,Personal Spending m/m,Medium,-12.6%,-6.9%,-13.6%
+2020-05-29 00:00,USD,Prelim Wholesale Inventories m/m,Low,-0.5%,-0.8%,0.4%
+2020-05-29 00:00,USD,Revised UoM Inflation Expectations,Low,,3.0%,3.2%
+2020-05-29 01:00,JPY,Housing Starts y/y,Low,-12.0%,-7.6%,-12.9%
+2020-05-29 01:02,JPY,Consumer Confidence,Low,21.3,21.6,24.0
+2020-05-29 02:00,EUR,German Import Prices m/m,Low,-1.5%,-3.5%,-1.8%
+2020-05-29 02:45,EUR,French Consumer Spending m/m,Low,-14.5%,-16.9%,-20.2%
+2020-05-29 03:00,CHF,KOF Economic Barometer,Low,70.2,59.7,53.2
+2020-05-29 04:00,EUR,M3 Money Supply y/y,Low,8.1%,7.5%,8.3%
+2020-05-29 05:00,EUR,Core CPI Flash Estimate y/y,Low,0.8%,0.9%,0.9%
+2020-05-29 05:21,EUR,Italian 10-y Bond Auction,Low,,1.78|1.3,1.42|1.3
+2020-05-29 08:30,CAD,GDP m/m,High,-9.0%,0.0%,-7.2%
+2020-05-29 09:45,USD,Chicago PMI,Medium,40.1,35.4,32.3
+2020-05-29 10:00,USD,Revised UoM Consumer Sentiment,Medium,73.7,73.7,72.3
+2020-05-29 11:00,USD,Fed Chair Powell Speaks,High,,,
+2020-05-29 14:00,USD,President Trump Speaks,High,,,
+2020-05-30 21:00,CNY,Manufacturing PMI,High,51.1,50.8,50.6
+2020-05-31 00:00,CNY,Non-Manufacturing PMI,Medium,53.5,53.2,53.6
+2020-05-31 18:30,AUD,AIG Manufacturing Index,Low,,35.8,41.6
+2020-05-31 19:50,JPY,Capital Spending q/y,Low,-5.1%,-3.5%,4.3%
+2020-05-31 20:30,JPY,Final Manufacturing PMI,Low,38.4,38.4,38.4
+2020-05-31 21:00,AUD,MI Inflation Gauge m/m,Low,,-0.1%,-1.2%
+2020-05-31 21:45,CNY,Caixin Manufacturing PMI,Low,49.7,49.4,50.7

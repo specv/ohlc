@@ -1,0 +1,355 @@
+datetime,currency,title,impact,forecast,previous,actual
+2008-04-01 00:00,AUD,RBA Rate Statement,High,,,
+2008-04-01 00:00,CAD,IPPI m/m,Low,0.7%,1.0%,0.1%
+2008-04-01 00:00,EUR,German Final Manufacturing PMI,Low,54.9,54.9,55.1
+2008-04-01 00:00,JPY,Tankan Non-Manufacturing Index,Medium,12,16,12
+2008-04-01 00:00,USD,Construction Spending m/m,Low,-1.0%,-1.0%,-0.3%
+2008-04-01 00:00,USD,ISM Manufacturing Prices,Low,75.1,75.5,83.5
+2008-04-01 02:00,EUR,German Retail Sales m/m,Medium,0.5%,0.9%,-1.6%
+2008-04-01 02:30,AUD,Commodity Prices y/y,Medium,,9.7%,9.5%
+2008-04-01 03:15,EUR,Spanish Manufacturing PMI,Low,,46.7,46.4
+2008-04-01 03:30,CHF,Manufacturing PMI,Medium,60.0,60.5,55.3
+2008-04-01 03:45,EUR,Italian Manufacturing PMI,Low,50.2,50.6,49.4
+2008-04-01 03:50,EUR,French Final Manufacturing PMI,Low,52.0,52.0,51.9
+2008-04-01 03:55,EUR,German Unemployment Change,Medium,-52K,-68K,-48K
+2008-04-01 04:00,EUR,Final Manufacturing PMI,Low,52.0,52.0,52.0
+2008-04-01 04:30,GBP,Final Manufacturing PMI,High,51.1,51.3,51.3
+2008-04-01 05:00,EUR,Unemployment Rate,Low,7.1%,7.1%,7.1%
+2008-04-01 07:30,USD,Challenger Job Cuts y/y,Low,,19.1%,-14.2%
+2008-04-01 08:30,CAD,RMPI m/m,Medium,2.6%,3.6%,0.5%
+2008-04-01 10:00,USD,ISM Manufacturing PMI,High,47.5,48.3,48.6
+2008-04-01 15:29,USD,Total Vehicle Sales,Low,15.2M,15.4M,15.1M
+2008-04-01 19:50,JPY,Monetary Base y/y,Low,0.1%,0.1%,0.0%
+2008-04-02 00:00,GBP,Housing Equity Withdrawal q/q,Low,9.6B,10.8B,7.3B
+2008-04-02 00:00,GBP,Mortgage Approvals,Low,72K,74K,73K
+2008-04-02 00:00,GBP,Net Lending to Individuals m/m,Low,8.1B,8.4B,9.8B
+2008-04-02 02:30,CHF,Gov Board Member Jordan Speaks,Medium,,,
+2008-04-02 03:00,EUR,Spanish Unemployment Change,Low,,53.4K,-14.4K
+2008-04-02 04:30,GBP,Construction PMI,Medium,52.0,52.4,47.2
+2008-04-02 05:00,EUR,PPI m/m,Low,0.5%,0.9%,0.6%
+2008-04-02 08:15,USD,ADP Non-Farm Employment Change,High,-40K,-18K,8K
+2008-04-02 08:30,CAD,Gov Council Member Jenkins Speaks,Medium,,,
+2008-04-02 09:30,USD,Fed Chairman Bernanke Testifies,High,,,
+2008-04-02 10:00,USD,Factory Orders m/m,Medium,-0.8%,-2.3%,-1.3%
+2008-04-02 10:30,USD,Crude Oil Inventories,Low,2.3M,0.1M,7.3M
+2008-04-02 16:30,GBP,MPC Member Tucker Speaks,Medium,,,
+2008-04-02 18:30,AUD,AIG Services Index,Low,,53.2,53.8
+2008-04-02 21:00,CNY,Non-Manufacturing PMI,Low,,46.9,60.3
+2008-04-02 22:00,NZD,ANZ Commodity Prices m/m,Low,,1.1%,2.0%
+2008-04-03 00:00,GBP,BOE Credit Conditions Survey,Medium,,,
+2008-04-03 00:00,USD,FOMC Member Geithner Speaks,High,,,
+2008-04-03 00:00,USD,ISM Services PMI,High,48.5,49.3,49.6
+2008-04-03 03:15,EUR,Spanish Services PMI,Low,,46.1,40.9
+2008-04-03 03:45,EUR,Italian Services PMI,Low,47.3,47.2,48.8
+2008-04-03 03:50,EUR,French Final Services PMI,Low,57.3,57.3,57.3
+2008-04-03 03:55,EUR,German Final Services PMI,Low,52.5,52.5,51.8
+2008-04-03 04:00,EUR,Final Services PMI,Low,51.7,51.7,51.6
+2008-04-03 04:30,GBP,Final Services PMI,High,53.3,54.0,52.1
+2008-04-03 04:55,EUR,French 10-y Bond Auction,Low,,4.07|2.5,4.24|2.0
+2008-04-03 05:00,EUR,Retail Sales m/m,Medium,0.2%,0.5%,-0.5%
+2008-04-03 06:30,EUR,ECB President Trichet Speaks,Medium,,,
+2008-04-03 08:30,USD,Unemployment Claims,Medium,366K,371K,407K
+2008-04-03 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2008-04-03 10:30,USD,Natural Gas Storage,Low,-34B,-36B,-29B
+2008-04-03 18:00,AUD,RBA Gov Stevens Speaks,High,,,
+2008-04-03 19:30,USD,FOMC Member Mishkin Speaks,Low,,,
+2008-04-03 20:30,AUD,Retail Sales m/m,High,0.3%,-0.1%,-0.1%
+2008-04-04 00:00,CAD,Unemployment Rate,High,5.8%,5.8%,6.0%
+2008-04-04 00:00,USD,Average Hourly Earnings m/m,Medium,0.3%,0.3%,0.3%
+2008-04-04 00:00,USD,Unemployment Rate,High,5.0%,4.8%,5.1%
+2008-04-04 01:45,CHF,CPI m/m,High,0.2%,0.1%,0.3%
+2008-04-04 02:45,EUR,French Gov Budget Balance,Low,,-6.6B,-22.7B
+2008-04-04 03:00,CHF,Foreign Currency Reserves,Low,,49B,46B
+2008-04-04 06:00,EUR,German Factory Orders m/m,Medium,0.8%,-0.7%,-0.5%
+2008-04-04 07:00,CAD,Employment Change,High,15.0K,43.3K,14.6K
+2008-04-04 07:30,USD,Challenger Job Cuts y/y,Low,,-14.2%,9.4%
+2008-04-04 08:30,USD,Non-Farm Employment Change,High,-50K,-76K,-80K
+2008-04-04 08:45,USD,FOMC Member Pianalto Speaks,Low,,,
+2008-04-04 10:00,CAD,Ivey PMI,High,62.5,62.0,59.0
+2008-04-04 14:45,USD,FOMC Member Kroszner Speaks,Medium,,,
+2008-04-06 21:30,AUD,Building Approvals m/m,High,0.0%,1.4%,0.1%
+2008-04-07 00:00,AUD,ANZ Job Advertisements m/m,Medium,,-2.1%,-0.7%
+2008-04-07 00:00,AUD,Goods Trade Balance,High,-2.52B,-2.54B,-3.29B
+2008-04-07 01:00,JPY,Leading Indicators,Low,50.0%,36.4%,50.0%
+2008-04-07 01:45,CHF,Unemployment Rate,Low,2.5%,2.5%,2.5%
+2008-04-07 02:45,EUR,French Trade Balance,Low,-3.4B,-3.2B,-2.8B
+2008-04-07 04:30,EUR,Sentix Investor Confidence,Low,0.2,0.4,4.1
+2008-04-07 06:00,EUR,German Industrial Production m/m,Medium,-0.4%,1.4%,0.4%
+2008-04-07 08:30,CAD,Building Permits m/m,High,0.9%,-3.5%,-1.0%
+2008-04-07 15:00,USD,Consumer Credit m/m,Low,5.5B,10.3B,5.2B
+2008-04-07 17:30,USD,FOMC Member Kohn Speaks,Low,,,
+2008-04-07 18:00,NZD,NZIER Business Confidence,High,,-26,-64
+2008-04-07 21:30,AUD,NAB Business Confidence,Low,,-2,-4
+2008-04-08 00:00,USD,JOLTS Job Openings,Low,,3.89M,3.82M
+2008-04-08 00:00,USD,RCM/TIPP Economic Optimism,Low,41.5,42.5,39.2
+2008-04-08 01:00,JPY,Economy Watchers Sentiment,Low,36.0,33.6,36.9
+2008-04-08 03:00,GBP,Halifax HPI m/m,High,-0.3%,-0.4%,-2.5%
+2008-04-08 07:30,USD,NFIB Small Business Index,Low,,92.9,89.6
+2008-04-08 08:15,CAD,Housing Starts,High,225K,256K,255K
+2008-04-08 10:00,USD,Pending Home Sales m/m,High,-0.8%,0.3%,-1.9%
+2008-04-08 14:00,USD,FOMC Meeting Minutes,High,,,
+2008-04-08 19:01,GBP,Nationwide Consumer Confidence,Medium,76,78,77
+2008-04-08 20:30,AUD,Westpac Consumer Sentiment,Medium,,-9.1%,-1.3%
+2008-04-08 23:25,JPY,Overnight Call Rate,Medium,0.50%,0.50%,0.50%
+2008-04-09 00:00,GBP,Industrial Production m/m,Low,0.1%,-0.1%,0.3%
+2008-04-09 00:00,JPY,BOJ Monthly Report,Medium,,,
+2008-04-09 00:00,JPY,Prelim Machine Tool Orders y/y,Low,,-0.5%,2.9%
+2008-04-09 00:00,USD,Crude Oil Inventories,Low,2.3M,7.3M,-3.1M
+2008-04-09 02:00,EUR,German Trade Balance,Low,15.8B,16.1B,16.4B
+2008-04-09 03:22,JPY,BOJ Press Conference,High,,,
+2008-04-09 04:30,GBP,Manufacturing Production m/m,High,0.0%,0.5%,0.4%
+2008-04-09 05:00,EUR,Final GDP q/q,Low,0.4%,0.4%,0.4%
+2008-04-09 05:26,GBP,BRC Shop Price Index y/y,Low,,1.3%,1.1%
+2008-04-09 09:30,USD,Fed Chairman Bernanke Speaks,High,,,
+2008-04-09 10:00,USD,Final Wholesale Inventories m/m,Low,0.5%,1.3%,1.1%
+2008-04-09 10:30,GBP,CB Leading Index m/m,Low,,-0.3%,-0.3%
+2008-04-09 13:30,USD,FOMC Member Fisher Speaks,Medium,,,
+2008-04-09 18:42,NZD,BusinessNZ Manufacturing Index,Low,,51.8,48.3
+2008-04-09 19:01,GBP,NIESR GDP Estimate,Low,,0.6%,0.5%
+2008-04-09 19:30,AUD,AIG Construction Index,Low,,53.9,48.4
+2008-04-09 19:50,JPY,Core Machinery Orders m/m,Medium,-14.0%,19.6%,-12.7%
+2008-04-09 21:00,AUD,MI Inflation Expectations,Low,,4.6%,4.3%
+2008-04-09 21:30,AUD,Employment Change,High,10.0K,7.2K,14.8K
+2008-04-09 23:15,CNY,Foreign Direct Investment ytd/y,Low,,75.2%,61.3%
+2008-04-10 00:00,AUD,Unemployment Rate,Medium,4.1%,4.0%,4.1%
+2008-04-10 00:00,EUR,ECB Press Conference,High,,,
+2008-04-10 00:00,GBP,Official Bank Rate,High,5.00%,5.25%,5.00%
+2008-04-10 00:00,JPY,Bank Lending y/y,Low,,0.8%,1.1%
+2008-04-10 00:00,JPY,Current Account,Low,1.61T,2.07T,1.46T
+2008-04-10 00:00,JPY,M2 Money Stock y/y,Low,2.4%,2.3%,2.2%
+2008-04-10 00:00,USD,Trade Balance,High,-57.4B,-59.0B,-62.3B
+2008-04-10 00:00,USD,Unemployment Claims,High,385K,406K,357K
+2008-04-10 02:45,EUR,French Industrial Production m/m,Medium,0.0%,0.6%,0.3%
+2008-04-10 04:00,EUR,Italian Industrial Production m/m,Low,-0.3%,1.2%,-0.2%
+2008-04-10 04:30,GBP,Goods Trade Balance,Medium,-7.6B,-7.9B,-7.5B
+2008-04-10 07:00,GBP,MPC Rate Statement,High,,,
+2008-04-10 07:45,EUR,Main Refinancing Rate,Medium,4.00%,4.00%,4.00%
+2008-04-10 08:30,CAD,Trade Balance,High,3.4B,2.8B,4.9B
+2008-04-10 10:30,USD,Natural Gas Storage,Low,-15B,-29B,-14B
+2008-04-10 13:00,USD,Fed Chairman Bernanke Speaks,High,,,
+2008-04-10 14:00,USD,Federal Budget Balance,Medium,-71.0B,-175.6B,-48.1B
+2008-04-10 16:30,CAD,Gov Council Member Longworth Speaks,Medium,,,
+2008-04-10 19:50,JPY,PPI y/y,Low,3.4%,3.6%,3.9%
+2008-04-10 22:00,CNY,New Loans,Medium,,243B,283B
+2008-04-11 00:00,CNY,M2 Money Supply y/y,Low,17.2%,17.5%,16.3%
+2008-04-11 00:00,CNY,USD-Denominated Trade Balance,High,11.9B,8.6B,13.4B
+2008-04-11 00:00,USD,Import Prices m/m,Medium,1.9%,0.2%,2.8%
+2008-04-11 00:00,USD,Prelim UoM Inflation Expectations,Low,,4.3%,4.8%
+2008-04-11 02:00,EUR,German WPI m/m,Low,0.5%,-0.2%,1.6%
+2008-04-11 08:30,CAD,NHPI m/m,Low,0.4%,0.6%,0.3%
+2008-04-11 09:00,USD,FOMC Member Fisher Speaks,Low,,,
+2008-04-11 09:55,USD,Prelim UoM Consumer Sentiment,High,69.0,69.5,63.2
+2008-04-11 15:29,All,G7 Meetings,High,,,
+2008-04-11 18:45,USD,Treasury Sec Paulson Speaks,Medium,,,
+2008-04-12 15:29,All,IMF Meetings,Low,,,
+2008-04-13 15:29,All,IMF Meetings,Medium,,,
+2008-04-13 15:29,EUR,Italian Parliamentary Election,Low,,,
+2008-04-13 18:45,NZD,Core Retail Sales m/m,High,0.3%,0.4%,0.2%
+2008-04-13 19:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2008-04-13 21:30,AUD,Home Loans m/m,High,0.5%,3.1%,-5.9%
+2008-04-14 00:00,GBP,PPI Output m/m,Low,0.5%,0.5%,0.9%
+2008-04-14 00:00,NZD,Retail Sales m/m,High,0.0%,0.3%,-0.7%
+2008-04-14 00:00,USD,Core Retail Sales m/m,High,0.1%,-0.1%,0.1%
+2008-04-14 00:00,USD,Retail Sales m/m,High,0.0%,-0.4%,0.2%
+2008-04-14 04:30,GBP,PPI Input m/m,High,1.8%,1.9%,1.8%
+2008-04-14 05:00,EUR,Industrial Production m/m,Medium,0.2%,0.6%,0.3%
+2008-04-14 08:30,CAD,New Motor Vehicle Sales m/m,Low,-1.5%,9.1%,-3.2%
+2008-04-14 10:00,USD,Business Inventories m/m,Medium,0.6%,0.9%,0.6%
+2008-04-14 10:30,CAD,BOC Business Outlook Survey,High,,,
+2008-04-14 15:15,USD,FOMC Member Warsh Speaks,Medium,,,
+2008-04-14 15:29,EUR,Italian Parliamentary Election,Low,,,
+2008-04-14 17:30,EUR,ECB President Trichet Speaks,Medium,,,
+2008-04-14 18:45,NZD,CPI q/q,High,0.9%,1.2%,0.7%
+2008-04-14 19:01,GBP,BRC Retail Sales Monitor y/y,Medium,,1.5%,-1.6%
+2008-04-14 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2008-04-14 22:40,AUD,RBA Gov Stevens Speaks,Medium,,,
+2008-04-14 23:45,JPY,30-y Bond Auction,Low,,2.30|3.8,2.45|3.9
+2008-04-15 00:00,EUR,ZEW Economic Sentiment,Medium,-33.0,-35.0,-44.8
+2008-04-15 00:00,GBP,Core CPI y/y,Medium,1.3%,1.2%,1.2%
+2008-04-15 00:00,GBP,ONS HPI y/y,Low,7.5%,8.0%,6.7%
+2008-04-15 00:00,GBP,RICS House Price Balance,Medium,-67%,-66%,-79%
+2008-04-15 00:00,GBP,RPI y/y,Low,3.9%,4.1%,3.8%
+2008-04-15 00:00,NZD,FPI m/m,Low,,1.2%,0.7%
+2008-04-15 00:00,USD,Core PPI m/m,Medium,0.2%,0.5%,0.2%
+2008-04-15 00:00,USD,Empire State Manufacturing Index,Medium,-17.0,-22.2,0.6
+2008-04-15 02:45,EUR,French Final CPI m/m,Low,0.5%,0.2%,0.8%
+2008-04-15 04:30,GBP,CPI y/y,High,2.6%,2.5%,2.5%
+2008-04-15 05:00,EUR,German ZEW Economic Sentiment,High,-30.0,-32.0,-40.7
+2008-04-15 08:30,USD,PPI m/m,High,0.6%,0.3%,1.1%
+2008-04-15 09:00,USD,TIC Long-Term Purchases,High,58.0B,57.1B,72.5B
+2008-04-15 13:00,USD,NAHB Housing Market Index,Low,20,20,20
+2008-04-15 20:30,AUD,MI Leading Index m/m,Low,,0.0%,0.0%
+2008-04-16 00:00,CNY,Fixed Asset Investment ytd/y,Medium,24.0%,24.3%,25.9%
+2008-04-16 00:00,EUR,Final CPI y/y,Medium,3.5%,3.5%,3.6%
+2008-04-16 00:00,GBP,Average Earnings Index 3m/y,Medium,3.6%,3.9%,3.7%
+2008-04-16 00:00,GBP,Unemployment Rate,Low,5.2%,5.2%,5.2%
+2008-04-16 00:00,USD,Building Permits,High,0.97M,0.98M,0.93M
+2008-04-16 00:00,USD,CPI m/m,Medium,0.3%,0.0%,0.3%
+2008-04-16 00:00,USD,CPI y/y,High,4.0%,4.0%,4.0%
+2008-04-16 00:00,USD,Core CPI m/m,High,0.2%,0.0%,0.2%
+2008-04-16 00:00,USD,Housing Starts,Medium,1.01M,1.08M,0.95M
+2008-04-16 00:00,USD,Industrial Production m/m,Medium,-0.1%,-0.7%,0.3%
+2008-04-16 02:00,EUR,German Final CPI m/m,Low,0.5%,0.5%,0.5%
+2008-04-16 02:30,CNY,Industrial Production y/y,High,16.5%,15.4%,17.8%
+2008-04-16 04:00,EUR,Italian Trade Balance,Low,-1.55B,-4.11B,-0.41B
+2008-04-16 04:30,GBP,Claimant Count Change,High,-1.8K,0.6K,-1.2K
+2008-04-16 05:00,EUR,Final Core CPI y/y,Medium,1.9%,1.8%,2.0%
+2008-04-16 08:30,CAD,Manufacturing Sales m/m,Medium,0.8%,1.3%,1.6%
+2008-04-16 09:15,USD,Capacity Utilization Rate,Medium,80.3%,80.3%,80.5%
+2008-04-16 10:35,USD,Crude Oil Inventories,Low,1.8M,-3.1M,-2.4M
+2008-04-16 12:30,USD,FOMC Member Plosser Speaks,Medium,,,
+2008-04-16 14:00,USD,Beige Book,Medium,,,
+2008-04-16 14:30,USD,FOMC Member Mishkin Speaks,High,,,
+2008-04-16 22:00,CNY,GDP q/y,High,10.4%,11.2%,10.6%
+2008-04-17 00:00,CAD,CPI m/m,Medium,0.5%,0.4%,0.4%
+2008-04-17 00:00,CNY,CPI y/y,Medium,8.2%,8.7%,8.3%
+2008-04-17 00:00,CNY,NBS Press Conference,Medium,,,
+2008-04-17 00:00,CNY,PPI y/y,Medium,6.9%,6.6%,8.0%
+2008-04-17 00:00,CNY,Retail Sales y/y,Low,20.0%,20.2%,21.5%
+2008-04-17 00:00,EUR,Trade Balance,Low,-2.0B,-1.0B,2.1B
+2008-04-17 00:00,USD,CB Leading Index m/m,Low,0.1%,-0.3%,0.1%
+2008-04-17 00:00,USD,Natural Gas Storage,Low,16B,-14B,27B
+2008-04-17 00:30,JPY,Revised Industrial Production m/m,Low,-1.2%,-1.2%,1.6%
+2008-04-17 03:17,CHF,Retail Sales y/y,Medium,3.2%,1.3%,7.6%
+2008-04-17 04:00,EUR,ECB Monthly Bulletin,Medium,,,
+2008-04-17 05:00,CHF,UBS Economic Expectations,Medium,,-71.7,-71.4
+2008-04-17 06:00,EUR,German Buba President Weber Speaks,Medium,,,
+2008-04-17 07:00,CAD,Core CPI m/m,High,0.3%,0.5%,0.2%
+2008-04-17 08:30,USD,Unemployment Claims,High,375K,355K,372K
+2008-04-17 09:45,USD,FOMC Member Kohn Speaks,Medium,,,
+2008-04-17 10:00,USD,Philly Fed Manufacturing Index,Medium,-15.0,-17.4,-24.9
+2008-04-17 10:30,CHF,SNB Chairman Roth Speaks,Medium,,,
+2008-04-17 14:00,USD,FOMC Member Fisher Speaks,Medium,,,
+2008-04-17 15:20,GBP,MPC Member Bean Speaks,Medium,,,
+2008-04-17 21:30,AUD,Import Prices q/q,Low,0.5%,0.2%,2.7%
+2008-04-18 00:00,AUD,RBA Bulletin,Low,,,
+2008-04-18 00:00,CAD,Leading Index m/m,Low,0.0%,-0.2%,0.0%
+2008-04-18 00:00,GBP,Public Sector Net Borrowing,Low,7.8B,0.2B,10.2B
+2008-04-18 01:00,JPY,Consumer Confidence,Low,36.5,36.1,36.7
+2008-04-18 02:00,EUR,German PPI m/m,Medium,0.5%,0.7%,0.7%
+2008-04-18 04:30,GBP,M4 Money Supply m/m,Low,0.5%,0.2%,0.8%
+2008-04-18 08:30,CAD,Wholesale Sales m/m,Medium,0.5%,1.8%,-1.8%
+2008-04-18 12:00,USD,FOMC Member Plosser Speaks,Medium,,,
+2008-04-20 18:45,NZD,Visitor Arrivals m/m,Low,,5.4%,-0.3%
+2008-04-20 19:01,GBP,Rightmove HPI m/m,Medium,,0.8%,-0.1%
+2008-04-20 19:50,JPY,Tertiary Industry Activity m/m,Medium,-0.5%,0.4%,-1.7%
+2008-04-20 21:30,AUD,PPI q/q,High,1.0%,0.6%,1.9%
+2008-04-20 23:00,NZD,Credit Card Spending y/y,Low,,8.0%,3.5%
+2008-04-21 00:00,AUD,New Motor Vehicle Sales m/m,Low,,-2.4%,1.0%
+2008-04-21 03:15,CHF,PPI m/m,Medium,0.3%,0.2%,0.6%
+2008-04-21 05:00,EUR,ECB President Trichet Speaks,Medium,,,
+2008-04-21 06:00,EUR,German Buba Monthly Report,Medium,,,
+2008-04-21 08:30,CAD,Foreign Securities Purchases,Medium,1.53B,0.94B,3.80B
+2008-04-21 13:30,USD,FOMC Member Kroszner Speaks,Medium,,,
+2008-04-22 00:00,CAD,Overnight Rate,High,3.00%,3.50%,3.00%
+2008-04-22 00:00,USD,HPI m/m,Low,-1.5%,-1.0%,0.6%
+2008-04-22 00:00,USD,Richmond Manufacturing Index,Low,3,6,0
+2008-04-22 02:15,CHF,Trade Balance,Low,0.75B,1.50B,1.25B
+2008-04-22 07:00,GBP,MPC Member Besley Speaks,Medium,,,
+2008-04-22 09:00,CAD,BOC Rate Statement,High,,,
+2008-04-22 10:00,USD,Existing Home Sales,High,4.90M,5.03M,4.93M
+2008-04-22 19:50,JPY,Trade Balance,Low,0.89T,0.61T,0.77T
+2008-04-22 21:30,AUD,CPI q/q,High,1.1%,0.9%,1.3%
+2008-04-23 00:00,AUD,Trimmed Mean CPI q/q,Medium,1.0%,1.0%,1.2%
+2008-04-23 00:00,CAD,Retail Sales m/m,Medium,0.1%,1.4%,-0.7%
+2008-04-23 00:00,EUR,Flash Services PMI,Low,51.4,51.6,51.8
+2008-04-23 00:00,EUR,French Flash Services PMI,Low,53.0,57.3,54.0
+2008-04-23 00:00,EUR,German Flash Services PMI,Low,51.5,51.8,54.6
+2008-04-23 00:00,EUR,Italian Retail Sales m/m,Low,-0.1%,0.3%,0.3%
+2008-04-23 00:00,GBP,High Street Lending,Medium,,43.1K,35.4K
+2008-04-23 02:45,EUR,French Consumer Spending m/m,Medium,-0.2%,1.3%,-1.7%
+2008-04-23 03:00,EUR,French Flash Manufacturing PMI,Medium,51.7,51.9,51.5
+2008-04-23 03:30,EUR,German Flash Manufacturing PMI,Medium,54.7,55.1,53.6
+2008-04-23 04:00,EUR,Flash Manufacturing PMI,Medium,51.6,52.0,50.8
+2008-04-23 04:30,GBP,MPC Official Bank Rate Votes,High,0-9-0,0-2-7,0-7-2
+2008-04-23 05:00,EUR,Industrial New Orders m/m,Medium,-0.3%,2.2%,0.6%
+2008-04-23 08:30,CAD,Core Retail Sales m/m,High,0.4%,1.1%,-0.3%
+2008-04-23 09:00,EUR,Belgian NBB Business Climate,Medium,0.5,1.2,-7.9
+2008-04-23 10:30,USD,Crude Oil Inventories,Low,1.5M,-2.4M,2.4M
+2008-04-23 13:00,GBP,MPC Member Sentance Speaks,Medium,,,
+2008-04-23 17:00,NZD,Official Cash Rate,High,8.25%,8.25%,8.25%
+2008-04-23 19:50,JPY,All Industries Activity m/m,Low,-0.4%,0.0%,-1.4%
+2008-04-24 00:00,EUR,Current Account,Low,1.0B,-7.9B,4.3B
+2008-04-24 00:00,JPY,SPPI y/y,Low,0.7%,0.7%,0.4%
+2008-04-24 00:00,NZD,RBNZ Rate Statement,High,,,
+2008-04-24 00:00,USD,Core Durable Goods Orders m/m,High,0.5%,-2.1%,1.5%
+2008-04-24 00:00,USD,Durable Goods Orders m/m,Medium,0.1%,-0.9%,-0.3%
+2008-04-24 00:00,USD,Natural Gas Storage,Low,22B,27B,24B
+2008-04-24 00:00,USD,Unemployment Claims,Medium,375K,375K,342K
+2008-04-24 04:00,EUR,German ifo Business Climate,High,104.3,104.8,102.4
+2008-04-24 04:30,GBP,Retail Sales m/m,High,-0.3%,1.1%,-0.4%
+2008-04-24 06:00,GBP,CBI Industrial Order Expectations,Medium,4,7,-13
+2008-04-24 08:30,EUR,ECB President Trichet Speaks,High,,,
+2008-04-24 10:00,USD,New Home Sales,High,580K,575K,526K
+2008-04-24 10:30,CAD,BOC Monetary Policy Report,High,,,
+2008-04-24 11:15,CAD,BOC Press Conference,High,,,
+2008-04-24 19:30,JPY,Tokyo Core CPI y/y,Medium,0.5%,0.6%,0.7%
+2008-04-25 00:00,EUR,M3 Money Supply y/y,Low,10.6%,11.3%,10.3%
+2008-04-25 00:00,EUR,Private Loans y/y,Low,10.8%,11.0%,10.8%
+2008-04-25 00:00,GBP,Index of Services 3m/3m,Low,0.4%,0.5%,0.3%
+2008-04-25 00:00,JPY,National Core CPI y/y,Low,1.2%,1.0%,1.2%
+2008-04-25 00:00,USD,Revised UoM Inflation Expectations,Low,,4.8%,4.8%
+2008-04-25 02:00,EUR,German Import Prices m/m,Low,0.7%,1.1%,0.4%
+2008-04-25 03:00,EUR,Spanish Unemployment Rate,Low,9.2%,8.6%,9.6%
+2008-04-25 04:00,CHF,SNB Chairman Roth Speaks,Medium,,,
+2008-04-25 04:30,GBP,Prelim GDP q/q,High,0.4%,0.6%,0.4%
+2008-04-25 09:20,USD,President Bush Speaks,Low,,,
+2008-04-25 09:55,USD,Revised UoM Consumer Sentiment,Medium,63.3,63.2,62.6
+2008-04-27 19:50,JPY,Retail Sales y/y,Medium,1.0%,3.2%,1.1%
+2008-04-28 00:00,EUR,German GfK Consumer Climate,Medium,4.6,4.8,5.9
+2008-04-28 02:00,CHF,Gov Board Member Jordan Speaks,Medium,,,
+2008-04-28 03:00,EUR,ECB President Trichet Speaks,Medium,,,
+2008-04-28 05:00,EUR,EU Economic Forecasts,Low,,,
+2008-04-28 15:29,EUR,German Prelim CPI m/m,Medium,0.2%,0.5%,-0.2%
+2008-04-28 18:45,NZD,Trade Balance,High,400M,259M,-50M
+2008-04-28 20:00,AUD,CB Leading Index m/m,Low,,-0.5%,-0.2%
+2008-04-28 21:30,AUD,NAB Quarterly Business Confidence,Medium,,6,-4
+2008-04-29 00:00,EUR,Retail PMI,Low,,48.2,41.8
+2008-04-29 00:00,GBP,Net Lending to Individuals m/m,Low,8.4B,9.6B,8.2B
+2008-04-29 04:00,CHF,UBS Consumption Indicator,Medium,,2.32,2.29
+2008-04-29 04:30,GBP,Mortgage Approvals,Low,65K,72K,64K
+2008-04-29 04:45,GBP,BOE Gov King Speaks,High,,,
+2008-04-29 05:22,EUR,Italian 10-y Bond Auction,Low,,4.42|1.4,4.65|1.3
+2008-04-29 06:00,GBP,CBI Realized Sales,High,-3,1,-26
+2008-04-29 06:30,GBP,MPC Member Tucker Speaks,Medium,,,
+2008-04-29 09:00,USD,S&P/CS Composite-20 HPI y/y,Low,-12.1%,-10.7%,-12.7%
+2008-04-29 10:00,USD,CB Consumer Confidence,High,62.0,65.9,62.3
+2008-04-29 13:00,GBP,MPC Member Blanchflower Speaks,Medium,,,
+2008-04-29 18:45,NZD,Building Consents m/m,High,,-6.6%,-9.1%
+2008-04-29 19:01,GBP,GfK Consumer Confidence,Medium,-20,-19,-24
+2008-04-29 19:15,JPY,Final Manufacturing PMI,Low,,49.5,48.6
+2008-04-29 19:30,JPY,Household Spending y/y,Low,0.4%,0.0%,-1.6%
+2008-04-29 19:50,JPY,Prelim Industrial Production m/m,Medium,-0.7%,1.6%,-3.1%
+2008-04-29 21:30,AUD,Private Sector Credit m/m,Medium,0.8%,0.6%,0.8%
+2008-04-29 22:10,AUD,HIA New Home Sales m/m,Medium,,-5.3%,-6.0%
+2008-04-29 23:00,NZD,ANZ Business Confidence,Medium,,-57.9,-54.8
+2008-04-30 00:00,CAD,IPPI m/m,Low,0.9%,0.2%,1.7%
+2008-04-30 00:00,CAD,RMPI m/m,Medium,1.9%,0.6%,6.6%
+2008-04-30 00:00,EUR,Consumer Confidence,Low,-13,-12,-12
+2008-04-30 00:00,EUR,Italian Prelim CPI m/m,Low,0.3%,0.5%,0.1%
+2008-04-30 00:00,EUR,Unemployment Rate,Low,7.1%,7.1%,7.1%
+2008-04-30 00:00,JPY,BOJ Outlook Report,Medium,,,
+2008-04-30 00:00,JPY,Unemployment Rate,Low,3.9%,3.9%,3.8%
+2008-04-30 00:00,USD,Advance GDP Price Index q/q,Medium,3.0%,2.4%,2.6%
+2008-04-30 00:00,USD,Advance GDP q/q,High,0.2%,0.6%,0.6%
+2008-04-30 00:00,USD,Employment Cost Index q/q,Medium,0.8%,0.8%,0.7%
+2008-04-30 00:00,USD,FOMC Statement,High,,,
+2008-04-30 00:28,JPY,Overnight Call Rate,Medium,0.50%,0.50%,0.50%
+2008-04-30 01:00,JPY,Housing Starts y/y,Low,-6.5%,-5.0%,-15.6%
+2008-04-30 02:00,GBP,Nationwide HPI m/m,High,-0.5%,-0.7%,-1.1%
+2008-04-30 03:28,JPY,BOJ Press Conference,High,,,
+2008-04-30 03:55,EUR,German Unemployment Change,Medium,-12K,-48K,-7K
+2008-04-30 05:00,EUR,CPI Flash Estimate y/y,Medium,3.4%,3.6%,3.3%
+2008-04-30 05:04,EUR,French 10-y Bond Auction,Low,,4.24|2.0,4.35|2.3
+2008-04-30 05:24,CHF,KOF Economic Barometer,Medium,1.46,1.40,1.20
+2008-04-30 07:55,EUR,ECB President Trichet Speaks,Medium,,,
+2008-04-30 08:15,USD,ADP Non-Farm Employment Change,High,-60K,3K,10K
+2008-04-30 08:30,CAD,GDP m/m,High,0.2%,0.6%,-0.2%
+2008-04-30 09:45,USD,Chicago PMI,Medium,47.5,48.2,48.3
+2008-04-30 10:30,USD,Crude Oil Inventories,Low,0.9M,2.4M,3.8M
+2008-04-30 11:45,CAD,BOC Gov Carney Speaks,Medium,,,
+2008-04-30 14:15,USD,Federal Funds Rate,High,2.00%,2.25%,2.00%
+2008-04-30 19:01,GBP,BOE Financial Stability Report,Medium,,,
+2008-04-30 19:30,AUD,AIG Manufacturing Index,Low,,51.2,52.7
+2008-04-30 21:00,CNY,Manufacturing PMI,High,,58.4,59.2
+2008-04-30 21:30,AUD,Building Approvals m/m,High,-1.0%,-0.8%,-5.7%

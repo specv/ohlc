@@ -1,0 +1,340 @@
+datetime,currency,title,impact,forecast,previous,actual
+2007-09-01 08:30,USD,FOMC Member Mishkin Speaks,Low,,,
+2007-09-01 16:29,All,Jackson Hole Symposium,Medium,,,
+2007-09-02 19:30,AUD,AIG Manufacturing Index,Low,,57.4,52.4
+2007-09-02 19:50,JPY,Capital Spending q/y,Medium,-2.3%,13.6%,-4.9%
+2007-09-02 20:30,AUD,MI Inflation Gauge m/m,Low,,0.6%,0.5%
+2007-09-02 21:00,CNY,Non-Manufacturing PMI,Low,,61.8,63.2
+2007-09-02 21:30,AUD,Building Approvals m/m,High,-1.8%,6.9%,0.4%
+2007-09-02 22:30,CNY,Caixin Manufacturing PMI,Medium,,53.2,53.4
+2007-09-03 00:00,AUD,ANZ Job Advertisements m/m,Medium,,-0.5%,0.1%
+2007-09-03 00:00,AUD,Company Operating Profits q/q,Low,2.3%,7.3%,1.4%
+2007-09-03 00:00,JPY,Average Cash Earnings y/y,Low,-0.5%,-0.9%,-1.9%
+2007-09-03 02:30,AUD,Commodity Prices y/y,Medium,,3.6%,1.9%
+2007-09-03 03:15,EUR,Spanish Manufacturing PMI,Low,,53.2,52.2
+2007-09-03 03:30,CHF,Manufacturing PMI,Medium,62.0,63.0,65.1
+2007-09-03 03:45,EUR,Italian Manufacturing PMI,Low,52.9,53.3,53.6
+2007-09-03 04:00,EUR,Final Manufacturing PMI,Low,54.2,54.2,54.3
+2007-09-03 04:30,GBP,Final Manufacturing PMI,Medium,55.1,55.9,56.3
+2007-09-03 19:01,GBP,BRC Retail Sales Monitor y/y,Medium,,1.2%,1.8%
+2007-09-03 19:50,JPY,Monetary Base y/y,Low,0.0%,-2.3%,0.7%
+2007-09-03 21:30,AUD,GDP q/q,High,0.6%,1.6%,0.9%
+2007-09-03 23:45,JPY,10-y Bond Auction,Low,,1.81|2.7,1.65|2.8
+2007-09-04 00:00,EUR,Revised GDP q/q,Low,0.3%,0.3%,0.3%
+2007-09-04 00:00,USD,Construction Spending m/m,Low,0.0%,0.1%,-0.4%
+2007-09-04 00:00,USD,ISM Manufacturing Prices,Low,63.1,65.0,63.0
+2007-09-04 01:45,CHF,GDP q/q,Medium,0.7%,0.7%,0.7%
+2007-09-04 03:00,EUR,Spanish Unemployment Change,Low,,4.5K,58.0K
+2007-09-04 04:00,EUR,Italian Trade Balance,Low,-0.88B,-0.78B,0.38B
+2007-09-04 04:30,GBP,Construction PMI,Low,60.6,61.8,64.8
+2007-09-04 05:00,EUR,PPI m/m,Low,0.1%,0.1%,0.3%
+2007-09-04 10:00,USD,ISM Manufacturing PMI,High,53.2,53.8,52.9
+2007-09-04 16:29,USD,Total Vehicle Sales,Low,15.8M,15.3M,16.3M
+2007-09-04 19:01,GBP,Nationwide Consumer Confidence,Low,94,96,94
+2007-09-04 19:30,AUD,Cash Rate,High,6.50%,6.50%,6.50%
+2007-09-05 00:00,AUD,AIG Services Index,Low,,56.0,51.6
+2007-09-05 00:00,CAD,Overnight Rate,High,4.50%,4.50%,4.50%
+2007-09-05 03:00,GBP,Halifax HPI m/m,High,0.6%,0.8%,0.4%
+2007-09-05 03:15,EUR,Spanish Services PMI,Low,,56.3,53.5
+2007-09-05 03:45,EUR,Italian Services PMI,Low,58.0,58.5,56.2
+2007-09-05 04:00,EUR,Final Services PMI,Low,57.9,57.9,58.0
+2007-09-05 04:30,GBP,Final Services PMI,Medium,56.5,57.0,57.6
+2007-09-05 05:00,EUR,Retail Sales m/m,Low,0.4%,0.6%,0.1%
+2007-09-05 05:30,GBP,BRC Shop Price Index y/y,Low,,0.6%,0.4%
+2007-09-05 07:30,USD,Challenger Job Cuts y/y,Low,,-25.8%,15.4%
+2007-09-05 08:15,USD,ADP Non-Farm Employment Change,Medium,82K,41K,38K
+2007-09-05 09:00,CAD,BOC Rate Statement,High,,,
+2007-09-05 10:00,USD,Pending Home Sales m/m,High,-2.0%,5.0%,-12.2%
+2007-09-05 14:00,USD,Beige Book,Medium,,,
+2007-09-05 21:30,AUD,Employment Change,High,18.0K,19.0K,31.9K
+2007-09-05 23:00,NZD,ANZ Commodity Prices m/m,Low,,4.7%,1.4%
+2007-09-06 00:00,AUD,Unemployment Rate,Medium,4.3%,4.3%,4.3%
+2007-09-06 00:00,EUR,ECB Press Conference,High,,,
+2007-09-06 00:00,GBP,Industrial Production m/m,Low,0.2%,0.0%,-0.1%
+2007-09-06 00:00,GBP,Official Bank Rate,High,5.75%,5.75%,5.75%
+2007-09-06 00:00,USD,ISM Services PMI,High,54.5,55.8,55.8
+2007-09-06 00:00,USD,Mortgage Delinquencies,Medium,,4.84%,5.12%
+2007-09-06 00:00,USD,Natural Gas Storage,Low,44B,43B,36B
+2007-09-06 00:00,USD,Revised Nonfarm Productivity q/q,Medium,2.4%,1.8%,2.6%
+2007-09-06 00:00,USD,Revised Unit Labor Costs q/q,Low,1.6%,2.1%,1.4%
+2007-09-06 00:00,USD,Unemployment Claims,Medium,325K,337K,318K
+2007-09-06 01:45,CHF,Unemployment Rate,Low,2.7%,2.7%,2.7%
+2007-09-06 02:00,JPY,Prelim Machine Tool Orders y/y,Low,,18.8%,12.3%
+2007-09-06 03:00,CHF,Foreign Currency Reserves,Low,,46B,47B
+2007-09-06 04:30,GBP,Manufacturing Production m/m,High,0.2%,0.1%,-0.3%
+2007-09-06 05:06,EUR,French 10-y Bond Auction,Low,,4.67|3.6,4.35|2.3
+2007-09-06 06:00,EUR,German Factory Orders m/m,Medium,-2.2%,5.1%,-7.1%
+2007-09-06 07:00,GBP,MPC Rate Statement,High,,,
+2007-09-06 07:45,EUR,Main Refinancing Rate,Medium,4.00%,4.00%,4.00%
+2007-09-06 08:30,CAD,Building Permits m/m,Medium,-3.2%,0.1%,-11.3%
+2007-09-06 10:00,CAD,Ivey PMI,High,56.9,54.6,58.5
+2007-09-06 10:30,USD,Crude Oil Inventories,Low,-2.1M,-3.5M,-4.0M
+2007-09-06 11:30,USD,FOMC Member Kroszner Speaks,Medium,,,
+2007-09-06 19:01,GBP,NIESR GDP Estimate,Low,,0.8%,0.7%
+2007-09-06 19:30,AUD,AIG Construction Index,Low,,48.8,48.4
+2007-09-07 00:00,CAD,Unemployment Rate,High,6.1%,6.0%,6.0%
+2007-09-07 00:00,USD,Average Hourly Earnings m/m,Medium,0.3%,0.3%,0.3%
+2007-09-07 00:00,USD,Unemployment Rate,High,4.6%,4.6%,4.6%
+2007-09-07 01:00,JPY,Leading Indicators,Low,70.0%,72.7%,70.0%
+2007-09-07 02:00,EUR,German Trade Balance,Low,15.5B,15.0B,16.5B
+2007-09-07 02:45,EUR,French Gov Budget Balance,Low,,-29.7B,-47.4B
+2007-09-07 02:50,EUR,ECB President Trichet Speaks,Medium,,,
+2007-09-07 06:00,EUR,German Industrial Production m/m,Medium,0.8%,-0.2%,0.1%
+2007-09-07 07:00,CAD,Employment Change,High,15.3K,11.3K,23.3K
+2007-09-07 08:30,USD,Non-Farm Employment Change,High,110K,68K,-4K
+2007-09-07 10:00,USD,Final Wholesale Inventories m/m,Low,0.5%,0.3%,0.2%
+2007-09-08 09:00,EUR,ECB President Trichet Speaks,Medium,,,
+2007-09-09 18:45,NZD,PPI Input q/q,High,1.1%,-1.5%,1.3%
+2007-09-09 19:50,JPY,Final GDP q/q,Medium,-0.2%,0.1%,-0.3%
+2007-09-09 21:30,AUD,Home Loans m/m,Medium,-2.0%,0.8%,-4.1%
+2007-09-09 22:00,CNY,PPI y/y,Medium,2.5%,2.4%,2.6%
+2007-09-10 00:00,GBP,ONS HPI y/y,Low,11.5%,12.1%,12.4%
+2007-09-10 00:00,GBP,PPI Input m/m,High,-0.3%,-0.8%,-0.5%
+2007-09-10 00:00,GBP,PPI Output m/m,Low,0.2%,0.3%,0.1%
+2007-09-10 00:00,JPY,Bank Lending y/y,Low,,0.3%,0.5%
+2007-09-10 00:00,JPY,Final GDP Price Index y/y,Low,-0.3%,-0.3%,-0.3%
+2007-09-10 00:00,JPY,M2 Money Stock y/y,Low,2.0%,2.0%,1.8%
+2007-09-10 00:00,NZD,PPI Output q/q,Low,1.1%,-0.2%,1.2%
+2007-09-10 01:00,JPY,Economy Watchers Sentiment,Low,44.3,44.7,44.1
+2007-09-10 02:45,EUR,French Industrial Production m/m,Medium,0.4%,-0.6%,1.3%
+2007-09-10 04:30,EUR,Sentix Investor Confidence,Low,18.6,26.3,18.1
+2007-09-10 07:45,EUR,ECB President Trichet Speaks,Medium,,,
+2007-09-10 15:00,USD,Consumer Credit m/m,Low,8.8B,11.9B,7.5B
+2007-09-10 18:45,NZD,Overseas Trade Index q/q,Low,3.5%,1.6%,0.6%
+2007-09-10 19:30,USD,FOMC Member Mishkin Speaks,Medium,,,
+2007-09-10 19:50,JPY,Core Machinery Orders m/m,Medium,5.2%,-10.4%,17.0%
+2007-09-10 21:30,AUD,NAB Business Confidence,Low,,12,10
+2007-09-10 22:00,CNY,CPI y/y,Medium,5.8%,5.6%,6.5%
+2007-09-11 00:00,CAD,NHPI m/m,Low,0.5%,0.7%,0.9%
+2007-09-11 00:00,CNY,USD-Denominated Trade Balance,High,25.6B,24.4B,25.0B
+2007-09-11 00:00,USD,RCM/TIPP Economic Optimism,Low,47.0,49.5,48.2
+2007-09-11 00:00,USD,Trade Balance,High,-59.0B,-59.4B,-59.2B
+2007-09-11 02:00,EUR,German WPI m/m,Low,0.4%,0.4%,0.5%
+2007-09-11 02:45,EUR,French Trade Balance,Low,-3.0B,-3.1B,-3.3B
+2007-09-11 04:30,GBP,Goods Trade Balance,Medium,-6.4B,-6.5B,-7.1B
+2007-09-11 07:30,USD,NFIB Small Business Index,Low,,97.6,96.3
+2007-09-11 08:15,CAD,Housing Starts,High,220K,216K,227K
+2007-09-11 08:30,CAD,Trade Balance,High,5.0B,4.3B,3.7B
+2007-09-11 10:00,USD,JOLTS Job Openings,Low,,4.28M,4.23M
+2007-09-11 10:05,EUR,ECB President Trichet Speaks,High,,,
+2007-09-11 10:30,GBP,CB Leading Index m/m,Low,,0.2%,-0.2%
+2007-09-11 11:00,USD,Fed Chairman Bernanke Speaks,High,,,
+2007-09-11 16:29,All,OPEC Meetings,Medium,,,
+2007-09-11 18:47,NZD,FPI m/m,Low,,1.2%,-0.1%
+2007-09-11 19:30,AUD,RBA Annual Report,Low,,,
+2007-09-11 19:50,JPY,Current Account,Low,1.90T,2.05T,1.75T
+2007-09-11 20:30,AUD,Westpac Consumer Sentiment,Low,,-8.1%,4.2%
+2007-09-11 22:00,CNY,New Loans,Medium,,231B,303B
+2007-09-12 00:00,CNY,M2 Money Supply y/y,Low,18.2%,18.5%,18.1%
+2007-09-12 00:00,CNY,Retail Sales y/y,Low,16.5%,16.4%,17.1%
+2007-09-12 00:00,GBP,Claimant Count Change,Medium,-8.0K,-6.7K,-4.2K
+2007-09-12 00:00,GBP,Unemployment Rate,Low,5.4%,5.4%,5.4%
+2007-09-12 00:00,JPY,PPI y/y,Low,1.7%,2.1%,1.9%
+2007-09-12 01:00,JPY,Consumer Confidence,Low,44.0,44.4,44.0
+2007-09-12 04:30,GBP,Average Earnings Index 3m/y,High,3.4%,3.4%,3.5%
+2007-09-12 05:00,EUR,Industrial Production m/m,Medium,0.2%,0.0%,0.6%
+2007-09-12 10:30,USD,Crude Oil Inventories,Low,-2.7M,-4.0M,-7.0M
+2007-09-12 17:00,NZD,Official Cash Rate,High,8.25%,8.25%,8.25%
+2007-09-12 18:45,NZD,Core Retail Sales m/m,High,0.3%,-0.5%,0.2%
+2007-09-12 19:01,GBP,RICS House Price Balance,Medium,10%,11%,-2%
+2007-09-12 20:30,AUD,MI Inflation Expectations,Low,,3.8%,3.1%
+2007-09-12 21:30,AUD,Housing Starts q/q,Low,-0.4%,-1.1%,-4.0%
+2007-09-12 22:00,CNY,Industrial Production y/y,High,17.9%,18.0%,17.5%
+2007-09-12 22:20,CNY,Foreign Direct Investment ytd/y,Low,,12.9%,12.8%
+2007-09-13 00:00,CHF,SNB Monetary Policy Assessment,High,,,
+2007-09-13 00:00,EUR,French Final Private Payrolls q/q,Low,0.0%,0.0%,0.3%
+2007-09-13 00:00,NZD,RBNZ Monetary Policy Statement,Medium,,,
+2007-09-13 00:00,NZD,RBNZ Press Conference,High,,,
+2007-09-13 00:00,NZD,RBNZ Rate Statement,High,,,
+2007-09-13 00:00,NZD,Retail Sales m/m,High,0.3%,-0.4%,0.0%
+2007-09-13 00:00,USD,Unemployment Claims,Medium,325K,315K,319K
+2007-09-13 02:45,EUR,French Final CPI m/m,Low,0.3%,-0.2%,0.4%
+2007-09-13 04:00,EUR,ECB Monthly Bulletin,Medium,,,
+2007-09-13 04:30,GBP,Consumer Inflation Expectations,Medium,,2.7%,2.7%
+2007-09-13 06:00,EUR,Final Employment Change q/q,Low,,0.6%,0.5%
+2007-09-13 08:00,CHF,Libor Rate,High,2.75%,2.50%,2.75%
+2007-09-13 08:30,CAD,Capacity Utilization Rate,Low,83.3%,82.8%,83.0%
+2007-09-13 10:30,USD,Natural Gas Storage,Low,61B,36B,64B
+2007-09-13 13:00,USD,10-y Bond Auction,Medium,,4.86|2.3,4.49|3.0
+2007-09-13 14:00,USD,Federal Budget Balance,Medium,-85.2B,-36.3B,-117.0B
+2007-09-13 18:45,NZD,Manufacturing Sales q/q,Low,,0.8%,1.7%
+2007-09-13 20:00,NZD,BusinessNZ Manufacturing Index,Low,,54.8,55.7
+2007-09-13 22:00,CNY,Fixed Asset Investment ytd/y,Medium,26.5%,26.6%,26.7%
+2007-09-14 00:00,CAD,Manufacturing Sales m/m,Medium,1.0%,-2.0%,2.3%
+2007-09-14 00:00,EUR,Final CPI y/y,Low,1.8%,1.8%,1.7%
+2007-09-14 00:00,USD,Business Inventories m/m,Medium,0.3%,0.4%,0.5%
+2007-09-14 00:00,USD,Core Retail Sales m/m,High,0.2%,0.7%,-0.4%
+2007-09-14 00:00,USD,Current Account,Medium,-190B,-197B,-191B
+2007-09-14 00:00,USD,Import Prices m/m,Medium,0.4%,1.3%,-0.3%
+2007-09-14 00:00,USD,Industrial Production m/m,Medium,0.3%,0.5%,0.2%
+2007-09-14 00:00,USD,Prelim UoM Inflation Expectations,Low,,3.2%,3.1%
+2007-09-14 00:00,USD,Retail Sales m/m,High,0.6%,0.5%,0.3%
+2007-09-14 00:30,JPY,Revised Industrial Production m/m,Low,-0.4%,-0.4%,-0.4%
+2007-09-14 02:00,EUR,German Final CPI m/m,Low,-0.1%,-0.1%,-0.1%
+2007-09-14 04:00,EUR,Italian Industrial Production m/m,Low,0.1%,-0.6%,-0.4%
+2007-09-14 05:00,EUR,Final Core CPI y/y,Medium,1.9%,1.9%,1.9%
+2007-09-14 06:20,GBP,Rightmove HPI m/m,Low,,0.6%,-2.6%
+2007-09-14 08:30,CAD,Labor Productivity q/q,Medium,0.4%,0.7%,0.2%
+2007-09-14 09:15,USD,Capacity Utilization Rate,Medium,82.0%,82.2%,82.2%
+2007-09-14 10:00,USD,Prelim UoM Consumer Sentiment,High,83.5,83.4,83.8
+2007-09-16 16:29,EUR,Greek Parliamentary Election,Low,,,
+2007-09-17 00:00,USD,Empire State Manufacturing Index,Medium,18.0,25.1,14.7
+2007-09-17 02:50,USD,Treasury Sec Paulson Speaks,Low,,,
+2007-09-17 05:00,EUR,Trade Balance,Low,4.0B,4.4B,-0.6B
+2007-09-17 06:00,EUR,German Buba Monthly Report,Medium,,,
+2007-09-17 08:30,CAD,Foreign Securities Purchases,Medium,-1.54B,-4.33B,1.50B
+2007-09-17 11:00,CHF,SNB Chairman Roth Speaks,Medium,,,
+2007-09-17 12:45,USD,Treasury Sec Paulson Speaks,Low,,,
+2007-09-17 19:50,JPY,Tertiary Industry Activity m/m,Medium,-0.4%,0.1%,-0.5%
+2007-09-17 23:10,AUD,RBA Gov Stevens Speaks,Medium,,,
+2007-09-18 00:00,EUR,ZEW Economic Sentiment,Low,-14.0,-6.1,-20.3
+2007-09-18 00:00,GBP,Core CPI y/y,Medium,1.8%,1.7%,1.8%
+2007-09-18 00:00,GBP,RPI y/y,Medium,3.9%,3.8%,4.1%
+2007-09-18 00:00,USD,Core PPI m/m,Medium,0.1%,0.1%,0.2%
+2007-09-18 00:00,USD,FOMC Statement,High,,,
+2007-09-18 00:00,USD,PPI m/m,High,-0.2%,0.6%,-1.4%
+2007-09-18 03:15,CHF,Industrial Production q/q,Medium,5.2%,-4.7%,6.7%
+2007-09-18 04:30,GBP,CPI y/y,High,1.9%,1.9%,1.8%
+2007-09-18 05:00,EUR,German ZEW Economic Sentiment,Medium,-16.0,-6.9,-18.1
+2007-09-18 08:30,CAD,New Motor Vehicle Sales m/m,Low,-2.9%,-1.7%,-2.7%
+2007-09-18 09:00,USD,TIC Long-Term Purchases,High,99.0B,97.3B,19.2B
+2007-09-18 13:00,USD,NAHB Housing Market Index,Medium,20,22,20
+2007-09-18 14:15,USD,Federal Funds Rate,High,5.00%,5.25%,4.75%
+2007-09-18 20:30,AUD,MI Leading Index m/m,Low,,0.2%,0.2%
+2007-09-19 00:00,CAD,CPI m/m,Medium,0.1%,0.1%,-0.3%
+2007-09-19 00:00,JPY,BOJ Monthly Report,Low,,,
+2007-09-19 00:00,USD,Building Permits,Medium,1.35M,1.39M,1.31M
+2007-09-19 00:00,USD,CPI m/m,Medium,0.0%,0.1%,-0.1%
+2007-09-19 00:00,USD,CPI y/y,High,2.1%,2.4%,2.0%
+2007-09-19 00:00,USD,Core CPI m/m,High,0.2%,0.2%,0.2%
+2007-09-19 00:00,USD,Housing Starts,Medium,1.36M,1.37M,1.33M
+2007-09-19 00:21,JPY,Overnight Call Rate,Medium,0.50%,0.50%,0.50%
+2007-09-19 02:00,EUR,German PPI m/m,Low,0.1%,-0.1%,0.1%
+2007-09-19 03:15,CHF,Retail Sales y/y,High,5.2%,5.1%,3.3%
+2007-09-19 03:32,JPY,BOJ Press Conference,High,,,
+2007-09-19 04:15,AUD,RBA Deputy Gov Battellino Speaks,Medium,,,
+2007-09-19 04:30,GBP,MPC Official Bank Rate Votes,High,0-0-9,0-0-9,0-0-9
+2007-09-19 07:00,CAD,Core CPI m/m,High,0.1%,0.1%,0.1%
+2007-09-19 08:30,CAD,Leading Index m/m,Low,0.3%,0.4%,0.3%
+2007-09-19 10:30,USD,Crude Oil Inventories,Medium,-2.0M,-7.0M,-3.9M
+2007-09-19 18:45,NZD,Current Account,High,-3.28B,-2.21B,-2.91B
+2007-09-19 19:50,JPY,BSI Manufacturing Index,Medium,1.0,-2.2,7.7
+2007-09-19 21:30,AUD,HIA New Home Sales m/m,Medium,,1.5%,-8.6%
+2007-09-20 00:00,AUD,RBA Bulletin,Low,,,
+2007-09-20 00:00,AUD,RBA Financial Stability Review,Medium,,,
+2007-09-20 00:00,GBP,M4 Money Supply m/m,Low,0.9%,1.1%,1.2%
+2007-09-20 00:00,USD,CB Leading Index m/m,Low,-0.1%,0.7%,-0.6%
+2007-09-20 00:00,USD,Unemployment Claims,Medium,320K,320K,311K
+2007-09-20 01:30,EUR,ECB President Trichet Speaks,Medium,,,
+2007-09-20 02:15,CHF,Trade Balance,Low,0.95B,1.51B,0.64B
+2007-09-20 03:15,CHF,PPI m/m,Medium,0.1%,0.1%,0.3%
+2007-09-20 04:00,EUR,Italian Quarterly Unemployment Rate,Low,6.2%,6.2%,6.0%
+2007-09-20 04:30,GBP,Retail Sales m/m,High,0.0%,0.7%,0.6%
+2007-09-20 04:45,GBP,Monetary Policy Report Hearings,High,,,
+2007-09-20 05:00,CHF,UBS Economic Expectations,Medium,,-5.1,-26.7
+2007-09-20 06:00,GBP,CBI Industrial Order Expectations,Medium,5,9,6
+2007-09-20 08:30,CAD,Wholesale Sales m/m,Medium,0.5%,0.1%,2.0%
+2007-09-20 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2007-09-20 10:30,USD,Natural Gas Storage,Low,66B,64B,63B
+2007-09-20 12:00,USD,Philly Fed Manufacturing Index,Medium,3.0,0.0,10.9
+2007-09-20 18:45,NZD,Visitor Arrivals m/m,Low,,-1.7%,3.8%
+2007-09-20 19:50,JPY,All Industries Activity m/m,Low,-0.3%,0.2%,-0.4%
+2007-09-20 21:30,AUD,New Motor Vehicle Sales m/m,Low,,0.5%,-1.9%
+2007-09-20 23:00,NZD,Credit Card Spending y/y,Low,,7.8%,8.4%
+2007-09-21 00:00,CAD,Retail Sales m/m,Medium,0.0%,-1.1%,-0.8%
+2007-09-21 00:00,EUR,Current Account,Low,3.7B,7.3B,1.7B
+2007-09-21 00:00,EUR,ECB President Trichet Speaks,Medium,,,
+2007-09-21 00:00,EUR,Flash Services PMI,Low,57.6,58.0,54.0
+2007-09-21 04:00,EUR,Flash Manufacturing PMI,Medium,54.0,54.3,53.2
+2007-09-21 05:00,USD,FOMC Member Mishkin Speaks,Medium,,,
+2007-09-21 08:00,USD,FOMC Member Kohn Speaks,Medium,,,
+2007-09-21 08:30,CAD,Core Retail Sales m/m,High,0.4%,-0.2%,-0.3%
+2007-09-21 11:00,CHF,SNB Chairman Roth Speaks,Low,,,
+2007-09-21 13:00,USD,FOMC Member Warsh Speaks,Medium,,,
+2007-09-23 19:01,GBP,BOE Quarterly Bulletin,Low,,,
+2007-09-24 04:30,GBP,Public Sector Net Borrowing,Low,6.5B,-6.3B,9.1B
+2007-09-24 05:00,EUR,Industrial New Orders m/m,Medium,-2.8%,4.5%,-4.0%
+2007-09-24 09:00,EUR,Belgian NBB Business Climate,Medium,2.5,3.3,1.5
+2007-09-24 12:00,CHF,Gov Board Member Hildebrand Speaks,Medium,,,
+2007-09-24 12:30,GBP,MPC Member Sentance Speaks,Medium,,,
+2007-09-24 13:00,USD,Fed Chairman Bernanke Speaks,High,,,
+2007-09-24 19:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2007-09-24 21:00,AUD,RBA Deputy Gov Battellino Speaks,Medium,,,
+2007-09-25 00:00,EUR,French Consumer Spending m/m,Low,0.3%,0.9%,1.0%
+2007-09-25 00:00,EUR,German ifo Business Climate,High,105.0,105.8,104.2
+2007-09-25 00:00,EUR,Italian Retail Sales m/m,Low,0.1%,0.2%,-0.1%
+2007-09-25 00:00,JPY,SPPI y/y,Low,1.6%,1.4%,1.0%
+2007-09-25 00:00,USD,Existing Home Sales,High,5.50M,5.75M,5.50M
+2007-09-25 00:00,USD,Richmond Manufacturing Index,Low,5,7,14
+2007-09-25 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,-4.0%,-3.4%,-3.9%
+2007-09-25 02:00,EUR,German Import Prices m/m,Low,0.0%,0.3%,-0.7%
+2007-09-25 02:45,EUR,French Consumer Spending m/m,Low,0.2%,1.6%,0.9%
+2007-09-25 04:00,CHF,UBS Consumption Indicator,Medium,,2.26,1.93
+2007-09-25 04:30,GBP,Revised Business Investment q/q,Low,0.8%,0.8%,0.4%
+2007-09-25 05:00,EUR,Italian Trade Balance,Low,1.42B,0.40B,1.81B
+2007-09-25 09:00,NZD,Westpac Consumer Sentiment,Low,,111.4,113.5
+2007-09-25 10:00,USD,CB Consumer Confidence,High,104.5,105.6,99.8
+2007-09-25 18:45,NZD,Trade Balance,High,-903M,-813M,-945M
+2007-09-25 19:50,JPY,Trade Balance,Low,0.74T,0.88T,1.14T
+2007-09-25 20:00,AUD,CB Leading Index m/m,Low,,0.4%,0.3%
+2007-09-26 00:00,GBP,BOE Credit Conditions Survey,Medium,,,
+2007-09-26 00:00,GBP,Final GDP q/q,Low,0.8%,0.8%,0.8%
+2007-09-26 00:00,USD,Durable Goods Orders m/m,Medium,-3.8%,6.1%,-4.9%
+2007-09-26 02:00,EUR,German GfK Consumer Climate,Low,7.0,7.4,6.8
+2007-09-26 04:30,GBP,Current Account,High,-11.5B,-10.6B,-9.1B
+2007-09-26 05:30,CHF,KOF Economic Barometer,Medium,2.00,2.12,2.14
+2007-09-26 08:30,USD,Core Durable Goods Orders m/m,High,-1.0%,3.4%,-1.8%
+2007-09-26 10:30,USD,Crude Oil Inventories,Medium,-2.1M,-3.9M,1.8M
+2007-09-26 18:45,NZD,Building Consents m/m,Medium,,-15.5%,5.8%
+2007-09-26 23:00,NZD,ANZ Business Confidence,Medium,,-33.8,-26.5
+2007-09-27 00:00,EUR,Private Loans y/y,Low,11.2%,11.0%,11.2%
+2007-09-27 00:00,EUR,Retail PMI,Low,,51.0,50.5
+2007-09-27 00:00,GBP,Index of Services 3m/3m,Low,0.8%,0.9%,1.0%
+2007-09-27 00:00,USD,Final GDP Price Index q/q,Low,2.7%,2.7%,2.6%
+2007-09-27 00:00,USD,Unemployment Claims,Medium,315K,313K,298K
+2007-09-27 02:00,GBP,Nationwide HPI m/m,Medium,0.3%,0.6%,0.7%
+2007-09-27 03:55,EUR,German Unemployment Change,Medium,-55K,-26K,-59K
+2007-09-27 04:00,EUR,M3 Money Supply y/y,Low,11.7%,11.7%,11.6%
+2007-09-27 04:30,GBP,High Street Lending,Medium,,67.0K,61.1K
+2007-09-27 05:00,CHF,SNB Quarterly Bulletin,Low,,,
+2007-09-27 05:31,EUR,Italian 10-y Bond Auction,Low,,4.55|1.3,4.66|1.4
+2007-09-27 06:00,GBP,CBI Realized Sales,Medium,11,15,12
+2007-09-27 08:30,USD,Final GDP q/q,Medium,3.9%,4.0%,3.8%
+2007-09-27 10:00,USD,New Home Sales,High,825K,867K,795K
+2007-09-27 10:30,USD,Natural Gas Storage,Low,73B,63B,74B
+2007-09-27 10:55,GBP,MPC Member Blanchflower Speaks,Medium,,,
+2007-09-27 11:30,AUD,RBA Deputy Gov Lowe Speaks,Medium,,,
+2007-09-27 16:29,EUR,German Prelim CPI m/m,Medium,0.0%,-0.1%,0.2%
+2007-09-27 18:45,NZD,GDP q/q,High,0.5%,1.2%,0.7%
+2007-09-27 19:00,USD,FOMC Member Mishkin Speaks,Medium,,,
+2007-09-27 19:30,JPY,Tokyo Core CPI y/y,Medium,0.0%,0.0%,-0.1%
+2007-09-27 19:50,JPY,Prelim Industrial Production m/m,Medium,3.0%,-0.4%,3.4%
+2007-09-27 20:00,AUD,MI Inflation Gauge m/m,Low,,0.5%,0.2%
+2007-09-27 21:30,AUD,Private Sector Credit m/m,Medium,1.0%,1.1%,1.5%
+2007-09-28 00:00,CAD,IPPI m/m,Low,-0.5%,-0.7%,-1.0%
+2007-09-28 00:00,CAD,RMPI m/m,Medium,-0.9%,4.0%,-2.8%
+2007-09-28 00:00,EUR,Consumer Confidence,Low,-4,-4,-5
+2007-09-28 00:00,EUR,Italian Prelim CPI m/m,Low,0.1%,0.2%,0.0%
+2007-09-28 00:00,JPY,Final Manufacturing PMI,Low,,49.6,49.8
+2007-09-28 00:00,JPY,Household Spending y/y,Low,1.1%,-0.1%,1.6%
+2007-09-28 00:00,JPY,National Core CPI y/y,Low,-0.1%,-0.1%,-0.1%
+2007-09-28 00:00,JPY,Retail Sales y/y,Medium,-0.5%,-2.3%,0.5%
+2007-09-28 00:00,JPY,Unemployment Rate,Low,3.6%,3.6%,3.6%
+2007-09-28 00:00,USD,Construction Spending m/m,Low,-0.2%,-0.5%,0.2%
+2007-09-28 00:00,USD,Core PCE Price Index m/m,High,0.1%,0.1%,0.1%
+2007-09-28 00:00,USD,Personal Income m/m,Low,0.4%,0.5%,0.3%
+2007-09-28 00:00,USD,Personal Spending m/m,Medium,0.4%,0.4%,0.6%
+2007-09-28 00:00,USD,Revised UoM Inflation Expectations,Low,,3.1%,3.1%
+2007-09-28 01:00,JPY,Housing Starts y/y,Low,-16.0%,-23.4%,-43.3%
+2007-09-28 02:00,EUR,German Retail Sales m/m,Medium,0.4%,0.6%,-1.4%
+2007-09-28 05:00,EUR,CPI Flash Estimate y/y,Medium,2.0%,1.7%,2.1%
+2007-09-28 05:30,GBP,GfK Consumer Confidence,Low,-5,-4,-7
+2007-09-28 08:30,CAD,GDP m/m,High,0.4%,0.2%,0.2%
+2007-09-28 09:45,USD,Chicago PMI,Medium,53.5,53.8,54.2
+2007-09-28 10:00,USD,Revised UoM Consumer Sentiment,Medium,83.9,83.8,83.4
+2007-09-28 13:15,USD,FOMC Member Mishkin Speaks,Medium,,,
+2007-09-29 14:00,EUR,ECB President Trichet Speaks,Medium,,,
+2007-09-30 10:30,EUR,ECB President Trichet Speaks,Medium,,,
+2007-09-30 19:50,JPY,Tankan Manufacturing Index,High,21,23,23
+2007-09-30 21:00,CNY,Manufacturing PMI,High,,54.0,56.1
+2007-09-30 21:30,JPY,Average Cash Earnings y/y,Low,-0.2%,-1.7%,0.1%

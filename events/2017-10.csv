@@ -1,0 +1,380 @@
+datetime,currency,title,impact,forecast,previous,actual
+2017-10-01 05:00,GBP,Prime Minister May Speaks,High,,,
+2017-10-01 18:30,AUD,AIG Manufacturing Index,Low,,59.8,54.2
+2017-10-01 19:50,JPY,Tankan Manufacturing Index,Medium,18,17,22
+2017-10-01 20:00,AUD,MI Inflation Gauge m/m,Low,,0.1%,0.3%
+2017-10-01 20:30,JPY,Final Manufacturing PMI,Low,52.6,52.6,52.9
+2017-10-02 00:00,EUR,Italian Monthly Unemployment Rate,Low,11.2%,11.3%,11.2%
+2017-10-02 00:00,EUR,Spanish Manufacturing PMI,Medium,53.2,52.4,54.3
+2017-10-02 00:00,JPY,Tankan Non-Manufacturing Index,Medium,24,23,23
+2017-10-02 00:00,USD,Construction Spending m/m,Low,0.4%,-1.2%,0.5%
+2017-10-02 00:00,USD,ISM Manufacturing Prices,Low,64.5,62.0,71.5
+2017-10-02 03:15,CHF,Retail Sales y/y,Low,0.5%,0.0%,-0.2%
+2017-10-02 03:30,CHF,Manufacturing PMI,Low,60.6,61.2,61.7
+2017-10-02 03:45,EUR,Italian Manufacturing PMI,Low,56.9,56.3,56.3
+2017-10-02 03:50,EUR,French Final Manufacturing PMI,Low,56.0,56.0,56.1
+2017-10-02 03:55,EUR,German Final Manufacturing PMI,Low,60.6,60.6,60.6
+2017-10-02 04:00,EUR,Final Manufacturing PMI,Low,58.2,58.2,58.1
+2017-10-02 04:30,GBP,Final Manufacturing PMI,High,56.3,56.7,55.9
+2017-10-02 05:00,EUR,Unemployment Rate,Low,9.0%,9.1%,9.1%
+2017-10-02 09:30,CAD,Manufacturing PMI,Low,,54.6,55.0
+2017-10-02 09:45,USD,Final Manufacturing PMI,Low,53.0,53.0,53.1
+2017-10-02 10:00,USD,ISM Manufacturing PMI,High,57.9,58.8,60.8
+2017-10-02 14:00,USD,FOMC Member Kaplan Speaks,Medium,,,
+2017-10-02 17:00,NZD,NZIER Business Confidence,Medium,,18,5
+2017-10-02 19:50,JPY,Monetary Base y/y,Low,17.2%,16.3%,15.6%
+2017-10-02 20:00,AUD,HIA New Home Sales m/m,Low,,-3.7%,9.1%
+2017-10-02 20:30,AUD,Building Approvals m/m,Medium,1.1%,-1.2%,0.4%
+2017-10-02 23:30,AUD,RBA Rate Statement,High,,,
+2017-10-02 23:45,JPY,10-y Bond Auction,Low,,0.01|4.0,0.08|4.1
+2017-10-03 00:00,AUD,ANZ Job Advertisements m/m,Low,,1.7%,0.0%
+2017-10-03 00:00,AUD,Cash Rate,Medium,1.50%,1.50%,1.50%
+2017-10-03 00:00,GBP,FPC Meeting Minutes,Low,,,
+2017-10-03 00:00,JPY,Consumer Confidence,Low,43.5,43.3,43.9
+2017-10-03 01:00,JPY,BOJ Core CPI y/y,Low,0.4%,0.4%,0.6%
+2017-10-03 01:30,AUD,Commodity Prices y/y,Low,,20.8%,18.3%
+2017-10-03 03:00,EUR,Spanish Unemployment Change,Medium,21.3K,46.4K,27.9K
+2017-10-03 04:30,GBP,Construction PMI,High,51.1,51.1,48.1
+2017-10-03 05:00,EUR,PPI m/m,Low,0.1%,0.0%,0.3%
+2017-10-03 08:30,USD,FOMC Member Powell Speaks,Medium,,,
+2017-10-03 10:27,NZD,GDT Price Index,Medium,,0.9%,-2.4%
+2017-10-03 12:30,CAD,Gov Council Member Leduc Speaks,Low,,,
+2017-10-03 16:29,USD,Total Vehicle Sales,Low,16.9M,16.1M,18.6M
+2017-10-03 16:29,USD,Wards Total Vehicle Sales,Low,17.2M,16.0M,18.5M
+2017-10-03 18:30,AUD,AIG Services Index,Low,,53.0,52.1
+2017-10-03 19:01,GBP,BRC Shop Price Index y/y,Low,,-0.3%,-0.1%
+2017-10-03 20:00,NZD,ANZ Commodity Prices m/m,Low,,-0.8%,0.8%
+2017-10-04 03:15,EUR,Spanish Services PMI,Low,55.5,56.0,56.7
+2017-10-04 03:45,EUR,Italian Services PMI,Low,54.8,55.1,53.2
+2017-10-04 03:50,EUR,French Final Services PMI,Low,57.1,57.1,57.0
+2017-10-04 03:55,EUR,German Final Services PMI,Low,55.6,55.6,55.6
+2017-10-04 04:00,EUR,Final Services PMI,Low,55.6,55.6,55.8
+2017-10-04 04:30,GBP,Final Services PMI,High,53.2,53.2,53.6
+2017-10-04 05:00,EUR,Retail Sales m/m,Low,0.3%,-0.3%,-0.5%
+2017-10-04 05:34,EUR,German 10-y Bond Auction,Low,,0.39|1.6,0.44|1.6
+2017-10-04 08:15,USD,ADP Non-Farm Employment Change,High,131K,228K,135K
+2017-10-04 09:45,USD,Final Services PMI,Low,55.1,55.1,55.3
+2017-10-04 10:00,USD,ISM Services PMI,High,55.5,55.3,59.8
+2017-10-04 10:30,USD,Crude Oil Inventories,High,-0.5M,-1.8M,-6.0M
+2017-10-04 13:15,EUR,ECB President Draghi Speaks,High,,,
+2017-10-04 15:15,USD,Fed Chair Yellen Speaks,High,,,
+2017-10-04 20:30,AUD,Goods Trade Balance,High,0.88B,0.81B,0.99B
+2017-10-05 00:00,AUD,Retail Sales m/m,High,0.3%,-0.2%,-0.6%
+2017-10-05 00:00,USD,Challenger Job Cuts y/y,Low,,5.1%,-27.0%
+2017-10-05 00:00,USD,Fed Gov Nomination Hearings,Low,,,
+2017-10-05 00:00,USD,Trade Balance,Medium,-42.7B,-43.6B,-42.4B
+2017-10-05 00:00,USD,Unemployment Claims,High,266K,272K,260K
+2017-10-05 03:15,CHF,CPI m/m,Low,0.2%,0.0%,0.2%
+2017-10-05 04:10,EUR,Retail PMI,Low,,50.8,52.3
+2017-10-05 04:30,GBP,Housing Equity Withdrawal q/q,Low,-9.9B,-5.2B,-4.1B
+2017-10-05 04:48,EUR,Spanish 10-y Bond Auction,Low,,1.69|1.5,1.87|2.5
+2017-10-05 05:03,EUR,French 10-y Bond Auction,Low,,0.67|2.0,0.88|1.9
+2017-10-05 07:30,EUR,ECB Monetary Policy Meeting Accounts,Medium,,,
+2017-10-05 08:30,CAD,Trade Balance,High,-2.6B,-3.0B,-3.4B
+2017-10-05 09:05,USD,FOMC Member Powell Speaks,High,,,
+2017-10-05 09:30,USD,FOMC Member Harker Speaks,Medium,,,
+2017-10-05 10:00,USD,Factory Orders m/m,Medium,1.0%,-3.3%,1.2%
+2017-10-05 10:30,USD,Natural Gas Storage,Low,56B,58B,42B
+2017-10-05 12:00,GBP,MPC Member McCafferty Speaks,Medium,,,
+2017-10-05 13:30,GBP,MPC Member Haldane Speaks,Medium,,,
+2017-10-05 18:30,AUD,AIG Construction Index,Low,,55.3,54.7
+2017-10-05 20:00,JPY,Average Cash Earnings y/y,Low,0.5%,-0.6%,0.9%
+2017-10-06 00:00,CAD,Unemployment Rate,High,6.3%,6.2%,6.2%
+2017-10-06 00:00,EUR,French Trade Balance,Low,-5.4B,-5.8B,-4.5B
+2017-10-06 00:00,USD,Average Hourly Earnings m/m,High,0.3%,0.2%,0.5%
+2017-10-06 00:00,USD,Final Wholesale Inventories m/m,Low,1.0%,1.0%,0.9%
+2017-10-06 00:00,USD,Non-Farm Employment Change,High,82K,169K,-33K
+2017-10-06 00:00,USD,Unemployment Rate,High,4.4%,4.4%,4.2%
+2017-10-06 01:00,JPY,Leading Indicators,Low,107.2%,105.2%,106.8%
+2017-10-06 02:00,EUR,German Factory Orders m/m,Low,0.7%,-0.4%,3.6%
+2017-10-06 02:45,EUR,French Gov Budget Balance,Low,,-83.8B,-93.0B
+2017-10-06 03:00,CHF,Foreign Currency Reserves,Low,,717B,724B
+2017-10-06 03:30,GBP,Halifax HPI m/m,Medium,0.0%,1.5%,0.8%
+2017-10-06 04:00,EUR,Italian Retail Sales m/m,Low,0.2%,-0.4%,-0.3%
+2017-10-06 08:00,GBP,MPC Member Haldane Speaks,Medium,,,
+2017-10-06 08:30,CAD,Employment Change,High,13.9K,22.2K,10.0K
+2017-10-06 10:00,CAD,Ivey PMI,Medium,56.0,56.3,59.6
+2017-10-06 12:15,USD,FOMC Member Dudley Speaks,Medium,,,
+2017-10-06 12:45,USD,FOMC Member Kaplan Speaks,Medium,,,
+2017-10-06 15:00,USD,Consumer Credit m/m,Low,15.8B,17.7B,13.1B
+2017-10-08 21:45,CNY,Caixin Services PMI,Low,53.1,52.7,50.6
+2017-10-09 02:00,EUR,German Industrial Production m/m,Low,0.9%,-0.1%,2.6%
+2017-10-09 04:30,EUR,Sentix Investor Confidence,Low,28.6,28.2,29.7
+2017-10-09 16:29,EUR,Eurogroup Meetings,Medium,,,
+2017-10-09 19:01,GBP,BRC Retail Sales Monitor y/y,Low,,1.3%,1.9%
+2017-10-09 19:50,JPY,Current Account,Low,1.98T,2.03T,2.27T
+2017-10-09 20:30,AUD,NAB Business Confidence,Medium,,5,7
+2017-10-09 23:20,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2017-10-10 00:00,GBP,Construction Output m/m,Low,0.0%,-1.0%,0.6%
+2017-10-10 00:00,GBP,Goods Trade Balance,Medium,-11.4B,-12.8B,-14.2B
+2017-10-10 00:00,GBP,Industrial Production m/m,Low,0.2%,0.3%,0.2%
+2017-10-10 00:00,USD,RCM/TIPP Economic Optimism,Low,54.2,53.4,50.3
+2017-10-10 01:00,JPY,Economy Watchers Sentiment,Low,49.9,49.7,51.3
+2017-10-10 01:45,CHF,Unemployment Rate,Low,3.2%,3.2%,3.1%
+2017-10-10 02:00,EUR,German Trade Balance,Low,19.8B,19.3B,21.6B
+2017-10-10 02:45,EUR,French Industrial Production m/m,Low,0.4%,0.8%,-0.3%
+2017-10-10 04:00,EUR,Italian Industrial Production m/m,Low,0.1%,0.1%,1.2%
+2017-10-10 04:30,GBP,Manufacturing Production m/m,High,0.2%,0.4%,0.4%
+2017-10-10 06:00,USD,NFIB Small Business Index,Low,105.1,105.3,103.0
+2017-10-10 08:02,GBP,NIESR GDP Estimate,Low,,0.5%,0.4%
+2017-10-10 08:13,CAD,Housing Starts,Low,211K,226K,217K
+2017-10-10 08:30,CAD,Building Permits m/m,Medium,-0.9%,-2.8%,-5.5%
+2017-10-10 10:00,USD,FOMC Member Kashkari Speaks,Medium,,,
+2017-10-10 14:00,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2017-10-10 16:29,EUR,ECOFIN Meetings,Medium,,,
+2017-10-10 19:30,AUD,Westpac Consumer Sentiment,Low,,2.5%,3.6%
+2017-10-10 19:50,JPY,Core Machinery Orders m/m,Low,0.9%,8.0%,3.4%
+2017-10-10 20:00,USD,FOMC Member Kaplan Speaks,Medium,,,
+2017-10-10 23:45,JPY,30-y Bond Auction,Low,,0.83|3.7,0.88|4.0
+2017-10-11 01:58,JPY,Prelim Machine Tool Orders y/y,Low,,36.2%,45.3%
+2017-10-11 10:00,USD,JOLTS Job Openings,Medium,6.13M,6.14M,6.08M
+2017-10-11 13:01,USD,10-y Bond Auction,Low,,2.18|2.3,2.35|2.5
+2017-10-11 14:00,USD,FOMC Meeting Minutes,High,,,
+2017-10-11 17:45,NZD,FPI m/m,Low,,0.6%,-0.2%
+2017-10-11 19:01,GBP,RICS House Price Balance,Low,4%,6%,6%
+2017-10-11 19:50,JPY,Bank Lending y/y,Low,2.6%,3.2%,3.0%
+2017-10-11 20:00,AUD,MI Inflation Expectations,Low,,3.8%,4.3%
+2017-10-11 20:30,AUD,Home Loans m/m,Low,0.5%,2.8%,1.0%
+2017-10-12 00:00,JPY,PPI y/y,Low,3.0%,2.9%,3.0%
+2017-10-12 00:00,USD,Core PPI m/m,Medium,0.2%,0.1%,0.4%
+2017-10-12 00:00,USD,FOMC Member Brainard Speaks,Medium,,,
+2017-10-12 00:00,USD,FOMC Member Powell Speaks,Medium,,,
+2017-10-12 00:00,USD,Natural Gas Storage,Low,74B,42B,87B
+2017-10-12 00:00,USD,PPI m/m,High,0.4%,0.2%,0.4%
+2017-10-12 00:00,USD,Unemployment Claims,High,251K,258K,243K
+2017-10-12 00:30,JPY,Tertiary Industry Activity m/m,Low,0.1%,0.1%,-0.2%
+2017-10-12 02:45,EUR,French Final CPI m/m,Low,-0.1%,-0.1%,-0.2%
+2017-10-12 04:30,GBP,BOE Credit Conditions Survey,Medium,,,
+2017-10-12 05:00,EUR,Industrial Production m/m,Low,0.6%,0.3%,1.4%
+2017-10-12 08:30,CAD,NHPI m/m,Medium,0.3%,0.4%,0.1%
+2017-10-12 10:30,EUR,ECB President Draghi Speaks,High,,,
+2017-10-12 11:00,USD,Crude Oil Inventories,High,-1.9M,-6.0M,-2.7M
+2017-10-12 13:01,USD,30-y Bond Auction,Low,,2.79|2.2,2.87|2.5
+2017-10-12 15:15,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2017-10-12 17:30,NZD,BusinessNZ Manufacturing Index,Medium,,57.9,57.5
+2017-10-12 19:50,JPY,M2 Money Stock y/y,Low,4.0%,4.0%,4.1%
+2017-10-12 20:30,AUD,RBA Financial Stability Review,Medium,,,
+2017-10-12 22:00,CNY,Trade Balance,Medium,266B,287B,193B
+2017-10-12 23:30,CNY,USD-Denominated Trade Balance,Low,38.4B,42.0B,28.5B
+2017-10-13 00:00,USD,Business Inventories m/m,Low,0.7%,0.3%,0.7%
+2017-10-13 00:00,USD,CPI m/m,High,0.6%,0.4%,0.5%
+2017-10-13 00:00,USD,CPI y/y,High,2.3%,1.9%,2.2%
+2017-10-13 00:00,USD,Core Retail Sales m/m,High,0.9%,0.5%,1.0%
+2017-10-13 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.7%,2.3%
+2017-10-13 00:00,USD,Retail Sales m/m,High,1.7%,-0.1%,1.6%
+2017-10-13 02:00,EUR,German Final CPI m/m,Low,0.1%,0.1%,0.1%
+2017-10-13 02:36,CNY,Foreign Direct Investment ytd/y,Low,,-0.2%,1.6%
+2017-10-13 03:15,CHF,PPI m/m,Medium,0.3%,0.3%,0.5%
+2017-10-13 08:30,USD,Core CPI m/m,High,0.2%,0.2%,0.1%
+2017-10-13 09:30,GBP,CB Leading Index m/m,Low,,-0.2%,-0.1%
+2017-10-13 10:00,USD,Prelim UoM Consumer Sentiment,Medium,95.1,95.1,101.1
+2017-10-13 10:25,USD,FOMC Member Evans Speaks,Medium,,,
+2017-10-13 11:30,USD,FOMC Member Kaplan Speaks,Medium,,,
+2017-10-13 16:29,All,IMF Meetings,Low,,,
+2017-10-13 22:00,CNY,M2 Money Supply y/y,Low,8.9%,8.9%,9.2%
+2017-10-14 00:00,CNY,New Loans,Low,1160B,1090B,1270B
+2017-10-14 13:00,EUR,ECB President Draghi Speaks,High,,,
+2017-10-14 16:29,All,IMF Meetings,Low,,,
+2017-10-15 00:00,USD,Fed Chair Yellen Speaks,High,,,
+2017-10-15 09:00,JPY,BOJ Gov Kuroda Speaks,High,,,
+2017-10-15 11:20,EUR,German Buba President Weidmann Speaks,Medium,,,
+2017-10-15 16:29,All,IMF Meetings,Low,,,
+2017-10-15 17:30,NZD,BusinessNZ Services Index,Low,,57.2,56.0
+2017-10-15 19:01,GBP,Rightmove HPI m/m,Low,,-1.2%,1.1%
+2017-10-15 21:30,CNY,CPI y/y,Medium,1.6%,1.8%,1.6%
+2017-10-16 00:00,CNY,PPI y/y,Medium,6.3%,6.3%,6.9%
+2017-10-16 00:00,USD,Empire State Manufacturing Index,Medium,20.3,24.4,30.2
+2017-10-16 00:30,JPY,Revised Industrial Production m/m,Low,2.1%,2.1%,2.0%
+2017-10-16 02:00,EUR,German WPI m/m,Low,0.4%,0.3%,0.6%
+2017-10-16 05:00,EUR,Trade Balance,Low,20.3B,17.9B,21.6B
+2017-10-16 08:30,CAD,Foreign Securities Purchases,Medium,20.05B,23.97B,9.85B
+2017-10-16 10:30,CAD,BOC Business Outlook Survey,Medium,,,
+2017-10-16 17:45,NZD,CPI q/q,High,0.4%,0.0%,0.5%
+2017-10-16 20:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2017-10-17 00:00,AUD,New Motor Vehicle Sales m/m,Low,,-0.1%,-0.5%
+2017-10-17 00:00,AUD,RBA Assist Gov Ellis Speaks,Medium,,,
+2017-10-17 00:00,EUR,Final Core CPI y/y,Low,1.1%,1.1%,1.1%
+2017-10-17 00:00,EUR,German ZEW Economic Sentiment,Medium,20.1,17.0,17.6
+2017-10-17 00:00,EUR,ZEW Economic Sentiment,Low,34.2,31.7,26.7
+2017-10-17 00:00,GBP,Core CPI y/y,Low,2.7%,2.7%,2.7%
+2017-10-17 00:00,GBP,HPI y/y,Low,5.4%,4.5%,5.0%
+2017-10-17 00:00,GBP,PPI Input m/m,Medium,1.2%,2.3%,0.4%
+2017-10-17 00:00,GBP,PPI Output m/m,Low,0.2%,0.4%,0.2%
+2017-10-17 00:00,GBP,RPI y/y,Medium,4.0%,3.9%,3.9%
+2017-10-17 00:00,USD,Industrial Production m/m,Medium,0.3%,-0.7%,0.3%
+2017-10-17 04:05,EUR,Italian Trade Balance,Low,4.23B,6.56B,2.77B
+2017-10-17 04:15,GBP,MPC Member Ramsden Speaks,Medium,,,
+2017-10-17 04:30,GBP,CPI y/y,High,3.0%,2.9%,3.0%
+2017-10-17 05:00,EUR,Final CPI y/y,Medium,1.5%,1.5%,1.5%
+2017-10-17 05:15,GBP,MPC Member Tenreyro Speaks,Medium,,,
+2017-10-17 06:15,GBP,BOE Gov Carney Speaks,High,,,
+2017-10-17 08:30,USD,Import Prices m/m,Medium,0.6%,0.6%,0.7%
+2017-10-17 09:15,USD,Capacity Utilization Rate,Medium,76.2%,75.8%,76.0%
+2017-10-17 10:00,USD,NAHB Housing Market Index,Low,64,64,68
+2017-10-17 10:33,NZD,GDT Price Index,Medium,,-2.4%,-1.0%
+2017-10-17 13:00,USD,FOMC Member Harker Speaks,Medium,,,
+2017-10-17 15:30,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2017-10-17 16:00,USD,TIC Long-Term Purchases,Low,14.3B,1.2B,67.2B
+2017-10-17 17:00,USD,Treasury Currency Report,Medium,,,
+2017-10-17 19:30,AUD,MI Leading Index m/m,Low,,-0.1%,0.1%
+2017-10-18 00:00,GBP,Claimant Count Change,Medium,1.3K,-0.2K,1.7K
+2017-10-18 00:00,GBP,Unemployment Rate,Medium,4.3%,4.3%,4.3%
+2017-10-18 00:00,USD,Building Permits,High,1.25M,1.27M,1.22M
+2017-10-18 00:00,USD,FOMC Member Kaplan Speaks,Medium,,,
+2017-10-18 00:00,USD,Housing Starts,Medium,1.18M,1.18M,1.13M
+2017-10-18 04:10,EUR,ECB President Draghi Speaks,High,,,
+2017-10-18 04:30,GBP,Average Earnings Index 3m/y,High,2.1%,2.2%,2.2%
+2017-10-18 05:34,EUR,German 30-y Bond Auction,Low,,1.27|1.8,1.22|1.7
+2017-10-18 08:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2017-10-18 08:30,CAD,Manufacturing Sales m/m,Medium,-0.1%,-2.6%,1.6%
+2017-10-18 10:30,USD,Crude Oil Inventories,High,-4.7M,-2.7M,-5.7M
+2017-10-18 14:00,USD,Beige Book,Low,,,
+2017-10-18 19:50,JPY,Trade Balance,Low,0.31T,0.31T,0.24T
+2017-10-18 20:30,AUD,Employment Change,High,14.1K,53.0K,19.8K
+2017-10-18 21:10,AUD,RBA Gov Bullock Speaks,Medium,,,
+2017-10-18 22:00,CNY,GDP q/y,High,6.8%,6.9%,6.8%
+2017-10-19 00:00,AUD,NAB Quarterly Business Confidence,Low,,8,7
+2017-10-19 00:00,AUD,Unemployment Rate,High,5.6%,5.6%,5.5%
+2017-10-19 00:00,CNY,Fixed Asset Investment ytd/y,Medium,7.7%,7.8%,7.5%
+2017-10-19 00:00,CNY,Industrial Production y/y,High,6.4%,6.0%,6.6%
+2017-10-19 00:00,CNY,NBS Press Conference,Medium,,,
+2017-10-19 00:00,CNY,Retail Sales y/y,Low,10.2%,10.1%,10.3%
+2017-10-19 00:00,USD,Philly Fed Manufacturing Index,Medium,21.9,23.8,27.9
+2017-10-19 00:30,JPY,All Industries Activity m/m,Low,0.2%,-0.1%,0.1%
+2017-10-19 02:00,CHF,Trade Balance,Low,2.47B,2.20B,2.92B
+2017-10-19 04:30,GBP,Retail Sales m/m,High,-0.1%,0.9%,-0.8%
+2017-10-19 04:43,EUR,Spanish 10-y Bond Auction,Low,,1.87|2.5,1.63|1.8
+2017-10-19 05:37,GBP,10-y Bond Auction,Low,,1.16|2.2,1.32|2.1
+2017-10-19 08:30,USD,Unemployment Claims,High,240K,244K,222K
+2017-10-19 10:00,USD,CB Leading Index m/m,Low,0.1%,0.4%,-0.2%
+2017-10-19 10:30,USD,Natural Gas Storage,Low,59B,87B,51B
+2017-10-19 17:45,NZD,Visitor Arrivals m/m,Low,,-0.4%,0.3%
+2017-10-19 22:00,NZD,Credit Card Spending y/y,Low,,6.4%,4.9%
+2017-10-20 00:00,CAD,CPI m/m,High,0.3%,0.1%,0.2%
+2017-10-20 00:00,CAD,Common CPI y/y,Medium,,1.5%,1.5%
+2017-10-20 00:00,CAD,Median CPI y/y,Medium,,1.8%,1.8%
+2017-10-20 00:00,CAD,Retail Sales m/m,Medium,0.5%,0.4%,-0.3%
+2017-10-20 00:00,CAD,Trimmed CPI y/y,Medium,,1.4%,1.5%
+2017-10-20 02:00,EUR,German PPI m/m,Low,0.1%,0.2%,0.3%
+2017-10-20 04:00,EUR,Current Account,Low,26.2B,31.5B,33.3B
+2017-10-20 04:30,GBP,Public Sector Net Borrowing,Medium,5.7B,4.1B,5.3B
+2017-10-20 08:30,CAD,Core Retail Sales m/m,High,0.3%,0.2%,-0.7%
+2017-10-20 08:33,CAD,Core CPI m/m,Low,,0.0%,0.2%
+2017-10-20 10:00,USD,Existing Home Sales,Medium,5.30M,5.35M,5.39M
+2017-10-20 14:00,USD,Federal Budget Balance,Low,-0.9B,-107.7B,8.0B
+2017-10-20 19:30,USD,Fed Chair Yellen Speaks,High,,,
+2017-10-21 16:29,All,OPEC-JMMC Meetings,Medium,,,
+2017-10-22 16:29,JPY,Lower House Elections,High,,,
+2017-10-22 16:29,JPY,Upper House Elections,Medium,,,
+2017-10-23 00:00,GBP,CBI Industrial Order Expectations,Low,9,7,-2
+2017-10-23 06:00,EUR,German Buba Monthly Report,Low,,,
+2017-10-23 08:30,CAD,Wholesale Sales m/m,Medium,1.1%,1.7%,0.5%
+2017-10-23 10:00,EUR,Consumer Confidence,Low,-1,-1,-1
+2017-10-23 10:30,AUD,CB Leading Index m/m,Low,,0.2%,0.1%
+2017-10-23 20:30,JPY,Flash Manufacturing PMI,Low,53.1,52.9,52.5
+2017-10-24 00:00,EUR,Flash Services PMI,Medium,55.7,55.8,54.9
+2017-10-24 00:00,EUR,French Flash Services PMI,Medium,57.0,57.0,57.4
+2017-10-24 00:00,EUR,German Flash Services PMI,Medium,55.5,55.6,55.2
+2017-10-24 00:00,USD,Flash Services PMI,Low,55.2,55.3,55.9
+2017-10-24 03:00,EUR,French Flash Manufacturing PMI,Medium,56.2,56.1,56.7
+2017-10-24 03:30,EUR,German Flash Manufacturing PMI,Medium,60.1,60.6,60.5
+2017-10-24 04:00,EUR,Flash Manufacturing PMI,Medium,57.9,58.1,58.6
+2017-10-24 08:57,EUR,Belgian NBB Business Climate,Low,-2.9,-3.5,0.5
+2017-10-24 09:00,CNY,CB Leading Index m/m,Low,,1.3%,1.0%
+2017-10-24 09:45,USD,Flash Manufacturing PMI,Low,53.3,53.1,54.5
+2017-10-24 09:59,USD,Richmond Manufacturing Index,Low,17,19,12
+2017-10-24 20:30,AUD,CPI q/q,High,0.8%,0.2%,0.6%
+2017-10-25 00:00,AUD,Trimmed Mean CPI q/q,High,0.5%,0.5%,0.4%
+2017-10-25 00:00,CAD,BOC Rate Statement,High,,,
+2017-10-25 00:00,CAD,Overnight Rate,Medium,1.00%,1.00%,1.00%
+2017-10-25 00:00,EUR,German ifo Business Climate,Medium,115.2,115.3,116.7
+2017-10-25 00:00,GBP,High Street Lending,Low,41.8K,41.8K,41.6K
+2017-10-25 00:00,GBP,Index of Services 3m/3m,Low,0.4%,0.5%,0.4%
+2017-10-25 00:00,USD,Durable Goods Orders m/m,Medium,1.0%,2.0%,2.2%
+2017-10-25 00:00,USD,New Home Sales,Medium,555K,561K,667K
+2017-10-25 02:00,CHF,UBS Consumption Indicator,Low,,1.50,1.56
+2017-10-25 04:00,CHF,UBS Economic Expectations,Low,,28.0,32.0
+2017-10-25 04:30,GBP,Prelim GDP q/q,High,0.3%,0.3%,0.4%
+2017-10-25 05:34,EUR,German 10-y Bond Auction,Low,,0.44|1.6,0.48|1.7
+2017-10-25 08:30,USD,Core Durable Goods Orders m/m,High,0.5%,0.5%,0.7%
+2017-10-25 09:00,USD,HPI m/m,Low,0.4%,0.4%,0.7%
+2017-10-25 10:00,CAD,BOC Monetary Policy Report,High,,,
+2017-10-25 10:30,USD,Crude Oil Inventories,High,-2.6M,-5.7M,0.9M
+2017-10-25 11:15,CAD,BOC Press Conference,High,,,
+2017-10-25 17:45,NZD,Trade Balance,Medium,-900M,-1179M,-1143M
+2017-10-25 19:50,JPY,SPPI y/y,Low,0.8%,0.8%,0.9%
+2017-10-25 20:30,AUD,Import Prices q/q,Low,-1.5%,-0.1%,-1.6%
+2017-10-26 00:00,EUR,Monetary Policy Statement,High,,,
+2017-10-26 00:00,EUR,Private Loans y/y,Low,2.8%,2.7%,2.7%
+2017-10-26 00:00,USD,Goods Trade Balance,Low,-63.8B,-63.3B,-64.1B
+2017-10-26 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.4%,0.9%,0.3%
+2017-10-26 00:00,USD,Unemployment Claims,High,235K,223K,233K
+2017-10-26 02:00,EUR,German GfK Consumer Climate,Low,10.8,10.8,10.7
+2017-10-26 03:00,EUR,Spanish Unemployment Rate,Medium,16.6%,17.2%,16.4%
+2017-10-26 03:45,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2017-10-26 04:00,EUR,M3 Money Supply y/y,Medium,5.0%,5.0%,5.1%
+2017-10-26 06:00,GBP,CBI Realized Sales,Low,14,42,-36
+2017-10-26 07:45,EUR,Main Refinancing Rate,High,0.00%,0.00%,0.00%
+2017-10-26 08:30,EUR,ECB Press Conference,High,,,
+2017-10-26 10:00,USD,Pending Home Sales m/m,Medium,0.2%,-2.8%,0.0%
+2017-10-26 10:30,USD,Natural Gas Storage,Low,61B,51B,64B
+2017-10-26 19:30,JPY,National Core CPI y/y,Low,0.7%,0.7%,0.7%
+2017-10-26 20:30,AUD,PPI q/q,Low,0.4%,0.5%,0.2%
+2017-10-27 00:00,JPY,Tokyo Core CPI y/y,Low,0.5%,0.5%,0.6%
+2017-10-27 00:00,USD,Advance GDP Price Index q/q,Medium,1.7%,1.0%,2.2%
+2017-10-27 00:00,USD,Revised UoM Inflation Expectations,Low,,2.3%,2.4%
+2017-10-27 02:00,EUR,German Import Prices m/m,Low,0.5%,0.0%,0.9%
+2017-10-27 08:30,USD,Advance GDP q/q,High,2.6%,3.1%,3.0%
+2017-10-27 10:00,USD,Revised UoM Consumer Sentiment,Medium,100.8,101.1,100.7
+2017-10-29 19:50,JPY,Retail Sales y/y,Low,2.3%,1.8%,2.2%
+2017-10-30 00:00,EUR,Spanish Flash CPI y/y,Medium,1.7%,1.8%,1.6%
+2017-10-30 00:00,EUR,Spanish Flash GDP q/q,Medium,0.8%,0.9%,0.8%
+2017-10-30 00:00,GBP,M4 Money Supply m/m,Low,0.7%,1.1%,-0.2%
+2017-10-30 00:00,GBP,Mortgage Approvals,Low,66K,67K,66K
+2017-10-30 00:00,USD,Personal Income m/m,Low,0.4%,0.2%,0.4%
+2017-10-30 00:00,USD,Personal Spending m/m,Medium,0.8%,0.1%,1.0%
+2017-10-30 03:00,EUR,German Retail Sales m/m,Medium,0.5%,-0.2%,0.5%
+2017-10-30 04:00,CHF,KOF Economic Barometer,Medium,106.6,106.1,109.1
+2017-10-30 05:30,GBP,Net Lending to Individuals m/m,Medium,5.5B,5.7B,5.5B
+2017-10-30 06:12,EUR,Italian 10-y Bond Auction,Low,,2.19|1.7,1.86|1.4
+2017-10-30 08:30,USD,Core PCE Price Index m/m,Medium,0.1%,0.1%,0.1%
+2017-10-30 16:29,EUR,German Prelim CPI m/m,Medium,0.1%,0.1%,0.0%
+2017-10-30 17:45,NZD,Building Consents m/m,Low,,5.9%,-2.3%
+2017-10-30 19:30,JPY,Household Spending y/y,Low,0.7%,0.6%,-0.3%
+2017-10-30 19:50,JPY,Prelim Industrial Production m/m,Low,-1.5%,2.0%,-1.1%
+2017-10-30 20:00,AUD,HIA New Home Sales m/m,Low,,9.1%,-6.1%
+2017-10-30 20:01,GBP,GfK Consumer Confidence,Low,-10,-9,-10
+2017-10-30 20:30,AUD,Private Sector Credit m/m,Low,0.5%,0.5%,0.3%
+2017-10-30 21:00,CNY,Manufacturing PMI,Medium,52.2,52.4,51.6
+2017-10-30 23:05,JPY,BOJ Outlook Report,High,,,
+2017-10-31 00:00,CAD,IPPI m/m,Low,0.5%,0.4%,-0.3%
+2017-10-31 00:00,CAD,RMPI m/m,Medium,0.4%,0.9%,-0.1%
+2017-10-31 00:00,CNY,Non-Manufacturing PMI,Medium,,55.4,54.3
+2017-10-31 00:00,EUR,CPI Flash Estimate y/y,Medium,1.5%,1.5%,1.4%
+2017-10-31 00:00,EUR,French Prelim CPI m/m,Low,0.1%,-0.2%,0.1%
+2017-10-31 00:00,EUR,Italian Prelim CPI m/m,Low,0.1%,-0.3%,-0.2%
+2017-10-31 00:00,EUR,Prelim Flash GDP q/q,Medium,0.5%,0.7%,0.6%
+2017-10-31 00:00,EUR,Unemployment Rate,Low,9.0%,9.0%,8.9%
+2017-10-31 00:00,JPY,BOJ Policy Rate,High,-0.10%,-0.10%,-0.10%
+2017-10-31 00:00,JPY,BOJ Press Conference,High,,,
+2017-10-31 00:00,JPY,Housing Starts y/y,Low,-3.0%,-2.0%,-2.9%
+2017-10-31 00:00,JPY,Monetary Policy Statement,High,,,
+2017-10-31 00:00,JPY,Unemployment Rate,Low,2.8%,2.8%,2.8%
+2017-10-31 00:00,NZD,ANZ Business Confidence,Medium,,0.0,-10.1
+2017-10-31 00:00,USD,Employment Cost Index q/q,Medium,0.7%,0.5%,0.7%
+2017-10-31 01:00,JPY,BOJ Core CPI y/y,Low,0.5%,0.6%,0.5%
+2017-10-31 02:30,EUR,French Flash GDP q/q,Low,0.5%,0.6%,0.5%
+2017-10-31 03:45,EUR,French Consumer Spending m/m,Low,0.6%,-0.2%,0.9%
+2017-10-31 05:00,EUR,Italian Monthly Unemployment Rate,Low,11.1%,11.1%,11.1%
+2017-10-31 06:00,EUR,Core CPI Flash Estimate y/y,Medium,1.1%,1.1%,0.9%
+2017-10-31 08:30,CAD,GDP m/m,High,0.1%,0.0%,-0.1%
+2017-10-31 09:00,USD,S&P/CS Composite-20 HPI y/y,Low,5.8%,5.8%,5.9%
+2017-10-31 09:45,USD,Chicago PMI,Medium,60.2,65.2,66.2
+2017-10-31 10:00,USD,CB Consumer Confidence,High,121.1,120.6,125.9
+2017-10-31 15:30,CAD,BOC Gov Poloz Speaks,High,,,
+2017-10-31 17:45,NZD,Employment Change q/q,High,0.8%,-0.1%,2.2%
+2017-10-31 18:30,AUD,AIG Manufacturing Index,Low,,54.2,51.1
+2017-10-31 20:01,GBP,BRC Shop Price Index y/y,Low,,-0.1%,-0.1%
+2017-10-31 20:30,JPY,Final Manufacturing PMI,Low,52.5,52.5,52.8
+2017-10-31 21:45,CNY,Caixin Manufacturing PMI,Medium,51.0,51.0,51.0
+2017-10-31 23:45,JPY,10-y Bond Auction,Low,,0.08|4.1,0.06|4.6

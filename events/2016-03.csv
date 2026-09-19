@@ -1,0 +1,376 @@
+datetime,currency,title,impact,forecast,previous,actual
+2016-03-01 00:00,AUD,Current Account,Medium,-19.8B,-18.8B,-21.1B
+2016-03-01 00:00,AUD,RBA Rate Statement,High,,,
+2016-03-01 00:00,CNY,Non-Manufacturing PMI,Medium,,53.5,52.7
+2016-03-01 00:00,EUR,German Final Manufacturing PMI,Low,50.2,50.2,50.5
+2016-03-01 00:00,EUR,Italian Monthly Unemployment Rate,Low,11.3%,11.6%,11.5%
+2016-03-01 00:00,EUR,Spanish Manufacturing PMI,Medium,54.3,55.4,54.1
+2016-03-01 00:00,JPY,Unemployment Rate,Low,3.3%,3.3%,3.2%
+2016-03-01 00:00,USD,Construction Spending m/m,Low,0.5%,0.6%,1.5%
+2016-03-01 00:00,USD,ISM Manufacturing Prices,Low,35.5,33.5,38.5
+2016-03-01 00:00,USD,RCM/TIPP Economic Optimism,Low,46.9,47.8,46.8
+2016-03-01 00:30,AUD,Commodity Prices y/y,Low,,-24.8%,-21.6%
+2016-03-01 03:15,CHF,Retail Sales y/y,Low,-1.2%,-1.7%,0.2%
+2016-03-01 03:30,CHF,Manufacturing PMI,Low,49.6,50.0,51.6
+2016-03-01 03:45,EUR,Italian Manufacturing PMI,Low,52.2,53.2,52.2
+2016-03-01 03:50,EUR,French Final Manufacturing PMI,Low,50.3,50.3,50.2
+2016-03-01 03:55,EUR,German Unemployment Change,Medium,-10K,-19K,-10K
+2016-03-01 04:00,EUR,Final Manufacturing PMI,Low,51.0,51.0,51.2
+2016-03-01 04:30,GBP,Final Manufacturing PMI,High,52.3,52.9,50.8
+2016-03-01 05:00,EUR,Unemployment Rate,Medium,10.4%,10.4%,10.3%
+2016-03-01 08:30,CAD,GDP m/m,High,0.1%,0.3%,0.2%
+2016-03-01 09:26,NZD,GDT Price Index,High,,-2.8%,1.4%
+2016-03-01 09:30,CAD,Manufacturing PMI,Low,,49.3,49.4
+2016-03-01 09:45,USD,Final Manufacturing PMI,Low,51.0,51.0,51.3
+2016-03-01 10:00,USD,ISM Manufacturing PMI,High,48.5,48.2,49.5
+2016-03-01 15:29,USD,Total Vehicle Sales,Low,17.6M,17.6M,17.5M
+2016-03-01 15:29,USD,Wards Total Vehicle Sales,Low,17.7M,17.5M,17.4M
+2016-03-01 18:50,JPY,Monetary Base y/y,Low,27.9%,28.9%,29.0%
+2016-03-01 19:00,AUD,HIA New Home Sales m/m,Low,,6.0%,3.1%
+2016-03-01 19:01,GBP,BRC Shop Price Index y/y,Low,,-1.8%,-2.0%
+2016-03-01 19:30,AUD,GDP q/q,High,0.5%,1.1%,0.6%
+2016-03-02 00:00,GBP,MPC Member Broadbent Speaks,Medium,,,
+2016-03-02 01:45,CHF,GDP q/q,Low,0.2%,-0.1%,0.4%
+2016-03-02 03:00,EUR,Spanish Unemployment Change,Medium,0.2K,57.2K,2.2K
+2016-03-02 04:30,GBP,Construction PMI,High,55.5,55.0,54.2
+2016-03-02 05:00,EUR,PPI m/m,Low,-0.9%,-0.8%,-1.0%
+2016-03-02 08:15,USD,ADP Non-Farm Employment Change,High,185K,193K,214K
+2016-03-02 09:00,GBP,MPC Member Cunliffe Speaks,Medium,,,
+2016-03-02 10:30,USD,Crude Oil Inventories,High,2.5M,3.5M,10.4M
+2016-03-02 14:00,USD,Beige Book,Low,,,
+2016-03-02 17:15,AUD,AIG Services Index,Low,,48.4,51.8
+2016-03-02 19:00,NZD,ANZ Commodity Prices m/m,Low,,-2.3%,0.4%
+2016-03-02 19:30,AUD,Goods Trade Balance,High,-3.22B,-3.52B,-2.94B
+2016-03-02 20:45,CNY,Caixin Services PMI,Medium,52.6,52.4,51.2
+2016-03-03 00:00,USD,Factory Orders m/m,Medium,2.1%,-2.9%,1.6%
+2016-03-03 00:00,USD,Revised Nonfarm Productivity q/q,Medium,-3.2%,-3.0%,-2.2%
+2016-03-03 00:00,USD,Revised Unit Labor Costs q/q,Low,4.8%,4.5%,3.3%
+2016-03-03 02:00,GBP,Nationwide HPI m/m,Low,0.4%,0.3%,0.3%
+2016-03-03 03:15,EUR,Spanish Services PMI,Low,53.9,54.6,54.1
+2016-03-03 03:30,GBP,Halifax HPI m/m,Medium,0.1%,1.7%,-1.4%
+2016-03-03 03:45,EUR,Italian Services PMI,Low,52.7,53.6,53.8
+2016-03-03 03:50,EUR,French Final Services PMI,Low,49.8,49.8,49.2
+2016-03-03 03:55,EUR,German Final Services PMI,Low,55.1,55.1,55.3
+2016-03-03 04:00,EUR,Final Services PMI,Low,53.0,53.0,53.3
+2016-03-03 04:30,GBP,Final Services PMI,High,55.1,55.6,52.7
+2016-03-03 04:58,EUR,French 10-y Bond Auction,Low,,0.67|4.1,0.63|1.6
+2016-03-03 05:00,EUR,Retail Sales m/m,Low,0.1%,0.6%,0.4%
+2016-03-03 07:30,USD,Challenger Job Cuts y/y,Low,,41.6%,21.8%
+2016-03-03 08:30,USD,Unemployment Claims,High,271K,272K,278K
+2016-03-03 09:45,USD,Final Services PMI,Low,49.8,49.8,49.7
+2016-03-03 10:00,USD,ISM Services PMI,High,53.2,53.5,53.4
+2016-03-03 10:30,USD,Natural Gas Storage,Low,-49B,-117B,-48B
+2016-03-03 12:45,GBP,MPC Member Haldane Speaks,Medium,,,
+2016-03-03 19:00,JPY,Average Cash Earnings y/y,Low,0.2%,-0.2%,0.4%
+2016-03-03 19:30,AUD,Retail Sales m/m,High,0.4%,0.0%,0.3%
+2016-03-04 00:00,CAD,Labor Productivity q/q,Medium,0.2%,0.4%,0.1%
+2016-03-04 00:00,USD,Average Hourly Earnings m/m,High,0.2%,0.5%,-0.1%
+2016-03-04 00:00,USD,Non-Farm Employment Change,High,195K,172K,242K
+2016-03-04 00:00,USD,Trade Balance,Medium,-43.8B,-44.7B,-45.7B
+2016-03-04 00:00,USD,Unemployment Rate,High,4.9%,4.9%,4.9%
+2016-03-04 04:10,EUR,Retail PMI,Low,,48.9,50.1
+2016-03-04 08:30,CAD,Trade Balance,High,-1.0B,-0.6B,-0.7B
+2016-03-04 10:00,CAD,Ivey PMI,Medium,58.2,66.0,53.4
+2016-03-06 17:30,AUD,AIG Construction Index,Low,,46.3,46.1
+2016-03-06 19:30,AUD,ANZ Job Advertisements m/m,Low,,0.9%,-1.2%
+2016-03-06 22:40,JPY,BOJ Gov Kuroda Speaks,High,,,
+2016-03-07 00:00,JPY,Leading Indicators,Low,101.6%,102.1%,101.4%
+2016-03-07 00:00,USD,FOMC Member Fischer Speaks,Medium,,,
+2016-03-07 02:00,EUR,German Factory Orders m/m,Medium,-0.4%,-0.2%,-0.1%
+2016-03-07 03:00,CHF,Foreign Currency Reserves,Medium,,575B,571B
+2016-03-07 04:10,GBP,MPC Member Haldane Speaks,Medium,,,
+2016-03-07 04:30,EUR,Sentix Investor Confidence,Low,8.8,6.0,5.5
+2016-03-07 10:00,USD,Labor Market Conditions Index m/m,Low,,-0.8,-2.4
+2016-03-07 13:00,USD,FOMC Member Brainard Speaks,Medium,,,
+2016-03-07 15:00,USD,Consumer Credit m/m,Low,16.8B,21.4B,10.5B
+2016-03-07 15:29,EUR,Eurogroup Meetings,Medium,,,
+2016-03-07 16:45,NZD,Manufacturing Sales q/q,Low,,3.6%,-1.9%
+2016-03-07 18:20,AUD,RBA Deputy Gov Lowe Speaks,Medium,,,
+2016-03-07 18:50,JPY,Current Account,Medium,1.66T,1.69T,1.49T
+2016-03-07 19:01,GBP,BRC Retail Sales Monitor y/y,Low,,2.6%,0.1%
+2016-03-07 19:30,AUD,NAB Business Confidence,Medium,,3,3
+2016-03-07 21:36,CNY,Trade Balance,High,339B,406B,210B
+2016-03-07 21:41,CNY,USD-Denominated Trade Balance,Low,51.2B,63.3B,32.6B
+2016-03-07 22:45,JPY,30-y Bond Auction,Low,,1.07|3.0,0.77|4.2
+2016-03-08 00:00,EUR,French Trade Balance,Low,-3.7B,-3.7B,-3.7B
+2016-03-08 00:00,JPY,Bank Lending y/y,Low,,2.3%,2.2%
+2016-03-08 00:00,JPY,Consumer Confidence,Low,42.3,42.5,40.1
+2016-03-08 00:00,JPY,Final GDP Price Index y/y,Low,1.5%,1.5%,1.5%
+2016-03-08 00:00,JPY,Final GDP q/q,Medium,-0.4%,-0.4%,-0.3%
+2016-03-08 01:00,JPY,Economy Watchers Sentiment,Low,47.5,46.6,44.6
+2016-03-08 01:45,CHF,Unemployment Rate,Low,3.5%,3.4%,3.4%
+2016-03-08 02:00,EUR,German Industrial Production m/m,Low,0.6%,-0.3%,3.3%
+2016-03-08 02:45,EUR,French Gov Budget Balance,Low,,-70.5B,-9.2B
+2016-03-08 03:15,CHF,CPI m/m,Low,-0.1%,-0.4%,0.2%
+2016-03-08 04:15,GBP,BOE Gov Carney Speaks,High,,,
+2016-03-08 05:00,EUR,Revised GDP q/q,Low,0.3%,0.3%,0.3%
+2016-03-08 06:00,USD,NFIB Small Business Index,Low,94.5,93.9,92.9
+2016-03-08 08:13,CAD,Housing Starts,Low,181K,165K,213K
+2016-03-08 08:30,CAD,Building Permits m/m,Medium,-2.2%,7.7%,-9.8%
+2016-03-08 12:00,GBP,MPC Member Weale Speaks,Medium,,,
+2016-03-08 15:29,EUR,ECOFIN Meetings,Medium,,,
+2016-03-08 18:30,AUD,Westpac Consumer Sentiment,Medium,,4.2%,-2.2%
+2016-03-08 18:50,JPY,M2 Money Stock y/y,Low,3.2%,3.2%,3.1%
+2016-03-08 19:30,AUD,Home Loans m/m,Medium,-2.7%,2.7%,-3.9%
+2016-03-09 00:00,CAD,Overnight Rate,High,0.50%,0.50%,0.50%
+2016-03-09 00:00,GBP,Industrial Production m/m,Low,0.6%,-1.1%,0.3%
+2016-03-09 00:00,NZD,RBNZ Monetary Policy Statement,Medium,,,
+2016-03-09 00:00,NZD,RBNZ Rate Statement,High,,,
+2016-03-09 00:00,USD,Final Wholesale Inventories m/m,Low,-0.2%,0.0%,0.3%
+2016-03-09 00:59,JPY,Prelim Machine Tool Orders y/y,Low,,-17.2%,-22.6%
+2016-03-09 04:30,GBP,Manufacturing Production m/m,High,0.2%,-0.3%,0.7%
+2016-03-09 09:37,GBP,NIESR GDP Estimate,Low,,0.4%,0.3%
+2016-03-09 10:00,CAD,BOC Rate Statement,High,,,
+2016-03-09 10:30,USD,Crude Oil Inventories,High,3.0M,10.4M,3.9M
+2016-03-09 13:01,USD,10-y Bond Auction,Low,,1.73|2.6,1.90|2.5
+2016-03-09 15:00,NZD,Official Cash Rate,High,2.50%,2.50%,2.25%
+2016-03-09 15:05,NZD,RBNZ Press Conference,High,,,
+2016-03-09 18:10,NZD,RBNZ Gov Wheeler Speaks,High,,,
+2016-03-09 18:50,JPY,PPI y/y,Low,-3.4%,-3.2%,-3.4%
+2016-03-09 19:00,AUD,MI Inflation Expectations,Low,,3.6%,3.4%
+2016-03-09 19:01,GBP,RICS House Price Balance,Low,52%,48%,50%
+2016-03-09 20:30,CNY,CPI y/y,High,1.8%,1.8%,2.3%
+2016-03-10 00:00,CAD,Capacity Utilization Rate,Low,81.9%,81.6%,81.1%
+2016-03-10 00:00,CNY,PPI y/y,Medium,-4.9%,-5.3%,-4.9%
+2016-03-10 00:00,EUR,ECB Press Conference,High,,,
+2016-03-10 00:00,EUR,Monetary Policy Statement,High,,,
+2016-03-10 00:00,USD,Unemployment Claims,High,272K,277K,259K
+2016-03-10 01:30,EUR,French Final Private Payrolls q/q,Low,0.2%,0.2%,0.2%
+2016-03-10 02:00,EUR,German Trade Balance,Low,19.2B,20.3B,18.9B
+2016-03-10 02:45,EUR,French Industrial Production m/m,Low,0.8%,-0.6%,1.3%
+2016-03-10 04:00,EUR,Italian Quarterly Unemployment Rate,Low,11.5%,11.5%,11.5%
+2016-03-10 07:45,EUR,Main Refinancing Rate,High,0.05%,0.05%,0.00%
+2016-03-10 08:30,CAD,NHPI m/m,Medium,0.2%,0.1%,0.1%
+2016-03-10 10:30,USD,Natural Gas Storage,Low,-51B,-48B,-57B
+2016-03-10 13:01,USD,30-y Bond Auction,Low,,2.50|2.1,2.72|2.3
+2016-03-10 14:00,USD,Federal Budget Balance,Low,-198.3B,55.2B,-192.6B
+2016-03-10 16:15,CAD,BOC Gov Poloz Speaks,Medium,,,
+2016-03-10 16:30,NZD,BusinessNZ Manufacturing Index,Low,,58.0,56.0
+2016-03-10 16:45,NZD,FPI m/m,Low,,2.0%,-0.6%
+2016-03-10 18:50,JPY,BSI Manufacturing Index,Medium,4.2,3.8,-7.9
+2016-03-11 00:00,CAD,Unemployment Rate,High,7.2%,7.2%,7.3%
+2016-03-11 00:00,CNY,New Loans,Low,1200B,2510B,727B
+2016-03-11 00:00,EUR,German WPI m/m,Low,0.2%,-0.4%,-0.5%
+2016-03-11 00:00,GBP,Construction Output m/m,Low,-1.3%,2.1%,-0.2%
+2016-03-11 00:00,GBP,Consumer Inflation Expectations,Low,,2.0%,1.8%
+2016-03-11 00:00,USD,Import Prices m/m,Medium,-0.7%,-1.0%,-0.3%
+2016-03-11 02:00,EUR,German Final CPI m/m,Low,0.4%,0.4%,0.4%
+2016-03-11 02:18,CNY,Foreign Direct Investment ytd/y,Low,,3.2%,2.7%
+2016-03-11 04:00,EUR,Italian Industrial Production m/m,Low,0.9%,-0.6%,1.9%
+2016-03-11 04:30,GBP,Goods Trade Balance,Medium,-10.3B,-9.9B,-10.3B
+2016-03-11 06:30,CNY,M2 Money Supply y/y,Low,13.8%,14.0%,13.3%
+2016-03-11 08:30,CAD,Employment Change,High,10.2K,-5.7K,-2.3K
+2016-03-12 00:00,CNY,Fixed Asset Investment ytd/y,Medium,9.5%,10.0%,10.2%
+2016-03-12 00:00,CNY,Retail Sales y/y,Low,10.9%,11.1%,10.2%
+2016-03-12 00:30,CNY,Industrial Production y/y,High,5.6%,5.9%,5.4%
+2016-03-13 17:30,NZD,BusinessNZ Services Index,Low,,54.9,56.9
+2016-03-13 19:50,JPY,Core Machinery Orders m/m,Low,2.0%,4.2%,15.0%
+2016-03-14 06:00,EUR,Industrial Production m/m,Low,1.7%,-0.5%,2.1%
+2016-03-14 15:00,NZD,RBNZ Gov Wheeler Speaks,High,,,
+2016-03-14 20:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2016-03-14 23:35,JPY,BOJ Policy Rate,High,,-0.10%,-0.10%
+2016-03-15 00:00,AUD,New Motor Vehicle Sales m/m,Low,,0.4%,-0.1%
+2016-03-15 00:00,JPY,Monetary Policy Statement,High,,,
+2016-03-15 00:00,JPY,Tertiary Industry Activity m/m,Low,0.4%,-0.6%,1.5%
+2016-03-15 00:00,USD,Core PPI m/m,Medium,0.1%,0.4%,0.0%
+2016-03-15 00:00,USD,Empire State Manufacturing Index,Medium,-10.3,-16.6,0.6
+2016-03-15 00:00,USD,NAHB Housing Market Index,Low,59,58,58
+2016-03-15 00:00,USD,PPI m/m,High,-0.2%,0.1%,-0.2%
+2016-03-15 00:00,USD,Retail Sales m/m,High,-0.1%,-0.4%,-0.1%
+2016-03-15 00:30,JPY,Revised Industrial Production m/m,Low,3.7%,3.7%,3.7%
+2016-03-15 02:32,JPY,BOJ Press Conference,High,,,
+2016-03-15 03:45,EUR,French Final CPI m/m,Low,0.2%,0.2%,0.3%
+2016-03-15 06:00,EUR,Final Employment Change q/q,Low,0.2%,0.3%,0.3%
+2016-03-15 08:30,USD,Core Retail Sales m/m,High,-0.2%,-0.4%,-0.1%
+2016-03-15 10:00,USD,Business Inventories m/m,Low,0.0%,0.1%,0.1%
+2016-03-15 10:09,NZD,GDT Price Index,High,,1.4%,-2.9%
+2016-03-15 16:00,USD,TIC Long-Term Purchases,Low,3.2B,-29.4B,-12.0B
+2016-03-15 17:45,NZD,Current Account,Medium,-2.97B,-4.74B,-2.61B
+2016-03-15 19:30,AUD,MI Leading Index m/m,Low,,0.1%,-0.2%
+2016-03-16 00:00,CAD,Foreign Securities Purchases,Medium,10.20B,-1.40B,13.51B
+2016-03-16 00:00,GBP,Annual Budget Release,High,,,
+2016-03-16 00:00,GBP,Claimant Count Change,High,-8.8K,-28.4K,-18.0K
+2016-03-16 00:00,GBP,Unemployment Rate,Medium,5.1%,5.1%,5.1%
+2016-03-16 00:00,USD,Building Permits,High,1.20M,1.20M,1.17M
+2016-03-16 00:00,USD,CPI m/m,High,-0.2%,0.0%,-0.2%
+2016-03-16 00:00,USD,CPI y/y,High,0.9%,1.4%,1.0%
+2016-03-16 00:00,USD,Core CPI m/m,High,0.2%,0.3%,0.3%
+2016-03-16 00:00,USD,FOMC Economic Projections,High,,,
+2016-03-16 00:00,USD,FOMC Statement,High,,,
+2016-03-16 00:00,USD,Housing Starts,Medium,1.15M,1.12M,1.18M
+2016-03-16 00:00,USD,Industrial Production m/m,Medium,-0.2%,0.8%,-0.5%
+2016-03-16 05:30,GBP,Average Earnings Index 3m/y,High,2.0%,1.9%,2.1%
+2016-03-16 06:32,EUR,German 10-y Bond Auction,Low,,0.26|1.2,0.30|1.4
+2016-03-16 08:30,CAD,Manufacturing Sales m/m,High,0.4%,1.4%,2.3%
+2016-03-16 09:15,USD,Capacity Utilization Rate,Medium,76.9%,77.1%,76.7%
+2016-03-16 09:30,GBP,CB Leading Index m/m,Low,,0.3%,0.2%
+2016-03-16 10:30,USD,Crude Oil Inventories,High,2.9M,3.9M,1.3M
+2016-03-16 14:00,USD,Federal Funds Rate,High,0.50%,0.50%,0.50%
+2016-03-16 14:30,USD,FOMC Press Conference,High,,,
+2016-03-16 17:45,NZD,GDP q/q,High,0.7%,0.9%,0.9%
+2016-03-16 18:05,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2016-03-16 19:50,JPY,Trade Balance,Low,0.24T,0.07T,0.17T
+2016-03-16 20:30,AUD,Employment Change,High,11.6K,-7.4K,0.3K
+2016-03-17 00:00,AUD,RBA Bulletin,Low,,,
+2016-03-17 00:00,AUD,Unemployment Rate,High,6.0%,6.0%,5.8%
+2016-03-17 00:00,CHF,SNB Monetary Policy Assessment,High,,,
+2016-03-17 00:00,EUR,Final Core CPI y/y,Low,0.7%,0.7%,0.8%
+2016-03-17 00:00,EUR,Trade Balance,Low,20.2B,22.5B,21.2B
+2016-03-17 00:00,GBP,Asset Purchase Facility,Medium,375B,375B,375B
+2016-03-17 00:00,GBP,MPC Asset Purchase Facility Votes,Medium,0-0-9,0-0-9,0-0-9
+2016-03-17 00:00,GBP,MPC Official Bank Rate Votes,High,0-0-9,0-0-9,0-0-9
+2016-03-17 00:00,GBP,Official Bank Rate,High,0.50%,0.50%,0.50%
+2016-03-17 00:00,USD,CB Leading Index m/m,Low,0.2%,-0.2%,0.1%
+2016-03-17 00:00,USD,Current Account,Medium,-117B,-130B,-125B
+2016-03-17 00:00,USD,Philly Fed Manufacturing Index,High,-1.4,-2.8,12.4
+2016-03-17 00:00,USD,Unemployment Claims,High,267K,258K,265K
+2016-03-17 02:30,JPY,BOJ Gov Kuroda Speaks,High,,,
+2016-03-17 02:45,CHF,SECO Economic Forecasts,Low,,,
+2016-03-17 04:15,CHF,PPI m/m,Medium,0.2%,-0.4%,-0.6%
+2016-03-17 04:30,CHF,Libor Rate,High,-0.75%,-0.75%,-0.75%
+2016-03-17 05:02,EUR,Italian Trade Balance,Low,4.33B,6.02B,0.04B
+2016-03-17 05:43,EUR,Spanish 10-y Bond Auction,Low,,1.69|1.9,1.48|2.0
+2016-03-17 06:00,EUR,Final CPI y/y,Medium,-0.2%,-0.2%,-0.2%
+2016-03-17 08:00,GBP,Monetary Policy Summary,High,,,
+2016-03-17 08:30,CAD,Wholesale Sales m/m,Medium,0.3%,1.8%,0.0%
+2016-03-17 10:00,USD,JOLTS Job Openings,Medium,5.57M,5.28M,5.54M
+2016-03-17 10:30,USD,Natural Gas Storage,Low,-9B,-57B,-1B
+2016-03-17 19:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2016-03-18 00:00,CAD,CPI m/m,Medium,0.3%,0.2%,0.2%
+2016-03-18 00:00,CAD,Core Retail Sales m/m,High,0.6%,-1.7%,1.2%
+2016-03-18 00:00,CAD,Retail Sales m/m,Medium,0.7%,-2.1%,2.1%
+2016-03-18 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.5%,2.7%
+2016-03-18 03:00,EUR,German PPI m/m,Low,-0.2%,-0.7%,-0.5%
+2016-03-18 08:00,GBP,BOE Quarterly Bulletin,Low,,,
+2016-03-18 08:30,CAD,Core CPI m/m,High,0.5%,0.3%,0.5%
+2016-03-18 09:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2016-03-18 10:00,USD,Prelim UoM Consumer Sentiment,High,92.1,91.7,90.0
+2016-03-18 11:00,USD,FOMC Member Rosengren Speaks,Medium,,,
+2016-03-18 14:00,USD,FOMC Member Bullard Speaks,Medium,,,
+2016-03-19 18:03,NZD,Westpac Consumer Sentiment,Low,,110.7,109.6
+2016-03-20 17:03,NZD,Westpac Consumer Sentiment,Low,,110.7,109.6
+2016-03-20 17:45,NZD,Visitor Arrivals m/m,Low,,2.7%,-1.6%
+2016-03-20 20:01,GBP,Rightmove HPI m/m,Low,,2.9%,1.3%
+2016-03-20 22:00,NZD,Credit Card Spending y/y,Low,,8.3%,7.3%
+2016-03-21 00:00,GBP,CBI Industrial Order Expectations,Low,-13,-17,-14
+2016-03-21 05:00,EUR,Current Account,Low,26.3B,28.6B,25.4B
+2016-03-21 07:00,EUR,German Buba Monthly Report,Low,,,
+2016-03-21 10:00,USD,Existing Home Sales,Medium,5.32M,5.47M,5.08M
+2016-03-21 10:30,AUD,CB Leading Index m/m,Low,,-0.2%,-0.4%
+2016-03-21 11:00,EUR,Consumer Confidence,Low,-8,-9,-10
+2016-03-21 20:30,AUD,HPI q/q,Medium,0.1%,2.0%,0.2%
+2016-03-21 20:45,AUD,RBA Assist Gov Edey Speaks,Medium,,,
+2016-03-21 22:00,JPY,Flash Manufacturing PMI,Low,50.6,50.1,49.1
+2016-03-22 00:00,EUR,Flash Manufacturing PMI,Medium,51.4,51.2,51.4
+2016-03-22 00:00,EUR,Flash Services PMI,Medium,53.5,53.3,54.0
+2016-03-22 00:00,EUR,French Flash Services PMI,Medium,49.5,49.2,51.2
+2016-03-22 00:00,EUR,German Flash Services PMI,Medium,55.1,55.3,55.5
+2016-03-22 00:00,EUR,ZEW Economic Sentiment,Medium,8.2,13.6,10.6
+2016-03-22 00:00,GBP,Core CPI y/y,Low,1.2%,1.2%,1.2%
+2016-03-22 00:00,GBP,ONS HPI y/y,Low,6.9%,6.7%,7.9%
+2016-03-22 00:00,GBP,PPI Input m/m,Medium,0.4%,-1.1%,0.1%
+2016-03-22 00:00,GBP,PPI Output m/m,Low,0.0%,-0.1%,0.1%
+2016-03-22 00:00,GBP,Public Sector Net Borrowing,Medium,5.4B,-14.4B,6.5B
+2016-03-22 00:00,GBP,RPI y/y,Medium,1.3%,1.3%,1.3%
+2016-03-22 00:30,JPY,All Industries Activity m/m,Low,1.9%,-0.9%,2.0%
+2016-03-22 01:15,AUD,RBA Gov Stevens Speaks,High,,,
+2016-03-22 03:00,CHF,Trade Balance,Low,2.88B,3.51B,4.07B
+2016-03-22 04:00,EUR,French Flash Manufacturing PMI,Medium,50.2,50.2,49.6
+2016-03-22 04:30,EUR,German Flash Manufacturing PMI,Medium,50.9,50.5,50.4
+2016-03-22 05:00,EUR,German ifo Business Climate,High,106.1,105.7,106.7
+2016-03-22 05:30,GBP,CPI y/y,High,0.4%,0.3%,0.3%
+2016-03-22 06:00,EUR,German ZEW Economic Sentiment,High,6.3,1.0,4.3
+2016-03-22 09:00,USD,HPI m/m,Low,0.5%,0.5%,0.5%
+2016-03-22 09:30,GBP,MPC Member Forbes Speaks,Medium,,,
+2016-03-22 09:45,USD,Flash Manufacturing PMI,Low,51.6,51.0,51.4
+2016-03-22 09:59,USD,Richmond Manufacturing Index,Low,-1,-4,22
+2016-03-22 16:00,CAD,Annual Budget Release,Medium,,,
+2016-03-23 00:00,USD,New Home Sales,Medium,512K,502K,512K
+2016-03-23 06:00,CHF,UBS Economic Expectations,Low,,-5.9,2.5
+2016-03-23 06:32,EUR,German 30-y Bond Auction,Low,,0.77|1.6,0.94|1.2
+2016-03-23 08:40,EUR,German Buba President Weidmann Speaks,Medium,,,
+2016-03-23 09:00,USD,FOMC Member Bullard Speaks,Medium,,,
+2016-03-23 09:58,EUR,Belgian NBB Business Climate,Low,-6.0,-6.6,-4.2
+2016-03-23 10:00,CHF,SNB Quarterly Bulletin,Low,,,
+2016-03-23 10:30,USD,Crude Oil Inventories,High,2.5M,1.3M,9.4M
+2016-03-23 17:45,NZD,Trade Balance,High,75M,13M,339M
+2016-03-23 19:50,JPY,BOJ Summary of Opinions,Low,,,
+2016-03-24 00:00,EUR,German Import Prices m/m,Low,-0.3%,-1.5%,-0.6%
+2016-03-24 00:00,GBP,High Street Lending,Low,47.8K,46.9K,45.9K
+2016-03-24 00:00,USD,Durable Goods Orders m/m,Medium,-3.0%,4.7%,-2.8%
+2016-03-24 00:00,USD,Unemployment Claims,High,267K,259K,265K
+2016-03-24 03:00,EUR,German GfK Consumer Climate,Low,9.5,9.5,9.4
+2016-03-24 05:00,EUR,ECB Economic Bulletin,Low,,,
+2016-03-24 05:30,GBP,Retail Sales m/m,High,-0.7%,2.3%,-0.4%
+2016-03-24 06:00,EUR,Italian Retail Sales m/m,Low,0.0%,-0.1%,0.0%
+2016-03-24 06:30,EUR,Long Term Refinancing Operation,Medium,24.3B,18.3B,7.3B
+2016-03-24 07:00,GBP,CBI Realized Sales,Low,12,10,7
+2016-03-24 08:15,USD,FOMC Member Bullard Speaks,Medium,,,
+2016-03-24 08:30,USD,Core Durable Goods Orders m/m,High,-0.2%,1.7%,-1.0%
+2016-03-24 09:45,USD,Flash Services PMI,Low,51.3,49.7,51.0
+2016-03-24 10:30,USD,Natural Gas Storage,Low,20B,-1B,15B
+2016-03-24 19:30,JPY,Tokyo Core CPI y/y,Medium,-0.2%,-0.1%,-0.3%
+2016-03-24 19:50,JPY,SPPI y/y,Low,0.2%,0.3%,0.2%
+2016-03-25 00:00,JPY,National Core CPI y/y,Low,0.1%,0.0%,0.0%
+2016-03-25 00:00,USD,Final GDP Price Index q/q,Low,0.9%,0.9%,0.9%
+2016-03-25 01:00,JPY,BOJ Core CPI y/y,Low,1.1%,1.1%,1.1%
+2016-03-25 08:30,USD,Final GDP q/q,High,1.0%,1.0%,1.4%
+2016-03-28 00:00,USD,Goods Trade Balance,Low,-62.3B,-62.4B,-62.9B
+2016-03-28 00:00,USD,Personal Income m/m,Low,0.1%,0.5%,0.2%
+2016-03-28 00:00,USD,Personal Spending m/m,Medium,0.2%,0.1%,0.1%
+2016-03-28 08:30,USD,Core PCE Price Index m/m,Medium,0.2%,0.3%,0.1%
+2016-03-28 10:00,USD,Pending Home Sales m/m,Medium,1.2%,-3.0%,3.5%
+2016-03-28 19:30,JPY,Household Spending y/y,Medium,-1.8%,-3.1%,1.2%
+2016-03-28 19:50,JPY,Retail Sales y/y,Medium,1.6%,-0.2%,0.5%
+2016-03-29 00:00,CAD,IPPI m/m,Low,-0.2%,0.5%,-1.1%
+2016-03-29 00:00,EUR,Private Loans y/y,Low,1.4%,1.4%,1.6%
+2016-03-29 00:00,JPY,Unemployment Rate,Low,3.2%,3.2%,3.3%
+2016-03-29 04:00,EUR,M3 Money Supply y/y,Medium,5.0%,5.0%,5.0%
+2016-03-29 06:00,GBP,FPC Statement,Low,,,
+2016-03-29 08:30,CAD,RMPI m/m,Medium,-0.8%,-0.4%,-2.6%
+2016-03-29 09:00,USD,S&P/CS Composite-20 HPI y/y,Low,5.7%,5.6%,5.7%
+2016-03-29 10:00,USD,CB Consumer Confidence,High,93.9,94.0,96.2
+2016-03-29 12:20,USD,Fed Chair Yellen Speaks,High,,,
+2016-03-29 17:45,NZD,Building Consents m/m,Low,,-7.8%,10.8%
+2016-03-29 19:50,JPY,Prelim Industrial Production m/m,Low,-5.8%,3.7%,-6.2%
+2016-03-30 02:00,CHF,UBS Consumption Indicator,Low,,1.45,1.53
+2016-03-30 03:00,CHF,KOF Economic Barometer,Medium,101.9,102.6,102.5
+2016-03-30 05:20,EUR,Italian 10-y Bond Auction,Low,,1.50|1.3,1.24|1.4
+2016-03-30 08:15,USD,ADP Non-Farm Employment Change,High,195K,205K,200K
+2016-03-30 10:30,USD,Crude Oil Inventories,High,3.1M,9.4M,2.3M
+2016-03-30 14:35,CAD,Gov Council Member Patterson Speaks,Low,,,
+2016-03-30 15:29,EUR,German Prelim CPI m/m,Medium,0.6%,0.4%,0.8%
+2016-03-30 19:05,GBP,GfK Consumer Confidence,Low,-1,0,0
+2016-03-30 20:00,AUD,HIA New Home Sales m/m,Low,,3.1%,-5.3%
+2016-03-30 20:30,AUD,Private Sector Credit m/m,Low,0.5%,0.5%,0.6%
+2016-03-31 00:00,EUR,CPI Flash Estimate y/y,Medium,-0.1%,-0.2%,-0.1%
+2016-03-31 00:00,EUR,French Prelim CPI m/m,Low,0.5%,0.3%,0.7%
+2016-03-31 00:00,EUR,Italian Prelim CPI m/m,Low,0.1%,-0.2%,0.2%
+2016-03-31 00:00,GBP,BOE Gov Carney Speaks,High,,,
+2016-03-31 00:00,GBP,Final GDP q/q,Medium,0.5%,0.5%,0.6%
+2016-03-31 00:00,GBP,Index of Services 3m/3m,Low,0.8%,0.8%,0.9%
+2016-03-31 00:00,GBP,M4 Money Supply m/m,Low,0.1%,0.1%,0.9%
+2016-03-31 00:00,GBP,Mortgage Approvals,Low,74K,74K,74K
+2016-03-31 00:00,GBP,Net Lending to Individuals m/m,Medium,5.1B,5.4B,4.9B
+2016-03-31 00:00,GBP,Revised Business Investment q/q,Low,-2.0%,-2.1%,-2.0%
+2016-03-31 00:00,NZD,ANZ Business Confidence,Medium,,7.1,3.2
+2016-03-31 00:00,USD,Unemployment Claims,High,266K,265K,276K
+2016-03-31 01:00,JPY,Housing Starts y/y,Low,-2.2%,0.2%,7.8%
+2016-03-31 02:00,EUR,German Retail Sales m/m,Medium,0.3%,-0.1%,-0.4%
+2016-03-31 02:45,EUR,French Consumer Spending m/m,Low,0.1%,1.0%,0.6%
+2016-03-31 03:00,EUR,Spanish Flash CPI y/y,Medium,-0.6%,-0.8%,-0.8%
+2016-03-31 03:55,EUR,German Unemployment Change,Medium,-6K,-9K,0K
+2016-03-31 04:30,GBP,Current Account,High,-21.1B,-20.1B,-32.7B
+2016-03-31 05:00,EUR,Core CPI Flash Estimate y/y,Medium,0.9%,0.8%,1.0%
+2016-03-31 07:30,USD,Challenger Job Cuts y/y,Low,,21.8%,31.7%
+2016-03-31 08:30,CAD,GDP m/m,High,0.3%,0.2%,0.6%
+2016-03-31 09:45,USD,Chicago PMI,Medium,50.5,47.6,53.6
+2016-03-31 10:30,USD,Natural Gas Storage,Low,-20B,15B,-25B
+2016-03-31 12:30,CHF,Gov Board Member Maechler Speaks,Medium,,,
+2016-03-31 17:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2016-03-31 18:30,AUD,AIG Manufacturing Index,Low,,53.5,58.1
+2016-03-31 19:50,JPY,Tankan Manufacturing Index,Medium,8,12,6
+2016-03-31 20:52,CNY,Non-Manufacturing PMI,Medium,,52.7,53.8
+2016-03-31 21:00,CNY,Manufacturing PMI,High,49.3,49.0,50.2
+2016-03-31 21:45,CNY,Caixin Manufacturing PMI,High,48.3,48.0,49.7
+2016-03-31 22:00,JPY,Final Manufacturing PMI,Low,49.1,49.1,49.1

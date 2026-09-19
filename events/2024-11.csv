@@ -1,0 +1,414 @@
+datetime,currency,title,impact,forecast,previous,actual
+2024-11-01 00:00,CHF,Retail Sales y/y,Low,2.5%,2.7%,2.2%
+2024-11-01 00:00,JPY,Final Manufacturing PMI,Low,49.0,49.0,49.2
+2024-11-01 00:00,USD,Construction Spending m/m,Low,0.0%,0.1%,0.1%
+2024-11-01 00:00,USD,ISM Manufacturing Prices,Medium,49.9,48.3,54.8
+2024-11-01 00:00,USD,Non-Farm Employment Change,High,106K,223K,12K
+2024-11-01 00:00,USD,Unemployment Rate,High,4.1%,4.1%,4.1%
+2024-11-01 01:30,AUD,Commodity Prices y/y,Low,,-10.8%,-7.8%
+2024-11-01 03:00,GBP,Nationwide HPI m/m,Low,0.3%,0.6%,0.1%
+2024-11-01 03:30,CHF,CPI m/m,High,0.0%,-0.3%,-0.1%
+2024-11-01 04:30,CHF,Manufacturing PMI,Low,49.5,49.9,49.9
+2024-11-01 05:30,GBP,Final Manufacturing PMI,Low,50.3,50.3,49.9
+2024-11-01 08:30,USD,Average Hourly Earnings m/m,High,0.3%,0.3%,0.4%
+2024-11-01 09:30,CAD,Manufacturing PMI,Low,,50.4,51.1
+2024-11-01 09:45,USD,Final Manufacturing PMI,Low,47.8,47.8,48.5
+2024-11-01 10:00,USD,ISM Manufacturing PMI,High,47.6,47.2,46.5
+2024-11-01 16:29,USD,Wards Total Vehicle Sales,Low,15.8M,15.8M,16.0M
+2024-11-03 19:00,AUD,MI Inflation Gauge m/m,Low,,0.1%,0.3%
+2024-11-03 19:30,AUD,ANZ Job Advertisements m/m,Low,,2.3%,0.3%
+2024-11-04 03:15,EUR,Spanish Manufacturing PMI,Low,53.1,53.0,54.5
+2024-11-04 03:45,EUR,Italian Manufacturing PMI,Low,48.8,48.3,46.9
+2024-11-04 03:50,EUR,French Final Manufacturing PMI,Low,44.5,44.5,44.5
+2024-11-04 03:55,EUR,German Final Manufacturing PMI,Low,42.6,42.6,43.0
+2024-11-04 04:00,EUR,Final Manufacturing PMI,Low,45.9,45.9,46.0
+2024-11-04 04:30,EUR,Sentix Investor Confidence,Low,-12.7,-13.8,-12.8
+2024-11-04 10:00,USD,Factory Orders m/m,Low,-0.4%,-0.8%,-0.5%
+2024-11-04 15:00,NZD,RBNZ Financial Stability Report,Low,,,
+2024-11-04 15:29,EUR,Eurogroup Meetings,Low,,,
+2024-11-04 18:50,JPY,Monetary Base y/y,Low,0.3%,-0.1%,-0.3%
+2024-11-04 19:00,NZD,ANZ Commodity Prices m/m,Low,,1.8%,1.4%
+2024-11-04 19:01,GBP,BRC Retail Sales Monitor y/y,Low,1.4%,1.7%,0.3%
+2024-11-04 20:45,CNY,Caixin Services PMI,Low,50.5,50.3,52.0
+2024-11-04 22:30,AUD,Cash Rate,High,4.35%,4.35%,4.35%
+2024-11-04 23:30,AUD,RBA Press Conference,Medium,,,
+2024-11-05 00:00,AUD,RBA Monetary Policy Statement,High,,,
+2024-11-05 00:00,AUD,RBA Rate Statement,High,,,
+2024-11-05 00:00,EUR,French Industrial Production m/m,Low,-0.5%,1.1%,-0.9%
+2024-11-05 00:00,USD,Trade Balance,Low,-83.8B,-70.8B,-84.4B
+2024-11-05 01:45,CHF,Unemployment Rate,Low,2.6%,2.6%,2.6%
+2024-11-05 02:45,EUR,French Gov Budget Balance,Low,,-171.9B,-173.8B
+2024-11-05 03:00,EUR,Spanish Unemployment Change,Low,26.5K,3.2K,26.8K
+2024-11-05 04:30,GBP,Final Services PMI,Low,51.8,51.8,52.0
+2024-11-05 05:03,GBP,10-y Bond Auction,Low,,4.17|3.3,4.48|2.8
+2024-11-05 08:30,CAD,Trade Balance,Low,-0.9B,-1.5B,-1.3B
+2024-11-05 09:45,USD,Final Services PMI,Medium,55.3,55.3,55.0
+2024-11-05 10:00,USD,ISM Services PMI,High,53.8,54.9,56.0
+2024-11-05 10:10,EUR,ECB President Lagarde Speaks,Medium,,,
+2024-11-05 10:21,NZD,GDT Price Index,Low,,-0.3%,4.8%
+2024-11-05 13:01,USD,10-y Bond Auction,Low,,4.07|2.5,4.35|2.6
+2024-11-05 13:30,CAD,BOC Summary of Deliberations,Low,,,
+2024-11-05 15:29,EUR,ECOFIN Meetings,Low,,,
+2024-11-05 15:29,USD,Congressional Elections,High,,,
+2024-11-05 15:29,USD,Presidential Election,High,,,
+2024-11-05 16:30,USD,API Weekly Statistical Bulletin,Low,,,
+2024-11-05 16:45,NZD,Employment Change q/q,High,-0.4%,0.2%,-0.5%
+2024-11-05 18:50,JPY,Monetary Policy Meeting Minutes,Low,,,
+2024-11-06 00:00,NZD,Labor Cost Index q/q,Low,0.7%,0.9%,0.6%
+2024-11-06 00:00,NZD,Unemployment Rate,High,5.0%,4.6%,4.8%
+2024-11-06 02:00,EUR,German Factory Orders m/m,Low,1.6%,-5.4%,4.2%
+2024-11-06 03:15,EUR,Spanish Services PMI,Low,56.6,57.0,54.9
+2024-11-06 03:45,EUR,Italian Services PMI,Low,50.3,50.5,52.4
+2024-11-06 03:50,EUR,French Final Services PMI,Low,48.3,48.3,49.2
+2024-11-06 03:55,EUR,German Final Services PMI,Low,51.4,51.4,51.6
+2024-11-06 04:00,EUR,Final Services PMI,Low,51.2,51.2,51.6
+2024-11-06 04:30,GBP,Construction PMI,Medium,55.3,57.2,54.3
+2024-11-06 05:00,EUR,PPI m/m,Low,-0.5%,0.6%,-0.6%
+2024-11-06 09:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2024-11-06 10:00,CAD,Ivey PMI,Medium,54.2,53.1,52.0
+2024-11-06 10:30,USD,Crude Oil Inventories,Medium,0.3M,-0.5M,2.1M
+2024-11-06 12:25,CAD,Gov Council Member Rogers Speaks,Low,,,
+2024-11-06 13:01,USD,30-y Bond Auction,Low,,4.39|2.5,4.61|2.6
+2024-11-06 14:10,NZD,RBNZ Gov Orr Speaks,Medium,,,
+2024-11-06 17:00,AUD,RBA Gov Bullock Speaks,High,,,
+2024-11-06 18:30,JPY,Average Cash Earnings y/y,Low,3.0%,2.8%,2.8%
+2024-11-06 19:30,AUD,Goods Trade Balance,Low,5.24B,5.28B,4.61B
+2024-11-06 22:26,CNY,USD-Denominated Trade Balance,Low,73.5B,81.7B,95.7B
+2024-11-06 22:27,CNY,Trade Balance,Low,560B,583B,679B
+2024-11-06 22:35,JPY,10-y Bond Auction,Low,,0.87|3.5,1.00|3.1
+2024-11-07 00:00,EUR,German Trade Balance,Low,20.8B,21.4B,17.0B
+2024-11-07 00:00,GBP,Halifax HPI m/m,Low,0.2%,0.3%,0.2%
+2024-11-07 00:00,GBP,MPC Official Bank Rate Votes,High,0-8-1,0-1-8,0-8-1
+2024-11-07 00:00,GBP,Monetary Policy Summary,High,,,
+2024-11-07 00:00,GBP,Official Bank Rate,High,4.75%,5.00%,4.75%
+2024-11-07 00:00,USD,FOMC Member Musalem Speaks,Low,,,
+2024-11-07 00:00,USD,FOMC Statement,High,,,
+2024-11-07 00:00,USD,Mortgage Delinquencies,Low,,3.97%,3.92%
+2024-11-07 00:00,USD,Prelim Nonfarm Productivity q/q,Low,2.6%,2.5%,2.2%
+2024-11-07 00:00,USD,Prelim Unit Labor Costs q/q,Low,1.1%,0.4%,1.9%
+2024-11-07 02:00,EUR,German Industrial Production m/m,Low,-1.1%,2.6%,-2.5%
+2024-11-07 02:45,EUR,French Prelim Private Payrolls q/q,Low,0.0%,-0.1%,-0.1%
+2024-11-07 03:00,CHF,Foreign Currency Reserves,Low,,716B,719B
+2024-11-07 04:58,EUR,French 10-y Bond Auction,Low,,2.92|2.1,3.24|2.0
+2024-11-07 05:00,EUR,Retail Sales m/m,Low,0.4%,0.2%,0.5%
+2024-11-07 07:00,GBP,BOE Monetary Policy Report,High,,,
+2024-11-07 07:30,GBP,BOE Gov Bailey Speaks,High,,,
+2024-11-07 08:30,USD,Unemployment Claims,High,223K,218K,221K
+2024-11-07 09:00,CAD,Gov Council Member Kozicki Speaks,Low,,,
+2024-11-07 10:00,USD,Final Wholesale Inventories m/m,Low,-0.1%,-0.1%,-0.2%
+2024-11-07 10:30,USD,Natural Gas Storage,Low,67B,78B,69B
+2024-11-07 14:00,USD,Federal Funds Rate,High,4.75%,5.00%,4.75%
+2024-11-07 14:30,USD,FOMC Press Conference,High,,,
+2024-11-07 15:00,USD,Consumer Credit m/m,Low,12.2B,7.6B,6.0B
+2024-11-07 18:30,JPY,Household Spending y/y,Low,-1.8%,-1.9%,-1.1%
+2024-11-08 00:00,CAD,Unemployment Rate,High,6.6%,6.5%,6.5%
+2024-11-08 00:00,JPY,Leading Indicators,Low,108.9%,106.9%,109.4%
+2024-11-08 00:00,USD,Prelim UoM Inflation Expectations,Medium,,2.7%,2.6%
+2024-11-08 02:45,EUR,French Trade Balance,Low,-7.0B,-7.7B,-8.3B
+2024-11-08 03:00,CHF,Gov Board Member Martin Speaks,Low,,,
+2024-11-08 03:10,CHF,SECO Consumer Climate,Low,-33,-34,-37
+2024-11-08 04:00,EUR,Italian Industrial Production m/m,Low,-0.4%,0.0%,-0.4%
+2024-11-08 06:00,EUR,Italian Retail Sales m/m,Low,0.2%,-0.3%,1.2%
+2024-11-08 06:10,CAD,Gov Council Member Gravelle Speaks,Low,,,
+2024-11-08 07:15,GBP,MPC Member Pill Speaks,Low,,,
+2024-11-08 08:30,CAD,Employment Change,High,27.9K,46.7K,14.5K
+2024-11-08 10:00,USD,Prelim UoM Consumer Sentiment,Medium,71.0,70.5,73.0
+2024-11-08 11:00,USD,FOMC Member Bowman Speaks,Low,,,
+2024-11-08 20:30,CNY,CPI y/y,Medium,0.4%,0.4%,0.3%
+2024-11-09 00:00,CNY,PPI y/y,Medium,-2.5%,-2.8%,-2.9%
+2024-11-09 10:35,EUR,ECB President Lagarde Speaks,Medium,,,
+2024-11-10 18:50,JPY,Bank Lending y/y,Low,2.7%,2.7%,2.7%
+2024-11-10 21:00,NZD,Inflation Expectations q/q,High,,2.03%,2.12%
+2024-11-11 00:00,JPY,BOJ Summary of Opinions,Low,,,
+2024-11-11 00:00,JPY,Current Account,Low,2.80T,3.15T,1.27T
+2024-11-11 00:00,JPY,Economy Watchers Sentiment,Low,47.2,47.8,47.5
+2024-11-11 03:31,CNY,M2 Money Supply y/y,Low,7.0%,6.8%,7.5%
+2024-11-11 03:32,CNY,New Loans,Medium,770B,1590B,500B
+2024-11-11 09:30,GBP,CB Leading Index m/m,Low,,0.1%,-0.1%
+2024-11-11 18:30,AUD,Westpac Consumer Sentiment,Low,,6.2%,5.3%
+2024-11-11 18:50,JPY,M2 Money Stock y/y,Low,1.5%,1.2%,1.2%
+2024-11-11 19:30,AUD,NAB Business Confidence,Low,,-2,5
+2024-11-12 00:00,EUR,ZEW Economic Sentiment,Low,20.5,20.1,12.5
+2024-11-12 00:00,GBP,Average Earnings Index 3m/y,Medium,3.9%,3.9%,4.3%
+2024-11-12 00:00,GBP,Claimant Count Change,High,30.5K,10.1K,26.7K
+2024-11-12 00:00,GBP,Unemployment Rate,Low,4.1%,4.0%,4.3%
+2024-11-12 00:00,USD,Loan Officer Survey,Low,,,
+2024-11-12 00:59,JPY,Prelim Machine Tool Orders y/y,Low,,-6.4%,9.3%
+2024-11-12 02:00,EUR,German Final CPI m/m,Low,0.4%,0.4%,0.4%
+2024-11-12 04:00,GBP,MPC Member Pill Speaks,Low,,,
+2024-11-12 05:00,EUR,German ZEW Economic Sentiment,Medium,13.2,13.1,7.4
+2024-11-12 05:55,USD,NFIB Small Business Index,Low,91.9,91.5,93.7
+2024-11-12 08:30,CAD,Building Permits m/m,Low,2.9%,-6.3%,11.5%
+2024-11-12 09:45,USD,Cleveland Fed Inflation Expectations,Low,,3.4%,3.8%
+2024-11-12 10:00,USD,FOMC Member Waller Speaks,Medium,,,
+2024-11-12 10:06,USD,RCM/TIPP Economic Optimism,Low,47.3,46.9,53.2
+2024-11-12 10:15,USD,FOMC Member Barkin Speaks,Low,,,
+2024-11-12 14:00,USD,FOMC Member Kashkari Speaks,Low,,,
+2024-11-12 16:45,NZD,Visitor Arrivals m/m,Low,,-2.1%,1.1%
+2024-11-12 17:00,USD,FOMC Member Harker Speaks,Medium,,,
+2024-11-12 17:30,USD,FOMC Member Barkin Speaks,Low,,,
+2024-11-12 18:50,JPY,PPI y/y,Low,2.9%,3.1%,3.4%
+2024-11-12 19:30,AUD,Wage Price Index q/q,High,0.9%,0.8%,0.8%
+2024-11-12 22:35,JPY,30-y Bond Auction,Low,,2.15|3.3,2.27|3.4
+2024-11-13 00:00,USD,CPI m/m,High,0.2%,0.2%,0.2%
+2024-11-13 00:00,USD,CPI y/y,High,2.6%,2.4%,2.6%
+2024-11-13 04:45,GBP,MPC Member Mann Speaks,Low,,,
+2024-11-13 05:35,EUR,German 10-y Bond Auction,Low,,2.31|2.3,2.38|2.3
+2024-11-13 08:30,USD,Core CPI m/m,High,0.3%,0.3%,0.3%
+2024-11-13 08:40,USD,FOMC Member Kashkari Speaks,Low,,,
+2024-11-13 09:45,USD,FOMC Member Logan Speaks,Low,,,
+2024-11-13 13:00,USD,FOMC Member Musalem Speaks,Low,,,
+2024-11-13 13:30,USD,FOMC Member Schmid Speaks,Low,,,
+2024-11-13 14:00,USD,Federal Budget Balance,Low,-226.4B,64.3B,-257.5B
+2024-11-13 16:30,USD,API Weekly Statistical Bulletin,Low,,,
+2024-11-13 16:45,NZD,FPI m/m,Low,,0.5%,-0.9%
+2024-11-13 18:00,AUD,RBA Gov Bullock Speaks,High,,,
+2024-11-13 19:00,AUD,MI Inflation Expectations,Low,,4.0%,3.8%
+2024-11-13 19:01,GBP,RICS House Price Balance,Low,12%,11%,16%
+2024-11-13 19:30,AUD,Employment Change,High,25.2K,61.3K,15.9K
+2024-11-14 00:00,AUD,Unemployment Rate,High,4.1%,4.1%,4.1%
+2024-11-14 00:00,EUR,Flash GDP q/q,Low,0.4%,0.4%,0.4%
+2024-11-14 00:00,EUR,Industrial Production m/m,Low,-1.3%,1.5%,-2.0%
+2024-11-14 00:00,USD,PPI m/m,High,0.2%,0.1%,0.2%
+2024-11-14 00:00,USD,Unemployment Claims,High,224K,221K,217K
+2024-11-14 05:00,EUR,Flash Employment Change q/q,Low,0.2%,0.2%,0.2%
+2024-11-14 07:00,USD,FOMC Member Kugler Speaks,Low,,,
+2024-11-14 07:30,EUR,ECB Monetary Policy Meeting Accounts,Low,,,
+2024-11-14 08:00,GBP,MPC Member Mann Speaks,Low,,,
+2024-11-14 08:30,USD,Core PPI m/m,High,0.3%,0.2%,0.3%
+2024-11-14 09:00,USD,FOMC Member Barkin Speaks,Low,,,
+2024-11-14 10:30,USD,Natural Gas Storage,Low,34B,69B,42B
+2024-11-14 11:00,USD,Crude Oil Inventories,Medium,0.4M,2.1M,2.1M
+2024-11-14 14:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2024-11-14 15:00,USD,Fed Chair Powell Speaks,High,,,
+2024-11-14 15:43,GBP,BOE Gov Bailey Speaks,High,,,
+2024-11-14 16:00,USD,Treasury Currency Report,Medium,,,
+2024-11-14 16:15,USD,FOMC Member Williams Speaks,Low,,,
+2024-11-14 16:30,NZD,BusinessNZ Manufacturing Index,Low,,47.0,45.8
+2024-11-14 18:50,JPY,Prelim GDP Price Index y/y,Low,2.8%,3.2%,2.5%
+2024-11-14 20:30,CNY,New Home Prices m/m,Low,,-0.71%,-0.51%
+2024-11-14 21:00,CNY,Industrial Production y/y,Medium,5.5%,5.4%,5.3%
+2024-11-14 23:30,JPY,Revised Industrial Production m/m,Low,1.4%,1.4%,1.6%
+2024-11-15 00:00,CAD,Wholesale Sales m/m,Low,1.0%,-0.6%,0.8%
+2024-11-15 00:00,CNY,Fixed Asset Investment ytd/y,Low,3.5%,3.4%,3.4%
+2024-11-15 00:00,CNY,NBS Press Conference,Low,,,
+2024-11-15 00:00,CNY,Retail Sales y/y,Medium,3.8%,3.2%,4.8%
+2024-11-15 00:00,CNY,Unemployment Rate,Low,5.1%,5.1%,5.0%
+2024-11-15 00:00,GBP,Construction Output m/m,Low,0.3%,0.6%,0.1%
+2024-11-15 00:00,GBP,GDP m/m,High,0.2%,0.2%,-0.1%
+2024-11-15 00:00,GBP,Goods Trade Balance,Low,-15.7B,-15.2B,-16.3B
+2024-11-15 00:00,GBP,Index of Services 3m/3m,Low,0.2%,0.1%,0.1%
+2024-11-15 00:00,GBP,Industrial Production m/m,Low,0.1%,0.5%,-0.5%
+2024-11-15 00:00,GBP,Manufacturing Production m/m,Low,0.0%,1.3%,-1.0%
+2024-11-15 00:00,GBP,Prelim Business Investment q/q,Low,0.6%,1.4%,1.2%
+2024-11-15 00:00,GBP,Prelim GDP q/q,Medium,0.2%,0.5%,0.1%
+2024-11-15 00:00,JPY,Prelim GDP q/q,Low,0.2%,0.7%,0.2%
+2024-11-15 00:00,JPY,Tertiary Industry Activity m/m,Low,0.2%,-1.1%,-0.2%
+2024-11-15 00:00,USD,Core Retail Sales m/m,High,0.3%,1.0%,0.1%
+2024-11-15 00:00,USD,Empire State Manufacturing Index,Medium,-0.3,-11.9,31.2
+2024-11-15 00:00,USD,Import Prices m/m,Low,-0.1%,-0.4%,0.3%
+2024-11-15 00:00,USD,Industrial Production m/m,Low,-0.3%,-0.5%,-0.3%
+2024-11-15 00:00,USD,Retail Sales m/m,High,0.3%,0.8%,0.4%
+2024-11-15 02:00,EUR,German WPI m/m,Low,0.1%,-0.3%,0.4%
+2024-11-15 02:30,CHF,PPI m/m,Low,0.1%,-0.1%,-0.3%
+2024-11-15 02:45,EUR,French Final CPI m/m,Low,0.2%,0.2%,0.3%
+2024-11-15 04:53,CNY,Foreign Direct Investment ytd/y,Low,,-30.4%,-29.8%
+2024-11-15 04:58,EUR,Italian Trade Balance,Low,2.55B,1.34B,2.58B
+2024-11-15 05:00,EUR,EU Economic Forecasts,Low,,,
+2024-11-15 08:20,GBP,NIESR GDP Estimate,Low,,0.1%,0.1%
+2024-11-15 08:30,CAD,Manufacturing Sales m/m,Low,-0.7%,-1.3%,-0.5%
+2024-11-15 09:00,USD,FOMC Member Collins Speaks,Low,,,
+2024-11-15 09:15,USD,Capacity Utilization Rate,Low,77.1%,77.4%,77.1%
+2024-11-15 10:00,USD,Business Inventories m/m,Low,0.2%,0.3%,0.1%
+2024-11-15 10:30,AUD,CB Leading Index m/m,Low,,0.1%,0.3%
+2024-11-15 13:15,USD,FOMC Member Williams Speaks,Low,,,
+2024-11-15 14:05,USD,FOMC Member Goolsbee Speaks,Low,,,
+2024-11-15 15:00,USD,FOMC Member Barkin Speaks,Low,,,
+2024-11-17 16:30,NZD,BusinessNZ Services Index,Low,,45.7,46.0
+2024-11-17 16:45,NZD,PPI Input q/q,Low,1.0%,1.4%,1.9%
+2024-11-17 18:50,JPY,Core Machinery Orders m/m,Low,1.4%,-1.9%,-0.7%
+2024-11-17 19:01,GBP,Rightmove HPI m/m,Low,,0.3%,-1.4%
+2024-11-17 20:05,JPY,BOJ Gov Ueda Speaks,High,,,
+2024-11-18 00:00,GBP,MPC Member Greene Speaks,Low,,,
+2024-11-18 00:00,NZD,PPI Output q/q,Low,0.9%,1.1%,1.5%
+2024-11-18 00:00,USD,NAHB Housing Market Index,Low,42,43,46
+2024-11-18 01:30,AUD,RBA Assist Gov Kent Speaks,Low,,,
+2024-11-18 03:00,EUR,German Buba President Nagel Speaks,Low,,,
+2024-11-18 05:00,EUR,Trade Balance,Low,7.9B,10.8B,13.6B
+2024-11-18 08:15,CAD,Housing Starts,Low,239K,223K,241K
+2024-11-18 08:30,CAD,Foreign Securities Purchases,Low,10.50B,10.33B,29.30B
+2024-11-18 10:00,USD,FOMC Member Goolsbee Speaks,Low,,,
+2024-11-18 13:30,EUR,ECB President Lagarde Speaks,Medium,,,
+2024-11-18 15:29,All,G20 Meetings,Medium,,,
+2024-11-18 16:00,USD,TIC Long-Term Purchases,Low,114.3B,108.8B,216.1B
+2024-11-18 19:30,AUD,Monetary Policy Meeting Minutes,Medium,,,
+2024-11-19 00:00,CAD,Common CPI y/y,Medium,2.1%,2.1%,2.2%
+2024-11-19 00:00,CAD,Core CPI m/m,Low,,0.0%,0.4%
+2024-11-19 00:00,CAD,Median CPI y/y,High,2.4%,2.3%,2.5%
+2024-11-19 00:00,CAD,Trimmed CPI y/y,High,2.4%,2.4%,2.6%
+2024-11-19 00:00,EUR,Final CPI y/y,Low,2.0%,2.0%,2.0%
+2024-11-19 00:00,GBP,Monetary Policy Report Hearings,High,,,
+2024-11-19 00:00,USD,Building Permits,Medium,1.44M,1.43M,1.42M
+2024-11-19 00:00,USD,Housing Starts,Low,1.34M,1.35M,1.31M
+2024-11-19 02:00,CHF,Trade Balance,Low,4.25B,4.94B,8.06B
+2024-11-19 04:00,EUR,Current Account,Low,27.0B,35.4B,37.0B
+2024-11-19 05:00,EUR,Final Core CPI y/y,Low,2.7%,2.7%,2.7%
+2024-11-19 06:00,EUR,German Buba Monthly Report,Low,,,
+2024-11-19 08:30,CAD,CPI m/m,High,0.3%,-0.4%,0.4%
+2024-11-19 09:56,NZD,GDT Price Index,Low,,4.8%,1.9%
+2024-11-19 13:10,USD,FOMC Member Schmid Speaks,Low,,,
+2024-11-19 15:29,All,G20 Meetings,Medium,,,
+2024-11-19 16:30,USD,API Weekly Statistical Bulletin,Low,,,
+2024-11-19 18:30,AUD,MI Leading Index m/m,Low,,0.0%,0.2%
+2024-11-19 18:50,JPY,Trade Balance,Low,-0.15T,-0.27T,-0.36T
+2024-11-19 20:00,CNY,1-y Loan Prime Rate,Medium,3.10%,3.10%,3.10%
+2024-11-20 00:00,CNY,5-y Loan Prime Rate,Medium,3.60%,3.60%,3.60%
+2024-11-20 00:00,GBP,CPI y/y,High,2.2%,1.7%,2.3%
+2024-11-20 00:00,GBP,Core CPI y/y,Low,3.1%,3.2%,3.3%
+2024-11-20 00:00,GBP,PPI Input m/m,Low,0.5%,-0.5%,0.1%
+2024-11-20 00:00,GBP,PPI Output m/m,Low,-0.1%,-0.4%,0.0%
+2024-11-20 00:00,GBP,RPI y/y,Low,3.4%,2.7%,3.4%
+2024-11-20 00:00,USD,FOMC Member Cook Speaks,Low,,,
+2024-11-20 02:00,EUR,German PPI m/m,Low,0.2%,-0.5%,0.2%
+2024-11-20 04:00,EUR,ECB Financial Stability Review,Medium,,,
+2024-11-20 04:30,GBP,HPI y/y,Low,2.9%,2.7%,2.9%
+2024-11-20 05:32,EUR,German 30-y Bond Auction,Low,,2.49|3.6,2.55|3.6
+2024-11-20 08:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2024-11-20 10:00,USD,FOMC Member Barr Speaks,Low,,,
+2024-11-20 10:30,USD,Crude Oil Inventories,Medium,-0.1M,2.1M,0.5M
+2024-11-20 11:00,GBP,MPC Member Ramsden Speaks,Low,,,
+2024-11-20 12:15,USD,FOMC Member Bowman Speaks,Low,,,
+2024-11-20 16:00,USD,FOMC Member Collins Speaks,Low,,,
+2024-11-20 21:00,NZD,Credit Card Spending y/y,Low,,-3.1%,0.3%
+2024-11-21 00:00,CAD,RMPI m/m,Low,2.6%,-3.2%,3.8%
+2024-11-21 00:00,USD,CB Leading Index m/m,Low,-0.3%,-0.3%,-0.4%
+2024-11-21 00:00,USD,Existing Home Sales,Medium,3.95M,3.83M,3.96M
+2024-11-21 00:00,USD,Philly Fed Manufacturing Index,Medium,7.4,10.3,-5.5
+2024-11-21 00:00,USD,Unemployment Claims,High,220K,219K,213K
+2024-11-21 00:12,JPY,BOJ Gov Ueda Speaks,High,,,
+2024-11-21 02:00,GBP,Public Sector Net Borrowing,Low,13.0B,16.1B,17.4B
+2024-11-21 03:00,AUD,RBA Gov Bullock Speaks,High,,,
+2024-11-21 06:00,GBP,CBI Industrial Order Expectations,Low,-25,-27,-19
+2024-11-21 08:30,CAD,IPPI m/m,Low,0.8%,-0.8%,1.2%
+2024-11-21 08:45,USD,FOMC Member Hammack Speaks,Low,,,
+2024-11-21 09:00,GBP,MPC Member Mann Speaks,Low,,,
+2024-11-21 10:00,EUR,Consumer Confidence,Low,-13,-13,-14
+2024-11-21 10:30,USD,Natural Gas Storage,Low,2B,42B,-3B
+2024-11-21 12:00,CHF,Gov Board Member Tschudin Speaks,Low,,,
+2024-11-21 12:25,USD,FOMC Member Goolsbee Speaks,Low,,,
+2024-11-21 12:30,USD,FOMC Member Hammack Speaks,Low,,,
+2024-11-21 16:40,USD,FOMC Member Barr Speaks,Low,,,
+2024-11-21 17:00,AUD,Flash Manufacturing PMI,Low,,47.3,49.4
+2024-11-21 18:30,JPY,National Core CPI y/y,Low,2.2%,2.4%,2.3%
+2024-11-21 19:01,GBP,GfK Consumer Confidence,Low,-21,-21,-18
+2024-11-21 19:30,JPY,Flash Manufacturing PMI,Low,49.5,49.2,49.0
+2024-11-22 00:00,AUD,Flash Services PMI,Low,,51.0,49.6
+2024-11-22 00:00,CAD,NHPI m/m,Low,0.1%,0.0%,-0.4%
+2024-11-22 00:00,CAD,Retail Sales m/m,High,0.4%,0.4%,0.4%
+2024-11-22 00:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2024-11-22 00:00,EUR,Flash Services PMI,Medium,51.6,51.6,49.2
+2024-11-22 00:00,EUR,French Flash Services PMI,High,49.1,49.2,45.7
+2024-11-22 00:00,EUR,German Flash Services PMI,High,51.6,51.6,49.4
+2024-11-22 00:00,GBP,Flash Services PMI,High,51.9,52.0,50.0
+2024-11-22 00:00,GBP,Retail Sales m/m,High,-0.3%,0.1%,-0.7%
+2024-11-22 00:00,USD,Flash Services PMI,High,55.2,55.0,57.0
+2024-11-22 00:00,USD,Revised UoM Inflation Expectations,Low,,2.6%,2.6%
+2024-11-22 02:00,EUR,German Final GDP q/q,Low,0.2%,0.2%,0.1%
+2024-11-22 03:15,EUR,French Flash Manufacturing PMI,High,44.6,44.5,43.2
+2024-11-22 03:30,EUR,German Flash Manufacturing PMI,High,43.1,43.0,43.2
+2024-11-22 04:00,EUR,Flash Manufacturing PMI,Medium,46.0,46.0,45.2
+2024-11-22 04:30,GBP,Flash Manufacturing PMI,High,50.0,49.9,48.6
+2024-11-22 07:40,CHF,SNB Chairman Schlegel Speaks,High,,,
+2024-11-22 08:00,EUR,German Buba President Nagel Speaks,Low,,,
+2024-11-22 08:30,CAD,Core Retail Sales m/m,High,0.3%,-0.8%,0.9%
+2024-11-22 09:45,USD,Flash Manufacturing PMI,High,48.8,48.5,48.8
+2024-11-22 10:00,USD,Revised UoM Consumer Sentiment,Medium,74.0,73.0,71.8
+2024-11-22 16:00,USD,FOMC Financial Stability Report,Low,,,
+2024-11-22 18:15,USD,FOMC Member Bowman Speaks,Low,,,
+2024-11-24 16:45,NZD,Retail Sales q/q,Medium,-0.5%,-1.2%,-0.1%
+2024-11-25 00:00,GBP,MPC Member Lombardelli Speaks,Low,,,
+2024-11-25 00:00,NZD,Core Retail Sales q/q,Low,-0.3%,-1.0%,-0.8%
+2024-11-25 00:00,NZD,Trade Balance,Low,-1760M,-2154M,-1544M
+2024-11-25 04:00,EUR,German ifo Business Climate,Medium,86.1,86.5,85.7
+2024-11-25 05:30,GBP,MPC Member Dhingra Speaks,Low,,,
+2024-11-25 08:30,CAD,Corporate Profits q/q,Low,,1.5%,-2.5%
+2024-11-25 08:56,EUR,Belgian NBB Business Climate,Low,-12.7,-12.8,-11.1
+2024-11-25 09:00,CNY,CB Leading Index m/m,Low,,-0.3%,-0.3%
+2024-11-25 12:30,EUR,German Buba President Nagel Speaks,Low,,,
+2024-11-25 18:50,JPY,SPPI y/y,Low,2.5%,2.8%,2.9%
+2024-11-25 19:01,GBP,BRC Shop Price Index y/y,Low,,-0.8%,-0.6%
+2024-11-26 00:00,JPY,BOJ Core CPI y/y,Low,1.8%,1.7%,1.5%
+2024-11-26 00:00,USD,CB Consumer Confidence,High,111.8,109.6,111.7
+2024-11-26 00:00,USD,HPI m/m,Low,0.3%,0.4%,0.7%
+2024-11-26 00:00,USD,New Home Sales,Medium,725K,738K,610K
+2024-11-26 06:00,GBP,CBI Realized Sales,Low,-14,-6,-18
+2024-11-26 08:05,CAD,Gov Council Member Mendes Speaks,Low,,,
+2024-11-26 09:00,USD,S&P/CS Composite-20 HPI y/y,Medium,4.7%,5.2%,4.6%
+2024-11-26 09:59,USD,Richmond Manufacturing Index,Medium,-10,-14,-14
+2024-11-26 10:00,GBP,MPC Member Pill Speaks,Low,,,
+2024-11-26 14:00,USD,FOMC Meeting Minutes,High,,,
+2024-11-26 14:30,USD,President Biden Speaks,Low,,,
+2024-11-26 16:30,USD,API Weekly Statistical Bulletin,Low,,,
+2024-11-26 19:30,AUD,CPI y/y,High,2.5%,2.1%,2.1%
+2024-11-26 20:00,NZD,Official Cash Rate,High,4.25%,4.75%,4.25%
+2024-11-26 21:00,NZD,RBNZ Press Conference,High,,,
+2024-11-27 00:00,AUD,Construction Work Done q/q,Low,0.4%,1.1%,1.6%
+2024-11-27 00:00,NZD,RBNZ Monetary Policy Statement,High,,,
+2024-11-27 00:00,NZD,RBNZ Rate Statement,High,,,
+2024-11-27 00:00,USD,Core Durable Goods Orders m/m,Medium,0.2%,0.5%,0.1%
+2024-11-27 00:00,USD,Durable Goods Orders m/m,Medium,0.4%,-0.7%,0.2%
+2024-11-27 00:00,USD,Goods Trade Balance,Low,-102.2B,-108.7B,-99.1B
+2024-11-27 00:00,USD,Pending Home Sales m/m,Medium,-2.1%,7.5%,2.0%
+2024-11-27 00:00,USD,Personal Income m/m,Low,0.3%,0.3%,0.6%
+2024-11-27 00:00,USD,Personal Spending m/m,Low,0.4%,0.6%,0.4%
+2024-11-27 00:00,USD,Prelim GDP Price Index q/q,Medium,1.8%,1.8%,1.9%
+2024-11-27 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.0%,-0.2%,0.2%
+2024-11-27 00:00,USD,Unemployment Claims,High,215K,215K,213K
+2024-11-27 04:00,CHF,UBS Economic Expectations,Low,,-7.7,-12.4
+2024-11-27 04:30,EUR,German GfK Consumer Climate,Low,-18.8,-18.4,-23.3
+2024-11-27 08:30,USD,Prelim GDP q/q,High,2.8%,2.8%,2.8%
+2024-11-27 09:45,USD,Chicago PMI,Medium,44.9,41.6,40.2
+2024-11-27 10:00,USD,Core PCE Price Index m/m,High,0.3%,0.3%,0.3%
+2024-11-27 10:30,USD,Crude Oil Inventories,Medium,-1.3M,0.5M,-1.8M
+2024-11-27 12:00,USD,Natural Gas Storage,Low,-2B,-3B,-2B
+2024-11-27 19:00,NZD,ANZ Business Confidence,Low,,65.7,64.9
+2024-11-27 19:30,AUD,Private Capital Expenditure q/q,Low,0.9%,-2.2%,1.1%
+2024-11-28 00:00,EUR,Private Loans y/y,Low,0.8%,0.7%,0.8%
+2024-11-28 03:00,EUR,Spanish Flash CPI y/y,Medium,2.3%,1.8%,2.4%
+2024-11-28 03:55,AUD,RBA Gov Bullock Speaks,High,,,
+2024-11-28 04:00,EUR,M3 Money Supply y/y,Low,3.4%,3.2%,3.4%
+2024-11-28 05:10,EUR,Italian 10-y Bond Auction,Low,,3.57|1.6,3.39|1.6
+2024-11-28 08:30,CAD,Current Account,Low,-8.6B,-4.7B,-3.2B
+2024-11-28 15:29,EUR,German Prelim CPI m/m,High,-0.2%,0.4%,-0.2%
+2024-11-28 18:30,JPY,Tokyo Core CPI y/y,Medium,2.0%,1.8%,2.2%
+2024-11-28 18:50,JPY,Prelim Industrial Production m/m,Low,3.8%,1.6%,3.0%
+2024-11-28 19:30,AUD,Private Sector Credit m/m,Low,0.5%,0.5%,0.6%
+2024-11-29 00:00,CHF,KOF Economic Barometer,Low,100.1,99.7,101.8
+2024-11-29 00:00,EUR,CPI Flash Estimate y/y,Medium,2.3%,2.0%,2.3%
+2024-11-29 00:00,EUR,French Final Private Payrolls q/q,Low,0.0%,-0.1%,0.1%
+2024-11-29 00:00,EUR,French Prelim CPI m/m,Low,0.0%,0.2%,-0.1%
+2024-11-29 00:00,EUR,French Prelim GDP q/q,Low,0.4%,0.4%,0.4%
+2024-11-29 00:00,EUR,German Retail Sales m/m,Low,-0.5%,1.6%,-1.5%
+2024-11-29 00:00,EUR,Italian Prelim CPI m/m,Low,-0.2%,0.0%,0.0%
+2024-11-29 00:00,GBP,BOE Financial Stability Report,Low,,,
+2024-11-29 00:00,GBP,FPC Meeting Minutes,Low,,,
+2024-11-29 00:00,GBP,FPC Statement,Low,,,
+2024-11-29 00:00,GBP,Mortgage Approvals,Low,65K,66K,68K
+2024-11-29 00:00,JPY,Consumer Confidence,Low,36.4,36.2,36.4
+2024-11-29 00:00,JPY,Housing Starts y/y,Low,-2.0%,-0.6%,-2.9%
+2024-11-29 00:00,JPY,Retail Sales y/y,Low,2.1%,0.7%,1.6%
+2024-11-29 00:00,JPY,Unemployment Rate,Low,2.5%,2.4%,2.5%
+2024-11-29 02:00,EUR,German Import Prices m/m,Low,0.2%,-0.4%,0.6%
+2024-11-29 02:45,EUR,French Consumer Spending m/m,Low,-0.1%,0.1%,-0.4%
+2024-11-29 03:00,CHF,GDP q/q,Medium,0.4%,0.6%,0.4%
+2024-11-29 03:55,EUR,German Unemployment Change,Low,20K,26K,7K
+2024-11-29 04:30,GBP,M4 Money Supply m/m,Low,0.4%,0.5%,-0.1%
+2024-11-29 04:32,GBP,Net Lending to Individuals m/m,Low,4.1B,3.8B,4.5B
+2024-11-29 05:00,EUR,Core CPI Flash Estimate y/y,Medium,2.8%,2.7%,2.7%
+2024-11-29 05:30,GBP,Bank Stress Test Results,Low,,,
+2024-11-29 06:00,GBP,BOE Gov Bailey Speaks,High,,,
+2024-11-29 08:00,EUR,German Buba President Nagel Speaks,Low,,,
+2024-11-29 08:30,CAD,GDP m/m,High,0.3%,0.0%,0.1%
+2024-11-29 20:30,CNY,Manufacturing PMI,High,50.2,50.1,50.3
+2024-11-30 00:00,CNY,Non-Manufacturing PMI,Medium,50.4,50.2,50.0
+2024-11-30 06:15,CHF,SNB Chairman Schlegel Speaks,Medium,,,

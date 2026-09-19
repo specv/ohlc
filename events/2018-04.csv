@@ -1,0 +1,361 @@
+datetime,currency,title,impact,forecast,previous,actual
+2018-04-01 19:50,JPY,Tankan Manufacturing Index,Low,25,25,24
+2018-04-01 20:30,JPY,Final Manufacturing PMI,Low,53.2,53.2,53.1
+2018-04-01 21:00,AUD,MI Inflation Gauge m/m,Low,,-0.1%,0.1%
+2018-04-01 21:45,CNY,Caixin Manufacturing PMI,Medium,51.8,51.6,51.0
+2018-04-02 00:00,JPY,Tankan Non-Manufacturing Index,Low,24,23,23
+2018-04-02 00:00,USD,Construction Spending m/m,Low,0.4%,0.0%,0.1%
+2018-04-02 00:00,USD,ISM Manufacturing Prices,Low,72.5,74.2,78.1
+2018-04-02 09:30,CAD,Manufacturing PMI,Low,,55.6,55.7
+2018-04-02 09:45,USD,Final Manufacturing PMI,Low,55.7,55.7,55.6
+2018-04-02 10:00,USD,ISM Manufacturing PMI,High,60.1,60.8,59.3
+2018-04-02 18:30,AUD,AIG Manufacturing Index,Low,,57.5,63.1
+2018-04-02 19:50,JPY,Monetary Base y/y,Low,9.6%,9.4%,9.1%
+2018-04-02 21:30,AUD,ANZ Job Advertisements m/m,Low,,-0.4%,0.0%
+2018-04-02 23:45,JPY,10-y Bond Auction,Low,,0.06|4.5,0.03|4.2
+2018-04-03 00:00,AUD,Cash Rate,Medium,1.50%,1.50%,1.50%
+2018-04-03 00:00,EUR,Spanish Manufacturing PMI,Low,54.7,56.0,54.8
+2018-04-03 00:30,AUD,RBA Rate Statement,High,,,
+2018-04-03 02:00,EUR,German Retail Sales m/m,Medium,0.7%,-0.3%,-0.7%
+2018-04-03 02:30,AUD,Commodity Prices y/y,Low,,-2.8%,-2.1%
+2018-04-03 03:00,EUR,Spanish Unemployment Change,Low,-47.5K,-6.3K,-47.7K
+2018-04-03 03:15,CHF,Retail Sales y/y,Low,-0.7%,-0.4%,-0.2%
+2018-04-03 03:30,CHF,Manufacturing PMI,Low,64.3,65.5,60.3
+2018-04-03 03:45,EUR,Italian Manufacturing PMI,Low,55.6,56.8,55.1
+2018-04-03 03:50,EUR,French Final Manufacturing PMI,Low,53.6,53.6,53.7
+2018-04-03 03:55,EUR,German Final Manufacturing PMI,Low,58.4,58.4,58.2
+2018-04-03 04:00,EUR,Final Manufacturing PMI,Low,56.6,56.6,56.6
+2018-04-03 04:30,GBP,Final Manufacturing PMI,High,54.8,55.0,55.1
+2018-04-03 10:05,USD,RCM/TIPP Economic Optimism,Low,55.2,55.6,52.6
+2018-04-03 10:33,NZD,GDT Price Index,Medium,,-1.2%,-0.6%
+2018-04-03 15:29,USD,Total Vehicle Sales,Low,16.9M,17.1M,17.5M
+2018-04-03 15:29,USD,Wards Total Vehicle Sales,Low,16.9M,17.0M,17.4M
+2018-04-03 16:30,USD,FOMC Member Brainard Speaks,Medium,,,
+2018-04-03 19:01,GBP,BRC Shop Price Index y/y,Low,,-0.8%,-1.0%
+2018-04-03 21:30,AUD,Retail Sales m/m,High,0.3%,0.2%,0.6%
+2018-04-03 21:45,CNY,Caixin Services PMI,Medium,54.5,54.2,52.3
+2018-04-04 00:00,AUD,Building Approvals m/m,Medium,-5.1%,17.2%,-6.2%
+2018-04-04 00:00,EUR,CPI Flash Estimate y/y,Medium,1.4%,1.1%,1.4%
+2018-04-04 00:00,EUR,Unemployment Rate,Low,8.5%,8.6%,8.5%
+2018-04-04 00:00,USD,Factory Orders m/m,Low,1.7%,-1.3%,1.2%
+2018-04-04 04:00,EUR,Italian Monthly Unemployment Rate,Low,11.0%,11.1%,10.9%
+2018-04-04 04:30,GBP,Construction PMI,High,50.9,51.4,47.0
+2018-04-04 05:00,EUR,Core CPI Flash Estimate y/y,Medium,1.1%,1.0%,1.0%
+2018-04-04 08:15,USD,ADP Non-Farm Employment Change,High,208K,246K,241K
+2018-04-04 09:45,USD,Final Services PMI,Low,54.3,54.1,54.0
+2018-04-04 10:00,USD,ISM Services PMI,High,59.0,59.5,58.8
+2018-04-04 10:30,USD,Crude Oil Inventories,High,1.4M,1.6M,-4.6M
+2018-04-04 11:00,USD,FOMC Member Mester Speaks,Medium,,,
+2018-04-04 18:30,AUD,AIG Services Index,Low,,54.0,56.9
+2018-04-04 21:00,NZD,ANZ Commodity Prices m/m,Low,,2.8%,1.2%
+2018-04-04 21:30,AUD,Goods Trade Balance,High,0.68B,0.95B,0.83B
+2018-04-05 00:00,EUR,Retail Sales m/m,Low,0.6%,-0.3%,0.1%
+2018-04-05 00:00,EUR,Spanish Services PMI,Low,56.2,57.3,56.2
+2018-04-05 00:00,USD,Trade Balance,Low,-56.9B,-56.7B,-57.6B
+2018-04-05 00:00,USD,Unemployment Claims,Medium,225K,218K,242K
+2018-04-05 02:00,EUR,German Factory Orders m/m,Low,1.6%,-3.5%,0.3%
+2018-04-05 03:15,CHF,CPI m/m,Low,0.2%,0.4%,0.4%
+2018-04-05 03:45,EUR,Italian Services PMI,Low,53.9,55.0,52.6
+2018-04-05 03:50,EUR,French Final Services PMI,Low,56.8,56.8,56.9
+2018-04-05 03:55,EUR,German Final Services PMI,Low,54.2,54.2,53.9
+2018-04-05 04:00,EUR,Final Services PMI,Low,55.0,55.0,54.9
+2018-04-05 04:30,GBP,Final Services PMI,High,53.9,54.5,51.7
+2018-04-05 04:57,EUR,Spanish 10-y Bond Auction,Low,,1.36|1.3,1.15|1.5
+2018-04-05 05:00,EUR,PPI m/m,Low,0.0%,0.4%,0.1%
+2018-04-05 05:03,EUR,French 10-y Bond Auction,Low,,0.90|1.9,0.74|1.9
+2018-04-05 07:30,USD,Challenger Job Cuts y/y,Low,,-4.3%,39.4%
+2018-04-05 08:30,CAD,Trade Balance,High,-2.1B,-1.9B,-2.7B
+2018-04-05 10:30,USD,Natural Gas Storage,Low,-29B,-63B,-29B
+2018-04-05 12:00,CHF,Gov Board Member Maechler Speaks,Medium,,,
+2018-04-05 13:00,USD,FOMC Member Bostic Speaks,Medium,,,
+2018-04-05 19:30,JPY,Household Spending y/y,Low,0.3%,1.9%,-0.9%
+2018-04-05 20:00,JPY,Average Cash Earnings y/y,Low,0.5%,1.2%,1.3%
+2018-04-06 00:00,CAD,Unemployment Rate,High,5.8%,5.8%,5.8%
+2018-04-06 00:00,EUR,French Trade Balance,Low,-5.3B,-5.4B,-5.2B
+2018-04-06 00:00,USD,Average Hourly Earnings m/m,High,0.3%,0.1%,0.3%
+2018-04-06 00:00,USD,Non-Farm Employment Change,High,188K,326K,103K
+2018-04-06 00:00,USD,Unemployment Rate,High,4.0%,4.1%,4.1%
+2018-04-06 01:00,JPY,Leading Indicators,Low,105.5%,105.6%,105.8%
+2018-04-06 02:00,EUR,German Industrial Production m/m,Low,0.2%,0.1%,-1.6%
+2018-04-06 02:45,EUR,French Gov Budget Balance,Low,,-10.8B,-28.5B
+2018-04-06 03:00,CHF,Foreign Currency Reserves,Low,,732B,738B
+2018-04-06 04:10,EUR,Retail PMI,Low,,52.3,50.1
+2018-04-06 04:30,GBP,Housing Equity Withdrawal q/q,Low,-6.7B,-6.3B,-6.7B
+2018-04-06 08:30,CAD,Employment Change,High,20.1K,15.4K,32.3K
+2018-04-06 10:00,CAD,Ivey PMI,Medium,60.2,59.6,59.8
+2018-04-06 11:15,GBP,BOE Gov Carney Speaks,High,,,
+2018-04-06 13:30,USD,Fed Chair Powell Speaks,High,,,
+2018-04-06 15:00,USD,Consumer Credit m/m,Low,15.3B,15.6B,10.6B
+2018-04-08 18:30,AUD,AIG Construction Index,Low,,56.0,57.2
+2018-04-08 19:50,JPY,Current Account,Low,1.39T,2.02T,1.02T
+2018-04-09 00:00,JPY,Economy Watchers Sentiment,Low,48.1,48.6,48.9
+2018-04-09 01:03,JPY,Consumer Confidence,Low,44.6,44.3,44.3
+2018-04-09 01:45,CHF,Unemployment Rate,Low,2.9%,2.9%,2.9%
+2018-04-09 02:00,EUR,German Trade Balance,Low,23.1B,21.5B,19.2B
+2018-04-09 03:30,GBP,Halifax HPI m/m,Medium,0.1%,0.5%,1.5%
+2018-04-09 04:30,EUR,Sentix Investor Confidence,Low,21.2,24.0,19.6
+2018-04-09 10:30,CAD,BOC Business Outlook Survey,High,,,
+2018-04-09 18:00,NZD,NZIER Business Confidence,Medium,,-12,-11
+2018-04-09 19:01,GBP,BRC Retail Sales Monitor y/y,Low,,0.6%,1.4%
+2018-04-09 21:30,AUD,NAB Business Confidence,Medium,,9,7
+2018-04-10 00:00,USD,Core PPI m/m,Medium,0.2%,0.2%,0.3%
+2018-04-10 00:00,USD,PPI m/m,High,0.1%,0.2%,0.3%
+2018-04-10 01:57,JPY,Prelim Machine Tool Orders y/y,Low,,39.5%,28.1%
+2018-04-10 02:45,EUR,French Industrial Production m/m,Low,1.5%,-1.8%,1.2%
+2018-04-10 04:00,EUR,Italian Industrial Production m/m,Low,1.0%,-1.8%,-0.5%
+2018-04-10 05:00,GBP,MPC Member Haldane Speaks,Medium,,,
+2018-04-10 06:00,USD,NFIB Small Business Index,Low,107.0,107.6,104.7
+2018-04-10 08:13,CAD,Housing Starts,Low,219K,231K,225K
+2018-04-10 08:30,CAD,Building Permits m/m,Medium,-1.5%,5.2%,-2.6%
+2018-04-10 10:00,USD,Final Wholesale Inventories m/m,Low,0.8%,1.1%,1.0%
+2018-04-10 19:50,JPY,Bank Lending y/y,Low,2.1%,2.1%,2.0%
+2018-04-10 20:30,AUD,Westpac Consumer Sentiment,Low,,0.2%,-0.6%
+2018-04-10 21:30,CNY,CPI y/y,Medium,2.6%,2.9%,2.1%
+2018-04-11 00:00,CNY,PPI y/y,Medium,3.2%,3.7%,3.1%
+2018-04-11 00:00,GBP,Construction Output m/m,Low,0.7%,-3.1%,-1.6%
+2018-04-11 00:00,GBP,Goods Trade Balance,Medium,-12.0B,-12.2B,-10.2B
+2018-04-11 00:00,GBP,Industrial Production m/m,Low,0.4%,1.3%,0.1%
+2018-04-11 00:00,JPY,Core Machinery Orders m/m,Low,-2.6%,8.2%,2.1%
+2018-04-11 00:00,JPY,PPI y/y,Low,2.1%,2.6%,2.1%
+2018-04-11 00:00,USD,CPI m/m,High,0.0%,0.2%,-0.1%
+2018-04-11 00:00,USD,CPI y/y,High,2.4%,2.2%,2.4%
+2018-04-11 00:00,USD,Federal Budget Balance,Low,-191.0B,-215.2B,-208.7B
+2018-04-11 01:00,AUD,RBA Gov Lowe Speaks,High,,,
+2018-04-11 04:00,EUR,Italian Retail Sales m/m,Low,0.3%,-0.5%,0.4%
+2018-04-11 04:30,GBP,Manufacturing Production m/m,High,0.2%,0.0%,-0.2%
+2018-04-11 05:34,EUR,German 30-y Bond Auction,Low,,1.27|1.1,1.12|1.0
+2018-04-11 07:08,GBP,NIESR GDP Estimate,Low,,0.1%,0.2%
+2018-04-11 07:10,EUR,ECB President Draghi Speaks,Medium,,,
+2018-04-11 08:30,USD,Core CPI m/m,High,0.2%,0.2%,0.2%
+2018-04-11 10:30,USD,Crude Oil Inventories,High,-0.6M,-4.6M,3.3M
+2018-04-11 13:01,USD,10-y Bond Auction,Low,,2.89|2.5,2.80|2.5
+2018-04-11 14:00,USD,FOMC Meeting Minutes,High,,,
+2018-04-11 19:00,NZD,RBNZ Assist Gov McDermott Speaks,Medium,,,
+2018-04-11 19:01,GBP,RICS House Price Balance,Low,2%,0%,0%
+2018-04-11 19:50,JPY,M2 Money Stock y/y,Low,3.2%,3.2%,3.2%
+2018-04-11 20:30,JPY,BOJ Gov Kuroda Speaks,High,,,
+2018-04-11 21:00,AUD,MI Inflation Expectations,Low,,3.7%,3.6%
+2018-04-11 21:30,AUD,Home Loans m/m,Low,-0.3%,-1.0%,-0.2%
+2018-04-11 22:00,CNY,Foreign Direct Investment ytd/y,Low,,0.5%,0.5%
+2018-04-11 23:45,JPY,30-y Bond Auction,Low,,0.75|4.2,0.71|4.3
+2018-04-12 00:00,USD,Import Prices m/m,Low,0.2%,0.3%,0.0%
+2018-04-12 00:00,USD,Unemployment Claims,Medium,231K,242K,233K
+2018-04-12 02:30,GBP,MPC Member Broadbent Speaks,Medium,,,
+2018-04-12 02:45,EUR,French Final CPI m/m,Low,1.0%,1.0%,1.0%
+2018-04-12 04:30,GBP,BOE Credit Conditions Survey,Medium,,,
+2018-04-12 05:00,EUR,Industrial Production m/m,Low,0.1%,-0.6%,-0.8%
+2018-04-12 07:30,EUR,ECB Monetary Policy Meeting Accounts,High,,,
+2018-04-12 08:30,CAD,NHPI m/m,Medium,0.1%,0.0%,-0.2%
+2018-04-12 10:30,USD,Natural Gas Storage,Low,-11B,-29B,-19B
+2018-04-12 12:00,EUR,German Buba President Weidmann Speaks,Medium,,,
+2018-04-12 13:01,USD,30-y Bond Auction,Low,,3.11|2.4,3.04|2.4
+2018-04-12 15:00,GBP,BOE Gov Carney Speaks,High,,,
+2018-04-12 18:30,NZD,BusinessNZ Manufacturing Index,Medium,,53.3,52.2
+2018-04-12 21:30,AUD,RBA Financial Stability Review,Medium,,,
+2018-04-12 23:09,CNY,Trade Balance,Medium,179B,225B,-30B
+2018-04-12 23:10,CNY,USD-Denominated Trade Balance,Low,27.1B,33.7B,-5.0B
+2018-04-13 00:00,CNY,New Loans,Low,1326B,839B,1120B
+2018-04-13 00:00,USD,JOLTS Job Openings,Low,6.11M,6.23M,6.05M
+2018-04-13 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.8%,2.7%
+2018-04-13 02:00,EUR,German Final CPI m/m,Low,0.4%,0.4%,0.4%
+2018-04-13 04:00,CNY,M2 Money Supply y/y,Low,8.9%,8.8%,8.2%
+2018-04-13 05:00,EUR,Trade Balance,Low,20.2B,20.2B,21.0B
+2018-04-13 10:00,USD,Prelim UoM Consumer Sentiment,Medium,100.6,101.4,97.8
+2018-04-13 17:00,USD,Treasury Currency Report,Medium,,,
+2018-04-15 18:30,NZD,BusinessNZ Services Index,Low,,55.3,58.8
+2018-04-15 18:45,NZD,FPI m/m,Low,,-0.5%,1.0%
+2018-04-15 19:01,GBP,Rightmove HPI m/m,Low,,1.5%,0.4%
+2018-04-16 00:00,USD,Empire State Manufacturing Index,Medium,19.8,22.5,15.8
+2018-04-16 00:00,USD,NAHB Housing Market Index,Low,71,70,69
+2018-04-16 00:00,USD,Retail Sales m/m,High,0.4%,-0.1%,0.6%
+2018-04-16 01:52,EUR,German WPI m/m,Low,0.4%,-0.3%,0.0%
+2018-04-16 03:15,CHF,PPI m/m,Medium,0.4%,0.3%,-0.2%
+2018-04-16 08:30,USD,Core Retail Sales m/m,High,0.2%,0.2%,0.2%
+2018-04-16 09:30,GBP,CB Leading Index m/m,Low,,0.0%,-0.4%
+2018-04-16 10:00,USD,Business Inventories m/m,Low,0.6%,0.6%,0.6%
+2018-04-16 13:15,USD,FOMC Member Bostic Speaks,Medium,,,
+2018-04-16 16:00,USD,TIC Long-Term Purchases,Low,52.3B,61.4B,49.0B
+2018-04-16 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2018-04-16 22:00,CNY,GDP q/y,High,6.8%,6.8%,6.8%
+2018-04-17 00:00,CAD,Manufacturing Sales m/m,Medium,1.0%,-1.3%,1.9%
+2018-04-17 00:00,CNY,Fixed Asset Investment ytd/y,Medium,7.7%,7.9%,7.5%
+2018-04-17 00:00,CNY,Industrial Production y/y,Medium,6.4%,7.2%,6.0%
+2018-04-17 00:00,CNY,NBS Press Conference,Medium,,,
+2018-04-17 00:00,CNY,Retail Sales y/y,Low,9.7%,9.7%,10.1%
+2018-04-17 00:00,CNY,Unemployment Rate,Low,,5.0%,5.1%
+2018-04-17 00:00,EUR,Italian Trade Balance,Low,2.23B,-0.09B,3.10B
+2018-04-17 00:00,EUR,ZEW Economic Sentiment,Low,7.3,13.4,1.9
+2018-04-17 00:00,GBP,Claimant Count Change,Medium,13.3K,15.1K,11.6K
+2018-04-17 00:00,GBP,Unemployment Rate,Medium,4.3%,4.3%,4.2%
+2018-04-17 00:00,USD,Building Permits,High,1.33M,1.32M,1.35M
+2018-04-17 00:00,USD,FOMC Member Williams Speaks,Medium,,,
+2018-04-17 00:00,USD,Housing Starts,Medium,1.27M,1.30M,1.32M
+2018-04-17 00:00,USD,Industrial Production m/m,Medium,0.3%,1.1%,0.5%
+2018-04-17 00:30,JPY,Revised Industrial Production m/m,Low,4.0%,4.1%,2.0%
+2018-04-17 04:30,GBP,Average Earnings Index 3m/y,High,3.0%,2.8%,2.8%
+2018-04-17 05:00,EUR,German ZEW Economic Sentiment,Medium,-0.8,5.1,-8.2
+2018-04-17 08:30,CAD,Foreign Securities Purchases,Medium,7.24B,5.63B,3.96B
+2018-04-17 09:15,USD,Capacity Utilization Rate,Medium,77.9%,78.1%,78.0%
+2018-04-17 10:00,USD,FOMC Member Quarles Speaks,Medium,,,
+2018-04-17 10:26,NZD,GDT Price Index,Medium,,-0.6%,2.7%
+2018-04-17 17:40,USD,FOMC Member Bostic Speaks,Medium,,,
+2018-04-17 19:50,JPY,Trade Balance,Low,0.10T,-0.21T,0.12T
+2018-04-17 20:30,AUD,MI Leading Index m/m,Low,,0.4%,-0.2%
+2018-04-17 21:30,CNY,New Home Prices m/m,Low,,0.25%,0.42%
+2018-04-18 00:00,CAD,BOC Rate Statement,High,,,
+2018-04-18 00:00,CAD,Overnight Rate,High,1.25%,1.25%,1.25%
+2018-04-18 00:00,EUR,Final Core CPI y/y,Low,1.0%,1.0%,1.0%
+2018-04-18 00:00,GBP,Core CPI y/y,Low,2.5%,2.4%,2.3%
+2018-04-18 00:00,GBP,HPI y/y,Low,4.8%,4.7%,4.4%
+2018-04-18 00:00,GBP,PPI Input m/m,Medium,0.3%,-0.4%,-0.1%
+2018-04-18 00:00,GBP,PPI Output m/m,Low,0.1%,0.0%,0.2%
+2018-04-18 00:00,GBP,RPI y/y,Medium,3.5%,3.6%,3.3%
+2018-04-18 04:30,GBP,CPI y/y,High,2.7%,2.7%,2.5%
+2018-04-18 05:00,EUR,Final CPI y/y,Medium,1.4%,1.4%,1.3%
+2018-04-18 05:32,EUR,German 10-y Bond Auction,Low,,0.60|1.3,0.51|1.4
+2018-04-18 10:00,CAD,BOC Monetary Policy Report,High,,,
+2018-04-18 10:30,USD,Crude Oil Inventories,High,-0.5M,3.3M,-1.1M
+2018-04-18 11:15,CAD,BOC Press Conference,High,,,
+2018-04-18 14:00,USD,Beige Book,Low,,,
+2018-04-18 15:15,USD,FOMC Member Dudley Speaks,Medium,,,
+2018-04-18 16:15,USD,FOMC Member Quarles Speaks,Medium,,,
+2018-04-18 18:45,NZD,CPI q/q,High,0.4%,0.1%,0.5%
+2018-04-18 21:30,AUD,Employment Change,High,20.3K,-6.3K,4.9K
+2018-04-19 00:00,AUD,NAB Quarterly Business Confidence,Low,,7,7
+2018-04-19 00:00,AUD,Unemployment Rate,High,5.5%,5.5%,5.5%
+2018-04-19 00:00,USD,Philly Fed Manufacturing Index,Medium,20.8,22.3,23.2
+2018-04-19 00:00,USD,Unemployment Claims,Medium,230K,233K,232K
+2018-04-19 04:00,EUR,Current Account,Low,32.3B,39.0B,35.1B
+2018-04-19 04:30,GBP,Retail Sales m/m,High,-0.5%,0.8%,-1.2%
+2018-04-19 04:44,EUR,Spanish 10-y Bond Auction,Low,,1.15|1.5,1.24|1.3
+2018-04-19 05:36,GBP,10-y Bond Auction,Low,,1.58|2.6,1.60|2.4
+2018-04-19 08:00,USD,FOMC Member Brainard Speaks,Medium,,,
+2018-04-19 08:30,CAD,ADP Non-Farm Employment Change,Low,,16.2K,42.8K
+2018-04-19 09:30,USD,FOMC Member Quarles Speaks,Medium,,,
+2018-04-19 10:00,USD,CB Leading Index m/m,Low,0.3%,0.7%,0.3%
+2018-04-19 10:30,USD,Natural Gas Storage,Low,-23B,-19B,-36B
+2018-04-19 12:30,GBP,MPC Member Cunliffe Speaks,Medium,,,
+2018-04-19 18:45,USD,FOMC Member Mester Speaks,Medium,,,
+2018-04-19 19:30,JPY,National Core CPI y/y,Low,0.9%,1.0%,0.9%
+2018-04-20 00:00,CAD,CPI m/m,High,0.4%,0.6%,0.3%
+2018-04-20 00:00,CAD,Common CPI y/y,Medium,,1.9%,1.9%
+2018-04-20 00:00,CAD,Core CPI m/m,Low,,0.7%,0.2%
+2018-04-20 00:00,CAD,Median CPI y/y,Medium,,2.1%,2.1%
+2018-04-20 00:00,CAD,Retail Sales m/m,Medium,0.4%,0.1%,0.4%
+2018-04-20 00:00,CAD,Trimmed CPI y/y,Medium,,2.1%,2.0%
+2018-04-20 00:30,JPY,Tertiary Industry Activity m/m,Low,0.1%,-0.4%,0.0%
+2018-04-20 02:00,EUR,German PPI m/m,Low,0.2%,-0.1%,0.1%
+2018-04-20 05:30,GBP,MPC Member Saunders Speaks,Medium,,,
+2018-04-20 07:30,EUR,German Buba President Weidmann Speaks,Medium,,,
+2018-04-20 08:30,CAD,Core Retail Sales m/m,High,0.4%,1.0%,0.0%
+2018-04-20 10:00,EUR,Consumer Confidence,Low,0,0,0
+2018-04-20 11:15,USD,FOMC Member Williams Speaks,Medium,,,
+2018-04-20 15:29,All,IMF Meetings,Low,,,
+2018-04-20 15:29,All,OPEC-JMMC Meetings,Medium,,,
+2018-04-21 15:29,All,IMF Meetings,Low,,,
+2018-04-22 15:29,All,IMF Meetings,Low,,,
+2018-04-22 20:30,JPY,Flash Manufacturing PMI,Low,53.4,53.1,53.3
+2018-04-22 23:00,NZD,Credit Card Spending y/y,Low,,7.0%,7.2%
+2018-04-23 00:00,EUR,Flash Services PMI,Medium,54.8,54.9,55.0
+2018-04-23 00:00,EUR,French Flash Services PMI,Medium,56.6,56.9,57.4
+2018-04-23 00:00,EUR,German Flash Services PMI,Medium,53.9,53.9,54.1
+2018-04-23 00:00,USD,Flash Services PMI,Low,54.3,54.0,54.4
+2018-04-23 03:00,EUR,French Flash Manufacturing PMI,Medium,53.4,53.7,53.4
+2018-04-23 03:30,EUR,German Flash Manufacturing PMI,Medium,57.6,58.2,58.1
+2018-04-23 04:00,EUR,Flash Manufacturing PMI,Medium,56.6,56.6,56.0
+2018-04-23 06:00,EUR,German Buba Monthly Report,Low,,,
+2018-04-23 08:30,CAD,Wholesale Sales m/m,Low,0.3%,0.3%,-0.8%
+2018-04-23 09:45,USD,Flash Manufacturing PMI,Low,55.2,55.6,56.5
+2018-04-23 10:00,USD,Existing Home Sales,Medium,5.55M,5.54M,5.60M
+2018-04-23 10:30,AUD,CB Leading Index m/m,Low,,-0.3%,0.3%
+2018-04-23 18:00,AUD,RBA Assist Gov Kent Speaks,Medium,,,
+2018-04-23 18:45,NZD,Visitor Arrivals m/m,Low,,3.6%,-2.1%
+2018-04-23 19:50,JPY,SPPI y/y,Low,0.5%,0.7%,0.5%
+2018-04-23 21:30,AUD,CPI q/q,High,0.5%,0.6%,0.4%
+2018-04-24 00:00,AUD,Trimmed Mean CPI q/q,High,0.5%,0.4%,0.5%
+2018-04-24 00:00,CAD,BOC Gov Poloz Speaks,High,,,
+2018-04-24 00:00,USD,New Home Sales,Low,625K,667K,694K
+2018-04-24 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,6.3%,6.4%,6.8%
+2018-04-24 01:00,JPY,BOJ Core CPI y/y,Low,0.7%,0.8%,0.7%
+2018-04-24 02:00,CHF,Trade Balance,Low,3.23B,3.08B,1.77B
+2018-04-24 04:00,EUR,German ifo Business Climate,Medium,102.7,103.3,102.1
+2018-04-24 04:30,GBP,Public Sector Net Borrowing,Medium,1.1B,-0.4B,-0.3B
+2018-04-24 06:00,GBP,CBI Industrial Order Expectations,Low,4,4,4
+2018-04-24 08:58,EUR,Belgian NBB Business Climate,Low,-0.6,0.1,1.0
+2018-04-24 09:00,USD,HPI m/m,Low,0.5%,0.9%,0.6%
+2018-04-24 09:59,USD,Richmond Manufacturing Index,Low,16,15,-3
+2018-04-24 10:00,USD,CB Consumer Confidence,High,126.0,127.0,128.7
+2018-04-25 00:30,JPY,All Industries Activity m/m,Low,0.6%,-1.1%,0.4%
+2018-04-25 04:00,CHF,UBS Economic Expectations,Low,,16.7,7.2
+2018-04-25 09:00,CNY,CB Leading Index m/m,Low,,1.2%,1.7%
+2018-04-25 10:30,USD,Crude Oil Inventories,High,-1.6M,-1.1M,2.2M
+2018-04-25 16:15,CAD,BOC Gov Poloz Speaks,High,,,
+2018-04-25 21:30,AUD,Import Prices q/q,Low,1.3%,2.0%,2.1%
+2018-04-26 00:00,EUR,Monetary Policy Statement,High,,,
+2018-04-26 00:00,USD,Core Durable Goods Orders m/m,High,0.5%,1.0%,0.0%
+2018-04-26 00:00,USD,Durable Goods Orders m/m,Medium,1.6%,3.0%,2.6%
+2018-04-26 00:00,USD,Goods Trade Balance,Low,-74.8B,-75.9B,-68.0B
+2018-04-26 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.6%,1.0%,0.5%
+2018-04-26 00:00,USD,Unemployment Claims,Medium,230K,233K,209K
+2018-04-26 02:00,EUR,German GfK Consumer Climate,Low,10.9,10.9,10.8
+2018-04-26 03:00,EUR,Spanish Unemployment Rate,Medium,16.3%,16.6%,16.7%
+2018-04-26 04:30,GBP,High Street Lending,Low,37.1K,38.0K,37.6K
+2018-04-26 06:00,GBP,CBI Realized Sales,Low,-3,-8,-2
+2018-04-26 07:45,EUR,Main Refinancing Rate,High,0.00%,0.00%,0.00%
+2018-04-26 08:30,EUR,ECB Press Conference,High,,,
+2018-04-26 10:30,USD,Natural Gas Storage,Low,-11B,-36B,-18B
+2018-04-26 18:05,GBP,GfK Consumer Confidence,Low,-7,-7,-9
+2018-04-26 18:45,NZD,Trade Balance,Medium,270M,172M,-86M
+2018-04-26 19:30,JPY,Tokyo Core CPI y/y,Low,0.8%,0.8%,0.6%
+2018-04-26 19:50,JPY,Prelim Industrial Production m/m,Low,0.5%,2.0%,1.2%
+2018-04-26 21:30,AUD,PPI q/q,Low,0.4%,0.6%,0.5%
+2018-04-26 23:03,JPY,BOJ Outlook Report,High,,,
+2018-04-27 00:00,EUR,French Prelim CPI m/m,Low,0.1%,1.0%,0.1%
+2018-04-27 00:00,EUR,Spanish Flash GDP q/q,Medium,0.7%,0.7%,0.7%
+2018-04-27 00:00,GBP,Index of Services 3m/3m,Low,0.6%,0.6%,0.4%
+2018-04-27 00:00,GBP,Nationwide HPI m/m,Low,0.2%,-0.2%,0.2%
+2018-04-27 00:00,JPY,BOJ Policy Rate,Medium,-0.10%,-0.10%,-0.10%
+2018-04-27 00:00,JPY,Monetary Policy Statement,High,,,
+2018-04-27 00:00,JPY,Retail Sales y/y,Low,1.5%,1.7%,1.0%
+2018-04-27 00:00,JPY,Unemployment Rate,Low,2.5%,2.5%,2.5%
+2018-04-27 00:00,USD,Advance GDP Price Index q/q,Medium,2.2%,2.3%,2.0%
+2018-04-27 00:00,USD,Employment Cost Index q/q,Medium,0.7%,0.6%,0.8%
+2018-04-27 00:00,USD,Revised UoM Consumer Sentiment,Medium,98.0,97.8,98.8
+2018-04-27 00:00,USD,Revised UoM Inflation Expectations,Low,,2.7%,2.7%
+2018-04-27 01:00,JPY,Housing Starts y/y,Low,-5.1%,-2.6%,-8.3%
+2018-04-27 01:30,EUR,French Flash GDP q/q,Low,0.4%,0.7%,0.3%
+2018-04-27 02:00,EUR,German Import Prices m/m,Low,0.1%,-0.6%,0.0%
+2018-04-27 02:29,JPY,BOJ Press Conference,High,,,
+2018-04-27 02:45,EUR,French Consumer Spending m/m,Low,0.4%,2.5%,0.1%
+2018-04-27 03:00,EUR,Spanish Flash CPI y/y,Medium,1.2%,1.2%,1.1%
+2018-04-27 03:55,EUR,German Unemployment Change,Low,-15K,-18K,-7K
+2018-04-27 04:00,CHF,SNB Chairman Jordan Speaks,High,,,
+2018-04-27 04:30,GBP,Prelim GDP q/q,High,0.3%,0.4%,0.1%
+2018-04-27 05:15,EUR,Italian 10-y Bond Auction,Low,,1.83|1.3,1.70|1.4
+2018-04-27 08:30,USD,Advance GDP q/q,High,2.0%,2.9%,2.3%
+2018-04-27 10:00,GBP,BOE Gov Carney Speaks,High,,,
+2018-04-27 15:29,EUR,Eurogroup Meetings,Low,,,
+2018-04-29 21:00,AUD,MI Inflation Gauge m/m,Low,,0.1%,0.5%
+2018-04-29 21:15,AUD,HIA New Home Sales m/m,Low,,-0.7%,-2.0%
+2018-04-29 21:30,AUD,Private Sector Credit m/m,Low,0.4%,0.4%,0.5%
+2018-04-30 00:00,CAD,IPPI m/m,Low,0.2%,0.3%,0.8%
+2018-04-30 00:00,CNY,Manufacturing PMI,Medium,51.3,51.5,51.4
+2018-04-30 00:00,CNY,Non-Manufacturing PMI,Medium,54.6,54.6,54.8
+2018-04-30 00:00,EUR,Private Loans y/y,Low,2.9%,2.9%,3.0%
+2018-04-30 00:00,NZD,ANZ Business Confidence,High,,-20.0,-23.4
+2018-04-30 00:00,USD,Core PCE Price Index m/m,Medium,0.2%,0.2%,0.2%
+2018-04-30 00:00,USD,Personal Income m/m,Low,0.4%,0.3%,0.3%
+2018-04-30 00:00,USD,Personal Spending m/m,Medium,0.4%,0.0%,0.4%
+2018-04-30 02:00,EUR,German Retail Sales m/m,Medium,0.8%,-0.2%,-0.6%
+2018-04-30 03:00,CHF,KOF Economic Barometer,Medium,105.9,105.1,105.3
+2018-04-30 04:00,EUR,M3 Money Supply y/y,Medium,4.1%,4.2%,3.7%
+2018-04-30 05:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.3%,0.1%
+2018-04-30 08:30,CAD,RMPI m/m,Medium,0.6%,-0.4%,2.1%
+2018-04-30 09:45,USD,Chicago PMI,Medium,58.2,57.4,57.6
+2018-04-30 10:00,USD,Pending Home Sales m/m,Low,0.6%,2.8%,0.4%
+2018-04-30 14:30,CAD,BOC Gov Poloz Speaks,High,,,
+2018-04-30 15:29,EUR,ECOFIN Meetings,Low,,,
+2018-04-30 15:29,EUR,German Prelim CPI m/m,Medium,-0.1%,0.4%,0.0%
+2018-04-30 18:30,AUD,AIG Manufacturing Index,Low,,63.1,58.3
+2018-04-30 18:45,NZD,Building Consents m/m,Low,,6.4%,14.7%
+2018-04-30 20:30,JPY,Final Manufacturing PMI,Low,53.3,53.3,53.8

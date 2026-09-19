@@ -1,0 +1,356 @@
+datetime,currency,title,impact,forecast,previous,actual
+2021-12-01 00:00,GBP,Nationwide HPI m/m,Low,0.4%,0.7%,0.9%
+2021-12-01 00:00,JPY,Final Manufacturing PMI,Low,54.2,54.2,54.5
+2021-12-01 00:00,USD,Construction Spending m/m,Low,0.4%,-0.1%,0.2%
+2021-12-01 00:00,USD,ISM Manufacturing PMI,High,61.3,60.8,61.1
+2021-12-01 00:00,USD,ISM Manufacturing Prices,Low,85.5,85.7,82.4
+2021-12-01 00:00,USD,Treasury Sec Yellen Speaks,Medium,,,
+2021-12-01 00:30,AUD,Commodity Prices y/y,Low,,42.8%,36.2%
+2021-12-01 02:00,EUR,German Retail Sales m/m,Low,1.0%,-1.9%,-0.3%
+2021-12-01 02:30,CHF,CPI m/m,Low,-0.1%,0.3%,0.0%
+2021-12-01 03:15,EUR,Spanish Manufacturing PMI,Low,57.9,57.4,57.1
+2021-12-01 03:30,CHF,Manufacturing PMI,Low,64.3,65.4,62.5
+2021-12-01 03:45,EUR,Italian Manufacturing PMI,Low,61.1,61.1,62.8
+2021-12-01 03:50,EUR,French Final Manufacturing PMI,Low,54.6,54.6,55.9
+2021-12-01 03:55,EUR,German Final Manufacturing PMI,Low,57.6,57.6,57.4
+2021-12-01 04:00,EUR,Final Manufacturing PMI,Low,58.6,58.6,58.4
+2021-12-01 04:30,GBP,Final Manufacturing PMI,Low,58.2,58.2,58.1
+2021-12-01 05:06,GBP,10-y Bond Auction,Low,,1.14|2.7,0.92|2.2
+2021-12-01 08:15,USD,ADP Non-Farm Employment Change,High,525K,570K,534K
+2021-12-01 08:30,CAD,Building Permits m/m,Medium,-1.1%,4.3%,1.3%
+2021-12-01 09:00,GBP,BOE Gov Bailey Speaks,High,,,
+2021-12-01 09:30,CAD,Manufacturing PMI,Low,,57.7,57.2
+2021-12-01 09:45,USD,Final Manufacturing PMI,Low,59.1,59.1,58.3
+2021-12-01 10:00,USD,Fed Chair Powell Testifies,High,,,
+2021-12-01 10:30,USD,Crude Oil Inventories,Medium,-1.5M,1.0M,-0.9M
+2021-12-01 14:00,USD,Beige Book,Low,,,
+2021-12-01 15:29,All,OPEC Meetings,High,,,
+2021-12-01 15:29,USD,Wards Total Vehicle Sales,Low,13.5M,13.0M,12.9M
+2021-12-01 16:45,NZD,Overseas Trade Index q/q,Low,2.1%,3.2%,0.7%
+2021-12-01 18:50,JPY,Monetary Base y/y,Low,10.3%,9.9%,9.3%
+2021-12-01 19:30,AUD,Goods Trade Balance,Low,11.25B,11.82B,11.22B
+2021-12-01 22:35,JPY,10-y Bond Auction,Low,,0.11|3.1,0.06|3.2
+2021-12-02 00:00,EUR,Unemployment Rate,Low,7.3%,7.4%,7.3%
+2021-12-02 00:00,JPY,Consumer Confidence,Low,40.3,39.2,39.2
+2021-12-02 00:00,USD,FOMC Member Bostic Speaks,Low,,,
+2021-12-02 00:00,USD,FOMC Member Daly Speaks,Low,,,
+2021-12-02 02:30,CHF,Retail Sales y/y,Low,2.2%,2.6%,1.2%
+2021-12-02 03:00,EUR,Spanish Unemployment Change,Medium,5.3K,-0.7K,-74.4K
+2021-12-02 04:00,EUR,Italian Monthly Unemployment Rate,Low,9.1%,9.2%,9.4%
+2021-12-02 04:47,EUR,Spanish 10-y Bond Auction,Low,,0.47|1.4,0.39|2.1
+2021-12-02 05:00,EUR,PPI m/m,Low,3.6%,2.8%,5.4%
+2021-12-02 05:02,EUR,French 10-y Bond Auction,Low,,0.16|1.8,-0.19|2.7
+2021-12-02 07:30,USD,Challenger Job Cuts y/y,Low,,-71.7%,-77.0%
+2021-12-02 08:30,USD,Unemployment Claims,Medium,238K,194K,222K
+2021-12-02 09:00,USD,Treasury Sec Yellen Speaks,Medium,,,
+2021-12-02 10:30,USD,Natural Gas Storage,Low,-59B,-21B,-59B
+2021-12-02 11:00,USD,FOMC Member Quarles Speaks,Low,,,
+2021-12-02 11:30,USD,FOMC Member Barkin Speaks,Medium,,,
+2021-12-02 15:29,All,OPEC-JMMC Meetings,High,,,
+2021-12-02 16:30,AUD,AIG Construction Index,Low,,57.6,57.0
+2021-12-02 20:45,CNY,Caixin Services PMI,Low,52.6,53.8,52.1
+2021-12-03 00:00,CAD,Labor Productivity q/q,Low,-0.7%,0.0%,-1.5%
+2021-12-03 00:00,CAD,Unemployment Rate,High,6.6%,6.7%,6.0%
+2021-12-03 00:00,EUR,French Industrial Production m/m,Low,0.7%,-1.5%,0.9%
+2021-12-03 00:00,USD,Average Hourly Earnings m/m,High,0.4%,0.4%,0.3%
+2021-12-03 00:00,USD,Factory Orders m/m,Low,0.5%,0.5%,1.0%
+2021-12-03 00:00,USD,Non-Farm Employment Change,High,553K,546K,210K
+2021-12-03 00:00,USD,Unemployment Rate,High,4.5%,4.6%,4.2%
+2021-12-03 02:45,EUR,French Gov Budget Balance,Low,,-175.1B,-171.6B
+2021-12-03 03:15,EUR,Spanish Services PMI,Low,58.6,56.6,59.8
+2021-12-03 03:30,EUR,ECB President Lagarde Speaks,Medium,,,
+2021-12-03 03:45,EUR,Italian Services PMI,Low,54.6,52.4,55.9
+2021-12-03 03:50,EUR,French Final Services PMI,Low,58.2,58.2,57.4
+2021-12-03 03:55,EUR,German Final Services PMI,Low,53.4,53.4,52.7
+2021-12-03 04:00,EUR,Final Services PMI,Low,56.6,56.6,55.9
+2021-12-03 04:30,GBP,Final Services PMI,Low,58.6,58.6,58.5
+2021-12-03 05:00,EUR,Retail Sales m/m,Low,0.3%,-0.4%,0.2%
+2021-12-03 06:00,GBP,MPC Member Saunders Speaks,High,,,
+2021-12-03 08:30,CAD,Employment Change,High,36.5K,31.2K,153.7K
+2021-12-03 09:00,USD,Treasury Currency Report,High,,,
+2021-12-03 09:45,USD,Final Services PMI,Low,57.0,57.0,58.0
+2021-12-03 10:00,USD,ISM Services PMI,High,64.9,66.7,69.1
+2021-12-05 19:00,NZD,ANZ Commodity Prices m/m,Low,,2.2%,2.8%
+2021-12-05 19:04,AUD,MI Inflation Gauge m/m,Low,,0.2%,0.3%
+2021-12-05 19:30,AUD,ANZ Job Advertisements m/m,Low,,7.5%,7.4%
+2021-12-06 00:00,GBP,Construction PMI,Low,54.9,54.6,55.5
+2021-12-06 02:00,EUR,German Factory Orders m/m,Low,-0.2%,1.8%,-6.9%
+2021-12-06 04:00,EUR,Italian Retail Sales m/m,Low,0.4%,1.0%,0.1%
+2021-12-06 04:30,EUR,Sentix Investor Confidence,Low,14.5,18.3,13.5
+2021-12-06 06:30,GBP,MPC Member Broadbent Speaks,High,,,
+2021-12-06 15:29,EUR,Eurogroup Meetings,Low,,,
+2021-12-06 16:30,AUD,AIG Services Index,Low,,47.6,49.6
+2021-12-06 18:30,JPY,Average Cash Earnings y/y,Low,0.4%,0.2%,0.2%
+2021-12-06 19:01,GBP,BRC Retail Sales Monitor y/y,Low,0.3%,-0.2%,1.8%
+2021-12-06 19:30,AUD,HPI q/q,Low,5.1%,6.7%,5.0%
+2021-12-06 22:01,CNY,USD-Denominated Trade Balance,Low,83.2B,84.5B,71.7B
+2021-12-06 22:02,CNY,Trade Balance,Medium,583B,546B,461B
+2021-12-06 22:30,AUD,Cash Rate,High,0.10%,0.10%,0.10%
+2021-12-06 22:35,JPY,30-y Bond Auction,Low,,0.68|3.4,0.67|3.2
+2021-12-07 00:00,AUD,RBA Rate Statement,High,,,
+2021-12-07 00:00,EUR,Final Employment Change q/q,Low,0.9%,0.9%,0.9%
+2021-12-07 00:00,EUR,German ZEW Economic Sentiment,Medium,25.3,31.7,29.9
+2021-12-07 00:00,EUR,Revised GDP q/q,Low,2.2%,2.2%,2.2%
+2021-12-07 00:00,GBP,Halifax HPI m/m,Low,0.8%,1.0%,1.0%
+2021-12-07 00:00,JPY,Household Spending y/y,Low,-0.6%,-1.9%,-0.6%
+2021-12-07 00:00,JPY,Leading Indicators,Low,102.9%,100.9%,102.1%
+2021-12-07 00:00,USD,RCM/TIPP Economic Optimism,Low,45.8,43.9,48.4
+2021-12-07 00:00,USD,Revised Nonfarm Productivity q/q,Low,-4.9%,-5.0%,-5.2%
+2021-12-07 00:00,USD,Revised Unit Labor Costs q/q,Low,8.3%,8.3%,9.6%
+2021-12-07 00:00,USD,Trade Balance,Low,-66.9B,-81.4B,-67.1B
+2021-12-07 01:45,CHF,Unemployment Rate,Low,2.6%,2.7%,2.5%
+2021-12-07 02:00,EUR,German Industrial Production m/m,Low,1.1%,-0.5%,2.8%
+2021-12-07 02:45,EUR,French Trade Balance,Low,-7.0B,-6.9B,-7.5B
+2021-12-07 03:00,CHF,Foreign Currency Reserves,Low,,923B,922B
+2021-12-07 05:00,EUR,ZEW Economic Sentiment,Medium,22.4,25.9,26.8
+2021-12-07 05:07,GBP,30-y Bond Auction,Low,,1.33|2.1,0.87|2.4
+2021-12-07 08:30,CAD,Trade Balance,Low,2.2B,1.9B,2.1B
+2021-12-07 09:42,NZD,GDT Price Index,Low,,1.9%,1.4%
+2021-12-07 10:00,CAD,Ivey PMI,Medium,60.2,59.3,61.2
+2021-12-07 15:00,USD,Consumer Credit m/m,Low,24.9B,27.8B,16.9B
+2021-12-07 15:29,EUR,ECOFIN Meetings,Low,,,
+2021-12-07 18:50,JPY,Bank Lending y/y,Low,0.7%,0.9%,0.6%
+2021-12-07 18:53,JPY,Final GDP Price Index y/y,Low,-1.1%,-1.1%,-1.2%
+2021-12-08 00:00,CAD,Overnight Rate,High,0.25%,0.25%,0.25%
+2021-12-08 00:00,JPY,Current Account,Low,0.98T,0.76T,1.03T
+2021-12-08 00:00,JPY,Economy Watchers Sentiment,Low,57.3,55.5,56.3
+2021-12-08 00:00,JPY,Final GDP q/q,Low,-0.8%,-0.8%,-0.9%
+2021-12-08 00:00,USD,JOLTS Job Openings,High,10.45M,10.60M,11.03M
+2021-12-08 01:30,EUR,French Final Private Payrolls q/q,Low,0.5%,0.5%,0.5%
+2021-12-08 03:15,EUR,ECB President Lagarde Speaks,Medium,,,
+2021-12-08 05:36,EUR,German 10-y Bond Auction,Low,,-0.29|1.1,-0.38|1.3
+2021-12-08 10:00,CAD,BOC Rate Statement,High,,,
+2021-12-08 10:30,USD,Crude Oil Inventories,Medium,-1.5M,-0.9M,-0.2M
+2021-12-08 13:01,USD,10-y Bond Auction,Medium,,1.44|2.4,1.52|2.4
+2021-12-08 16:45,NZD,Manufacturing Sales q/q,Low,,3.7%,-2.2%
+2021-12-08 17:05,AUD,RBA Gov Lowe Speaks,High,,,
+2021-12-08 18:50,JPY,BSI Manufacturing Index,Low,5.3,7.0,7.9
+2021-12-08 19:01,GBP,RICS House Price Balance,Low,70%,71%,71%
+2021-12-08 19:30,AUD,RBA Bulletin,Low,,,
+2021-12-08 20:30,CNY,CPI y/y,Low,2.5%,1.5%,2.3%
+2021-12-09 00:00,CNY,New Loans,Low,1590B,826B,1270B
+2021-12-09 00:00,CNY,PPI y/y,Low,12.1%,13.5%,12.9%
+2021-12-09 00:00,JPY,M2 Money Stock y/y,Low,4.1%,4.2%,4.0%
+2021-12-09 00:59,JPY,Prelim Machine Tool Orders y/y,Low,,81.5%,64.0%
+2021-12-09 02:00,EUR,German Trade Balance,Low,12.9B,12.9B,12.5B
+2021-12-09 03:00,CHF,SECO Economic Forecasts,Low,,,
+2021-12-09 03:30,CNY,M2 Money Supply y/y,Low,8.6%,8.7%,8.5%
+2021-12-09 08:30,USD,Unemployment Claims,Medium,218K,227K,184K
+2021-12-09 10:00,USD,Final Wholesale Inventories m/m,Low,2.2%,2.2%,2.3%
+2021-12-09 10:30,USD,Natural Gas Storage,Low,-60B,-59B,-59B
+2021-12-09 13:01,USD,30-y Bond Auction,Medium,,1.94|2.2,1.90|2.2
+2021-12-09 14:00,CAD,Gov Council Member Gravelle Speaks,Medium,,,
+2021-12-09 16:30,NZD,BusinessNZ Manufacturing Index,Low,,54.2,50.6
+2021-12-09 18:50,JPY,PPI y/y,Low,8.6%,8.3%,9.0%
+2021-12-10 00:00,GBP,Construction Output m/m,Low,0.2%,1.3%,-1.8%
+2021-12-10 00:00,GBP,GDP m/m,Low,0.4%,0.6%,0.1%
+2021-12-10 00:00,GBP,Goods Trade Balance,Low,-14.5B,-14.7B,-13.9B
+2021-12-10 00:00,GBP,Index of Services 3m/3m,Low,1.2%,1.6%,1.1%
+2021-12-10 00:00,GBP,Industrial Production m/m,Low,0.1%,-0.4%,-0.6%
+2021-12-10 00:00,GBP,Manufacturing Production m/m,Low,0.2%,-0.1%,0.0%
+2021-12-10 00:00,USD,CPI m/m,High,0.7%,0.9%,0.8%
+2021-12-10 00:00,USD,CPI y/y,High,6.8%,6.2%,6.8%
+2021-12-10 00:00,USD,Core CPI m/m,High,0.5%,0.6%,0.5%
+2021-12-10 00:00,USD,Prelim UoM Inflation Expectations,Low,,4.9%,4.9%
+2021-12-10 02:00,EUR,German Final CPI m/m,Low,-0.2%,-0.2%,-0.2%
+2021-12-10 04:00,EUR,Italian Industrial Production m/m,Low,0.3%,0.1%,-0.6%
+2021-12-10 04:05,EUR,ECB President Lagarde Speaks,Medium,,,
+2021-12-10 04:30,GBP,Consumer Inflation Expectations,Low,,2.7%,3.2%
+2021-12-10 08:15,GBP,NIESR GDP Estimate,Low,,0.9%,0.9%
+2021-12-10 08:30,CAD,Capacity Utilization Rate,Low,83.0%,82.0%,81.4%
+2021-12-10 10:00,USD,Prelim UoM Consumer Sentiment,Medium,67.9,67.4,70.4
+2021-12-10 13:52,USD,Federal Budget Balance,Low,-195.0B,-165.1B,-191.3B
+2021-12-11 15:29,All,G7 Meetings,Low,,,
+2021-12-12 16:30,NZD,BusinessNZ Services Index,Low,,44.9,46.5
+2021-12-12 16:40,NZD,Visitor Arrivals m/m,Low,,-13.7%,59.6%
+2021-12-12 18:50,JPY,Core Machinery Orders m/m,Low,1.9%,0.0%,3.8%
+2021-12-12 19:01,GBP,Rightmove HPI m/m,Low,,-0.6%,-0.7%
+2021-12-13 00:00,GBP,BOE Financial Stability Report,Low,,,
+2021-12-13 00:00,GBP,FPC Meeting Minutes,Low,,,
+2021-12-13 00:00,GBP,FPC Statement,Low,,,
+2021-12-13 00:00,JPY,Tankan Manufacturing Index,Low,19,18,18
+2021-12-13 00:00,JPY,Tankan Non-Manufacturing Index,Low,5,2,9
+2021-12-13 02:00,EUR,German WPI m/m,Low,1.3%,1.6%,1.3%
+2021-12-13 04:00,EUR,Italian Quarterly Unemployment Rate,Low,9.4%,9.8%,9.2%
+2021-12-13 11:00,CAD,BOC Gov Macklem Speaks,High,,,
+2021-12-13 12:00,GBP,Bank Stress Test Results,High,,,
+2021-12-13 13:00,GBP,BOE Gov Bailey Speaks,High,,,
+2021-12-13 15:29,All,G7 Meetings,Low,,,
+2021-12-13 16:45,NZD,FPI m/m,Low,,-0.9%,-0.6%
+2021-12-13 19:30,AUD,NAB Business Confidence,Low,,20,12
+2021-12-13 23:30,JPY,Revised Industrial Production m/m,Low,1.1%,1.1%,1.8%
+2021-12-14 00:00,GBP,Claimant Count Change,Low,-31.5K,-58.5K,-49.8K
+2021-12-14 00:00,GBP,Unemployment Rate,Low,4.2%,4.3%,4.2%
+2021-12-14 00:00,USD,Core PPI m/m,Medium,0.4%,0.4%,0.7%
+2021-12-14 02:00,GBP,Average Earnings Index 3m/y,Low,4.6%,5.9%,4.9%
+2021-12-14 02:30,CHF,PPI m/m,Low,0.5%,0.6%,0.5%
+2021-12-14 05:00,EUR,Industrial Production m/m,Low,1.2%,-0.2%,1.1%
+2021-12-14 06:00,USD,NFIB Small Business Index,Low,98.4,98.2,98.4
+2021-12-14 08:30,USD,PPI m/m,High,0.5%,0.6%,0.8%
+2021-12-14 09:30,GBP,CB Leading Index m/m,Low,,0.1%,0.0%
+2021-12-14 14:00,NZD,RBNZ Gov Orr Speaks,High,,,
+2021-12-14 16:45,NZD,Current Account,Low,-7.75B,-1.54B,-8.30B
+2021-12-14 18:27,AUD,Westpac Consumer Sentiment,Low,,0.6%,-1.0%
+2021-12-14 20:30,CNY,New Home Prices m/m,Low,,-0.25%,-0.33%
+2021-12-14 21:00,CNY,Retail Sales y/y,Medium,4.8%,4.9%,3.9%
+2021-12-14 23:30,JPY,Tertiary Industry Activity m/m,Low,1.2%,0.5%,1.5%
+2021-12-15 00:00,CAD,Manufacturing Sales m/m,Low,4.0%,-3.0%,4.3%
+2021-12-15 00:00,CAD,Median CPI y/y,Medium,2.9%,2.8%,2.8%
+2021-12-15 00:00,CAD,Trimmed CPI y/y,Medium,3.3%,3.4%,3.4%
+2021-12-15 00:00,CNY,Fixed Asset Investment ytd/y,Low,5.4%,6.1%,5.2%
+2021-12-15 00:00,CNY,Industrial Production y/y,Low,3.8%,3.5%,3.8%
+2021-12-15 00:00,CNY,Unemployment Rate,Low,4.9%,4.9%,5.0%
+2021-12-15 00:00,GBP,Core CPI y/y,Low,3.7%,3.4%,4.0%
+2021-12-15 00:00,GBP,PPI Input m/m,Low,0.5%,1.6%,1.0%
+2021-12-15 00:00,GBP,PPI Output m/m,Low,0.6%,1.5%,0.9%
+2021-12-15 00:00,GBP,RPI y/y,Low,6.7%,6.0%,7.1%
+2021-12-15 00:00,USD,Empire State Manufacturing Index,Medium,24.9,30.9,31.9
+2021-12-15 00:00,USD,FOMC Economic Projections,High,,,
+2021-12-15 00:00,USD,FOMC Statement,High,,,
+2021-12-15 00:00,USD,Import Prices m/m,Low,0.5%,1.5%,0.7%
+2021-12-15 00:00,USD,NAHB Housing Market Index,Low,84,83,84
+2021-12-15 00:00,USD,Retail Sales m/m,High,0.8%,1.8%,0.3%
+2021-12-15 02:00,GBP,CPI y/y,High,4.8%,4.2%,5.1%
+2021-12-15 02:45,EUR,French Final CPI m/m,Low,0.4%,0.4%,0.4%
+2021-12-15 04:30,GBP,HPI y/y,Low,11.1%,12.3%,10.2%
+2021-12-15 08:14,CAD,Housing Starts,Low,236K,238K,301K
+2021-12-15 08:30,USD,Core Retail Sales m/m,High,0.9%,1.8%,0.3%
+2021-12-15 08:32,CAD,CPI m/m,High,0.2%,0.7%,0.2%
+2021-12-15 08:35,CAD,Common CPI y/y,Medium,1.9%,1.8%,2.0%
+2021-12-15 08:45,CAD,Core CPI m/m,Low,,0.6%,0.0%
+2021-12-15 10:00,USD,Business Inventories m/m,Low,1.0%,0.8%,1.2%
+2021-12-15 10:30,USD,Crude Oil Inventories,Low,-1.8M,-0.2M,-4.6M
+2021-12-15 12:00,CAD,BOC Gov Macklem Speaks,High,,,
+2021-12-15 14:00,USD,Federal Funds Rate,High,<0.25%,<0.25%,<0.25%
+2021-12-15 14:30,USD,FOMC Press Conference,High,,,
+2021-12-15 16:00,USD,TIC Long-Term Purchases,Low,35.9B,26.7B,7.1B
+2021-12-15 16:45,NZD,GDP q/q,High,-4.1%,2.4%,-3.7%
+2021-12-15 17:00,AUD,Flash Manufacturing PMI,Low,,59.2,57.4
+2021-12-15 18:30,AUD,RBA Gov Lowe Speaks,High,,,
+2021-12-15 18:50,JPY,Trade Balance,Low,-0.32T,-0.42T,-0.49T
+2021-12-15 19:00,AUD,MI Inflation Expectations,Low,,4.6%,4.8%
+2021-12-15 19:30,AUD,Employment Change,High,203.0K,-56.0K,366.1K
+2021-12-16 00:00,AUD,Flash Services PMI,Low,,55.7,55.1
+2021-12-16 00:00,AUD,Mid-Year Economic and Fiscal Outlook,Low,,,
+2021-12-16 00:00,AUD,Unemployment Rate,High,5.0%,5.2%,4.6%
+2021-12-16 00:00,CHF,SNB Policy Rate,Medium,-0.75%,-0.75%,-0.75%
+2021-12-16 00:00,EUR,ECB Press Conference,High,,,
+2021-12-16 00:00,EUR,Flash Manufacturing PMI,Medium,57.8,58.4,58.0
+2021-12-16 00:00,EUR,Flash Services PMI,Medium,54.2,55.9,53.3
+2021-12-16 00:00,EUR,French Flash Manufacturing PMI,Low,55.4,55.9,54.9
+2021-12-16 00:00,EUR,German Flash Manufacturing PMI,High,57.0,57.4,57.9
+2021-12-16 00:00,EUR,German Flash Services PMI,High,50.9,52.7,48.4
+2021-12-16 00:00,EUR,Italian Trade Balance,Low,3.25B,2.44B,3.89B
+2021-12-16 00:00,EUR,Monetary Policy Statement,High,,,
+2021-12-16 00:00,GBP,BOE Inflation Letter,Medium,,,
+2021-12-16 00:00,GBP,Flash Services PMI,Medium,57.1,58.5,53.2
+2021-12-16 00:00,GBP,MPC Asset Purchase Facility Votes,High,0-3-6,0-3-6,0-0-9
+2021-12-16 00:00,GBP,MPC Official Bank Rate Votes,High,2-0-7,2-0-7,8-0-1
+2021-12-16 00:00,GBP,Monetary Policy Summary,High,,,
+2021-12-16 00:00,GBP,Official Bank Rate,High,0.10%,0.10%,0.25%
+2021-12-16 00:00,JPY,Flash Manufacturing PMI,Low,55.0,54.5,54.2
+2021-12-16 00:00,USD,Building Permits,Low,1.66M,1.65M,1.71M
+2021-12-16 00:00,USD,Capacity Utilization Rate,Low,76.9%,76.5%,76.8%
+2021-12-16 00:00,USD,Flash Services PMI,Medium,58.9,58.0,57.5
+2021-12-16 00:00,USD,Housing Starts,Low,1.57M,1.50M,1.68M
+2021-12-16 00:00,USD,Philly Fed Manufacturing Index,Medium,29.6,39.0,15.4
+2021-12-16 00:00,USD,Unemployment Claims,Medium,196K,188K,206K
+2021-12-16 02:12,CNY,Foreign Direct Investment ytd/y,Low,,17.8%,15.9%
+2021-12-16 03:15,EUR,French Flash Services PMI,Medium,55.9,57.4,57.1
+2021-12-16 03:30,CHF,SNB Monetary Policy Assessment,High,,,
+2021-12-16 04:00,CHF,SNB Press Conference,High,,,
+2021-12-16 04:30,GBP,Flash Manufacturing PMI,Medium,57.5,58.1,57.6
+2021-12-16 05:00,EUR,Trade Balance,Low,5.7B,6.1B,2.4B
+2021-12-16 07:00,GBP,Asset Purchase Facility,High,875B,875B,875B
+2021-12-16 07:45,EUR,Main Refinancing Rate,High,0.00%,0.00%,0.00%
+2021-12-16 08:30,CAD,Wholesale Sales m/m,Low,1.5%,1.1%,1.4%
+2021-12-16 08:35,CAD,ADP Non-Farm Employment Change,Low,,46.2K,231.8K
+2021-12-16 09:15,USD,Industrial Production m/m,Medium,0.6%,1.7%,0.5%
+2021-12-16 09:45,USD,Flash Manufacturing PMI,Medium,58.6,58.3,57.8
+2021-12-16 10:30,USD,Natural Gas Storage,Low,-85B,-59B,-88B
+2021-12-16 19:00,NZD,ANZ Business Confidence,Low,,-16.4,-23.2
+2021-12-16 19:01,GBP,GfK Consumer Confidence,Low,-17,-14,-15
+2021-12-16 21:56,JPY,Monetary Policy Statement,Medium,,,
+2021-12-17 00:00,EUR,Final CPI y/y,Low,4.9%,4.9%,4.9%
+2021-12-17 00:00,GBP,Retail Sales m/m,Medium,0.8%,1.1%,1.4%
+2021-12-17 00:00,JPY,BOJ Policy Rate,Low,-0.10%,-0.10%,-0.10%
+2021-12-17 01:30,JPY,BOJ Press Conference,Medium,,,
+2021-12-17 02:00,EUR,German PPI m/m,Low,1.4%,3.8%,0.8%
+2021-12-17 04:00,EUR,German ifo Business Climate,Medium,95.3,96.6,94.7
+2021-12-17 05:00,EUR,Final Core CPI y/y,Low,2.6%,2.6%,2.6%
+2021-12-17 07:00,GBP,BOE Quarterly Bulletin,Low,,,
+2021-12-17 08:33,CAD,Foreign Securities Purchases,Low,18.50B,19.78B,23.92B
+2021-12-17 13:00,USD,FOMC Member Waller Speaks,Medium,,,
+2021-12-19 15:00,NZD,Westpac Consumer Sentiment,Low,,102.7,99.1
+2021-12-19 16:45,NZD,Trade Balance,Low,-1867M,-1302M,-864M
+2021-12-19 20:30,CNY,1-y Loan Prime Rate,Medium,3.85%,3.85%,3.80%
+2021-12-20 00:00,CNY,5-y Loan Prime Rate,Medium,4.65%,4.65%,4.65%
+2021-12-20 00:00,GBP,CBI Industrial Order Expectations,Low,20,26,24
+2021-12-20 04:00,EUR,Current Account,Low,20.3B,17.6B,18.1B
+2021-12-20 06:00,EUR,German Buba Monthly Report,Low,,,
+2021-12-20 10:00,USD,CB Leading Index m/m,Low,0.9%,0.9%,1.1%
+2021-12-20 19:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2021-12-20 21:00,NZD,Credit Card Spending y/y,Low,,-5.2%,-0.1%
+2021-12-21 00:00,CAD,Retail Sales m/m,Medium,1.0%,-0.3%,1.6%
+2021-12-21 00:00,EUR,German GfK Consumer Climate,Low,-2.6,-1.8,-6.8
+2021-12-21 00:00,GBP,Public Sector Net Borrowing,Low,15.4B,11.6B,16.6B
+2021-12-21 00:00,USD,Current Account,Low,-206B,-198B,-215B
+2021-12-21 02:00,CHF,Trade Balance,Low,4.38B,5.51B,6.16B
+2021-12-21 06:00,GBP,CBI Realized Sales,Low,24,39,8
+2021-12-21 08:30,CAD,Core Retail Sales m/m,Medium,1.6%,0.2%,1.3%
+2021-12-21 09:19,NZD,GDT Price Index,Low,,1.4%,-1.5%
+2021-12-21 09:57,EUR,Consumer Confidence,Low,-8,-7,-8
+2021-12-21 10:30,AUD,CB Leading Index m/m,Low,,0.2%,0.3%
+2021-12-21 18:30,AUD,MI Leading Index m/m,Low,,0.3%,0.1%
+2021-12-21 18:50,JPY,Monetary Policy Meeting Minutes,Low,,,
+2021-12-22 00:00,CNY,CB Leading Index m/m,Low,,0.3%,1.0%
+2021-12-22 00:00,GBP,Final GDP q/q,Low,1.3%,1.3%,1.1%
+2021-12-22 00:00,GBP,Revised Business Investment q/q,Low,0.4%,0.4%,-2.5%
+2021-12-22 00:00,USD,Existing Home Sales,Medium,6.55M,6.34M,6.46M
+2021-12-22 00:00,USD,Final GDP Price Index q/q,Low,5.9%,5.9%,6.0%
+2021-12-22 02:00,GBP,Current Account,Low,-15.8B,-13.5B,-24.4B
+2021-12-22 08:30,USD,Final GDP q/q,Medium,2.1%,2.1%,2.3%
+2021-12-22 09:00,CHF,SNB Quarterly Bulletin,Low,,,
+2021-12-22 10:00,USD,CB Consumer Confidence,Medium,111.1,111.9,115.8
+2021-12-22 10:30,USD,Crude Oil Inventories,Low,-2.4M,-4.6M,-4.7M
+2021-12-22 19:30,AUD,Private Sector Credit m/m,Low,0.5%,0.5%,0.9%
+2021-12-22 23:31,JPY,BOJ Gov Kuroda Speaks,Medium,,,
+2021-12-23 00:00,USD,Core Durable Goods Orders m/m,Medium,0.6%,0.3%,0.8%
+2021-12-23 00:00,USD,Core PCE Price Index m/m,High,0.4%,0.5%,0.5%
+2021-12-23 00:00,USD,Durable Goods Orders m/m,Medium,1.9%,-0.4%,2.5%
+2021-12-23 00:00,USD,Personal Income m/m,Low,0.4%,0.5%,0.4%
+2021-12-23 00:00,USD,Personal Spending m/m,Low,0.6%,1.4%,0.6%
+2021-12-23 00:00,USD,Revised UoM Consumer Sentiment,Low,70.4,70.4,70.6
+2021-12-23 00:00,USD,Revised UoM Inflation Expectations,Low,,4.9%,4.8%
+2021-12-23 00:00,USD,Unemployment Claims,Low,200K,205K,205K
+2021-12-23 02:00,EUR,German Import Prices m/m,Low,0.9%,3.8%,3.0%
+2021-12-23 08:30,CAD,GDP m/m,High,0.8%,0.2%,0.8%
+2021-12-23 08:56,EUR,Belgian NBB Business Climate,Low,4.5,4.2,3.6
+2021-12-23 10:00,USD,New Home Sales,Low,770K,662K,744K
+2021-12-23 10:30,USD,Natural Gas Storage,Low,-54B,-88B,-55B
+2021-12-23 18:30,JPY,National Core CPI y/y,Low,0.4%,0.1%,0.5%
+2021-12-23 18:50,JPY,SPPI y/y,Low,1.0%,1.0%,1.1%
+2021-12-24 00:02,JPY,Housing Starts y/y,Low,7.4%,10.4%,3.7%
+2021-12-26 18:50,JPY,BOJ Summary of Opinions,Low,,,
+2021-12-27 00:00,JPY,Retail Sales y/y,Low,1.8%,0.9%,1.9%
+2021-12-27 18:30,JPY,Unemployment Rate,Low,2.7%,2.7%,2.8%
+2021-12-27 18:50,JPY,Prelim Industrial Production m/m,Low,4.9%,1.8%,7.2%
+2021-12-28 00:00,JPY,BOJ Core CPI y/y,Low,0.5%,0.6%,0.8%
+2021-12-28 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,18.6%,19.1%,18.4%
+2021-12-28 09:00,USD,HPI m/m,Low,0.9%,0.9%,1.1%
+2021-12-28 10:00,USD,Richmond Manufacturing Index,Low,11,11,16
+2021-12-29 00:00,EUR,M3 Money Supply y/y,Low,7.6%,7.7%,7.3%
+2021-12-29 00:00,EUR,Private Loans y/y,Low,4.2%,4.1%,4.2%
+2021-12-29 00:00,USD,Prelim Wholesale Inventories m/m,Low,1.5%,2.3%,1.2%
+2021-12-29 04:00,CHF,UBS Economic Expectations,Low,,-10.8,0.0
+2021-12-29 08:30,USD,Goods Trade Balance,Low,-89.0B,-83.2B,-97.8B
+2021-12-29 10:00,USD,Pending Home Sales m/m,Low,0.6%,7.5%,-2.2%
+2021-12-29 10:30,USD,Crude Oil Inventories,Low,-2.7M,-4.7M,-3.6M
+2021-12-30 00:00,EUR,Spanish Flash CPI y/y,Low,5.6%,5.5%,6.7%
+2021-12-30 02:00,GBP,Nationwide HPI m/m,Low,0.5%,0.9%,1.0%
+2021-12-30 03:00,CHF,KOF Economic Barometer,Medium,106.2,107.5,107.0
+2021-12-30 08:30,USD,Unemployment Claims,Low,205K,206K,198K
+2021-12-30 09:45,USD,Chicago PMI,Low,61.9,61.8,63.1
+2021-12-30 10:30,USD,Natural Gas Storage,Low,-128B,-55B,-136B
+2021-12-30 20:00,CNY,Manufacturing PMI,Low,50.0,50.1,50.3
+2021-12-31 00:00,CNY,Non-Manufacturing PMI,Low,52.0,52.3,52.7

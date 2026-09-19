@@ -1,0 +1,352 @@
+datetime,currency,title,impact,forecast,previous,actual
+2018-08-01 00:00,NZD,Labor Cost Index q/q,Low,0.6%,0.3%,0.6%
+2018-08-01 00:00,NZD,Unemployment Rate,High,4.4%,4.4%,4.5%
+2018-08-01 00:00,USD,Construction Spending m/m,Low,0.3%,1.3%,-1.1%
+2018-08-01 00:00,USD,FOMC Statement,High,,,
+2018-08-01 00:00,USD,ISM Manufacturing Prices,Low,75.5,76.8,73.2
+2018-08-01 02:00,GBP,Nationwide HPI m/m,Low,0.1%,0.7%,0.6%
+2018-08-01 02:30,AUD,Commodity Prices y/y,Low,,9.8%,7.6%
+2018-08-01 03:15,EUR,Spanish Manufacturing PMI,Low,53.1,53.4,52.9
+2018-08-01 03:45,EUR,Italian Manufacturing PMI,Low,53.0,53.3,51.5
+2018-08-01 03:50,EUR,French Final Manufacturing PMI,Low,53.1,53.1,53.3
+2018-08-01 03:55,EUR,German Final Manufacturing PMI,Low,57.3,57.3,56.9
+2018-08-01 04:00,EUR,Final Manufacturing PMI,Low,55.1,55.1,55.1
+2018-08-01 04:30,GBP,Final Manufacturing PMI,High,54.2,54.3,54.0
+2018-08-01 05:33,EUR,German 10-y Bond Auction,Low,,0.36|1.6,0.47|1.8
+2018-08-01 08:15,USD,ADP Non-Farm Employment Change,High,186K,181K,219K
+2018-08-01 09:30,CAD,Manufacturing PMI,Low,,57.1,56.9
+2018-08-01 09:45,USD,Final Manufacturing PMI,Low,55.5,55.5,55.3
+2018-08-01 10:00,USD,ISM Manufacturing PMI,High,59.4,60.2,58.1
+2018-08-01 10:30,USD,Crude Oil Inventories,High,-2.6M,-6.1M,3.8M
+2018-08-01 14:00,USD,Federal Funds Rate,High,2.00%,2.00%,2.00%
+2018-08-01 15:29,USD,Total Vehicle Sales,Low,17.1M,17.5M,16.8M
+2018-08-01 15:29,USD,Wards Total Vehicle Sales,Low,17.0M,17.4M,16.7M
+2018-08-01 19:50,JPY,Monetary Base y/y,Low,7.3%,7.4%,7.0%
+2018-08-01 21:30,AUD,Goods Trade Balance,High,0.91B,0.73B,1.87B
+2018-08-01 23:35,JPY,10-y Bond Auction,Low,,0.04|4.4,0.13|4.2
+2018-08-02 00:00,GBP,Asset Purchase Facility,Medium,435B,435B,435B
+2018-08-02 00:00,GBP,MPC Asset Purchase Facility Votes,Medium,0-0-9,0-0-9,0-0-9
+2018-08-02 00:00,GBP,MPC Official Bank Rate Votes,High,7-0-2,3-0-6,9-0-0
+2018-08-02 00:00,GBP,Monetary Policy Summary,High,,,
+2018-08-02 00:00,GBP,Official Bank Rate,High,0.75%,0.50%,0.75%
+2018-08-02 00:00,USD,Challenger Job Cuts y/y,Low,,19.6%,-4.2%
+2018-08-02 01:45,CHF,SECO Consumer Climate,Low,2,2,-7
+2018-08-02 03:00,EUR,Spanish Unemployment Change,Low,-87.6K,-90.0K,-27.1K
+2018-08-02 03:15,CHF,Retail Sales y/y,Low,0.0%,0.4%,0.3%
+2018-08-02 03:30,CHF,Manufacturing PMI,Low,60.8,61.6,61.9
+2018-08-02 04:30,GBP,Construction PMI,High,52.8,53.1,55.8
+2018-08-02 04:48,EUR,Spanish 10-y Bond Auction,Low,,1.31|1.5,1.42|1.5
+2018-08-02 04:59,EUR,French 10-y Bond Auction,Low,,0.67|1.9,0.74|2.0
+2018-08-02 05:00,EUR,PPI m/m,Low,0.3%,0.8%,0.4%
+2018-08-02 07:00,GBP,BOE Monetary Policy Report,High,,,
+2018-08-02 07:30,GBP,BOE Gov Carney Speaks,High,,,
+2018-08-02 08:30,USD,Unemployment Claims,Medium,220K,217K,218K
+2018-08-02 10:00,USD,Factory Orders m/m,Low,0.7%,0.4%,0.7%
+2018-08-02 10:30,USD,Natural Gas Storage,Low,39B,24B,35B
+2018-08-02 18:30,AUD,AIG Services Index,Low,,63.0,53.6
+2018-08-02 19:50,JPY,Monetary Policy Meeting Minutes,Low,,,
+2018-08-02 21:30,AUD,Retail Sales m/m,High,0.3%,0.4%,0.4%
+2018-08-02 21:45,CNY,Caixin Services PMI,Low,53.7,53.9,52.8
+2018-08-03 00:00,EUR,Italian Industrial Production m/m,Low,0.4%,0.8%,0.5%
+2018-08-03 00:00,EUR,Spanish Services PMI,Low,54.4,55.4,52.6
+2018-08-03 00:00,USD,Average Hourly Earnings m/m,High,0.3%,0.1%,0.3%
+2018-08-03 00:00,USD,Non-Farm Employment Change,High,191K,248K,157K
+2018-08-03 00:00,USD,Trade Balance,Low,-46.5B,-43.2B,-46.3B
+2018-08-03 00:00,USD,Unemployment Rate,High,3.9%,4.0%,3.9%
+2018-08-03 02:45,EUR,French Gov Budget Balance,Low,,-55.1B,-58.9B
+2018-08-03 03:15,CHF,CPI m/m,Low,-0.3%,0.0%,-0.2%
+2018-08-03 03:45,EUR,Italian Services PMI,Low,53.6,54.3,54.0
+2018-08-03 03:50,EUR,French Final Services PMI,Low,55.3,55.3,54.9
+2018-08-03 03:55,EUR,German Final Services PMI,Low,54.4,54.4,54.1
+2018-08-03 04:00,EUR,Final Services PMI,Low,54.4,54.4,54.2
+2018-08-03 04:30,GBP,Final Services PMI,High,54.7,55.1,53.5
+2018-08-03 05:00,EUR,Retail Sales m/m,Low,0.4%,0.3%,0.3%
+2018-08-03 05:03,EUR,Italian Retail Sales m/m,Low,0.1%,1.1%,-0.2%
+2018-08-03 08:30,CAD,Trade Balance,High,-2.3B,-2.7B,-0.6B
+2018-08-03 09:45,USD,Final Services PMI,Low,56.2,56.2,56.0
+2018-08-03 10:00,USD,ISM Services PMI,High,58.6,59.1,55.7
+2018-08-05 21:00,AUD,MI Inflation Gauge m/m,Low,,0.0%,0.1%
+2018-08-05 21:30,AUD,ANZ Job Advertisements m/m,Low,,-1.7%,1.5%
+2018-08-06 00:00,NZD,ANZ Commodity Prices m/m,Low,,-0.9%,-3.2%
+2018-08-06 02:00,EUR,German Factory Orders m/m,Low,-0.3%,2.6%,-4.0%
+2018-08-06 04:30,EUR,Sentix Investor Confidence,Low,12.8,12.1,14.7
+2018-08-06 14:00,USD,Loan Officer Survey,Low,,,
+2018-08-06 18:30,AUD,AIG Construction Index,Low,,50.6,52.0
+2018-08-06 19:01,GBP,BRC Retail Sales Monitor y/y,Low,1.3%,1.1%,0.5%
+2018-08-06 19:30,JPY,Household Spending y/y,Low,-1.2%,-3.9%,-1.2%
+2018-08-06 20:00,JPY,Average Cash Earnings y/y,Low,1.7%,2.1%,3.6%
+2018-08-07 00:00,AUD,Cash Rate,Medium,1.50%,1.50%,1.50%
+2018-08-07 00:00,EUR,German Trade Balance,Low,21.4B,20.4B,19.3B
+2018-08-07 00:00,USD,JOLTS Job Openings,Low,6.74M,6.66M,6.66M
+2018-08-07 00:30,AUD,RBA Rate Statement,High,,,
+2018-08-07 01:00,JPY,Leading Indicators,Low,105.4%,106.9%,105.2%
+2018-08-07 02:00,EUR,German Industrial Production m/m,Low,-0.5%,2.4%,-0.9%
+2018-08-07 02:45,EUR,French Trade Balance,Low,-5.6B,-6.0B,-6.2B
+2018-08-07 03:00,CHF,Foreign Currency Reserves,Low,,748B,750B
+2018-08-07 03:30,GBP,Halifax HPI m/m,Medium,0.2%,0.9%,1.4%
+2018-08-07 10:00,CAD,Ivey PMI,Medium,64.2,63.1,61.8
+2018-08-07 10:01,USD,RCM/TIPP Economic Optimism,Low,57.2,56.4,58.0
+2018-08-07 10:15,NZD,GDT Price Index,Medium,,-1.7%,0.0%
+2018-08-07 15:00,USD,Consumer Credit m/m,Low,16.2B,24.3B,10.2B
+2018-08-07 19:50,JPY,Bank Lending y/y,Low,2.3%,2.2%,2.0%
+2018-08-07 21:30,AUD,Home Loans m/m,Low,0.1%,1.0%,-1.1%
+2018-08-07 23:00,NZD,Inflation Expectations q/q,High,,2.01%,2.04%
+2018-08-07 23:01,AUD,RBA Gov Lowe Speaks,High,,,
+2018-08-07 23:05,CNY,Trade Balance,Medium,229B,262B,177B
+2018-08-07 23:14,CNY,USD-Denominated Trade Balance,Low,39.1B,41.6B,28.1B
+2018-08-08 00:00,JPY,BOJ Summary of Opinions,Low,,,
+2018-08-08 00:00,JPY,Current Account,Low,1.84T,1.85T,1.76T
+2018-08-08 01:02,JPY,Economy Watchers Sentiment,Low,47.8,48.1,46.6
+2018-08-08 05:36,GBP,10-y Bond Auction,Low,,1.43|2.3,1.46|2.2
+2018-08-08 08:30,CAD,Building Permits m/m,Low,-0.1%,4.8%,-2.3%
+2018-08-08 08:45,USD,FOMC Member Barkin Speaks,Medium,,,
+2018-08-08 10:30,USD,Crude Oil Inventories,High,-2.8M,3.8M,-1.4M
+2018-08-08 13:01,USD,10-y Bond Auction,Low,,2.86|2.6,2.96|2.5
+2018-08-08 17:00,NZD,Official Cash Rate,High,1.75%,1.75%,1.75%
+2018-08-08 18:00,NZD,RBNZ Press Conference,High,,,
+2018-08-08 19:01,GBP,RICS House Price Balance,Low,4%,3%,4%
+2018-08-08 19:50,JPY,Core Machinery Orders m/m,Low,-1.2%,-3.7%,-8.8%
+2018-08-08 21:29,CNY,CPI y/y,Medium,2.0%,1.9%,2.1%
+2018-08-08 23:35,JPY,30-y Bond Auction,Low,,0.70|5.0,0.85|4.7
+2018-08-09 00:00,CNY,PPI y/y,Low,4.4%,4.7%,4.6%
+2018-08-09 00:00,JPY,M2 Money Stock y/y,Low,3.1%,3.1%,3.0%
+2018-08-09 00:00,NZD,RBNZ Monetary Policy Statement,High,,,
+2018-08-09 00:00,NZD,RBNZ Rate Statement,High,,,
+2018-08-09 00:00,USD,Core PPI m/m,Medium,0.2%,0.3%,0.1%
+2018-08-09 00:00,USD,PPI m/m,High,0.2%,0.3%,0.0%
+2018-08-09 00:00,USD,Unemployment Claims,Medium,220K,219K,213K
+2018-08-09 01:45,CHF,Unemployment Rate,Low,2.6%,2.6%,2.6%
+2018-08-09 01:58,JPY,Prelim Machine Tool Orders y/y,Low,,11.4%,13.0%
+2018-08-09 04:00,EUR,ECB Economic Bulletin,Low,,,
+2018-08-09 08:13,CAD,Housing Starts,Low,220K,246K,206K
+2018-08-09 08:30,CAD,NHPI m/m,Medium,0.0%,0.0%,0.1%
+2018-08-09 10:00,USD,Final Wholesale Inventories m/m,Low,0.0%,0.0%,0.1%
+2018-08-09 10:30,USD,Natural Gas Storage,Low,49B,35B,46B
+2018-08-09 13:01,USD,30-y Bond Auction,Low,,2.96|2.3,3.09|2.3
+2018-08-09 18:30,NZD,BusinessNZ Manufacturing Index,Medium,,52.7,51.2
+2018-08-09 19:50,JPY,Prelim GDP q/q,Medium,0.3%,-0.2%,0.5%
+2018-08-09 21:30,AUD,RBA Monetary Policy Statement,High,,,
+2018-08-10 00:00,CAD,Unemployment Rate,High,5.9%,6.0%,5.8%
+2018-08-10 00:00,EUR,French Prelim Private Payrolls q/q,Low,0.3%,0.2%,0.2%
+2018-08-10 00:00,GBP,Construction Output m/m,Low,-0.2%,2.9%,1.4%
+2018-08-10 00:00,GBP,Goods Trade Balance,Medium,-12.0B,-12.5B,-11.4B
+2018-08-10 00:00,GBP,Index of Services 3m/3m,Low,0.6%,0.4%,0.5%
+2018-08-10 00:00,GBP,Industrial Production m/m,Low,0.4%,-0.2%,0.4%
+2018-08-10 00:00,GBP,Manufacturing Production m/m,High,0.3%,0.6%,0.4%
+2018-08-10 00:00,GBP,Prelim Business Investment q/q,Medium,0.3%,-0.4%,0.5%
+2018-08-10 00:00,GBP,Prelim GDP q/q,High,0.4%,0.2%,0.4%
+2018-08-10 00:00,JPY,PPI y/y,Low,2.9%,2.8%,3.1%
+2018-08-10 00:00,JPY,Prelim GDP Price Index y/y,Low,0.0%,0.5%,0.1%
+2018-08-10 00:00,USD,CPI m/m,High,0.2%,0.1%,0.2%
+2018-08-10 00:00,USD,CPI y/y,High,2.9%,2.9%,2.9%
+2018-08-10 00:00,USD,Core CPI m/m,High,0.2%,0.2%,0.2%
+2018-08-10 00:30,JPY,Tertiary Industry Activity m/m,Low,-0.2%,0.2%,-0.5%
+2018-08-10 02:45,EUR,French Industrial Production m/m,Low,0.5%,-0.2%,0.6%
+2018-08-10 04:03,EUR,Italian Trade Balance,Low,3.41B,3.37B,5.07B
+2018-08-10 04:30,GBP,GDP m/m,High,0.2%,0.3%,0.1%
+2018-08-10 08:30,CAD,Employment Change,High,17.0K,31.8K,54.1K
+2018-08-10 09:06,GBP,NIESR GDP Estimate,Low,,0.4%,0.5%
+2018-08-10 14:00,USD,Federal Budget Balance,Low,-76.5B,-74.9B,-76.9B
+2018-08-12 18:30,NZD,BusinessNZ Services Index,Low,,52.7,55.1
+2018-08-12 18:45,NZD,FPI m/m,Low,,0.5%,0.7%
+2018-08-13 07:26,CNY,M2 Money Supply y/y,Low,8.2%,8.0%,8.5%
+2018-08-13 07:27,CNY,New Loans,Low,1210B,1840B,1450B
+2018-08-13 21:30,AUD,NAB Business Confidence,Medium,,6,7
+2018-08-13 21:59,CNY,Fixed Asset Investment ytd/y,Medium,6.0%,6.0%,5.5%
+2018-08-13 22:00,CNY,Retail Sales y/y,Low,9.2%,9.0%,8.8%
+2018-08-14 00:00,CNY,Industrial Production y/y,Medium,6.3%,6.0%,6.0%
+2018-08-14 00:00,CNY,Unemployment Rate,Low,,4.8%,5.1%
+2018-08-14 00:00,EUR,German Final CPI m/m,Low,0.3%,0.3%,0.3%
+2018-08-14 00:00,EUR,German ZEW Economic Sentiment,Medium,-20.1,-24.7,-13.7
+2018-08-14 00:00,EUR,Industrial Production m/m,Low,-0.3%,1.4%,-0.7%
+2018-08-14 00:00,EUR,ZEW Economic Sentiment,Low,-16.4,-18.7,-11.1
+2018-08-14 00:00,GBP,Claimant Count Change,Medium,2.3K,9.0K,6.2K
+2018-08-14 00:00,GBP,Unemployment Rate,Medium,4.2%,4.2%,4.0%
+2018-08-14 00:30,JPY,Revised Industrial Production m/m,Low,-2.1%,-2.1%,-1.8%
+2018-08-14 02:00,EUR,German Prelim GDP q/q,Medium,0.4%,0.4%,0.5%
+2018-08-14 02:45,EUR,French Final CPI m/m,Low,-0.1%,-0.1%,-0.1%
+2018-08-14 03:15,CHF,PPI m/m,Low,0.3%,0.2%,0.1%
+2018-08-14 04:30,GBP,Average Earnings Index 3m/y,High,2.5%,2.5%,2.4%
+2018-08-14 05:00,EUR,Flash GDP q/q,Medium,0.3%,0.3%,0.4%
+2018-08-14 06:00,USD,NFIB Small Business Index,Low,106.9,107.2,107.9
+2018-08-14 08:30,USD,Import Prices m/m,Low,0.1%,-0.1%,0.0%
+2018-08-14 20:30,AUD,Westpac Consumer Sentiment,Low,,3.9%,-2.3%
+2018-08-14 21:30,AUD,Wage Price Index q/q,High,0.6%,0.5%,0.6%
+2018-08-15 00:00,CNY,New Home Prices m/m,Low,,1.11%,1.21%
+2018-08-15 00:00,GBP,Core CPI y/y,Low,1.9%,1.9%,1.9%
+2018-08-15 00:00,GBP,HPI y/y,Low,2.7%,3.5%,3.0%
+2018-08-15 00:00,GBP,PPI Input m/m,Medium,0.1%,0.3%,0.5%
+2018-08-15 00:00,GBP,PPI Output m/m,Low,0.1%,0.3%,0.0%
+2018-08-15 00:00,GBP,RPI y/y,Medium,3.4%,3.4%,3.2%
+2018-08-15 00:00,USD,Empire State Manufacturing Index,Medium,20.1,22.6,25.6
+2018-08-15 00:00,USD,Industrial Production m/m,Low,0.3%,1.0%,0.1%
+2018-08-15 00:00,USD,NAHB Housing Market Index,Low,67,68,67
+2018-08-15 00:00,USD,Prelim Nonfarm Productivity q/q,Low,2.4%,0.4%,2.9%
+2018-08-15 00:00,USD,Prelim Unit Labor Costs q/q,Low,-0.1%,2.9%,-0.9%
+2018-08-15 00:00,USD,Retail Sales m/m,High,0.1%,0.2%,0.5%
+2018-08-15 04:30,GBP,CPI y/y,High,2.5%,2.4%,2.5%
+2018-08-15 05:32,EUR,German 30-y Bond Auction,Low,,1.02|1.7,0.94|1.6
+2018-08-15 08:30,USD,Core Retail Sales m/m,High,0.3%,0.2%,0.6%
+2018-08-15 09:15,USD,Capacity Utilization Rate,Low,78.2%,78.1%,78.1%
+2018-08-15 10:00,USD,Business Inventories m/m,Low,0.2%,0.3%,0.1%
+2018-08-15 10:30,USD,Crude Oil Inventories,High,-2.6M,-1.4M,6.8M
+2018-08-15 16:00,USD,TIC Long-Term Purchases,Low,32.3B,45.5B,-36.5B
+2018-08-15 19:50,JPY,Trade Balance,Low,0.02T,0.08T,-0.05T
+2018-08-15 21:00,AUD,MI Inflation Expectations,Low,,3.9%,4.0%
+2018-08-15 21:30,AUD,Employment Change,High,15.0K,58.2K,-3.9K
+2018-08-16 00:00,AUD,Unemployment Rate,High,5.4%,5.4%,5.3%
+2018-08-16 00:00,CAD,ADP Non-Farm Employment Change,Low,,22.0K,11.6K
+2018-08-16 00:00,USD,Building Permits,Medium,1.31M,1.29M,1.31M
+2018-08-16 00:00,USD,Housing Starts,Medium,1.27M,1.16M,1.17M
+2018-08-16 00:00,USD,Philly Fed Manufacturing Index,Medium,21.9,25.7,11.9
+2018-08-16 00:00,USD,Unemployment Claims,Low,215K,214K,212K
+2018-08-16 02:00,EUR,German WPI m/m,Low,0.5%,0.5%,0.0%
+2018-08-16 02:10,CNY,Foreign Direct Investment ytd/y,Low,,1.1%,2.3%
+2018-08-16 04:30,GBP,Retail Sales m/m,High,0.2%,-0.5%,0.7%
+2018-08-16 05:00,EUR,Trade Balance,Low,17.0B,16.9B,16.7B
+2018-08-16 08:30,CAD,Manufacturing Sales m/m,Medium,1.0%,1.5%,1.1%
+2018-08-16 09:30,GBP,CB Leading Index m/m,Low,,0.0%,-0.2%
+2018-08-16 10:00,USD,Mortgage Delinquencies,Low,,4.63%,4.36%
+2018-08-16 10:30,USD,Natural Gas Storage,Low,30B,46B,33B
+2018-08-16 18:45,NZD,PPI Input q/q,Medium,0.2%,0.6%,1.0%
+2018-08-16 19:34,AUD,RBA Gov Lowe Speaks,High,,,
+2018-08-17 00:00,CAD,Common CPI y/y,Medium,,1.9%,1.9%
+2018-08-17 00:00,CAD,Foreign Securities Purchases,Medium,4.91B,3.01B,11.55B
+2018-08-17 00:00,CAD,Median CPI y/y,Medium,,2.0%,2.0%
+2018-08-17 00:00,CAD,Trimmed CPI y/y,Medium,,2.0%,2.1%
+2018-08-17 00:00,EUR,Final Core CPI y/y,Low,1.1%,1.1%,1.1%
+2018-08-17 00:00,NZD,PPI Output q/q,Low,0.1%,0.2%,0.9%
+2018-08-17 00:00,USD,CB Leading Index m/m,Low,0.4%,0.5%,0.6%
+2018-08-17 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.9%,2.9%
+2018-08-17 03:30,AUD,RBA Assist Gov Ellis Speaks,Medium,,,
+2018-08-17 04:00,EUR,Current Account,Low,23.2B,24.4B,23.5B
+2018-08-17 05:00,EUR,Final CPI y/y,Medium,2.1%,2.1%,2.1%
+2018-08-17 08:30,CAD,CPI m/m,High,0.1%,0.1%,0.5%
+2018-08-17 08:32,CAD,Core CPI m/m,Low,,0.1%,0.2%
+2018-08-17 10:00,USD,Prelim UoM Consumer Sentiment,Medium,98.1,97.9,95.3
+2018-08-19 19:01,GBP,Rightmove HPI m/m,Low,,-0.1%,-2.3%
+2018-08-20 02:00,EUR,German PPI m/m,Low,0.4%,0.3%,0.2%
+2018-08-20 06:00,EUR,German Buba Monthly Report,Low,,,
+2018-08-20 09:15,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2018-08-20 10:30,AUD,CB Leading Index m/m,Low,,0.0%,0.2%
+2018-08-20 11:00,USD,FOMC Member Bostic Speaks,Medium,,,
+2018-08-20 12:00,EUR,German Buba President Weidmann Speaks,Medium,,,
+2018-08-20 18:00,AUD,RBA Gov Lowe Speaks,High,,,
+2018-08-20 18:45,NZD,Visitor Arrivals m/m,Low,,-3.6%,0.6%
+2018-08-20 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2018-08-20 23:00,NZD,Credit Card Spending y/y,Low,,5.8%,3.2%
+2018-08-21 02:00,CHF,Trade Balance,Low,2.85B,2.56B,2.26B
+2018-08-21 04:30,GBP,Public Sector Net Borrowing,Medium,-2.1B,3.3B,-2.9B
+2018-08-21 06:00,GBP,CBI Industrial Order Expectations,Low,10,11,7
+2018-08-21 08:30,CAD,Wholesale Sales m/m,Low,0.7%,0.9%,-0.8%
+2018-08-21 10:16,NZD,GDT Price Index,Medium,,0.0%,-3.6%
+2018-08-21 18:45,NZD,Retail Sales q/q,High,0.4%,0.3%,1.1%
+2018-08-21 20:30,AUD,MI Leading Index m/m,Low,,0.1%,0.0%
+2018-08-21 21:30,AUD,Construction Work Done q/q,Medium,0.7%,2.4%,1.6%
+2018-08-21 23:10,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2018-08-22 00:00,CAD,Retail Sales m/m,Medium,-0.1%,2.0%,-0.2%
+2018-08-22 00:00,NZD,Core Retail Sales q/q,Medium,0.8%,0.6%,1.4%
+2018-08-22 00:30,JPY,All Industries Activity m/m,Low,-0.7%,0.1%,-0.8%
+2018-08-22 05:35,EUR,German 10-y Bond Auction,Low,,0.47|1.8,0.33|1.2
+2018-08-22 08:30,CAD,Core Retail Sales m/m,High,-0.1%,1.4%,-0.1%
+2018-08-22 10:00,USD,Existing Home Sales,Medium,5.40M,5.38M,5.34M
+2018-08-22 10:30,USD,Crude Oil Inventories,High,-1.6M,6.8M,-5.8M
+2018-08-22 14:00,USD,FOMC Meeting Minutes,High,,,
+2018-08-22 20:30,JPY,Flash Manufacturing PMI,Low,52.4,52.3,52.5
+2018-08-23 00:00,EUR,Flash Services PMI,Medium,54.4,54.2,54.4
+2018-08-23 00:00,EUR,French Flash Services PMI,Medium,55.1,54.9,55.7
+2018-08-23 00:00,EUR,German Flash Manufacturing PMI,Medium,56.5,56.9,56.1
+2018-08-23 00:00,EUR,German Flash Services PMI,Medium,54.3,54.1,55.2
+2018-08-23 00:00,USD,Flash Services PMI,Low,55.9,56.0,55.2
+2018-08-23 00:00,USD,HPI m/m,Low,0.3%,0.4%,0.2%
+2018-08-23 00:00,USD,New Home Sales,Low,643K,638K,627K
+2018-08-23 00:00,USD,Unemployment Claims,Low,215K,212K,210K
+2018-08-23 03:15,EUR,French Flash Manufacturing PMI,Medium,53.5,53.3,53.7
+2018-08-23 03:30,EUR,German Buba President Weidmann Speaks,Medium,,,
+2018-08-23 04:00,EUR,Flash Manufacturing PMI,Medium,55.1,55.1,54.6
+2018-08-23 06:00,GBP,CBI Realized Sales,Low,13,20,29
+2018-08-23 07:30,EUR,ECB Monetary Policy Meeting Accounts,Medium,,,
+2018-08-23 08:30,CAD,Corporate Profits q/q,Low,,2.7%,1.0%
+2018-08-23 09:00,CNY,CB Leading Index m/m,Low,,0.9%,1.1%
+2018-08-23 09:45,USD,Flash Manufacturing PMI,Low,55.1,55.3,54.5
+2018-08-23 10:00,EUR,Consumer Confidence,Low,-1,-1,-2
+2018-08-23 10:30,USD,Natural Gas Storage,Low,47B,33B,48B
+2018-08-23 15:29,All,Jackson Hole Symposium,Medium,,,
+2018-08-23 18:45,NZD,Trade Balance,Medium,-400M,-288M,-143M
+2018-08-23 19:30,JPY,National Core CPI y/y,Low,0.9%,0.8%,0.8%
+2018-08-23 19:50,JPY,SPPI y/y,Low,1.2%,1.1%,1.1%
+2018-08-24 00:00,USD,Durable Goods Orders m/m,Medium,-0.7%,0.8%,-1.7%
+2018-08-24 02:00,EUR,German Final GDP q/q,Low,0.5%,0.5%,0.5%
+2018-08-24 04:30,GBP,High Street Lending,Low,40.6K,40.3K,39.6K
+2018-08-24 08:30,USD,Core Durable Goods Orders m/m,High,0.5%,0.2%,0.2%
+2018-08-24 08:59,EUR,Belgian NBB Business Climate,Low,-0.5,-1.3,-0.3
+2018-08-24 10:00,USD,Fed Chair Powell Speaks,High,,,
+2018-08-24 12:55,GBP,MPC Member Haldane Speaks,Medium,,,
+2018-08-24 15:29,All,Jackson Hole Symposium,Medium,,,
+2018-08-24 16:15,CAD,BOC Gov Poloz Speaks,High,,,
+2018-08-25 12:25,CAD,BOC Gov Poloz Speaks,High,,,
+2018-08-25 15:29,All,Jackson Hole Symposium,Medium,,,
+2018-08-27 04:00,EUR,German ifo Business Climate,Medium,101.9,101.7,103.8
+2018-08-27 11:00,USD,President Trump Speaks,High,,,
+2018-08-28 00:00,EUR,Private Loans y/y,Low,3.0%,3.0%,3.0%
+2018-08-28 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.1%,0.1%,0.7%
+2018-08-28 00:00,USD,Richmond Manufacturing Index,Low,18,20,24
+2018-08-28 01:00,JPY,BOJ Core CPI y/y,Low,0.3%,0.4%,0.5%
+2018-08-28 04:00,EUR,M3 Money Supply y/y,Low,4.3%,4.5%,4.0%
+2018-08-28 08:30,USD,Goods Trade Balance,Low,-68.6B,-67.9B,-72.2B
+2018-08-28 09:00,USD,S&P/CS Composite-20 HPI y/y,Low,6.4%,6.5%,6.3%
+2018-08-28 10:00,USD,CB Consumer Confidence,Medium,126.6,127.9,133.4
+2018-08-28 19:01,GBP,BRC Shop Price Index y/y,Low,,-0.3%,0.1%
+2018-08-29 00:00,EUR,French Prelim GDP q/q,Low,0.2%,0.2%,0.2%
+2018-08-29 00:00,USD,Prelim GDP Price Index q/q,Low,3.0%,3.0%,3.0%
+2018-08-29 00:00,USD,Prelim GDP q/q,High,4.0%,4.1%,4.2%
+2018-08-29 01:00,JPY,Consumer Confidence,Low,43.4,43.5,43.3
+2018-08-29 02:00,EUR,German GfK Consumer Climate,Low,10.6,10.6,10.5
+2018-08-29 02:45,EUR,French Consumer Spending m/m,Low,0.3%,0.3%,0.1%
+2018-08-29 04:00,CHF,UBS Economic Expectations,Low,,-4.0,-14.3
+2018-08-29 08:30,CAD,Current Account,Medium,-15.3B,-17.5B,-15.9B
+2018-08-29 10:00,USD,Pending Home Sales m/m,Low,0.3%,1.0%,-0.7%
+2018-08-29 10:30,USD,Crude Oil Inventories,High,-0.7M,-5.8M,-2.6M
+2018-08-29 18:45,NZD,Building Consents m/m,Low,,-8.2%,-10.3%
+2018-08-29 19:50,JPY,Retail Sales y/y,Low,1.3%,1.7%,1.5%
+2018-08-29 21:00,NZD,ANZ Business Confidence,High,,-44.9,-50.3
+2018-08-29 21:30,AUD,Private Capital Expenditure q/q,High,0.6%,1.2%,-2.5%
+2018-08-30 00:00,AUD,Building Approvals m/m,Medium,-2.2%,6.8%,-5.2%
+2018-08-30 00:00,EUR,Spanish Flash CPI y/y,Medium,2.2%,2.2%,2.2%
+2018-08-30 00:00,GBP,Mortgage Approvals,Low,65K,65K,65K
+2018-08-30 00:00,GBP,Net Lending to Individuals m/m,Low,5.5B,5.4B,4.0B
+2018-08-30 00:00,USD,Core PCE Price Index m/m,Medium,0.2%,0.1%,0.2%
+2018-08-30 00:00,USD,Personal Income m/m,Low,0.3%,0.4%,0.3%
+2018-08-30 00:00,USD,Personal Spending m/m,Medium,0.4%,0.4%,0.4%
+2018-08-30 00:00,USD,Unemployment Claims,Low,214K,210K,213K
+2018-08-30 02:00,EUR,German Import Prices m/m,Low,0.0%,0.5%,-0.2%
+2018-08-30 03:00,CHF,KOF Economic Barometer,Medium,101.2,101.7,100.3
+2018-08-30 03:55,EUR,German Unemployment Change,Low,-8K,-6K,-8K
+2018-08-30 04:30,GBP,M4 Money Supply m/m,Low,0.2%,-0.3%,0.9%
+2018-08-30 05:23,EUR,Italian 10-y Bond Auction,Low,,2.87|1.4,3.25|1.4
+2018-08-30 08:30,CAD,GDP m/m,High,0.1%,0.5%,0.0%
+2018-08-30 10:30,USD,Natural Gas Storage,Low,58B,48B,70B
+2018-08-30 13:30,EUR,German Buba President Weidmann Speaks,Medium,,,
+2018-08-30 15:29,EUR,German Prelim CPI m/m,Medium,0.1%,0.3%,0.1%
+2018-08-30 19:01,GBP,GfK Consumer Confidence,Low,-10,-10,-7
+2018-08-30 19:30,JPY,Tokyo Core CPI y/y,Low,0.8%,0.8%,0.9%
+2018-08-30 19:50,JPY,Prelim Industrial Production m/m,Low,0.3%,-1.8%,-0.1%
+2018-08-30 21:00,CNY,Manufacturing PMI,Medium,51.0,51.2,51.3
+2018-08-30 21:30,AUD,Private Sector Credit m/m,Low,0.3%,0.3%,0.4%
+2018-08-31 00:00,AUD,HIA New Home Sales m/m,Low,,2.2%,-3.1%
+2018-08-31 00:00,CAD,IPPI m/m,Low,-0.3%,0.7%,-0.2%
+2018-08-31 00:00,CNY,Non-Manufacturing PMI,Medium,53.8,54.0,54.2
+2018-08-31 00:00,EUR,CPI Flash Estimate y/y,Medium,2.1%,2.1%,2.0%
+2018-08-31 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.3%,0.5%
+2018-08-31 00:00,EUR,Unemployment Rate,Low,8.2%,8.2%,8.2%
+2018-08-31 00:00,JPY,Unemployment Rate,Low,2.4%,2.4%,2.5%
+2018-08-31 00:00,USD,Revised UoM Inflation Expectations,Low,,2.9%,3.0%
+2018-08-31 01:00,JPY,Housing Starts y/y,Low,-3.9%,-7.1%,-0.7%
+2018-08-31 01:59,GBP,Nationwide HPI m/m,Low,0.1%,0.7%,-0.5%
+2018-08-31 02:00,EUR,German Retail Sales m/m,Medium,-0.1%,0.9%,-0.4%
+2018-08-31 02:45,EUR,French Prelim CPI m/m,Low,0.5%,-0.1%,0.5%
+2018-08-31 04:00,EUR,Italian Monthly Unemployment Rate,Low,10.8%,10.8%,10.4%
+2018-08-31 05:00,EUR,Core CPI Flash Estimate y/y,Medium,1.1%,1.1%,1.0%
+2018-08-31 08:30,CAD,RMPI m/m,Medium,0.0%,0.6%,0.7%
+2018-08-31 09:45,USD,Chicago PMI,Medium,63.0,65.5,63.6
+2018-08-31 10:00,USD,Revised UoM Consumer Sentiment,Low,95.5,95.3,96.2

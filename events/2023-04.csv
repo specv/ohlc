@@ -1,0 +1,382 @@
+datetime,currency,title,impact,forecast,previous,actual
+2023-04-02 18:50,JPY,Tankan Manufacturing Index,Low,3,7,1
+2023-04-02 19:30,JPY,Final Manufacturing PMI,Low,48.6,48.6,49.2
+2023-04-02 20:00,AUD,MI Inflation Gauge m/m,Low,,0.4%,0.3%
+2023-04-02 20:30,AUD,ANZ Job Advertisements m/m,Low,,-0.5%,-2.4%
+2023-04-02 20:45,CNY,Caixin Manufacturing PMI,Low,51.4,51.6,50.0
+2023-04-03 00:00,AUD,Building Approvals m/m,Low,10.4%,-27.1%,4.0%
+2023-04-03 00:00,CHF,CPI m/m,High,0.4%,0.7%,0.2%
+2023-04-03 00:00,JPY,Tankan Non-Manufacturing Index,Low,20,19,20
+2023-04-03 00:00,USD,Construction Spending m/m,Low,0.0%,0.4%,-0.1%
+2023-04-03 00:00,USD,ISM Manufacturing Prices,Medium,51.2,51.3,49.2
+2023-04-03 01:30,AUD,Commodity Prices y/y,Low,,4.7%,-9.1%
+2023-04-03 01:45,EUR,French Gov Budget Balance,Low,,-21.1B,-50.3B
+2023-04-03 02:15,EUR,Spanish Manufacturing PMI,Low,50.1,50.7,51.3
+2023-04-03 02:30,CHF,Manufacturing PMI,Low,48.5,48.9,47.0
+2023-04-03 02:45,EUR,Italian Manufacturing PMI,Low,51.1,52.0,51.1
+2023-04-03 02:50,EUR,French Final Manufacturing PMI,Low,47.7,47.7,47.3
+2023-04-03 02:55,EUR,German Final Manufacturing PMI,Low,44.4,44.4,44.7
+2023-04-03 03:00,EUR,Final Manufacturing PMI,Low,47.1,47.1,47.3
+2023-04-03 03:30,GBP,Final Manufacturing PMI,Low,48.0,48.0,47.9
+2023-04-03 08:30,CAD,Manufacturing PMI,Low,,52.4,48.6
+2023-04-03 08:45,USD,Final Manufacturing PMI,Low,49.3,49.3,49.2
+2023-04-03 09:00,USD,ISM Manufacturing PMI,High,47.5,47.7,46.3
+2023-04-03 09:30,CAD,BOC Business Outlook Survey,Medium,,,
+2023-04-03 15:15,USD,FOMC Member Cook Speaks,Low,,,
+2023-04-03 15:29,All,OPEC-JMMC Meetings,Medium,,,
+2023-04-03 15:29,USD,Wards Total Vehicle Sales,Low,14.5M,14.9M,14.8M
+2023-04-03 17:00,NZD,NZIER Business Confidence,Low,,-70,-66
+2023-04-03 18:50,JPY,Monetary Base y/y,Low,2.0%,-1.6%,-1.0%
+2023-04-03 22:35,JPY,10-y Bond Auction,Low,,0.50|7.6,0.46|3.8
+2023-04-03 23:30,AUD,Cash Rate,High,3.60%,3.60%,3.60%
+2023-04-04 00:00,AUD,RBA Rate Statement,High,,,
+2023-04-04 00:00,USD,Factory Orders m/m,Low,-0.4%,-2.1%,-0.7%
+2023-04-04 00:00,USD,RCM/TIPP Economic Optimism,Low,47.2,46.9,47.4
+2023-04-04 01:00,EUR,German Trade Balance,Low,16.8B,16.0B,16.0B
+2023-04-04 02:00,EUR,Spanish Unemployment Change,Low,8.5K,2.6K,-48.8K
+2023-04-04 04:00,EUR,PPI m/m,Low,-0.5%,-2.8%,-0.5%
+2023-04-04 04:15,GBP,MPC Member Tenreyro Speaks,Low,,,
+2023-04-04 07:30,CAD,Building Permits m/m,Low,2.2%,-3.7%,8.6%
+2023-04-04 09:00,USD,JOLTS Job Openings,High,10.49M,10.56M,9.93M
+2023-04-04 09:28,NZD,GDT Price Index,Low,,-2.6%,-4.7%
+2023-04-04 09:30,GBP,MPC Member Pill Speaks,Low,,,
+2023-04-04 12:30,USD,FOMC Member Cook Speaks,Low,,,
+2023-04-04 21:00,NZD,Official Cash Rate,High,5.00%,4.75%,5.25%
+2023-04-04 21:30,AUD,RBA Gov Lowe Speaks,High,,,
+2023-04-04 22:00,NZD,Official Cash Rate,,5.00%,4.75%,5.25%
+2023-04-04 22:00,NZD,RBNZ Rate Statement,,,,
+2023-04-04 22:30,AUD,RBA Gov Lowe Speaks,,,,
+2023-04-05 00:00,NZD,RBNZ Rate Statement,High,,,
+2023-04-05 00:00,USD,Trade Balance,Low,-68.9B,-68.7B,-70.5B
+2023-04-05 01:00,EUR,German Factory Orders m/m,Low,0.2%,0.5%,4.8%
+2023-04-05 01:45,EUR,French Industrial Production m/m,Low,0.5%,-1.4%,1.2%
+2023-04-05 02:00,EUR,German Factory Orders m/m,,0.2%,0.5%,4.8%
+2023-04-05 02:15,EUR,Spanish Services PMI,Low,57.6,56.7,59.4
+2023-04-05 02:45,EUR,French Industrial Production m/m,,0.5%,-1.4%,1.2%
+2023-04-05 02:45,EUR,Italian Services PMI,Low,53.8,51.6,55.7
+2023-04-05 02:50,EUR,French Final Services PMI,Low,55.5,55.5,53.9
+2023-04-05 02:55,EUR,German Final Services PMI,Low,53.9,53.9,53.7
+2023-04-05 03:00,EUR,Final Services PMI,Low,55.6,55.6,55.0
+2023-04-05 03:15,EUR,Spanish Services PMI,,57.6,56.7,59.4
+2023-04-05 03:30,GBP,Final Services PMI,Low,52.8,52.8,52.9
+2023-04-05 03:45,EUR,Italian Services PMI,,53.8,51.6,55.7
+2023-04-05 03:50,EUR,French Final Services PMI,,55.5,55.5,53.9
+2023-04-05 03:55,EUR,German Final Services PMI,,53.9,53.9,53.7
+2023-04-05 04:00,EUR,Final Services PMI,,55.6,55.6,55.0
+2023-04-05 04:00,EUR,Italian Retail Sales m/m,Low,0.5%,1.7%,-0.1%
+2023-04-05 04:15,GBP,MPC Member Tenreyro Speaks,Low,,,
+2023-04-05 04:30,GBP,Final Services PMI,,52.8,52.8,52.9
+2023-04-05 05:00,EUR,Italian Retail Sales m/m,,0.5%,1.7%,-0.1%
+2023-04-05 05:15,GBP,MPC Member Tenreyro Speaks,,,,
+2023-04-05 07:15,USD,ADP Non-Farm Employment Change,High,208K,261K,145K
+2023-04-05 07:30,CAD,Trade Balance,Low,1.5B,1.2B,0.4B
+2023-04-05 08:15,USD,ADP Non-Farm Employment Change,,208K,261K,145K
+2023-04-05 08:30,CAD,Trade Balance,,1.5B,1.2B,0.4B
+2023-04-05 08:30,USD,Trade Balance,,-68.9B,-68.7B,-70.5B
+2023-04-05 08:45,USD,Final Services PMI,Low,53.8,53.8,52.6
+2023-04-05 09:00,USD,ISM Services PMI,High,54.3,55.1,51.2
+2023-04-05 09:30,USD,Crude Oil Inventories,Low,-1.6M,-7.5M,-3.7M
+2023-04-05 09:45,USD,Final Services PMI,,53.8,53.8,52.6
+2023-04-05 10:00,USD,ISM Services PMI,,54.3,55.1,51.2
+2023-04-05 10:30,USD,Crude Oil Inventories,,-1.6M,-7.5M,-3.7M
+2023-04-05 20:00,NZD,ANZ Commodity Prices m/m,Low,,1.4%,1.3%
+2023-04-05 20:30,AUD,Goods Trade Balance,Low,11.33B,11.27B,13.87B
+2023-04-05 20:45,CNY,Caixin Services PMI,Low,55.0,55.0,57.8
+2023-04-05 22:35,JPY,30-y Bond Auction,Low,,1.42|3.0,1.35|3.2
+2023-04-06 00:00,AUD,RBA Financial Stability Review,Low,,,
+2023-04-06 00:00,CAD,Unemployment Rate,High,5.1%,5.0%,5.0%
+2023-04-06 00:00,GBP,Halifax HPI m/m,Low,-0.5%,1.2%,0.8%
+2023-04-06 00:00,GBP,Housing Equity Withdrawal q/q,Low,2.3B,-6.3B,-14.9B
+2023-04-06 00:00,USD,Unemployment Claims,High,200K,246K,228K
+2023-04-06 00:45,CHF,Unemployment Rate,Low,1.9%,1.9%,1.9%
+2023-04-06 01:00,EUR,German Industrial Production m/m,Low,-0.1%,3.7%,2.0%
+2023-04-06 02:00,CHF,Foreign Currency Reserves,Low,,770B,743B
+2023-04-06 03:30,GBP,Construction PMI,Low,53.4,54.6,50.7
+2023-04-06 04:05,EUR,French 10-y Bond Auction,Low,,3.20|2.3,2.70|2.0
+2023-04-06 06:30,USD,Challenger Job Cuts y/y,Low,,410.1%,319.4%
+2023-04-06 07:30,CAD,Employment Change,High,10.2K,21.8K,34.7K
+2023-04-06 09:00,CAD,Ivey PMI,Medium,52.0,51.6,58.2
+2023-04-06 09:30,USD,Natural Gas Storage,Low,-20B,-47B,-23B
+2023-04-06 18:30,JPY,Average Cash Earnings y/y,Low,1.2%,0.8%,1.1%
+2023-04-06 23:59,JPY,Leading Indicators,Low,97.5%,96.6%,97.7%
+2023-04-07 00:00,JPY,Household Spending y/y,Low,4.9%,-0.3%,1.6%
+2023-04-07 00:00,USD,Non-Farm Employment Change,High,228K,326K,236K
+2023-04-07 00:00,USD,Unemployment Rate,High,3.6%,3.6%,3.5%
+2023-04-07 01:45,EUR,French Trade Balance,Low,-11.8B,-12.5B,-9.9B
+2023-04-07 07:30,USD,Average Hourly Earnings m/m,High,0.3%,0.2%,0.3%
+2023-04-07 14:00,USD,Consumer Credit m/m,Low,18.3B,19.5B,15.3B
+2023-04-09 18:50,JPY,Current Account,Low,1.43T,0.20T,1.09T
+2023-04-10 00:00,JPY,Consumer Confidence,Low,31.9,31.1,33.9
+2023-04-10 01:00,JPY,Economy Watchers Sentiment,Low,52.9,52.0,53.3
+2023-04-10 09:00,USD,Final Wholesale Inventories m/m,Low,0.2%,0.2%,0.1%
+2023-04-10 15:15,USD,FOMC Member Williams Speaks,Low,,,
+2023-04-10 15:29,All,IMF Meetings,Low,,,
+2023-04-10 18:01,GBP,BRC Retail Sales Monitor y/y,Low,5.1%,4.9%,4.9%
+2023-04-10 19:30,AUD,Westpac Consumer Sentiment,Low,,0.0%,9.4%
+2023-04-10 20:30,AUD,NAB Business Confidence,Low,,-4,-1
+2023-04-11 00:00,CNY,CPI y/y,Low,1.0%,1.0%,0.7%
+2023-04-11 00:00,CNY,M2 Money Supply y/y,Low,12.7%,12.9%,12.7%
+2023-04-11 00:00,CNY,PPI y/y,Low,-2.5%,-1.4%,-2.5%
+2023-04-11 00:58,JPY,Prelim Machine Tool Orders y/y,Low,,-10.7%,-15.2%
+2023-04-11 03:30,EUR,Sentix Investor Confidence,Low,-11.7,-11.1,-8.7
+2023-04-11 03:31,CNY,New Loans,Medium,3300B,1810B,3890B
+2023-04-11 04:00,EUR,Retail Sales m/m,Low,-0.8%,0.8%,-0.8%
+2023-04-11 05:00,USD,NFIB Small Business Index,Low,89.6,90.9,90.1
+2023-04-11 12:30,USD,FOMC Member Goolsbee Speaks,Low,,,
+2023-04-11 15:29,All,IMF Meetings,Low,,,
+2023-04-11 17:00,USD,FOMC Member Harker Speaks,Medium,,,
+2023-04-11 18:30,USD,FOMC Member Kashkari Speaks,Low,,,
+2023-04-11 18:50,JPY,Bank Lending y/y,Low,3.5%,3.3%,3.0%
+2023-04-11 23:45,AUD,RBA Gov Bullock Speaks,Low,,,
+2023-04-12 00:00,CAD,BOC Rate Statement,High,,,
+2023-04-12 00:00,CAD,Overnight Rate,High,4.50%,4.50%,4.50%
+2023-04-12 00:00,JPY,Core Machinery Orders m/m,Low,-6.4%,9.5%,-4.5%
+2023-04-12 00:00,JPY,PPI y/y,Low,7.1%,8.3%,7.2%
+2023-04-12 00:00,USD,CPI m/m,High,0.2%,0.4%,0.1%
+2023-04-12 00:00,USD,CPI y/y,High,5.1%,6.0%,5.0%
+2023-04-12 00:00,USD,Federal Budget Balance,Low,-309.5B,-262.4B,-378.1B
+2023-04-12 04:37,EUR,German 30-y Bond Auction,Low,,2.32|1.1,2.31|1.1
+2023-04-12 07:30,USD,Core CPI m/m,High,0.4%,0.5%,0.4%
+2023-04-12 08:00,GBP,BOE Gov Bailey Speaks,High,,,
+2023-04-12 09:00,CAD,BOC Monetary Policy Report,High,,,
+2023-04-12 09:30,USD,Crude Oil Inventories,Low,-1.0M,-3.7M,0.6M
+2023-04-12 10:00,CAD,BOC Press Conference,High,,,
+2023-04-12 12:01,USD,10-y Bond Auction,Medium,,3.99|2.4,3.46|2.4
+2023-04-12 13:00,USD,FOMC Meeting Minutes,High,,,
+2023-04-12 14:15,GBP,BOE Gov Bailey Speaks,High,,,
+2023-04-12 15:29,All,G20 Meetings,Medium,,,
+2023-04-12 15:29,All,IMF Meetings,Low,,,
+2023-04-12 18:01,GBP,RICS House Price Balance,Low,-47%,-47%,-43%
+2023-04-12 18:50,JPY,M2 Money Stock y/y,Low,2.5%,2.6%,2.6%
+2023-04-12 20:30,AUD,Employment Change,High,20.8K,63.6K,53.0K
+2023-04-12 21:56,AUD,MI Inflation Expectations,Low,,5.0%,4.6%
+2023-04-12 22:24,CNY,USD-Denominated Trade Balance,Low,40.0B,116.9B,88.2B
+2023-04-12 22:25,CNY,Trade Balance,Low,275B,810B,601B
+2023-04-13 00:00,AUD,Unemployment Rate,High,3.6%,3.5%,3.5%
+2023-04-13 00:00,GBP,Construction Output m/m,Low,0.9%,-1.7%,2.4%
+2023-04-13 00:00,GBP,GDP m/m,High,0.1%,0.4%,0.0%
+2023-04-13 00:00,GBP,Goods Trade Balance,Low,-16.9B,-16.1B,-17.5B
+2023-04-13 00:00,GBP,Index of Services 3m/3m,Low,-0.1%,0.1%,0.1%
+2023-04-13 00:00,GBP,Industrial Production m/m,Low,0.2%,-0.5%,-0.2%
+2023-04-13 00:00,GBP,MPC Member Pill Speaks,Low,,,
+2023-04-13 00:00,GBP,Manufacturing Production m/m,Low,0.2%,-0.1%,0.0%
+2023-04-13 00:00,USD,PPI m/m,High,0.0%,0.0%,-0.5%
+2023-04-13 00:00,USD,Unemployment Claims,High,233K,228K,239K
+2023-04-13 01:00,EUR,German Final CPI m/m,Low,0.8%,0.8%,0.8%
+2023-04-13 03:00,EUR,Italian Industrial Production m/m,Low,0.5%,-0.5%,-0.2%
+2023-04-13 03:30,GBP,BOE Credit Conditions Survey,Low,,,
+2023-04-13 03:48,EUR,Spanish 10-y Bond Auction,Low,,3.36|1.6,3.40|1.4
+2023-04-13 04:00,EUR,Industrial Production m/m,Low,0.9%,1.0%,1.5%
+2023-04-13 04:02,GBP,10-y Bond Auction,Low,,3.50|2.4,3.59|3.0
+2023-04-13 06:08,GBP,NIESR GDP Estimate,Low,,0.1%,0.1%
+2023-04-13 06:45,EUR,German Buba President Nagel Speaks,Low,,,
+2023-04-13 07:30,USD,Core PPI m/m,High,0.2%,0.2%,-0.1%
+2023-04-13 08:00,CAD,BOC Gov Macklem Speaks,High,,,
+2023-04-13 08:30,GBP,CB Leading Index m/m,Low,,-0.5%,-0.8%
+2023-04-13 09:30,USD,Natural Gas Storage,Low,25B,-23B,25B
+2023-04-13 12:01,USD,30-y Bond Auction,Medium,,3.88|2.4,3.66|2.4
+2023-04-13 13:00,EUR,German Buba President Nagel Speaks,Low,,,
+2023-04-13 15:29,All,G20 Meetings,Medium,,,
+2023-04-13 15:29,All,IMF Meetings,Low,,,
+2023-04-13 17:30,NZD,BusinessNZ Manufacturing Index,Low,,51.7,48.1
+2023-04-13 17:45,NZD,Visitor Arrivals m/m,Low,,-26.3%,0.6%
+2023-04-14 00:00,USD,Business Inventories m/m,Low,0.2%,-0.2%,0.2%
+2023-04-14 00:00,USD,Core Retail Sales m/m,High,-0.4%,0.0%,-0.8%
+2023-04-14 00:00,USD,Import Prices m/m,Low,-0.1%,-0.2%,-0.6%
+2023-04-14 00:00,USD,Industrial Production m/m,Low,0.3%,0.2%,0.4%
+2023-04-14 00:00,USD,Prelim UoM Inflation Expectations,Medium,,3.6%,4.6%
+2023-04-14 00:00,USD,Retail Sales m/m,High,-0.4%,-0.2%,-1.0%
+2023-04-14 01:00,EUR,German WPI m/m,Low,0.2%,0.1%,0.2%
+2023-04-14 01:30,CHF,PPI m/m,Low,0.1%,-0.2%,0.2%
+2023-04-14 01:45,EUR,French Final CPI m/m,Low,0.8%,0.8%,0.9%
+2023-04-14 07:30,CAD,Manufacturing Sales m/m,Low,-2.5%,4.5%,-3.6%
+2023-04-14 07:45,USD,FOMC Member Waller Speaks,Medium,,,
+2023-04-14 08:15,USD,Capacity Utilization Rate,Low,79.1%,79.6%,79.8%
+2023-04-14 09:00,USD,Prelim UoM Consumer Sentiment,High,62.0,62.0,63.5
+2023-04-14 10:30,GBP,MPC Member Tenreyro Speaks,Low,,,
+2023-04-14 13:15,EUR,German Buba President Nagel Speaks,Low,,,
+2023-04-14 15:29,All,IMF Meetings,Low,,,
+2023-04-14 20:30,CNY,New Home Prices m/m,Low,,0.30%,0.44%
+2023-04-15 15:29,All,IMF Meetings,Low,,,
+2023-04-16 15:29,All,IMF Meetings,Low,,,
+2023-04-16 17:30,NZD,BusinessNZ Services Index,Low,,55.8,54.4
+2023-04-16 17:45,NZD,FPI m/m,Low,,1.5%,0.8%
+2023-04-17 00:00,CAD,Wholesale Sales m/m,Low,-1.6%,6.1%,-1.7%
+2023-04-17 00:00,USD,Empire State Manufacturing Index,High,-17.7,-24.6,10.8
+2023-04-17 07:30,CAD,Foreign Securities Purchases,Low,6.28B,4.20B,4.62B
+2023-04-17 08:00,GBP,MPC Member Cunliffe Speaks,Low,,,
+2023-04-17 09:00,USD,NAHB Housing Market Index,Low,45,44,45
+2023-04-17 09:30,AUD,CB Leading Index m/m,Low,,-0.1%,-0.2%
+2023-04-17 10:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2023-04-17 15:00,USD,TIC Long-Term Purchases,Low,40.3B,31.9B,71.0B
+2023-04-17 20:30,AUD,Monetary Policy Meeting Minutes,Medium,,,
+2023-04-17 21:00,CNY,GDP q/y,Medium,4.0%,2.9%,4.5%
+2023-04-18 00:00,CAD,Common CPI y/y,Medium,6.0%,6.4%,5.9%
+2023-04-18 00:00,CAD,Median CPI y/y,High,4.5%,4.9%,4.6%
+2023-04-18 00:00,CAD,Trimmed CPI y/y,High,4.4%,4.8%,4.4%
+2023-04-18 00:00,CNY,Fixed Asset Investment ytd/y,Low,5.7%,5.5%,5.1%
+2023-04-18 00:00,CNY,Industrial Production y/y,Low,4.7%,2.4%,3.9%
+2023-04-18 00:00,CNY,NBS Press Conference,Low,,,
+2023-04-18 00:00,CNY,Retail Sales y/y,Low,7.3%,3.5%,10.6%
+2023-04-18 00:00,CNY,Unemployment Rate,Low,5.5%,5.6%,5.3%
+2023-04-18 00:00,EUR,ZEW Economic Sentiment,Low,12.2,10.0,6.4
+2023-04-18 00:00,GBP,Average Earnings Index 3m/y,Medium,5.1%,5.9%,5.9%
+2023-04-18 00:00,GBP,Unemployment Rate,Low,3.7%,3.7%,3.8%
+2023-04-18 00:00,USD,Building Permits,Low,1.46M,1.55M,1.41M
+2023-04-18 00:00,USD,Housing Starts,Low,1.40M,1.43M,1.42M
+2023-04-18 01:00,GBP,Claimant Count Change,High,-2.5K,-18.8K,28.2K
+2023-04-18 03:00,EUR,Italian Trade Balance,Low,-3.23B,-4.24B,2.11B
+2023-04-18 04:00,EUR,German ZEW Economic Sentiment,Medium,15.5,13.0,4.1
+2023-04-18 04:15,GBP,30-y Bond Auction,Low,,3.86|2.7,4.08|2.5
+2023-04-18 07:30,CAD,CPI m/m,High,0.6%,0.4%,0.5%
+2023-04-18 07:32,CAD,Core CPI m/m,Low,,0.5%,0.6%
+2023-04-18 09:54,NZD,GDT Price Index,Low,,-4.7%,3.2%
+2023-04-18 10:30,CAD,BOC Gov Macklem Speaks,High,,,
+2023-04-18 12:00,USD,FOMC Member Bowman Speaks,Low,,,
+2023-04-18 19:30,AUD,MI Leading Index m/m,Low,,-0.1%,0.0%
+2023-04-18 23:30,JPY,Revised Industrial Production m/m,Low,4.5%,4.5%,4.6%
+2023-04-19 00:00,CAD,RMPI m/m,Low,-0.7%,-0.3%,-1.7%
+2023-04-19 00:00,EUR,Final CPI y/y,Low,6.9%,6.9%,6.9%
+2023-04-19 00:00,GBP,Core CPI y/y,Low,6.0%,6.2%,6.2%
+2023-04-19 00:00,GBP,PPI Input m/m,Low,-0.3%,0.0%,0.2%
+2023-04-19 00:00,GBP,PPI Output m/m,Low,-0.2%,-0.4%,0.1%
+2023-04-19 00:00,GBP,RPI y/y,Low,13.3%,13.8%,13.5%
+2023-04-19 01:00,GBP,CPI y/y,High,9.8%,10.4%,10.1%
+2023-04-19 02:00,CHF,Gov Board Member Maechler Speaks,Medium,,,
+2023-04-19 03:00,EUR,Current Account,Low,10.3B,18.6B,24.3B
+2023-04-19 03:30,GBP,HPI y/y,Low,5.0%,6.5%,5.5%
+2023-04-19 04:00,EUR,Final Core CPI y/y,Low,5.7%,5.7%,5.7%
+2023-04-19 04:34,EUR,German 10-y Bond Auction,Low,,2.32|1.4,2.51|1.9
+2023-04-19 07:13,CAD,Housing Starts,Low,236K,241K,214K
+2023-04-19 07:30,CAD,IPPI m/m,Low,-0.4%,-0.6%,0.1%
+2023-04-19 09:30,USD,Crude Oil Inventories,Low,-0.4M,0.6M,-4.6M
+2023-04-19 11:00,CHF,Gov Board Member Schlegel Speaks,Low,,,
+2023-04-19 13:00,USD,Beige Book,Low,,,
+2023-04-19 16:30,GBP,MPC Member Mann Speaks,Low,,,
+2023-04-19 17:45,NZD,CPI q/q,High,1.5%,1.4%,1.2%
+2023-04-19 18:00,USD,FOMC Member Williams Speaks,Low,,,
+2023-04-19 18:50,JPY,Trade Balance,Low,-1.70T,-1.25T,-1.21T
+2023-04-19 20:15,CNY,1-y Loan Prime Rate,Medium,3.65%,3.65%,3.65%
+2023-04-19 20:30,AUD,NAB Quarterly Business Confidence,Low,,-1,-4
+2023-04-19 21:00,AUD,RBA Gov Lowe Speaks,High,,,
+2023-04-19 23:30,JPY,Tertiary Industry Activity m/m,Low,0.4%,0.7%,0.7%
+2023-04-20 00:00,CNY,5-y Loan Prime Rate,Medium,4.30%,4.30%,4.30%
+2023-04-20 00:00,USD,CB Leading Index m/m,Low,-0.7%,-0.5%,-1.2%
+2023-04-20 00:00,USD,Existing Home Sales,Medium,4.50M,4.55M,4.44M
+2023-04-20 00:00,USD,FOMC Member Goolsbee Speaks,Low,,,
+2023-04-20 00:00,USD,Philly Fed Manufacturing Index,Medium,-19.1,-23.2,-31.3
+2023-04-20 01:00,EUR,German PPI m/m,Low,-0.6%,-0.3%,-2.6%
+2023-04-20 02:00,CNY,Foreign Direct Investment ytd/y,Low,,6.1%,4.9%
+2023-04-20 03:41,EUR,Spanish 10-y Bond Auction,Low,,3.40|1.4,3.51|1.4
+2023-04-20 04:00,EUR,Trade Balance,Low,-8.5B,-11.6B,-0.1B
+2023-04-20 06:30,EUR,ECB Monetary Policy Meeting Accounts,Low,,,
+2023-04-20 07:15,EUR,ECB President Lagarde Speaks,Medium,,,
+2023-04-20 07:30,USD,Unemployment Claims,High,240K,240K,245K
+2023-04-20 09:00,EUR,Consumer Confidence,Low,-19,-19,-18
+2023-04-20 09:15,USD,Treasury Sec Yellen Speaks,Medium,,,
+2023-04-20 09:30,USD,Natural Gas Storage,Low,69B,25B,75B
+2023-04-20 10:30,CAD,BOC Gov Macklem Speaks,High,,,
+2023-04-20 11:00,USD,FOMC Member Waller Speaks,Medium,,,
+2023-04-20 14:00,USD,FOMC Member Bowman Speaks,Low,,,
+2023-04-20 18:00,AUD,Flash Manufacturing PMI,Low,,49.1,48.1
+2023-04-20 18:01,GBP,GfK Consumer Confidence,Low,-35,-36,-30
+2023-04-20 18:30,JPY,National Core CPI y/y,Low,3.0%,3.1%,3.1%
+2023-04-20 18:45,USD,FOMC Member Harker Speaks,Medium,,,
+2023-04-20 19:30,JPY,Flash Manufacturing PMI,Low,49.9,49.2,49.5
+2023-04-21 00:00,AUD,Flash Services PMI,Low,,48.6,52.6
+2023-04-21 00:00,CAD,Retail Sales m/m,Medium,-0.6%,1.6%,-0.2%
+2023-04-21 00:00,EUR,Flash Services PMI,Medium,54.6,55.0,56.6
+2023-04-21 00:00,EUR,French Flash Services PMI,High,53.6,53.9,56.3
+2023-04-21 00:00,EUR,German Flash Services PMI,High,53.3,53.7,55.7
+2023-04-21 00:00,GBP,Flash Services PMI,High,52.9,52.9,54.9
+2023-04-21 00:00,GBP,MPC Member Tenreyro Speaks,Low,,,
+2023-04-21 00:00,USD,Flash Services PMI,High,51.5,52.6,53.7
+2023-04-21 01:00,GBP,Retail Sales m/m,Medium,-0.5%,1.1%,-0.9%
+2023-04-21 02:15,EUR,French Flash Manufacturing PMI,High,47.9,47.3,45.5
+2023-04-21 02:30,EUR,German Flash Manufacturing PMI,High,45.6,44.7,44.0
+2023-04-21 03:00,EUR,Flash Manufacturing PMI,Medium,47.9,47.3,45.5
+2023-04-21 03:30,GBP,Flash Manufacturing PMI,High,48.3,47.9,46.6
+2023-04-21 07:30,CAD,Core Retail Sales m/m,Medium,0.0%,0.9%,-0.7%
+2023-04-21 08:45,USD,Flash Manufacturing PMI,High,49.0,49.2,50.4
+2023-04-21 15:35,USD,FOMC Member Cook Speaks,Low,,,
+2023-04-23 18:01,GBP,Rightmove HPI m/m,Low,,0.8%,0.2%
+2023-04-24 03:00,EUR,German ifo Business Climate,Medium,93.4,93.3,93.6
+2023-04-24 05:00,EUR,German Buba Monthly Report,Low,,,
+2023-04-24 07:30,CAD,NHPI m/m,Low,0.1%,-0.2%,0.0%
+2023-04-24 08:00,EUR,Belgian NBB Business Climate,Low,-5.2,-7.6,-7.8
+2023-04-24 18:50,JPY,SPPI y/y,Low,1.7%,1.7%,1.6%
+2023-04-25 00:00,GBP,Public Sector Net Borrowing,Low,20.5B,12.5B,20.7B
+2023-04-25 00:00,JPY,BOJ Core CPI y/y,Low,2.6%,2.7%,2.9%
+2023-04-25 00:00,USD,New Home Sales,Medium,633K,623K,683K
+2023-04-25 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,-0.1%,2.6%,0.4%
+2023-04-25 01:00,CHF,Trade Balance,Low,4.20B,3.14B,4.53B
+2023-04-25 04:00,GBP,MPC Member Broadbent Speaks,Low,,,
+2023-04-25 05:00,GBP,CBI Industrial Order Expectations,Low,-21,-20,-20
+2023-04-25 08:00,USD,HPI m/m,Low,-0.1%,0.1%,0.5%
+2023-04-25 08:59,USD,Richmond Manufacturing Index,Medium,-8,-5,-10
+2023-04-25 09:00,USD,CB Consumer Confidence,High,104.1,104.0,101.3
+2023-04-25 17:45,NZD,Trade Balance,Low,-500M,-796M,-1273M
+2023-04-25 20:30,AUD,CPI q/q,High,1.3%,1.9%,1.4%
+2023-04-25 22:00,NZD,Credit Card Spending y/y,Low,,25.5%,20.3%
+2023-04-26 00:00,AUD,CPI y/y,High,6.5%,6.8%,6.3%
+2023-04-26 00:00,AUD,Trimmed Mean CPI q/q,High,1.4%,1.7%,1.2%
+2023-04-26 00:00,USD,Durable Goods Orders m/m,Medium,0.7%,-1.2%,3.2%
+2023-04-26 00:00,USD,Goods Trade Balance,Low,-90.1B,-92.0B,-84.6B
+2023-04-26 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.1%,0.1%,0.1%
+2023-04-26 01:00,EUR,German GfK Consumer Climate,Low,-28.0,-29.3,-25.7
+2023-04-26 03:00,CHF,UBS Economic Expectations,Low,,-41.3,-33.3
+2023-04-26 05:00,GBP,CBI Realized Sales,Low,4,1,5
+2023-04-26 07:30,USD,Core Durable Goods Orders m/m,Medium,-0.2%,-0.1%,0.3%
+2023-04-26 08:00,CNY,CB Leading Index m/m,Low,,-0.3%,0.1%
+2023-04-26 09:30,USD,Crude Oil Inventories,Low,-1.3M,-4.6M,-5.1M
+2023-04-26 12:30,CAD,BOC Summary of Deliberations,Low,,,
+2023-04-26 20:00,NZD,ANZ Business Confidence,Low,,-43.4,-43.8
+2023-04-26 20:30,AUD,Import Prices q/q,Low,0.4%,1.8%,-4.2%
+2023-04-27 00:00,USD,Advance GDP Price Index q/q,Medium,3.7%,3.9%,4.0%
+2023-04-27 00:00,USD,Unemployment Claims,High,247K,246K,230K
+2023-04-27 02:00,EUR,Spanish Unemployment Rate,Low,13.0%,12.9%,13.3%
+2023-04-27 04:13,EUR,Italian 10-y Bond Auction,Low,,4.12|1.4,4.42|1.3
+2023-04-27 07:30,USD,Advance GDP q/q,High,2.0%,2.6%,1.1%
+2023-04-27 09:00,USD,Pending Home Sales m/m,Medium,0.6%,0.8%,-5.2%
+2023-04-27 09:30,USD,Natural Gas Storage,Low,76B,75B,79B
+2023-04-27 18:30,JPY,Tokyo Core CPI y/y,High,3.2%,3.2%,3.5%
+2023-04-27 18:50,JPY,Prelim Industrial Production m/m,Low,0.4%,4.6%,0.8%
+2023-04-27 20:30,AUD,PPI q/q,Low,0.6%,0.7%,1.0%
+2023-04-27 23:00,JPY,BOJ Outlook Report,High,,,
+2023-04-28 00:00,AUD,Private Sector Credit m/m,Low,0.3%,0.3%,0.3%
+2023-04-28 00:00,EUR,French Consumer Spending m/m,Low,0.5%,-0.8%,-1.3%
+2023-04-28 00:00,EUR,German Prelim GDP q/q,Low,0.2%,-0.4%,0.0%
+2023-04-28 00:00,EUR,Italian Prelim GDP q/q,Low,0.2%,-0.1%,0.5%
+2023-04-28 00:00,EUR,Spanish Flash CPI y/y,Medium,4.4%,3.3%,4.1%
+2023-04-28 00:00,EUR,Spanish Flash GDP q/q,Low,0.3%,0.4%,0.5%
+2023-04-28 00:00,JPY,BOJ Policy Rate,Medium,-0.10%,-0.10%,-0.10%
+2023-04-28 00:00,JPY,BOJ Press Conference,High,,,
+2023-04-28 00:00,JPY,Housing Starts y/y,Low,-3.9%,-0.3%,-3.2%
+2023-04-28 00:00,JPY,Monetary Policy Statement,High,,,
+2023-04-28 00:00,JPY,Retail Sales y/y,Low,6.5%,7.3%,7.2%
+2023-04-28 00:00,JPY,Unemployment Rate,Low,2.5%,2.6%,2.8%
+2023-04-28 00:00,USD,Core PCE Price Index m/m,High,0.3%,0.3%,0.3%
+2023-04-28 00:00,USD,Employment Cost Index q/q,High,1.1%,1.0%,1.2%
+2023-04-28 00:00,USD,Personal Income m/m,Low,0.2%,0.3%,0.3%
+2023-04-28 00:00,USD,Personal Spending m/m,Low,-0.1%,0.1%,0.0%
+2023-04-28 00:00,USD,Revised UoM Inflation Expectations,Low,,4.6%,4.6%
+2023-04-28 00:30,EUR,French Flash GDP q/q,Medium,0.2%,0.0%,0.2%
+2023-04-28 01:00,EUR,German Import Prices m/m,Low,-1.3%,-2.4%,-1.1%
+2023-04-28 01:30,CHF,Retail Sales y/y,Low,0.4%,-0.5%,-1.9%
+2023-04-28 01:45,EUR,French Prelim CPI m/m,Low,0.5%,0.9%,0.6%
+2023-04-28 02:00,CHF,KOF Economic Barometer,Low,98.0,99.2,96.4
+2023-04-28 02:55,EUR,German Unemployment Change,Low,8K,19K,24K
+2023-04-28 03:00,CHF,SNB Chairman Jordan Speaks,Medium,,,
+2023-04-28 04:00,EUR,Prelim Flash GDP q/q,Low,0.2%,0.0%,0.1%
+2023-04-28 07:30,CAD,GDP m/m,High,0.2%,0.6%,0.1%
+2023-04-28 08:45,USD,Chicago PMI,Medium,43.6,43.8,48.6
+2023-04-28 09:00,USD,Revised UoM Consumer Sentiment,Medium,63.5,63.5,63.5
+2023-04-28 15:29,EUR,ECOFIN Meetings,Low,,,
+2023-04-28 15:29,EUR,Eurogroup Meetings,Low,,,
+2023-04-28 15:29,EUR,German Prelim CPI m/m,High,0.6%,0.8%,0.4%
+2023-04-29 15:29,EUR,ECOFIN Meetings,Low,,,
+2023-04-29 20:30,CNY,Manufacturing PMI,Medium,51.4,51.9,49.2
+2023-04-30 00:00,CNY,Non-Manufacturing PMI,Medium,57.0,58.2,56.4
+2023-04-30 19:30,JPY,Final Manufacturing PMI,Low,49.5,49.5,49.5
+2023-04-30 20:00,AUD,MI Inflation Gauge m/m,Low,,0.3%,0.2%
+2023-04-30 20:30,AUD,ANZ Job Advertisements m/m,Low,,-2.7%,-0.3%

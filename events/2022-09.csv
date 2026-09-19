@@ -1,0 +1,418 @@
+datetime,currency,title,impact,forecast,previous,actual
+2022-09-01 00:00,CHF,CPI m/m,High,0.2%,0.0%,0.3%
+2022-09-01 00:00,CHF,Retail Sales y/y,Low,0.9%,0.7%,2.6%
+2022-09-01 00:00,EUR,Italian Monthly Unemployment Rate,Low,8.1%,8.0%,7.9%
+2022-09-01 00:00,GBP,Nationwide HPI m/m,Low,0.1%,0.2%,0.8%
+2022-09-01 00:00,USD,Construction Spending m/m,Low,-0.3%,-0.5%,-0.4%
+2022-09-01 00:00,USD,ISM Manufacturing Prices,Low,55.4,60.0,52.5
+2022-09-01 00:00,USD,Revised Nonfarm Productivity q/q,Low,-4.3%,-4.6%,-4.1%
+2022-09-01 00:00,USD,Revised Unit Labor Costs q/q,Low,10.8%,10.8%,10.2%
+2022-09-01 00:00,USD,Unemployment Claims,Medium,250K,237K,232K
+2022-09-01 02:00,EUR,German Retail Sales m/m,Low,-0.1%,-1.5%,1.9%
+2022-09-01 02:30,AUD,Commodity Prices y/y,Low,,10.3%,21.7%
+2022-09-01 03:15,EUR,Spanish Manufacturing PMI,Low,48.5,48.7,49.9
+2022-09-01 03:30,CHF,Manufacturing PMI,Low,56.4,58.0,56.4
+2022-09-01 03:45,EUR,Italian Manufacturing PMI,Low,48.0,48.5,48.0
+2022-09-01 03:50,EUR,French Final Manufacturing PMI,Low,49.0,49.0,50.6
+2022-09-01 03:55,EUR,German Final Manufacturing PMI,Low,49.8,49.8,49.1
+2022-09-01 04:00,EUR,Final Manufacturing PMI,Low,49.7,49.7,49.6
+2022-09-01 04:30,GBP,Final Manufacturing PMI,Low,46.0,46.0,47.3
+2022-09-01 04:48,EUR,Spanish 10-y Bond Auction,Low,,1.98|1.7,2.81|1.8
+2022-09-01 04:57,EUR,French 10-y Bond Auction,Low,,1.43|2.5,2.21|2.0
+2022-09-01 05:00,EUR,Unemployment Rate,Low,6.6%,6.7%,6.6%
+2022-09-01 07:30,USD,Challenger Job Cuts y/y,Low,,36.3%,30.3%
+2022-09-01 08:30,CAD,Building Permits m/m,Low,-0.3%,-0.6%,-6.6%
+2022-09-01 09:30,CAD,Manufacturing PMI,Low,,52.5,48.7
+2022-09-01 09:45,USD,Final Manufacturing PMI,Low,51.3,51.3,51.5
+2022-09-01 10:00,USD,ISM Manufacturing PMI,High,52.1,52.8,52.8
+2022-09-01 10:30,USD,Natural Gas Storage,Low,58B,60B,61B
+2022-09-01 15:29,USD,Wards Total Vehicle Sales,Low,13.3M,13.4M,13.2M
+2022-09-01 18:45,NZD,Overseas Trade Index q/q,Low,0.2%,0.6%,-2.4%
+2022-09-01 19:50,JPY,Monetary Base y/y,Low,3.1%,2.8%,0.4%
+2022-09-02 00:00,USD,Average Hourly Earnings m/m,High,0.4%,0.5%,0.3%
+2022-09-02 00:00,USD,Non-Farm Employment Change,High,295K,526K,315K
+2022-09-02 00:00,USD,Unemployment Rate,High,3.5%,3.5%,3.7%
+2022-09-02 02:00,EUR,German Trade Balance,Low,4.6B,6.2B,5.4B
+2022-09-02 02:45,EUR,French Gov Budget Balance,Low,,-76.1B,-131.2B
+2022-09-02 03:00,EUR,Spanish Unemployment Change,Low,4.6K,3.2K,40.4K
+2022-09-02 05:00,EUR,PPI m/m,Low,2.5%,1.3%,4.0%
+2022-09-02 08:30,CAD,Labor Productivity q/q,Low,0.1%,-0.5%,0.2%
+2022-09-02 10:00,USD,Factory Orders m/m,Low,0.2%,1.8%,-1.0%
+2022-09-04 18:30,AUD,AIG Construction Index,Low,,45.3,47.9
+2022-09-04 21:00,NZD,ANZ Commodity Prices m/m,Low,,-2.2%,-3.3%
+2022-09-04 21:02,AUD,MI Inflation Gauge m/m,Low,,1.2%,-0.5%
+2022-09-04 21:30,AUD,ANZ Job Advertisements m/m,Low,,-1.0%,2.0%
+2022-09-04 21:45,CNY,Caixin Services PMI,Low,54.0,55.5,55.0
+2022-09-05 00:00,AUD,Company Operating Profits q/q,Low,4.6%,9.8%,7.6%
+2022-09-05 00:00,GBP,Final Services PMI,Low,52.5,52.5,50.9
+2022-09-05 03:00,CHF,GDP q/q,Low,0.4%,0.5%,0.3%
+2022-09-05 03:15,EUR,Spanish Services PMI,Low,52.3,53.8,50.6
+2022-09-05 03:45,EUR,Italian Services PMI,Low,48.9,48.4,50.5
+2022-09-05 03:50,EUR,French Final Services PMI,Low,51.0,51.0,51.2
+2022-09-05 03:55,EUR,German Final Services PMI,Low,48.2,48.2,47.7
+2022-09-05 04:00,EUR,Final Services PMI,Low,50.2,50.2,49.8
+2022-09-05 04:30,EUR,Sentix Investor Confidence,Low,-26.8,-25.2,-31.8
+2022-09-05 05:00,EUR,Retail Sales m/m,Low,0.3%,-1.0%,0.3%
+2022-09-05 11:30,GBP,MPC Member Mann Speaks,Medium,,,
+2022-09-05 15:29,All,OPEC-JMMC Meetings,Medium,,,
+2022-09-05 19:01,GBP,BRC Retail Sales Monitor y/y,Low,0.5%,1.6%,0.5%
+2022-09-05 19:30,JPY,Average Cash Earnings y/y,Low,1.9%,2.0%,1.8%
+2022-09-05 21:30,AUD,Current Account,Low,22.0B,2.8B,18.3B
+2022-09-05 23:35,JPY,30-y Bond Auction,Low,,1.12|3.0,1.24|3.3
+2022-09-06 00:00,AUD,RBA Rate Statement,High,,,
+2022-09-06 00:00,JPY,Household Spending y/y,Low,4.5%,3.5%,3.4%
+2022-09-06 00:30,AUD,Cash Rate,High,2.35%,1.85%,2.35%
+2022-09-06 02:00,EUR,German Factory Orders m/m,Low,-0.8%,-0.3%,-1.1%
+2022-09-06 04:30,GBP,Construction PMI,Low,48.0,48.9,49.2
+2022-09-06 09:45,USD,Final Services PMI,Medium,44.3,44.1,43.7
+2022-09-06 10:00,USD,ISM Services PMI,High,55.4,56.7,56.9
+2022-09-06 10:55,NZD,GDT Price Index,Low,,-2.9%,4.9%
+2022-09-06 18:30,AUD,AIG Services Index,Low,,51.7,53.3
+2022-09-06 21:30,AUD,GDP q/q,High,0.9%,0.7%,0.9%
+2022-09-06 23:02,CNY,Trade Balance,Low,650B,683B,536B
+2022-09-06 23:03,CNY,USD-Denominated Trade Balance,Low,91.8B,101.3B,79.4B
+2022-09-07 00:00,CAD,Ivey PMI,Medium,48.3,49.6,60.9
+2022-09-07 00:00,CAD,Overnight Rate,High,3.25%,2.50%,3.25%
+2022-09-07 00:00,EUR,Revised GDP q/q,Low,0.6%,0.6%,0.8%
+2022-09-07 00:00,GBP,Halifax HPI m/m,Low,0.1%,-0.1%,0.4%
+2022-09-07 00:00,GBP,Monetary Policy Report Hearings,High,,,
+2022-09-07 00:00,USD,FOMC Member Barr Speaks,Low,,,
+2022-09-07 00:00,USD,FOMC Member Mester Speaks,Medium,,,
+2022-09-07 00:00,USD,Trade Balance,Low,-70.2B,-80.9B,-70.6B
+2022-09-07 01:00,JPY,Leading Indicators,Low,100.2%,100.9%,99.6%
+2022-09-07 02:00,EUR,German Industrial Production m/m,Low,-0.5%,0.8%,-0.3%
+2022-09-07 03:00,CHF,Foreign Currency Reserves,Low,,850B,860B
+2022-09-07 04:00,EUR,Italian Retail Sales m/m,Low,0.3%,-1.1%,1.3%
+2022-09-07 05:00,EUR,Final Employment Change q/q,Low,0.3%,0.3%,0.4%
+2022-09-07 05:02,GBP,10-y Bond Auction,Low,,1.78|2.4,3.09|2.4
+2022-09-07 08:30,CAD,Trade Balance,Low,3.8B,4.9B,4.1B
+2022-09-07 10:00,CAD,BOC Rate Statement,High,,,
+2022-09-07 12:40,USD,FOMC Member Brainard Speaks,Medium,,,
+2022-09-07 14:00,USD,Beige Book,Low,,,
+2022-09-07 18:45,NZD,Manufacturing Sales q/q,Low,,0.9%,-3.8%
+2022-09-07 19:01,GBP,RICS House Price Balance,Low,60%,62%,53%
+2022-09-07 19:50,JPY,Bank Lending y/y,Low,1.9%,1.7%,1.9%
+2022-09-07 21:30,AUD,Goods Trade Balance,Low,14.55B,17.13B,8.73B
+2022-09-07 23:05,AUD,RBA Gov Lowe Speaks,High,,,
+2022-09-08 00:00,EUR,Monetary Policy Statement,High,,,
+2022-09-08 00:00,JPY,Current Account,Low,0.06T,0.84T,-0.63T
+2022-09-08 00:00,JPY,Final GDP Price Index y/y,Low,-0.4%,-0.4%,-0.3%
+2022-09-08 00:00,JPY,Final GDP q/q,Low,0.7%,0.5%,0.9%
+2022-09-08 01:00,JPY,Economy Watchers Sentiment,Low,45.0,43.8,45.5
+2022-09-08 01:30,EUR,French Final Private Payrolls q/q,Low,0.5%,0.5%,0.5%
+2022-09-08 01:45,CHF,Unemployment Rate,Low,2.2%,2.2%,2.1%
+2022-09-08 02:45,EUR,French Trade Balance,Low,-13.0B,-13.1B,-14.5B
+2022-09-08 08:15,EUR,Main Refinancing Rate,High,1.25%,0.50%,1.25%
+2022-09-08 08:30,USD,Unemployment Claims,Medium,234K,228K,222K
+2022-09-08 08:45,EUR,ECB Press Conference,High,,,
+2022-09-08 09:10,USD,Fed Chair Powell Speaks,High,,,
+2022-09-08 10:30,USD,Natural Gas Storage,Low,55B,61B,54B
+2022-09-08 11:00,USD,Crude Oil Inventories,Low,-2.0M,-3.3M,8.8M
+2022-09-08 11:25,CAD,Gov Council Member Rogers Speaks,Low,,,
+2022-09-08 15:00,USD,Consumer Credit m/m,Low,31.5B,39.1B,23.8B
+2022-09-08 19:50,JPY,M2 Money Stock y/y,Low,3.4%,3.4%,3.4%
+2022-09-08 21:30,CNY,CPI y/y,Low,2.8%,2.7%,2.5%
+2022-09-09 00:00,CAD,Capacity Utilization Rate,Low,82.1%,81.9%,83.8%
+2022-09-09 00:00,CAD,Unemployment Rate,High,5.0%,4.9%,5.4%
+2022-09-09 00:00,CNY,New Loans,Low,1500B,679B,1250B
+2022-09-09 00:00,CNY,PPI y/y,Low,3.2%,4.2%,2.3%
+2022-09-09 00:00,USD,FOMC Member Waller Speaks,Medium,,,
+2022-09-09 02:45,EUR,French Industrial Production m/m,Low,-0.4%,1.2%,-1.6%
+2022-09-09 04:03,CNY,M2 Money Supply y/y,Low,12.2%,12.0%,12.2%
+2022-09-09 05:30,EUR,ECB President Lagarde Speaks,Medium,,,
+2022-09-09 08:30,CAD,Employment Change,High,15.0K,-30.6K,-39.7K
+2022-09-09 10:00,USD,Final Wholesale Inventories m/m,Low,0.8%,0.8%,0.6%
+2022-09-09 12:00,USD,FOMC Member George Speaks,Medium,,,
+2022-09-09 15:29,EUR,EU Economic Summit,Medium,,,
+2022-09-09 15:29,EUR,Eurogroup Meetings,Low,,,
+2022-09-10 15:29,EUR,ECOFIN Meetings,Low,,,
+2022-09-11 18:45,NZD,Visitor Arrivals m/m,Low,,30.1%,41.8%
+2022-09-12 00:00,GBP,Construction Output m/m,Low,0.4%,-1.4%,-0.8%
+2022-09-12 00:00,GBP,Goods Trade Balance,Low,-22.2B,-22.8B,-19.4B
+2022-09-12 00:00,GBP,Index of Services 3m/3m,Low,-0.2%,-0.4%,-0.2%
+2022-09-12 00:00,GBP,Industrial Production m/m,Low,0.4%,-0.9%,-0.3%
+2022-09-12 00:00,GBP,Manufacturing Production m/m,Low,0.3%,-1.6%,0.1%
+2022-09-12 01:58,JPY,Prelim Machine Tool Orders y/y,Low,,5.5%,10.7%
+2022-09-12 02:00,GBP,Construction Output m/m,,0.4%,-1.4%,-0.8%
+2022-09-12 02:00,GBP,GDP m/m,High,0.3%,-0.6%,0.2%
+2022-09-12 02:00,GBP,Goods Trade Balance,,-22.2B,-22.8B,-19.4B
+2022-09-12 02:00,GBP,Index of Services 3m/3m,,-0.2%,-0.4%,-0.2%
+2022-09-12 02:00,GBP,Industrial Production m/m,,0.4%,-0.9%,-0.3%
+2022-09-12 02:00,GBP,Manufacturing Production m/m,,0.3%,-1.6%,0.1%
+2022-09-12 04:00,EUR,Italian Industrial Production m/m,Low,0.0%,-2.0%,0.4%
+2022-09-12 06:22,GBP,NIESR GDP Estimate,Low,,0.0%,-0.3%
+2022-09-12 13:01,USD,10-y Bond Auction,Low,,2.76|2.5,3.33|2.4
+2022-09-12 18:45,NZD,FPI m/m,Low,,2.1%,1.1%
+2022-09-12 19:50,JPY,BSI Manufacturing Index,Low,-8.1,-9.9,1.7
+2022-09-12 19:50,JPY,PPI y/y,,8.9%,9.0%,9.0%
+2022-09-12 20:15,AUD,Westpac Consumer Sentiment,Low,,-3.0%,3.9%
+2022-09-12 21:30,AUD,NAB Business Confidence,Medium,,8,10
+2022-09-13 00:00,EUR,German ZEW Economic Sentiment,Low,-59.4,-55.3,-61.9
+2022-09-13 00:00,GBP,Average Earnings Index 3m/y,Low,5.4%,5.2%,5.5%
+2022-09-13 00:00,GBP,Claimant Count Change,Low,-13.2K,-14.5K,6.3K
+2022-09-13 00:00,GBP,Unemployment Rate,Low,3.8%,3.8%,3.6%
+2022-09-13 00:00,JPY,PPI y/y,Low,8.9%,9.0%,9.0%
+2022-09-13 00:00,USD,CPI m/m,High,-0.1%,0.0%,0.1%
+2022-09-13 00:00,USD,CPI y/y,High,8.1%,8.5%,8.3%
+2022-09-13 02:00,EUR,German Final CPI m/m,Low,0.3%,0.3%,0.3%
+2022-09-13 02:00,GBP,Average Earnings Index 3m/y,,5.4%,5.2%,5.5%
+2022-09-13 02:00,GBP,Claimant Count Change,,-13.2K,-14.5K,6.3K
+2022-09-13 02:00,GBP,Unemployment Rate,,3.8%,3.8%,3.6%
+2022-09-13 02:30,CHF,PPI m/m,Low,0.1%,-0.1%,-0.1%
+2022-09-13 04:00,EUR,Italian Quarterly Unemployment Rate,Low,8.1%,8.5%,8.1%
+2022-09-13 05:00,EUR,German ZEW Economic Sentiment,,-59.4,-55.3,-61.9
+2022-09-13 05:00,EUR,ZEW Economic Sentiment,Low,-57.9,-54.9,-60.7
+2022-09-13 05:55,USD,NFIB Small Business Index,Low,90.9,89.9,91.8
+2022-09-13 08:30,USD,CPI m/m,,-0.1%,0.0%,0.1%
+2022-09-13 08:30,USD,CPI y/y,,8.1%,8.5%,8.3%
+2022-09-13 08:30,USD,Core CPI m/m,High,0.3%,0.3%,0.6%
+2022-09-13 10:00,USD,RCM/TIPP Economic Optimism,Low,42.5,38.1,44.7
+2022-09-13 13:01,USD,30-y Bond Auction,Low,,3.11|2.3,3.51|2.4
+2022-09-13 13:53,USD,Federal Budget Balance,Low,-215.0B,-211.1B,-219.6B
+2022-09-13 16:30,USD,API Weekly Statistical Bulletin,,,,
+2022-09-13 18:45,NZD,Current Account,Low,-4.70B,-6.50B,-5.22B
+2022-09-13 19:50,JPY,Core Machinery Orders m/m,Low,-0.6%,0.9%,5.3%
+2022-09-14 00:00,GBP,Core CPI y/y,Low,6.2%,6.2%,6.3%
+2022-09-14 00:00,GBP,PPI Input m/m,Low,0.2%,0.0%,-1.2%
+2022-09-14 00:00,GBP,PPI Output m/m,Low,1.0%,1.6%,-0.1%
+2022-09-14 00:00,GBP,RPI y/y,Low,12.3%,12.3%,12.3%
+2022-09-14 00:00,USD,Core PPI m/m,Medium,0.3%,0.2%,0.4%
+2022-09-14 00:00,USD,PPI m/m,High,-0.1%,-0.5%,-0.1%
+2022-09-14 00:30,JPY,Revised Industrial Production m/m,Low,1.0%,1.0%,0.8%
+2022-09-14 02:00,GBP,CPI y/y,High,10.0%,10.1%,9.9%
+2022-09-14 02:00,GBP,Core CPI y/y,,6.2%,6.2%,6.3%
+2022-09-14 02:00,GBP,PPI Input m/m,,0.2%,0.0%,-1.2%
+2022-09-14 02:00,GBP,PPI Output m/m,,1.0%,1.6%,-0.1%
+2022-09-14 02:00,GBP,RPI y/y,,12.3%,12.3%,12.3%
+2022-09-14 04:30,GBP,HPI y/y,Low,7.9%,7.8%,15.5%
+2022-09-14 05:00,EUR,Industrial Production m/m,Low,-1.0%,1.1%,-2.3%
+2022-09-14 08:30,CAD,Manufacturing Sales m/m,Low,-1.0%,-0.1%,-0.9%
+2022-09-14 08:30,USD,Core PPI m/m,,0.3%,0.2%,0.4%
+2022-09-14 08:30,USD,PPI m/m,,-0.1%,-0.5%,-0.1%
+2022-09-14 09:30,GBP,CB Leading Index m/m,Low,,-0.6%,-0.7%
+2022-09-14 10:30,USD,Crude Oil Inventories,Low,1.9M,8.8M,2.4M
+2022-09-14 18:45,NZD,GDP q/q,High,1.0%,-0.2%,1.7%
+2022-09-14 19:50,JPY,Trade Balance,Low,-2.08T,-2.16T,-2.37T
+2022-09-14 21:00,AUD,MI Inflation Expectations,Low,,5.9%,5.4%
+2022-09-14 21:30,AUD,Employment Change,High,35.5K,-40.9K,33.5K
+2022-09-14 21:30,AUD,RBA Bulletin,,,,
+2022-09-14 21:30,AUD,Unemployment Rate,,3.4%,3.4%,3.5%
+2022-09-15 00:00,AUD,RBA Bulletin,Low,,,
+2022-09-15 00:00,AUD,Unemployment Rate,High,3.4%,3.4%,3.5%
+2022-09-15 00:00,USD,Empire State Manufacturing Index,High,-12.7,-31.3,-1.5
+2022-09-15 00:00,USD,Import Prices m/m,Low,-1.3%,-1.5%,-1.0%
+2022-09-15 00:00,USD,Industrial Production m/m,Low,0.0%,0.5%,-0.2%
+2022-09-15 00:00,USD,Philly Fed Manufacturing Index,Medium,2.4,6.2,-9.9
+2022-09-15 00:00,USD,Retail Sales m/m,High,-0.1%,-0.4%,0.3%
+2022-09-15 00:00,USD,Unemployment Claims,Medium,225K,218K,213K
+2022-09-15 00:30,JPY,Tertiary Industry Activity m/m,Low,-0.1%,-0.4%,-0.6%
+2022-09-15 02:00,EUR,German WPI m/m,Low,0.5%,-0.4%,0.1%
+2022-09-15 02:45,EUR,French Final CPI m/m,Low,0.4%,0.4%,0.5%
+2022-09-15 04:30,GBP,Consumer Inflation Expectations,Low,,4.6%,4.9%
+2022-09-15 05:00,EUR,Trade Balance,Low,-31.9B,-32.2B,-40.3B
+2022-09-15 08:30,USD,Core Retail Sales m/m,High,0.0%,0.0%,-0.3%
+2022-09-15 08:30,USD,Empire State Manufacturing Index,,-12.7,-31.3,-1.5
+2022-09-15 08:30,USD,Import Prices m/m,,-1.3%,-1.5%,-1.0%
+2022-09-15 08:30,USD,Philly Fed Manufacturing Index,,2.4,6.2,-9.9
+2022-09-15 08:30,USD,Retail Sales m/m,,-0.1%,-0.4%,0.3%
+2022-09-15 08:30,USD,Unemployment Claims,,225K,218K,213K
+2022-09-15 09:15,USD,Capacity Utilization Rate,Low,80.2%,80.2%,80.0%
+2022-09-15 09:15,USD,Industrial Production m/m,,0.0%,0.5%,-0.2%
+2022-09-15 10:00,USD,Business Inventories m/m,Low,0.6%,1.4%,0.6%
+2022-09-15 10:30,USD,Natural Gas Storage,Low,71B,54B,77B
+2022-09-15 18:30,NZD,BusinessNZ Manufacturing Index,Low,,53.5,54.9
+2022-09-15 21:30,CNY,New Home Prices m/m,Low,,-0.11%,-0.29%
+2022-09-15 22:00,CNY,Fixed Asset Investment ytd/y,,5.5%,5.7%,5.8%
+2022-09-15 22:00,CNY,Industrial Production y/y,,3.8%,3.8%,4.2%
+2022-09-15 22:00,CNY,NBS Press Conference,,,,
+2022-09-15 22:00,CNY,Retail Sales y/y,Medium,3.2%,2.7%,5.4%
+2022-09-15 22:00,CNY,Unemployment Rate,,5.4%,5.4%,5.3%
+2022-09-16 00:00,CAD,Wholesale Sales m/m,Low,-0.4%,0.2%,-0.6%
+2022-09-16 00:00,CNY,Fixed Asset Investment ytd/y,Low,5.5%,5.7%,5.8%
+2022-09-16 00:00,CNY,Industrial Production y/y,Low,3.8%,3.8%,4.2%
+2022-09-16 00:00,CNY,NBS Press Conference,Low,,,
+2022-09-16 00:00,CNY,Unemployment Rate,Low,5.4%,5.4%,5.3%
+2022-09-16 00:00,EUR,Final CPI y/y,Low,9.1%,9.1%,9.1%
+2022-09-16 00:00,USD,Prelim UoM Inflation Expectations,Medium,,4.8%,4.6%
+2022-09-16 02:00,GBP,Retail Sales m/m,Medium,-0.5%,0.4%,-1.6%
+2022-09-16 04:00,EUR,Italian Trade Balance,Low,-1.50B,-2.51B,-0.36B
+2022-09-16 05:00,EUR,Final CPI y/y,,9.1%,9.1%,9.1%
+2022-09-16 05:00,EUR,Final Core CPI y/y,Low,4.3%,4.3%,4.3%
+2022-09-16 08:15,CAD,Housing Starts,Low,264K,275K,267K
+2022-09-16 08:30,CAD,Foreign Securities Purchases,Low,12.35B,-17.64B,14.83B
+2022-09-16 08:30,CAD,Wholesale Sales m/m,,-0.4%,0.2%,-0.6%
+2022-09-16 10:00,USD,Prelim UoM Consumer Sentiment,High,60.0,58.2,59.5
+2022-09-16 10:00,USD,Prelim UoM Inflation Expectations,,,4.8%,4.6%
+2022-09-16 16:00,USD,TIC Long-Term Purchases,Low,121.6B,121.8B,21.4B
+2022-09-18 18:30,NZD,BusinessNZ Services Index,Low,,54.4,58.6
+2022-09-18 22:30,CNY,Foreign Direct Investment ytd/y,Low,,17.3%,16.4%
+2022-09-18 23:00,NZD,RBNZ Gov Orr Speaks,High,,,
+2022-09-19 00:00,CAD,RMPI m/m,Low,3.2%,-7.5%,-4.2%
+2022-09-19 06:00,EUR,German Buba Monthly Report,Low,,,
+2022-09-19 08:30,CAD,IPPI m/m,Low,-0.9%,-2.5%,-1.2%
+2022-09-19 10:00,USD,NAHB Housing Market Index,Low,47,49,46
+2022-09-19 19:30,JPY,National Core CPI y/y,Low,2.7%,2.4%,2.8%
+2022-09-19 21:15,CNY,1-y Loan Prime Rate,Medium,3.65%,3.65%,3.65%
+2022-09-19 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2022-09-20 00:00,CAD,Common CPI y/y,Medium,5.6%,6.0%,5.7%
+2022-09-20 00:00,CAD,Median CPI y/y,Medium,5.1%,4.9%,4.8%
+2022-09-20 00:00,CAD,Trimmed CPI y/y,Medium,5.5%,5.4%,5.2%
+2022-09-20 00:00,CNY,5-y Loan Prime Rate,Medium,4.30%,4.30%,4.30%
+2022-09-20 00:00,EUR,German PPI m/m,Low,2.5%,5.3%,7.9%
+2022-09-20 00:00,USD,Building Permits,Low,1.60M,1.69M,1.52M
+2022-09-20 00:00,USD,Housing Starts,Low,1.45M,1.40M,1.58M
+2022-09-20 02:00,CHF,Trade Balance,Low,3.50B,3.52B,3.42B
+2022-09-20 03:00,CHF,SECO Economic Forecasts,Low,,,
+2022-09-20 04:00,EUR,Current Account,Low,5.3B,4.2B,-19.9B
+2022-09-20 08:30,CAD,CPI m/m,High,-0.1%,0.1%,-0.3%
+2022-09-20 08:32,CAD,Core CPI m/m,Low,,0.5%,0.0%
+2022-09-20 10:40,NZD,GDT Price Index,Low,,4.9%,2.0%
+2022-09-20 13:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2022-09-20 20:30,AUD,MI Leading Index m/m,Low,,-0.2%,-0.1%
+2022-09-20 22:00,AUD,RBA Gov Bullock Speaks,Low,,,
+2022-09-20 23:00,NZD,Credit Card Spending y/y,Low,,5.1%,29.4%
+2022-09-21 00:00,CAD,Gov Council Member Beaudry Speaks,Low,,,
+2022-09-21 00:00,USD,Crude Oil Inventories,Low,2.0M,2.4M,1.1M
+2022-09-21 00:00,USD,FOMC Economic Projections,High,,,
+2022-09-21 00:00,USD,FOMC Statement,High,,,
+2022-09-21 02:00,GBP,Public Sector Net Borrowing,Low,8.2B,2.1B,11.1B
+2022-09-21 05:34,EUR,German 10-y Bond Auction,Low,,1.33|1.6,1.87|1.8
+2022-09-21 06:00,GBP,CBI Industrial Order Expectations,Low,-13,-7,-2
+2022-09-21 10:00,USD,Existing Home Sales,Medium,4.69M,4.82M,4.80M
+2022-09-21 10:30,AUD,CB Leading Index m/m,Low,,0.6%,0.4%
+2022-09-21 14:00,USD,Federal Funds Rate,High,3.25%,2.50%,3.25%
+2022-09-21 14:30,USD,FOMC Press Conference,High,,,
+2022-09-21 16:54,NZD,Westpac Consumer Sentiment,Low,,78.7,87.6
+2022-09-21 18:45,NZD,Trade Balance,Low,-500M,-1406M,-2447M
+2022-09-21 22:51,JPY,Monetary Policy Statement,High,,,
+2022-09-22 00:00,CHF,SNB Policy Rate,High,0.50%,-0.25%,0.50%
+2022-09-22 00:00,EUR,ECB Economic Bulletin,Low,,,
+2022-09-22 00:00,GBP,BOE Inflation Letter,Medium,,,
+2022-09-22 00:00,GBP,MPC Official Bank Rate Votes,High,9-0-0,9-0-0,9-0-0
+2022-09-22 00:00,GBP,Official Bank Rate,High,2.25%,1.75%,2.25%
+2022-09-22 00:00,JPY,BOJ Policy Rate,Low,-0.10%,-0.10%,-0.10%
+2022-09-22 00:00,USD,CB Leading Index m/m,Low,-0.1%,-0.5%,-0.3%
+2022-09-22 00:00,USD,Current Account,Low,-261B,-283B,-251B
+2022-09-22 00:00,USD,Unemployment Claims,Medium,220K,208K,213K
+2022-09-22 01:00,JPY,BOJ Core CPI y/y,Low,1.9%,1.8%,1.9%
+2022-09-22 02:30,JPY,BOJ Press Conference,High,,,
+2022-09-22 03:30,CHF,SNB Monetary Policy Assessment,High,,,
+2022-09-22 04:00,CHF,SNB Press Conference,High,,,
+2022-09-22 07:00,GBP,Monetary Policy Summary,High,,,
+2022-09-22 08:30,CAD,NHPI m/m,Low,0.1%,0.1%,0.1%
+2022-09-22 10:00,EUR,Consumer Confidence,Low,-26,-25,-29
+2022-09-22 10:30,USD,Natural Gas Storage,Low,97B,77B,103B
+2022-09-22 11:00,GBP,MPC Member Tenreyro Speaks,Low,,,
+2022-09-22 14:30,GBP,MPC Member Haskel Speaks,Low,,,
+2022-09-22 19:00,AUD,Flash Manufacturing PMI,Low,,53.8,53.9
+2022-09-22 19:01,GBP,GfK Consumer Confidence,Low,-42,-44,-49
+2022-09-23 00:00,AUD,Flash Services PMI,Low,,50.2,50.4
+2022-09-23 00:00,CAD,Retail Sales m/m,Medium,-2.0%,1.0%,-2.5%
+2022-09-23 00:00,EUR,Flash Services PMI,Low,49.1,49.8,48.9
+2022-09-23 00:00,EUR,French Flash Manufacturing PMI,Medium,49.8,50.6,47.8
+2022-09-23 00:00,EUR,German Buba President Nagel Speaks,Low,,,
+2022-09-23 00:00,EUR,German Flash Services PMI,High,47.2,47.7,45.4
+2022-09-23 00:00,GBP,Flash Services PMI,High,49.9,50.9,49.2
+2022-09-23 00:00,USD,Flash Manufacturing PMI,Medium,51.0,51.5,51.8
+2022-09-23 03:15,EUR,French Flash Services PMI,High,50.5,51.2,53.0
+2022-09-23 03:30,EUR,German Flash Manufacturing PMI,High,48.3,49.1,48.3
+2022-09-23 04:00,EUR,Flash Manufacturing PMI,Low,48.7,49.6,48.5
+2022-09-23 04:30,GBP,Flash Manufacturing PMI,High,47.4,47.3,48.5
+2022-09-23 06:00,GBP,CBI Realized Sales,Low,9,37,-20
+2022-09-23 08:30,CAD,Core Retail Sales m/m,Medium,-1.0%,0.6%,-3.1%
+2022-09-23 09:45,USD,Flash Services PMI,High,45.5,43.7,49.2
+2022-09-23 11:30,CHF,SNB Chairman Jordan Speaks,Medium,,,
+2022-09-23 14:00,USD,Fed Chair Powell Speaks,High,,,
+2022-09-25 16:29,EUR,Italian Parliamentary Election,High,,,
+2022-09-25 19:01,GBP,Rightmove HPI m/m,Low,,-1.3%,0.7%
+2022-09-25 20:30,JPY,Flash Manufacturing PMI,Low,51.3,51.5,51.0
+2022-09-26 00:00,EUR,ECB President Lagarde Speaks,High,,,
+2022-09-26 01:36,JPY,BOJ Gov Kuroda Speaks,Medium,,,
+2022-09-26 03:00,EUR,German Buba President Nagel Speaks,Low,,,
+2022-09-26 04:00,EUR,German ifo Business Climate,Medium,86.9,88.6,84.3
+2022-09-26 08:59,EUR,Belgian NBB Business Climate,Low,-8.9,-5.8,-11.8
+2022-09-26 09:00,CNY,CB Leading Index m/m,Low,,-0.3%,-0.5%
+2022-09-26 10:00,USD,FOMC Member Collins Speaks,Low,,,
+2022-09-26 12:00,GBP,MPC Member Tenreyro Speaks,Low,,,
+2022-09-26 13:00,EUR,German Buba President Nagel Speaks,Low,,,
+2022-09-26 16:00,USD,FOMC Member Mester Speaks,Medium,,,
+2022-09-26 19:50,JPY,SPPI y/y,Low,2.4%,2.0%,1.9%
+2022-09-27 00:00,EUR,Private Loans y/y,Low,4.5%,4.5%,4.5%
+2022-09-27 00:00,USD,Durable Goods Orders m/m,Medium,0.1%,-0.1%,-0.2%
+2022-09-27 00:00,USD,Fed Chair Powell Speaks,High,,,
+2022-09-27 00:00,USD,New Home Sales,Medium,500K,532K,685K
+2022-09-27 00:00,USD,Richmond Manufacturing Index,Medium,-10,-8,0
+2022-09-27 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,17.1%,18.6%,16.1%
+2022-09-27 04:00,EUR,M3 Money Supply y/y,Low,5.4%,5.7%,6.1%
+2022-09-27 07:30,EUR,ECB President Lagarde Speaks,Medium,,,
+2022-09-27 08:30,USD,Core Durable Goods Orders m/m,Medium,0.3%,0.2%,0.2%
+2022-09-27 09:00,USD,HPI m/m,Low,0.0%,0.1%,-0.6%
+2022-09-27 09:35,GBP,MPC Member Pill Speaks,Low,,,
+2022-09-27 09:55,USD,FOMC Member Bullard Speaks,Medium,,,
+2022-09-27 10:00,USD,CB Consumer Confidence,High,104.0,103.6,108.0
+2022-09-27 19:01,GBP,BRC Shop Price Index y/y,Low,,5.1%,5.7%
+2022-09-27 19:50,JPY,Monetary Policy Meeting Minutes,Low,,,
+2022-09-27 21:30,AUD,Retail Sales m/m,Low,0.5%,1.3%,0.6%
+2022-09-28 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.4%,0.6%,1.3%
+2022-09-28 02:00,EUR,German GfK Consumer Climate,Low,-38.9,-36.8,-42.5
+2022-09-28 03:15,EUR,ECB President Lagarde Speaks,Medium,,,
+2022-09-28 04:00,CHF,UBS Economic Expectations,Low,,-56.3,-69.2
+2022-09-28 04:15,GBP,MPC Member Cunliffe Speaks,Low,,,
+2022-09-28 08:30,USD,Goods Trade Balance,Low,-88.9B,-90.2B,-87.3B
+2022-09-28 09:00,CHF,SNB Quarterly Bulletin,Low,,,
+2022-09-28 10:00,USD,Pending Home Sales m/m,Medium,-0.9%,-0.6%,-2.0%
+2022-09-28 10:10,USD,FOMC Member Bullard Speaks,Medium,,,
+2022-09-28 10:15,USD,Fed Chair Powell Speaks,Medium,,,
+2022-09-28 10:30,USD,Crude Oil Inventories,Low,2.0M,1.1M,-0.2M
+2022-09-28 11:00,USD,FOMC Member Bowman Speaks,Low,,,
+2022-09-28 14:00,GBP,MPC Member Dhingra Speaks,Low,,,
+2022-09-28 20:00,NZD,ANZ Business Confidence,Low,,-47.8,-36.7
+2022-09-29 00:00,USD,Final GDP Price Index q/q,Low,8.9%,8.9%,9.0%
+2022-09-29 00:00,USD,Final GDP q/q,Medium,-0.6%,-0.6%,-0.6%
+2022-09-29 00:00,USD,Unemployment Claims,Medium,215K,209K,193K
+2022-09-29 03:00,EUR,Spanish Flash CPI y/y,Low,10.1%,10.5%,9.0%
+2022-09-29 05:15,EUR,Italian 10-y Bond Auction,Low,,3.76|1.5,4.70|1.4
+2022-09-29 07:30,GBP,MPC Member Ramsden Speaks,Low,,,
+2022-09-29 07:45,CHF,Gov Board Member Maechler Speaks,Medium,,,
+2022-09-29 08:30,CAD,GDP m/m,High,-0.1%,0.1%,0.1%
+2022-09-29 09:00,NZD,RBNZ Gov Orr Speaks,High,,,
+2022-09-29 09:30,USD,FOMC Member Bullard Speaks,Medium,,,
+2022-09-29 10:30,USD,Natural Gas Storage,Low,93B,103B,103B
+2022-09-29 13:00,USD,FOMC Member Mester Speaks,Medium,,,
+2022-09-29 16:29,EUR,German Prelim CPI m/m,Low,1.5%,0.3%,1.9%
+2022-09-29 17:45,NZD,Building Consents m/m,Low,,4.9%,-1.6%
+2022-09-29 19:30,JPY,Unemployment Rate,Low,2.5%,2.6%,2.5%
+2022-09-29 19:50,JPY,Prelim Industrial Production m/m,Low,-0.2%,0.8%,2.7%
+2022-09-29 21:30,AUD,Private Sector Credit m/m,Low,0.7%,0.8%,0.8%
+2022-09-29 21:45,CNY,Caixin Manufacturing PMI,Low,49.7,49.5,48.1
+2022-09-30 00:00,CNY,Manufacturing PMI,Low,49.4,49.4,50.1
+2022-09-30 00:00,CNY,Non-Manufacturing PMI,Low,52.6,52.6,50.6
+2022-09-30 00:00,EUR,CPI Flash Estimate y/y,Medium,9.7%,9.1%,10.0%
+2022-09-30 00:00,EUR,French Prelim CPI m/m,Low,-0.2%,0.5%,-0.5%
+2022-09-30 00:00,EUR,Italian Prelim CPI m/m,Low,-0.4%,0.8%,0.3%
+2022-09-30 00:00,EUR,Unemployment Rate,Low,6.6%,6.6%,6.6%
+2022-09-30 00:00,GBP,Final GDP q/q,Low,-0.1%,-0.1%,0.2%
+2022-09-30 00:00,GBP,Mortgage Approvals,Low,63K,64K,74K
+2022-09-30 00:00,GBP,Nationwide HPI m/m,Low,0.2%,0.7%,0.0%
+2022-09-30 00:00,GBP,Net Lending to Individuals m/m,Low,6.4B,6.6B,7.2B
+2022-09-30 00:00,GBP,Revised Business Investment q/q,Low,3.7%,3.8%,3.7%
+2022-09-30 00:00,JPY,Housing Starts y/y,Low,-4.0%,-5.4%,4.6%
+2022-09-30 00:00,JPY,Retail Sales y/y,Low,2.8%,2.4%,4.1%
+2022-09-30 00:00,USD,Personal Income m/m,Low,0.3%,0.3%,0.3%
+2022-09-30 00:00,USD,Personal Spending m/m,Low,0.2%,-0.2%,0.4%
+2022-09-30 00:00,USD,Revised UoM Inflation Expectations,Low,,4.6%,4.7%
+2022-09-30 01:02,JPY,Consumer Confidence,Low,33.6,32.5,30.8
+2022-09-30 02:00,GBP,Current Account,Low,-43.2B,-43.9B,-33.8B
+2022-09-30 02:30,CHF,Retail Sales y/y,Low,2.8%,3.0%,3.0%
+2022-09-30 02:45,EUR,French Consumer Spending m/m,Low,-0.1%,-0.9%,0.0%
+2022-09-30 03:00,CHF,KOF Economic Barometer,Low,85.0,93.5,93.8
+2022-09-30 03:55,EUR,German Unemployment Change,Low,20K,26K,14K
+2022-09-30 04:00,EUR,Italian Monthly Unemployment Rate,Low,7.9%,7.9%,7.8%
+2022-09-30 04:30,GBP,M4 Money Supply m/m,Low,0.5%,0.5%,-0.2%
+2022-09-30 05:00,EUR,Core CPI Flash Estimate y/y,Medium,4.7%,4.3%,4.8%
+2022-09-30 08:30,USD,Core PCE Price Index m/m,High,0.5%,0.0%,0.6%
+2022-09-30 09:00,USD,FOMC Member Brainard Speaks,Medium,,,
+2022-09-30 09:45,USD,Chicago PMI,Low,51.6,52.2,45.7
+2022-09-30 10:00,USD,Revised UoM Consumer Sentiment,Medium,59.5,59.5,58.6
+2022-09-30 11:00,USD,FOMC Member Bowman Speaks,Low,,,
+2022-09-30 16:15,USD,FOMC Member Williams Speaks,Low,,,

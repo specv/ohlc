@@ -1,0 +1,491 @@
+datetime,currency,title,impact,forecast,previous,actual
+2025-03-01 00:00,CNY,Non-Manufacturing PMI,Medium,50.4,50.2,50.4
+2025-03-02 16:45,NZD,Overseas Trade Index q/q,Low,1.5%,2.5%,3.1%
+2025-03-02 19:00,AUD,MI Inflation Gauge m/m,Low,,0.1%,-0.2%
+2025-03-02 19:30,AUD,ANZ Job Advertisements m/m,Low,,1.3%,-1.4%
+2025-03-02 20:45,CNY,Caixin Manufacturing PMI,Low,50.4,50.1,50.8
+2025-03-03 00:00,AUD,Company Operating Profits q/q,Low,1.7%,-4.9%,5.9%
+2025-03-03 00:00,EUR,CPI Flash Estimate y/y,Medium,2.3%,2.5%,2.4%
+2025-03-03 00:00,GBP,M4 Money Supply m/m,Low,0.2%,0.1%,1.3%
+2025-03-03 00:00,GBP,Mortgage Approvals,Low,66K,67K,66K
+2025-03-03 00:00,GBP,Net Lending to Individuals m/m,Low,4.7B,4.4B,5.9B
+2025-03-03 00:00,JPY,Final Manufacturing PMI,Low,48.9,48.9,49.0
+2025-03-03 00:00,USD,Construction Spending m/m,Low,-0.1%,0.5%,-0.2%
+2025-03-03 00:00,USD,ISM Manufacturing Prices,Medium,56.2,54.9,62.4
+2025-03-03 00:30,AUD,Commodity Prices y/y,Low,,-10.7%,-8.2%
+2025-03-03 03:15,EUR,Spanish Manufacturing PMI,Low,51.3,50.9,49.7
+2025-03-03 03:30,CHF,Manufacturing PMI,Low,48.3,47.5,49.6
+2025-03-03 03:45,EUR,Italian Manufacturing PMI,Low,46.6,46.3,47.4
+2025-03-03 03:50,EUR,French Final Manufacturing PMI,Low,45.5,45.5,45.8
+2025-03-03 03:55,EUR,German Final Manufacturing PMI,Low,46.1,46.1,46.5
+2025-03-03 04:00,EUR,Final Manufacturing PMI,Low,47.3,47.3,47.6
+2025-03-03 04:30,GBP,Final Manufacturing PMI,Low,46.4,46.4,46.9
+2025-03-03 05:00,EUR,Core CPI Flash Estimate y/y,Medium,2.5%,2.7%,2.6%
+2025-03-03 09:30,CAD,Manufacturing PMI,Low,,51.6,47.8
+2025-03-03 09:45,USD,Final Manufacturing PMI,Medium,51.6,51.6,52.7
+2025-03-03 10:00,USD,ISM Manufacturing PMI,High,50.6,50.9,50.3
+2025-03-03 12:05,USD,FOMC Member Musalem Speaks,Low,,,
+2025-03-03 14:39,USD,President Trump Speaks,Medium,,,
+2025-03-03 15:29,USD,Wards Total Vehicle Sales,Low,16.1M,15.6M,16.0M
+2025-03-03 16:45,NZD,Building Consents m/m,Low,,-5.6%,2.6%
+2025-03-03 18:30,JPY,Unemployment Rate,Low,2.4%,2.4%,2.5%
+2025-03-03 18:50,JPY,Capital Spending q/y,Low,4.9%,8.1%,-0.2%
+2025-03-03 19:01,GBP,BRC Shop Price Index y/y,Low,,-0.7%,-0.7%
+2025-03-03 19:30,AUD,Monetary Policy Meeting Minutes,Medium,,,
+2025-03-03 22:35,JPY,10-y Bond Auction,Low,,1.26|3.2,1.40|2.7
+2025-03-04 00:00,AUD,Current Account,Low,-11.8B,-13.9B,-12.5B
+2025-03-04 00:00,AUD,Retail Sales m/m,Medium,0.3%,-0.1%,0.3%
+2025-03-04 00:00,JPY,Consumer Confidence,Low,35.2,35.2,35.0
+2025-03-04 00:00,JPY,Monetary Base y/y,Low,-1.8%,-2.5%,-1.8%
+2025-03-04 02:45,EUR,French Gov Budget Balance,Low,,-156.3B,-17.3B
+2025-03-04 03:00,EUR,Spanish Unemployment Change,Low,45.2K,38.7K,-6.0K
+2025-03-04 04:00,EUR,Italian Monthly Unemployment Rate,Low,6.2%,6.4%,6.3%
+2025-03-04 05:00,EUR,Unemployment Rate,Low,6.3%,6.2%,6.2%
+2025-03-04 05:03,GBP,30-y Bond Auction,Low,,4.98|3.2,5.10|2.8
+2025-03-04 09:32,NZD,GDT Price Index,Low,,-0.6%,-0.5%
+2025-03-04 10:06,USD,RCM/TIPP Economic Optimism,Low,53.1,52.0,49.8
+2025-03-04 14:20,USD,FOMC Member Williams Speaks,Low,,,
+2025-03-04 16:30,USD,API Weekly Statistical Bulletin,Low,,,
+2025-03-04 16:45,AUD,RBA Deputy Gov Hauser Speaks,Low,,,
+2025-03-04 19:00,NZD,ANZ Commodity Prices m/m,Low,,1.8%,3.0%
+2025-03-04 19:30,AUD,GDP q/q,High,0.6%,0.3%,0.6%
+2025-03-04 20:45,CNY,Caixin Services PMI,Low,50.8,51.0,51.4
+2025-03-04 21:10,USD,President Trump Speaks,High,,,
+2025-03-05 00:00,EUR,Italian Retail Sales m/m,Low,0.3%,0.6%,-0.4%
+2025-03-05 00:00,JPY,BOJ Gov Ueda Speaks,Medium,,,
+2025-03-05 00:00,USD,Factory Orders m/m,Low,1.7%,-0.6%,1.7%
+2025-03-05 02:30,CHF,CPI m/m,High,0.5%,-0.1%,0.6%
+2025-03-05 02:45,EUR,French Industrial Production m/m,Low,0.5%,-0.5%,-0.6%
+2025-03-05 03:15,EUR,Spanish Services PMI,Low,55.4,54.9,56.2
+2025-03-05 03:45,EUR,Italian Services PMI,Low,50.9,50.4,53.0
+2025-03-05 03:50,EUR,French Final Services PMI,Low,44.6,44.5,45.3
+2025-03-05 03:55,EUR,German Final Services PMI,Low,52.2,52.2,51.1
+2025-03-05 04:00,EUR,Final Services PMI,Low,50.7,50.7,50.6
+2025-03-05 04:30,GBP,Final Services PMI,Low,51.1,51.1,51.0
+2025-03-05 05:00,EUR,PPI m/m,Low,0.3%,0.5%,0.8%
+2025-03-05 08:15,USD,ADP Non-Farm Employment Change,High,141K,186K,77K
+2025-03-05 08:30,CAD,Labor Productivity q/q,Low,0.6%,0.1%,0.6%
+2025-03-05 09:30,GBP,Monetary Policy Report Hearings,Medium,,,
+2025-03-05 09:45,USD,Final Services PMI,Medium,49.7,49.7,51.0
+2025-03-05 10:00,USD,ISM Services PMI,High,52.5,52.8,53.5
+2025-03-05 10:30,USD,Crude Oil Inventories,Low,0.6M,-2.3M,3.6M
+2025-03-05 14:00,USD,Beige Book,Low,,,
+2025-03-05 19:30,AUD,Building Approvals m/m,Low,-0.1%,1.7%,6.3%
+2025-03-05 22:35,JPY,30-y Bond Auction,Low,,2.29|3.7,2.50|3.5
+2025-03-06 00:00,AUD,Goods Trade Balance,Low,5.85B,4.92B,5.62B
+2025-03-06 00:00,EUR,Monetary Policy Statement,High,,,
+2025-03-06 00:00,GBP,MPC Member Mann Speaks,Low,,,
+2025-03-06 00:00,NZD,RBNZ Gov Orr Speaks,Medium,,,
+2025-03-06 00:00,USD,FOMC Member Harker Speaks,Low,,,
+2025-03-06 00:00,USD,Final Wholesale Inventories m/m,Low,0.7%,0.7%,0.8%
+2025-03-06 00:00,USD,Revised Nonfarm Productivity q/q,Low,1.2%,1.2%,1.5%
+2025-03-06 00:00,USD,Revised Unit Labor Costs q/q,Low,3.0%,3.0%,2.2%
+2025-03-06 00:00,USD,Trade Balance,Low,-128.3B,-98.1B,-131.4B
+2025-03-06 00:00,USD,Unemployment Claims,High,234K,242K,221K
+2025-03-06 01:45,CHF,Unemployment Rate,Low,2.7%,2.7%,2.7%
+2025-03-06 04:30,GBP,Construction PMI,Medium,49.5,48.1,44.6
+2025-03-06 04:40,EUR,Spanish 10-y Bond Auction,Low,,2.74|2.6,3.51|1.9
+2025-03-06 04:59,EUR,French 10-y Bond Auction,Low,,3.15|2.2,3.51|2.7
+2025-03-06 05:00,EUR,Retail Sales m/m,Low,0.1%,0.0%,-0.3%
+2025-03-06 07:30,USD,Challenger Job Cuts y/y,Low,,-39.5%,103.2%
+2025-03-06 08:15,EUR,Main Refinancing Rate,High,2.65%,2.90%,2.65%
+2025-03-06 08:30,CAD,Trade Balance,Low,1.4B,1.7B,4.0B
+2025-03-06 08:45,EUR,ECB Press Conference,High,,,
+2025-03-06 10:00,CAD,Ivey PMI,Medium,50.6,47.1,55.3
+2025-03-06 10:30,USD,Natural Gas Storage,Low,-96B,-261B,-80B
+2025-03-06 14:39,USD,President Trump Speaks,Medium,,,
+2025-03-06 15:29,EUR,Euro Summit,High,,,
+2025-03-06 19:00,USD,FOMC Member Bostic Speaks,Low,,,
+2025-03-06 22:02,CNY,USD-Denominated Trade Balance,Low,147.5B,104.8B,170.5B
+2025-03-06 22:03,CNY,Trade Balance,Low,990B,753B,1220B
+2025-03-07 00:00,CAD,Capacity Utilization Rate,Low,79.2%,79.4%,79.8%
+2025-03-07 00:00,CAD,Unemployment Rate,High,6.7%,6.6%,6.6%
+2025-03-07 00:00,EUR,Revised GDP q/q,Low,0.1%,0.1%,0.2%
+2025-03-07 00:00,GBP,Halifax HPI m/m,Low,0.5%,0.6%,-0.1%
+2025-03-07 00:00,USD,Average Hourly Earnings m/m,High,0.3%,0.4%,0.3%
+2025-03-07 00:00,USD,Consumer Credit m/m,Low,15.6B,37.1B,18.1B
+2025-03-07 00:00,USD,FOMC Member Waller Speaks,Medium,,,
+2025-03-07 00:00,USD,Non-Farm Employment Change,High,159K,125K,151K
+2025-03-07 00:00,USD,Unemployment Rate,High,4.0%,4.0%,4.1%
+2025-03-07 02:00,EUR,German Factory Orders m/m,Low,-2.4%,5.9%,-7.0%
+2025-03-07 02:45,EUR,French Trade Balance,Low,-4.1B,-3.5B,-6.5B
+2025-03-07 03:00,CHF,Foreign Currency Reserves,Low,,736B,735B
+2025-03-07 04:30,EUR,ECB President Lagarde Speaks,Medium,,,
+2025-03-07 05:00,EUR,Final Employment Change q/q,Low,0.1%,0.1%,0.1%
+2025-03-07 08:30,CAD,Employment Change,High,19.7K,76.0K,1.1K
+2025-03-07 10:15,USD,FOMC Member Bowman Speaks,Low,,,
+2025-03-07 10:45,USD,FOMC Member Williams Speaks,Low,,,
+2025-03-07 11:00,USD,President Trump Speaks,Medium,,,
+2025-03-07 12:20,USD,FOMC Member Kugler Speaks,Low,,,
+2025-03-07 12:30,USD,Fed Chair Powell Speaks,High,,,
+2025-03-07 13:00,USD,FOMC Member Kugler Speaks,Low,,,
+2025-03-07 15:00,USD,President Trump Speaks,Medium,,,
+2025-03-08 20:30,CNY,CPI y/y,Medium,-0.4%,0.5%,-0.7%
+2025-03-09 00:00,CNY,PPI y/y,Medium,-2.0%,-2.3%,-2.2%
+2025-03-09 19:30,JPY,Average Cash Earnings y/y,Low,3.2%,4.4%,2.8%
+2025-03-09 19:50,JPY,Bank Lending y/y,Low,3.1%,2.9%,3.1%
+2025-03-10 00:00,EUR,German Trade Balance,Low,21.0B,20.7B,16.0B
+2025-03-10 00:00,JPY,Current Account,Low,1.97T,2.73T,1.94T
+2025-03-10 01:00,JPY,Leading Indicators,Low,108.1%,108.3%,108.0%
+2025-03-10 02:00,JPY,Economy Watchers Sentiment,Low,48.5,48.6,45.6
+2025-03-10 03:00,EUR,German Industrial Production m/m,Low,1.6%,-1.5%,2.0%
+2025-03-10 03:59,CHF,SECO Consumer Climate,Low,-28,-29,-34
+2025-03-10 05:30,EUR,Sentix Investor Confidence,Low,-9.1,-12.7,-2.9
+2025-03-10 16:29,EUR,Eurogroup Meetings,Low,,,
+2025-03-10 17:45,NZD,Manufacturing Sales q/q,Low,,0.2%,2.6%
+2025-03-10 19:01,AUD,Westpac Consumer Sentiment,Low,,0.1%,4.0%
+2025-03-10 19:30,JPY,Household Spending y/y,Low,3.7%,2.7%,0.8%
+2025-03-10 19:50,JPY,Final GDP Price Index y/y,Low,2.8%,2.8%,2.9%
+2025-03-10 20:01,GBP,BRC Retail Sales Monitor y/y,Low,1.9%,2.5%,0.9%
+2025-03-10 20:30,AUD,NAB Business Confidence,Low,,5,-1
+2025-03-11 00:00,JPY,Final GDP q/q,Low,0.7%,0.7%,0.6%
+2025-03-11 00:00,JPY,M2 Money Stock y/y,Low,1.4%,1.3%,1.2%
+2025-03-11 01:58,JPY,Prelim Machine Tool Orders y/y,Low,,4.7%,3.5%
+2025-03-11 06:00,USD,NFIB Small Business Index,Low,100.9,102.8,100.7
+2025-03-11 09:30,GBP,CB Leading Index m/m,Low,,0.0%,-0.3%
+2025-03-11 10:00,USD,JOLTS Job Openings,High,7.65M,7.51M,7.74M
+2025-03-11 16:29,EUR,ECOFIN Meetings,Low,,,
+2025-03-11 17:00,USD,President Trump Speaks,Medium,,,
+2025-03-11 19:50,JPY,BSI Manufacturing Index,Low,6.5,6.3,-2.4
+2025-03-12 00:00,CAD,Overnight Rate,High,2.75%,3.00%,2.75%
+2025-03-12 00:00,EUR,German Buba President Nagel Speaks,Low,,,
+2025-03-12 00:00,JPY,PPI y/y,Low,4.0%,4.2%,4.0%
+2025-03-12 00:00,USD,API Weekly Statistical Bulletin,Low,,,
+2025-03-12 00:00,USD,CPI m/m,High,0.3%,0.5%,0.2%
+2025-03-12 00:00,USD,CPI y/y,High,2.9%,3.0%,2.8%
+2025-03-12 00:00,USD,Crude Oil Inventories,Low,2.1M,3.6M,1.4M
+2025-03-12 04:45,EUR,ECB President Lagarde Speaks,Medium,,,
+2025-03-12 06:09,GBP,10-y Bond Auction,Low,,4.81|2.8,4.68|2.9
+2025-03-12 06:31,EUR,German 10-y Bond Auction,Low,,2.52|2.8,2.92|2.1
+2025-03-12 08:30,USD,CPI m/m,,0.3%,0.5%,0.2%
+2025-03-12 08:30,USD,CPI y/y,,2.9%,3.0%,2.8%
+2025-03-12 08:30,USD,Core CPI m/m,High,0.3%,0.4%,0.2%
+2025-03-12 09:45,CAD,BOC Rate Statement,High,,,
+2025-03-12 09:45,CAD,Overnight Rate,,2.75%,3.00%,2.75%
+2025-03-12 09:45,EUR,German Buba President Nagel Speaks,,,,
+2025-03-12 10:30,CAD,BOC Press Conference,High,,,
+2025-03-12 10:30,USD,Crude Oil Inventories,,2.1M,3.6M,1.4M
+2025-03-12 13:01,USD,10-y Bond Auction,Low,,4.63|2.5,4.31|2.6
+2025-03-12 14:00,USD,Federal Budget Balance,Low,-302.5B,-128.6B,-307.0B
+2025-03-12 17:45,NZD,Visitor Arrivals m/m,Low,,3.8%,1.9%
+2025-03-12 20:00,AUD,MI Inflation Expectations,Low,,4.6%,3.6%
+2025-03-12 20:01,GBP,RICS House Price Balance,Low,20%,21%,11%
+2025-03-13 00:00,USD,Core PPI m/m,High,0.3%,0.5%,-0.1%
+2025-03-13 00:00,USD,PPI m/m,High,0.3%,0.6%,0.0%
+2025-03-13 00:00,USD,Unemployment Claims,High,226K,222K,220K
+2025-03-13 03:30,CHF,PPI m/m,Low,0.2%,0.1%,0.3%
+2025-03-13 05:00,EUR,Italian Quarterly Unemployment Rate,Low,6.2%,6.3%,6.1%
+2025-03-13 06:00,EUR,Industrial Production m/m,Low,0.5%,-0.4%,0.8%
+2025-03-13 08:30,CAD,Building Permits m/m,Low,-5.3%,11.6%,-3.2%
+2025-03-13 10:30,USD,Natural Gas Storage,Low,-46B,-80B,-62B
+2025-03-13 13:01,USD,30-y Bond Auction,Low,,4.75|2.3,4.62|2.4
+2025-03-13 13:30,EUR,German Buba President Nagel Speaks,Low,,,
+2025-03-13 17:30,NZD,BusinessNZ Manufacturing Index,Low,,51.7,53.9
+2025-03-13 17:45,NZD,FPI m/m,Low,,1.9%,-0.5%
+2025-03-14 00:00,CAD,Wholesale Sales m/m,Low,1.9%,0.3%,1.2%
+2025-03-14 00:00,CNY,M2 Money Supply y/y,Low,7.0%,7.0%,7.0%
+2025-03-14 00:00,EUR,German WPI m/m,Low,0.2%,0.9%,0.6%
+2025-03-14 00:00,GBP,Construction Output m/m,Low,-0.1%,-0.2%,-0.2%
+2025-03-14 00:00,GBP,GDP m/m,High,0.1%,0.4%,-0.1%
+2025-03-14 00:00,GBP,Index of Services 3m/3m,Low,0.3%,0.2%,0.4%
+2025-03-14 00:00,GBP,Industrial Production m/m,Low,-0.1%,0.5%,-0.9%
+2025-03-14 00:00,GBP,Manufacturing Production m/m,Low,0.0%,0.7%,-1.1%
+2025-03-14 00:00,USD,Prelim UoM Inflation Expectations,High,,4.3%,4.9%
+2025-03-14 03:00,EUR,German Final CPI m/m,Low,0.4%,0.4%,0.4%
+2025-03-14 03:45,EUR,French Final CPI m/m,Low,0.0%,0.0%,0.0%
+2025-03-14 05:00,EUR,Italian Industrial Production m/m,Low,1.5%,-2.7%,3.2%
+2025-03-14 05:02,CNY,Foreign Direct Investment ytd/y,Low,,-13.4%,-20.4%
+2025-03-14 05:03,CNY,New Loans,Medium,2150B,5130B,1010B
+2025-03-14 05:30,GBP,Consumer Inflation Expectations,Low,,3.0%,3.4%
+2025-03-14 06:27,GBP,NIESR GDP Estimate,Low,,0.2%,0.4%
+2025-03-14 08:30,CAD,Manufacturing Sales m/m,Low,2.0%,0.5%,1.7%
+2025-03-14 10:00,USD,Prelim UoM Consumer Sentiment,High,63.1,64.7,57.9
+2025-03-14 15:00,USD,President Trump Speaks,Medium,,,
+2025-03-16 17:30,NZD,BusinessNZ Services Index,Low,,50.4,49.1
+2025-03-16 20:01,GBP,Rightmove HPI m/m,Low,,0.5%,1.1%
+2025-03-16 21:30,CNY,New Home Prices m/m,Low,,-0.07%,-0.14%
+2025-03-16 22:00,CNY,Industrial Production y/y,Medium,5.3%,6.2%,5.9%
+2025-03-17 00:00,CNY,Fixed Asset Investment ytd/y,Low,3.2%,3.2%,4.1%
+2025-03-17 00:00,CNY,NBS Press Conference,Low,,,
+2025-03-17 00:00,CNY,Retail Sales y/y,Medium,3.8%,3.7%,4.0%
+2025-03-17 00:00,CNY,Unemployment Rate,Low,5.1%,5.1%,5.4%
+2025-03-17 00:00,USD,Core Retail Sales m/m,High,0.3%,-0.6%,0.3%
+2025-03-17 00:00,USD,Empire State Manufacturing Index,Medium,-1.9,5.7,-20.0
+2025-03-17 00:00,USD,NAHB Housing Market Index,Low,42,42,39
+2025-03-17 00:00,USD,Retail Sales m/m,High,0.6%,-1.2%,0.2%
+2025-03-17 08:15,CAD,Housing Starts,Low,246K,239K,229K
+2025-03-17 08:30,CAD,Foreign Securities Purchases,Low,17.44B,13.94B,7.91B
+2025-03-17 10:00,USD,Business Inventories m/m,Low,0.3%,-0.2%,0.3%
+2025-03-17 19:15,AUD,RBA Assist Gov Hunter Speaks,Low,,,
+2025-03-18 00:00,CAD,Common CPI y/y,Medium,2.2%,2.2%,2.5%
+2025-03-18 00:00,CAD,Median CPI y/y,High,2.7%,2.7%,2.9%
+2025-03-18 00:00,CAD,Trimmed CPI y/y,High,2.8%,2.7%,2.9%
+2025-03-18 00:00,EUR,Trade Balance,Low,14.0B,14.2B,14.0B
+2025-03-18 00:00,EUR,ZEW Economic Sentiment,Low,43.6,24.2,39.8
+2025-03-18 00:00,USD,Building Permits,Low,1.45M,1.47M,1.46M
+2025-03-18 00:00,USD,Housing Starts,Low,1.38M,1.35M,1.50M
+2025-03-18 00:00,USD,Import Prices m/m,Low,-0.1%,0.4%,0.4%
+2025-03-18 00:00,USD,Industrial Production m/m,Low,0.2%,0.3%,0.7%
+2025-03-18 00:30,JPY,Tertiary Industry Activity m/m,Low,-0.1%,0.4%,-0.3%
+2025-03-18 04:00,CHF,SECO Economic Forecasts,Low,,,
+2025-03-18 05:00,EUR,Italian Trade Balance,Low,5.15B,5.82B,-0.26B
+2025-03-18 06:00,EUR,German ZEW Economic Sentiment,Medium,48.1,26.0,51.6
+2025-03-18 08:30,CAD,CPI m/m,High,0.6%,0.1%,1.1%
+2025-03-18 08:32,CAD,Core CPI m/m,Low,,0.4%,0.7%
+2025-03-18 09:15,USD,Capacity Utilization Rate,Low,77.8%,77.7%,78.2%
+2025-03-18 10:30,AUD,CB Leading Index m/m,Low,,0.4%,0.5%
+2025-03-18 11:13,NZD,GDT Price Index,Low,,-0.5%,0.0%
+2025-03-18 16:00,NZD,Westpac Consumer Sentiment,Low,,97.5,89.2
+2025-03-18 17:45,NZD,Current Account,Low,-6.68B,-10.84B,-7.04B
+2025-03-18 19:30,AUD,MI Leading Index m/m,Low,,0.1%,0.1%
+2025-03-18 19:50,JPY,Core Machinery Orders m/m,Low,-0.1%,-1.2%,-3.5%
+2025-03-18 22:25,JPY,BOJ Policy Rate,High,<0.50%,<0.50%,<0.50%
+2025-03-19 00:00,EUR,Final CPI y/y,Low,2.4%,2.5%,2.3%
+2025-03-19 00:00,JPY,Monetary Policy Statement,High,,,
+2025-03-19 00:00,JPY,Trade Balance,Low,0.50T,-0.60T,0.18T
+2025-03-19 00:00,USD,API Weekly Statistical Bulletin,Low,,,
+2025-03-19 00:00,USD,FOMC Economic Projections,High,,,
+2025-03-19 00:00,USD,FOMC Statement,High,,,
+2025-03-19 00:30,JPY,Revised Industrial Production m/m,Low,-1.1%,-1.1%,-1.1%
+2025-03-19 02:30,JPY,BOJ Press Conference,High,,,
+2025-03-19 06:00,EUR,Final Core CPI y/y,Low,2.6%,2.6%,2.6%
+2025-03-19 06:33,EUR,German 30-y Bond Auction,Low,,2.70|2.5,3.08|1.9
+2025-03-19 10:30,USD,Crude Oil Inventories,Low,0.8M,1.4M,1.7M
+2025-03-19 14:00,USD,Federal Funds Rate,High,4.50%,4.50%,4.50%
+2025-03-19 14:30,USD,FOMC Press Conference,High,,,
+2025-03-19 16:00,USD,TIC Long-Term Purchases,Low,101.1B,75.0B,-45.2B
+2025-03-19 17:45,NZD,GDP q/q,High,0.4%,-1.1%,0.7%
+2025-03-19 20:30,AUD,Employment Change,High,30.8K,30.5K,-52.8K
+2025-03-19 21:00,CNY,1-y Loan Prime Rate,Medium,3.10%,3.10%,3.10%
+2025-03-20 00:00,AUD,Unemployment Rate,High,4.1%,4.1%,4.1%
+2025-03-20 00:00,CAD,RMPI m/m,Low,-0.3%,3.5%,0.3%
+2025-03-20 00:00,CHF,SNB Policy Rate,High,0.25%,0.50%,0.25%
+2025-03-20 00:00,CNY,5-y Loan Prime Rate,Medium,3.60%,3.60%,3.60%
+2025-03-20 00:00,EUR,ECB Economic Bulletin,Low,,,
+2025-03-20 00:00,EUR,German PPI m/m,Low,0.2%,-0.1%,-0.2%
+2025-03-20 00:00,GBP,Average Earnings Index 3m/y,Medium,5.8%,6.1%,5.8%
+2025-03-20 00:00,GBP,Claimant Count Change,High,7.9K,2.8K,44.2K
+2025-03-20 00:00,GBP,MPC Official Bank Rate Votes,High,0-2-7,0-9-0,0-1-8
+2025-03-20 00:00,GBP,Official Bank Rate,High,4.50%,4.50%,4.50%
+2025-03-20 00:00,GBP,Unemployment Rate,Low,4.4%,4.4%,4.4%
+2025-03-20 00:00,USD,CB Leading Index m/m,Low,-0.2%,-0.2%,-0.3%
+2025-03-20 00:00,USD,Current Account,Low,-330B,-310B,-304B
+2025-03-20 00:00,USD,Philly Fed Manufacturing Index,Medium,8.8,18.1,12.5
+2025-03-20 00:00,USD,Unemployment Claims,High,224K,221K,223K
+2025-03-20 03:00,CHF,Trade Balance,Low,5.01B,6.15B,4.80B
+2025-03-20 04:00,EUR,ECB President Lagarde Speaks,Medium,,,
+2025-03-20 04:30,CHF,SNB Monetary Policy Assessment,High,,,
+2025-03-20 05:00,CHF,SNB Press Conference,High,,,
+2025-03-20 05:40,EUR,Spanish 10-y Bond Auction,Low,,3.51|1.9,3.38|1.5
+2025-03-20 07:00,EUR,German Buba Monthly Report,Low,,,
+2025-03-20 08:00,GBP,Monetary Policy Summary,High,,,
+2025-03-20 08:30,CAD,IPPI m/m,Low,0.3%,1.4%,0.4%
+2025-03-20 10:00,USD,Existing Home Sales,Medium,3.95M,4.09M,4.26M
+2025-03-20 10:30,USD,Natural Gas Storage,Low,3B,-62B,9B
+2025-03-20 10:40,USD,President Trump Speaks,Medium,,,
+2025-03-20 12:50,CAD,BOC Gov Macklem Speaks,High,,,
+2025-03-20 17:45,NZD,Trade Balance,Low,-235M,-544M,510M
+2025-03-20 19:30,JPY,National Core CPI y/y,Medium,2.9%,3.2%,3.0%
+2025-03-20 20:01,GBP,GfK Consumer Confidence,Low,-20,-20,-19
+2025-03-20 22:00,NZD,Credit Card Spending y/y,Low,,1.3%,0.9%
+2025-03-21 00:00,CAD,NHPI m/m,Low,0.0%,-0.1%,0.1%
+2025-03-21 00:00,CAD,Retail Sales m/m,High,-0.4%,2.6%,-0.6%
+2025-03-21 03:00,GBP,Public Sector Net Borrowing,Low,7.0B,-13.3B,10.7B
+2025-03-21 05:00,EUR,Current Account,Low,,38.4B,35.4B
+2025-03-21 07:00,GBP,CBI Industrial Order Expectations,Low,-30,-28,-29
+2025-03-21 08:30,CAD,Core Retail Sales m/m,High,-0.1%,2.9%,0.2%
+2025-03-21 09:05,USD,FOMC Member Williams Speaks,Low,,,
+2025-03-21 11:00,EUR,Consumer Confidence,Low,-13,-14,-15
+2025-03-23 17:00,AUD,Flash Manufacturing PMI,Low,,50.4,52.6
+2025-03-23 18:00,AUD,Flash Manufacturing PMI,,,50.4,52.6
+2025-03-23 18:00,AUD,Flash Services PMI,,,50.8,51.2
+2025-03-23 19:30,JPY,Flash Manufacturing PMI,Low,49.2,49.0,48.3
+2025-03-23 20:30,JPY,Flash Manufacturing PMI,,49.2,49.0,48.3
+2025-03-24 00:00,AUD,Flash Services PMI,Low,,50.8,51.2
+2025-03-24 00:00,EUR,Flash Services PMI,Medium,51.2,50.6,50.4
+2025-03-24 00:00,EUR,French Flash Services PMI,High,46.3,45.3,46.6
+2025-03-24 00:00,EUR,German Flash Services PMI,High,52.3,51.1,50.2
+2025-03-24 00:00,GBP,Flash Services PMI,High,51.2,51.0,53.2
+2025-03-24 00:00,USD,Flash Services PMI,High,51.2,51.0,54.3
+2025-03-24 03:15,EUR,French Flash Manufacturing PMI,High,46.2,45.8,48.9
+2025-03-24 03:30,EUR,German Flash Manufacturing PMI,High,47.1,46.5,48.3
+2025-03-24 04:00,EUR,Flash Manufacturing PMI,Medium,48.3,47.6,48.7
+2025-03-24 04:15,EUR,French Flash Manufacturing PMI,,46.2,45.8,48.9
+2025-03-24 04:15,EUR,French Flash Services PMI,,46.3,45.3,46.6
+2025-03-24 04:30,EUR,German Flash Manufacturing PMI,,47.1,46.5,48.3
+2025-03-24 04:30,EUR,German Flash Services PMI,,52.3,51.1,50.2
+2025-03-24 04:30,GBP,Flash Manufacturing PMI,High,47.3,46.9,44.6
+2025-03-24 05:00,EUR,Flash Manufacturing PMI,,48.3,47.6,48.7
+2025-03-24 05:00,EUR,Flash Services PMI,,51.2,50.6,50.4
+2025-03-24 05:30,GBP,Flash Manufacturing PMI,,47.3,46.9,44.6
+2025-03-24 05:30,GBP,Flash Services PMI,,51.2,51.0,53.2
+2025-03-24 08:45,USD,Flash Manufacturing PMI,High,51.9,52.7,49.8
+2025-03-24 09:45,USD,Flash Manufacturing PMI,,51.9,52.7,49.8
+2025-03-24 09:45,USD,Flash Services PMI,,51.2,51.0,54.3
+2025-03-24 12:45,USD,FOMC Member Bostic Speaks,Low,,,
+2025-03-24 13:00,GBP,BOE Gov Bailey Speaks,High,,,
+2025-03-24 13:30,USD,President Trump Speaks,Medium,,,
+2025-03-24 13:45,USD,FOMC Member Bostic Speaks,,,,
+2025-03-24 14:00,GBP,BOE Gov Bailey Speaks,,,,
+2025-03-24 14:10,USD,FOMC Member Barr Speaks,Low,,,
+2025-03-24 14:30,USD,President Trump Speaks,,,,
+2025-03-24 15:10,USD,FOMC Member Barr Speaks,,,,
+2025-03-24 18:50,JPY,Monetary Policy Meeting Minutes,Low,,,
+2025-03-24 19:50,JPY,Monetary Policy Meeting Minutes,,,,
+2025-03-25 00:00,JPY,BOJ Core CPI y/y,Low,2.2%,2.2%,2.2%
+2025-03-25 00:00,USD,HPI m/m,Low,0.2%,0.5%,0.2%
+2025-03-25 00:00,USD,New Home Sales,Medium,682K,664K,676K
+2025-03-25 01:00,JPY,BOJ Core CPI y/y,,2.2%,2.2%,2.2%
+2025-03-25 03:30,AUD,Annual Budget Release,Low,,,
+2025-03-25 04:00,EUR,German ifo Business Climate,Medium,86.8,85.3,86.7
+2025-03-25 04:30,AUD,Annual Budget Release,,,,
+2025-03-25 05:00,EUR,German ifo Business Climate,,86.8,85.3,86.7
+2025-03-25 06:00,GBP,CBI Realized Sales,Low,-28,-23,-41
+2025-03-25 07:00,GBP,CBI Realized Sales,,-28,-23,-41
+2025-03-25 07:40,USD,FOMC Member Kugler Speaks,Low,,,
+2025-03-25 08:00,USD,S&P/CS Composite-20 HPI y/y,Medium,4.6%,4.5%,4.7%
+2025-03-25 08:05,USD,FOMC Member Williams Speaks,Low,,,
+2025-03-25 08:40,USD,FOMC Member Kugler Speaks,,,,
+2025-03-25 08:55,EUR,Belgian NBB Business Climate,Low,-11.4,-12.3,-15.1
+2025-03-25 08:59,USD,Richmond Manufacturing Index,Medium,8,6,-4
+2025-03-25 09:00,USD,CB Consumer Confidence,Medium,94.2,100.1,92.9
+2025-03-25 09:00,USD,HPI m/m,,0.2%,0.5%,0.2%
+2025-03-25 09:00,USD,S&P/CS Composite-20 HPI y/y,,4.6%,4.5%,4.7%
+2025-03-25 09:05,USD,FOMC Member Williams Speaks,,,,
+2025-03-25 09:55,EUR,Belgian NBB Business Climate,,-11.4,-12.3,-15.1
+2025-03-25 09:59,USD,Richmond Manufacturing Index,,8,6,-4
+2025-03-25 10:00,USD,CB Consumer Confidence,,94.2,100.1,92.9
+2025-03-25 10:00,USD,New Home Sales,,682K,664K,676K
+2025-03-25 11:00,EUR,German Buba President Nagel Speaks,Low,,,
+2025-03-25 12:00,EUR,German Buba President Nagel Speaks,,,,
+2025-03-25 16:30,USD,API Weekly Statistical Bulletin,,,,
+2025-03-25 18:50,JPY,SPPI y/y,Low,3.1%,3.2%,3.0%
+2025-03-25 19:30,AUD,CPI y/y,High,2.5%,2.5%,2.4%
+2025-03-25 19:50,JPY,SPPI y/y,,3.1%,3.2%,3.0%
+2025-03-25 20:30,AUD,CPI y/y,,2.5%,2.5%,2.4%
+2025-03-26 00:00,GBP,Core CPI y/y,Low,3.6%,3.7%,3.5%
+2025-03-26 00:00,GBP,RPI y/y,Low,3.5%,3.6%,3.4%
+2025-03-26 00:00,USD,API Weekly Statistical Bulletin,Low,,,
+2025-03-26 00:00,USD,Core Durable Goods Orders m/m,Medium,0.2%,0.1%,0.7%
+2025-03-26 00:00,USD,Durable Goods Orders m/m,Medium,-1.1%,3.2%,0.9%
+2025-03-26 00:00,USD,FOMC Member Kashkari Speaks,Low,,,
+2025-03-26 02:00,GBP,CPI y/y,High,3.0%,3.0%,2.8%
+2025-03-26 03:00,GBP,CPI y/y,,3.0%,3.0%,2.8%
+2025-03-26 03:00,GBP,Core CPI y/y,,3.6%,3.7%,3.5%
+2025-03-26 03:00,GBP,RPI y/y,,3.5%,3.6%,3.4%
+2025-03-26 04:00,CHF,UBS Economic Expectations,Low,,3.4,-10.7
+2025-03-26 04:30,GBP,HPI y/y,Low,4.4%,4.6%,4.9%
+2025-03-26 05:00,CHF,UBS Economic Expectations,,,3.4,-10.7
+2025-03-26 05:30,GBP,HPI y/y,,4.4%,4.6%,4.9%
+2025-03-26 07:30,GBP,Annual Budget Release,High,,,
+2025-03-26 08:00,CNY,CB Leading Index m/m,Low,,-0.3%,-0.3%
+2025-03-26 08:30,GBP,Annual Budget Release,,,,
+2025-03-26 08:30,USD,Core Durable Goods Orders m/m,,0.2%,0.1%,0.7%
+2025-03-26 08:30,USD,Durable Goods Orders m/m,,-1.1%,3.2%,0.9%
+2025-03-26 09:00,CHF,SNB Quarterly Bulletin,Low,,,
+2025-03-26 09:00,CNY,CB Leading Index m/m,,,-0.3%,-0.3%
+2025-03-26 09:30,USD,Crude Oil Inventories,Low,1.5M,1.7M,-3.3M
+2025-03-26 10:00,CHF,SNB Quarterly Bulletin,,,,
+2025-03-26 10:00,USD,FOMC Member Kashkari Speaks,,,,
+2025-03-26 10:30,USD,Crude Oil Inventories,,1.5M,1.7M,-3.3M
+2025-03-26 12:10,USD,FOMC Member Musalem Speaks,Low,,,
+2025-03-26 12:30,CAD,BOC Summary of Deliberations,Low,,,
+2025-03-26 13:10,USD,FOMC Member Musalem Speaks,,,,
+2025-03-26 13:30,CAD,BOC Summary of Deliberations,,,,
+2025-03-26 15:00,USD,President Trump Speaks,High,,,
+2025-03-26 16:00,USD,President Trump Speaks,,,,
+2025-03-26 20:00,USD,President Trump Speaks,Medium,,,
+2025-03-26 21:00,USD,President Trump Speaks,,,,
+2025-03-27 00:00,EUR,Private Loans y/y,Low,1.4%,1.3%,1.5%
+2025-03-27 00:00,USD,Final GDP Price Index q/q,Medium,2.4%,2.4%,2.3%
+2025-03-27 00:00,USD,Goods Trade Balance,Low,-134.6B,-155.6B,-147.9B
+2025-03-27 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.7%,0.8%,0.3%
+2025-03-27 00:00,USD,Unemployment Claims,High,225K,225K,224K
+2025-03-27 04:00,EUR,M3 Money Supply y/y,Low,3.8%,3.8%,4.0%
+2025-03-27 05:00,EUR,M3 Money Supply y/y,,3.8%,3.8%,4.0%
+2025-03-27 05:00,EUR,Private Loans y/y,,1.4%,1.3%,1.5%
+2025-03-27 05:00,GBP,MPC Member Dhingra Speaks,Low,,,
+2025-03-27 06:00,GBP,MPC Member Dhingra Speaks,,,,
+2025-03-27 07:30,USD,Final GDP q/q,High,2.3%,2.3%,2.4%
+2025-03-27 08:30,USD,Final GDP Price Index q/q,,2.4%,2.4%,2.3%
+2025-03-27 08:30,USD,Final GDP q/q,,2.3%,2.3%,2.4%
+2025-03-27 08:30,USD,Goods Trade Balance,,-134.6B,-155.6B,-147.9B
+2025-03-27 08:30,USD,Prelim Wholesale Inventories m/m,,0.7%,0.8%,0.3%
+2025-03-27 08:30,USD,Unemployment Claims,,225K,225K,224K
+2025-03-27 09:00,USD,Pending Home Sales m/m,Medium,0.9%,-4.6%,2.0%
+2025-03-27 09:30,USD,Natural Gas Storage,Low,37B,9B,37B
+2025-03-27 10:00,USD,Pending Home Sales m/m,,0.9%,-4.6%,2.0%
+2025-03-27 10:30,USD,Natural Gas Storage,,37B,9B,37B
+2025-03-27 13:05,EUR,ECB President Lagarde Speaks,Low,,,
+2025-03-27 14:05,EUR,ECB President Lagarde Speaks,,,,
+2025-03-27 16:30,USD,FOMC Member Barkin Speaks,,,,
+2025-03-27 18:30,JPY,Tokyo Core CPI y/y,Medium,2.2%,2.2%,2.4%
+2025-03-27 18:50,JPY,BOJ Summary of Opinions,Low,,,
+2025-03-27 19:30,JPY,Tokyo Core CPI y/y,,2.2%,2.2%,2.4%
+2025-03-27 19:50,JPY,BOJ Summary of Opinions,,,,
+2025-03-28 00:00,EUR,French Prelim CPI m/m,Low,0.3%,0.0%,0.2%
+2025-03-28 00:00,EUR,Spanish Flash CPI y/y,Medium,2.6%,3.0%,2.3%
+2025-03-28 00:00,GBP,Current Account,Low,-16.7B,-12.5B,-21.0B
+2025-03-28 00:00,GBP,Final GDP q/q,Low,0.1%,0.1%,0.1%
+2025-03-28 00:00,GBP,Goods Trade Balance,Low,-16.8B,-19.7B,-17.8B
+2025-03-28 00:00,GBP,Retail Sales m/m,High,-0.3%,1.4%,1.0%
+2025-03-28 00:00,GBP,Revised Business Investment q/q,Low,-3.2%,-3.2%,-1.9%
+2025-03-28 00:00,USD,Core PCE Price Index m/m,High,0.3%,0.3%,0.4%
+2025-03-28 00:00,USD,FOMC Member Barkin Speaks,Low,,,
+2025-03-28 00:00,USD,Personal Income m/m,Low,0.4%,0.7%,0.8%
+2025-03-28 00:00,USD,Personal Spending m/m,Low,0.5%,-0.3%,0.4%
+2025-03-28 00:00,USD,Revised UoM Inflation Expectations,Low,,4.9%,5.0%
+2025-03-28 02:00,EUR,German GfK Consumer Climate,Low,-22.6,-24.6,-24.5
+2025-03-28 02:45,EUR,French Consumer Spending m/m,Low,0.3%,-0.6%,-0.1%
+2025-03-28 03:00,CHF,KOF Economic Barometer,Low,102.5,102.6,103.9
+2025-03-28 03:00,EUR,German GfK Consumer Climate,,-22.6,-24.6,-24.5
+2025-03-28 03:00,GBP,Current Account,,-16.7B,-12.5B,-21.0B
+2025-03-28 03:00,GBP,Final GDP q/q,,0.1%,0.1%,0.1%
+2025-03-28 03:00,GBP,Goods Trade Balance,,-16.8B,-19.7B,-17.8B
+2025-03-28 03:00,GBP,Retail Sales m/m,,-0.3%,1.4%,1.0%
+2025-03-28 03:00,GBP,Revised Business Investment q/q,,-3.2%,-3.2%,-1.9%
+2025-03-28 03:45,EUR,French Consumer Spending m/m,,0.3%,-0.6%,-0.1%
+2025-03-28 03:45,EUR,French Prelim CPI m/m,,0.3%,0.0%,0.2%
+2025-03-28 03:55,EUR,German Unemployment Change,Low,10K,9K,26K
+2025-03-28 04:00,CHF,KOF Economic Barometer,,102.5,102.6,103.9
+2025-03-28 04:00,EUR,Spanish Flash CPI y/y,,2.6%,3.0%,2.3%
+2025-03-28 04:55,EUR,German Unemployment Change,,10K,9K,26K
+2025-03-28 05:13,EUR,Italian 10-y Bond Auction,Low,,3.55|1.6,3.83|1.7
+2025-03-28 06:13,EUR,Italian 10-y Bond Auction,,,3.55|1.6,3.83|1.7
+2025-03-28 07:30,CAD,GDP m/m,High,0.3%,0.3%,0.4%
+2025-03-28 08:00,EUR,German Buba President Nagel Speaks,Low,,,
+2025-03-28 08:30,CAD,GDP m/m,,0.3%,0.3%,0.4%
+2025-03-28 08:30,USD,Core PCE Price Index m/m,,0.3%,0.3%,0.4%
+2025-03-28 08:30,USD,Personal Income m/m,,0.4%,0.7%,0.8%
+2025-03-28 08:30,USD,Personal Spending m/m,,0.5%,-0.3%,0.4%
+2025-03-28 09:00,EUR,German Buba President Nagel Speaks,,,,
+2025-03-28 09:00,USD,Revised UoM Consumer Sentiment,Medium,57.9,57.9,57.0
+2025-03-28 10:00,USD,Revised UoM Consumer Sentiment,,57.9,57.9,57.0
+2025-03-28 10:00,USD,Revised UoM Inflation Expectations,,,4.9%,5.0%
+2025-03-28 11:15,USD,FOMC Member Barr Speaks,Low,,,
+2025-03-28 12:15,USD,FOMC Member Barr Speaks,,,,
+2025-03-28 14:45,USD,FOMC Member Bostic Speaks,Low,,,
+2025-03-28 15:45,USD,FOMC Member Bostic Speaks,,,,
+2025-03-30 18:50,JPY,Prelim Industrial Production m/m,Low,1.9%,-1.1%,2.5%
+2025-03-30 19:00,AUD,MI Inflation Gauge m/m,Low,,-0.2%,0.7%
+2025-03-30 19:30,AUD,Private Sector Credit m/m,Low,0.5%,0.5%,0.5%
+2025-03-30 20:30,CNY,Manufacturing PMI,High,50.4,50.2,50.5
+2025-03-31 00:00,CNY,Non-Manufacturing PMI,Medium,50.5,50.4,50.8
+2025-03-31 00:00,EUR,German Retail Sales m/m,Low,0.0%,0.7%,0.8%
+2025-03-31 00:00,GBP,Mortgage Approvals,Low,66K,66K,65K
+2025-03-31 00:00,GBP,Net Lending to Individuals m/m,Low,4.9B,5.9B,4.6B
+2025-03-31 00:00,JPY,Housing Starts y/y,Low,-2.3%,-4.6%,2.4%
+2025-03-31 00:00,JPY,Retail Sales y/y,Low,2.4%,4.4%,1.4%
+2025-03-31 00:00,NZD,ANZ Business Confidence,Low,,58.4,57.5
+2025-03-31 01:00,EUR,German Import Prices m/m,Low,0.0%,1.1%,0.3%
+2025-03-31 03:30,GBP,M4 Money Supply m/m,Low,1.1%,1.4%,0.2%
+2025-03-31 04:00,EUR,Italian Prelim CPI m/m,Low,0.0%,0.2%,0.4%
+2025-03-31 08:45,USD,Chicago PMI,Low,45.5,45.5,47.6
+2025-03-31 15:29,EUR,German Prelim CPI m/m,High,0.3%,0.4%,0.3%
+2025-03-31 18:01,GBP,BRC Shop Price Index y/y,Low,,-0.7%,-0.4%
+2025-03-31 18:30,JPY,Unemployment Rate,Low,2.5%,2.5%,2.4%
+2025-03-31 18:50,JPY,Tankan Manufacturing Index,Low,12,14,12
+2025-03-31 19:30,AUD,Retail Sales m/m,Medium,0.3%,0.3%,0.2%
+2025-03-31 20:45,CNY,Caixin Manufacturing PMI,Low,50.6,50.8,51.2
+2025-03-31 22:30,AUD,Cash Rate,High,4.10%,4.10%,4.10%
+2025-03-31 23:30,AUD,RBA Press Conference,Medium,,,

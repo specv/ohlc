@@ -1,0 +1,382 @@
+datetime,currency,title,impact,forecast,previous,actual
+2009-11-01 17:30,AUD,AIG Manufacturing Index,Low,,52.0,51.7
+2009-11-01 18:30,AUD,MI Inflation Gauge m/m,Low,,0.0%,-0.3%
+2009-11-01 19:30,AUD,HPI q/q,Medium,3.1%,4.2%,4.2%
+2009-11-01 20:30,AUD,Mid-Year Economic and Fiscal Outlook,Medium,,,
+2009-11-01 21:30,CNY,Caixin Manufacturing PMI,Medium,,55.0,55.4
+2009-11-02 00:00,JPY,Average Cash Earnings y/y,Medium,-2.0%,-2.7%,-1.6%
+2009-11-02 00:00,USD,Construction Spending m/m,Low,-0.3%,-0.1%,0.8%
+2009-11-02 00:00,USD,ISM Manufacturing Prices,Low,64.1,63.5,65.0
+2009-11-02 00:00,USD,Pending Home Sales m/m,High,0.2%,6.4%,6.1%
+2009-11-02 00:30,AUD,Commodity Prices y/y,Medium,,-33.9%,-31.1%
+2009-11-02 03:15,EUR,Spanish Manufacturing PMI,Low,,45.8,46.3
+2009-11-02 03:30,CHF,Manufacturing PMI,Medium,55.1,54.3,54.0
+2009-11-02 03:45,EUR,Italian Manufacturing PMI,Low,48.9,47.6,49.2
+2009-11-02 03:50,EUR,French Final Manufacturing PMI,Low,55.3,55.3,55.6
+2009-11-02 03:55,EUR,German Final Manufacturing PMI,Low,51.1,51.1,51.0
+2009-11-02 04:00,EUR,Final Manufacturing PMI,Low,50.9,50.7,50.7
+2009-11-02 04:30,GBP,Final Manufacturing PMI,High,50.1,49.9,53.7
+2009-11-02 10:00,USD,ISM Manufacturing PMI,High,53.1,52.6,55.7
+2009-11-02 15:00,USD,FOMC Member Tarullo Speaks,Low,,,
+2009-11-02 16:45,NZD,Labor Cost Index q/q,High,0.3%,0.3%,0.4%
+2009-11-02 20:00,CNY,Non-Manufacturing PMI,Low,,58.9,62.1
+2009-11-02 21:00,NZD,ANZ Commodity Prices m/m,Low,,6.8%,4.6%
+2009-11-02 22:30,AUD,Cash Rate,High,3.50%,3.25%,3.50%
+2009-11-03 00:00,AUD,RBA Rate Statement,High,,,
+2009-11-03 03:00,EUR,Spanish Unemployment Change,Low,,80.4K,98.9K
+2009-11-03 04:30,GBP,Construction PMI,Medium,47.2,46.7,46.2
+2009-11-03 05:00,EUR,EU Economic Forecasts,Low,,,
+2009-11-03 08:00,GBP,Halifax HPI m/m,High,0.8%,1.5%,1.2%
+2009-11-03 08:30,NZD,GDT Price Index,Low,,6.2%,13.6%
+2009-11-03 10:00,USD,Factory Orders m/m,Medium,1.1%,-0.8%,0.9%
+2009-11-03 12:00,EUR,German Buba President Weber Speaks,Medium,,,
+2009-11-03 15:29,USD,Total Vehicle Sales,Low,9.7M,9.2M,10.5M
+2009-11-03 17:30,AUD,AIG Services Index,Low,,49.3,54.8
+2009-11-03 18:50,JPY,Monetary Base y/y,Low,4.5%,4.5%,4.4%
+2009-11-03 19:01,GBP,Nationwide Consumer Confidence,Medium,72,72,72
+2009-11-03 19:30,AUD,Building Approvals m/m,High,2.4%,-0.9%,2.7%
+2009-11-03 21:30,JPY,BOJ Gov Shirakawa Speaks,Medium,,,
+2009-11-04 00:00,AUD,Retail Sales m/m,High,0.5%,0.7%,-0.2%
+2009-11-04 00:00,GBP,BRC Shop Price Index y/y,Low,,-0.1%,0.0%
+2009-11-04 00:00,USD,FOMC Statement,High,,,
+2009-11-04 03:15,EUR,Spanish Services PMI,Low,,46.4,47.7
+2009-11-04 03:45,EUR,Italian Services PMI,Low,49.4,48.5,52.2
+2009-11-04 03:50,EUR,French Final Services PMI,Low,57.8,57.8,57.7
+2009-11-04 03:55,EUR,German Final Services PMI,Low,50.9,50.9,50.7
+2009-11-04 04:00,EUR,Final Services PMI,Low,52.3,52.3,52.6
+2009-11-04 04:30,GBP,Final Services PMI,High,55.4,55.3,56.9
+2009-11-04 05:00,EUR,PPI m/m,Low,-0.3%,0.5%,-0.4%
+2009-11-04 07:30,USD,Challenger Job Cuts y/y,Low,,-30.2%,-50.7%
+2009-11-04 08:05,CAD,Gov Council Member Murray Speaks,Medium,,,
+2009-11-04 08:15,USD,ADP Non-Farm Employment Change,High,-188K,-227K,-203K
+2009-11-04 10:00,USD,ISM Services PMI,High,51.6,50.9,50.6
+2009-11-04 10:30,USD,Crude Oil Inventories,Medium,1.7M,0.8M,-4.0M
+2009-11-04 14:19,USD,Federal Funds Rate,High,<0.25%,<0.25%,<0.25%
+2009-11-04 16:45,NZD,Employment Change q/q,High,-0.3%,-0.4%,-0.8%
+2009-11-04 18:45,NZD,RBNZ Gov Bollard Speaks,High,,,
+2009-11-04 18:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2009-11-04 19:30,AUD,Goods Trade Balance,High,-2.13B,-1.65B,-1.85B
+2009-11-04 22:45,JPY,10-y Bond Auction,Low,,1.26|3.5,1.44|2.4
+2009-11-05 00:00,EUR,ECB Press Conference,High,,,
+2009-11-05 00:00,GBP,Industrial Production m/m,Low,1.2%,-2.6%,1.6%
+2009-11-05 00:00,GBP,MPC Rate Statement,High,,,
+2009-11-05 00:00,GBP,NIESR GDP Estimate,Medium,,-0.4%,-0.4%
+2009-11-05 00:00,GBP,Official Bank Rate,High,0.50%,0.50%,0.50%
+2009-11-05 00:00,NZD,Unemployment Rate,High,6.4%,6.0%,6.5%
+2009-11-05 00:00,USD,Prelim Nonfarm Productivity q/q,Medium,6.2%,6.6%,9.5%
+2009-11-05 00:00,USD,Prelim Unit Labor Costs q/q,Medium,-3.8%,-5.9%,-5.2%
+2009-11-05 00:00,USD,Unemployment Claims,High,523K,532K,512K
+2009-11-05 01:45,CHF,SECO Consumer Climate,Medium,-37,-42,-14
+2009-11-05 03:00,CHF,Foreign Currency Reserves,High,,82B,90B
+2009-11-05 03:15,CHF,CPI m/m,Medium,0.6%,0.0%,0.6%
+2009-11-05 03:55,AUD,RBA Gov Stevens Speaks,High,,,
+2009-11-05 04:30,GBP,Manufacturing Production m/m,High,1.1%,-2.0%,1.7%
+2009-11-05 05:00,EUR,Retail Sales m/m,Medium,0.3%,-0.1%,-0.7%
+2009-11-05 05:03,EUR,French 10-y Bond Auction,Low,,3.57|1.6,3.62|2.1
+2009-11-05 07:00,GBP,Asset Purchase Facility,High,225B,175B,200B
+2009-11-05 07:45,EUR,Main Refinancing Rate,High,1.00%,1.00%,1.00%
+2009-11-05 08:30,CAD,Building Permits m/m,High,1.4%,7.4%,1.6%
+2009-11-05 10:00,CAD,Ivey PMI,High,60.1,61.7,61.2
+2009-11-05 10:30,USD,Natural Gas Storage,Low,30B,25B,29B
+2009-11-05 17:30,AUD,AIG Construction Index,Low,,50.8,50.9
+2009-11-05 19:30,AUD,RBA Monetary Policy Statement,High,,,
+2009-11-06 00:00,CAD,Unemployment Rate,High,8.5%,8.4%,8.6%
+2009-11-06 00:00,EUR,French Trade Balance,Low,-3.1B,-2.2B,-1.8B
+2009-11-06 00:00,GBP,PPI Output m/m,Low,0.4%,0.5%,0.2%
+2009-11-06 00:00,JPY,Leading Indicators,Low,86.4%,83.2%,86.4%
+2009-11-06 00:00,USD,Average Hourly Earnings m/m,Medium,0.1%,0.1%,0.3%
+2009-11-06 00:00,USD,Unemployment Rate,High,9.9%,9.8%,10.2%
+2009-11-06 01:20,AUD,RBA Deputy Gov Battellino Speaks,Medium,,,
+2009-11-06 01:45,CHF,Unemployment Rate,Low,4.2%,4.1%,4.1%
+2009-11-06 02:45,EUR,French Gov Budget Balance,Low,,-127.6B,-125.8B
+2009-11-06 04:30,GBP,PPI Input m/m,High,1.6%,-0.2%,2.6%
+2009-11-06 06:00,EUR,German Factory Orders m/m,Medium,1.0%,2.1%,0.9%
+2009-11-06 07:00,CAD,Employment Change,High,10.0K,30.6K,-43.2K
+2009-11-06 08:30,USD,Non-Farm Employment Change,High,-173K,-219K,-190K
+2009-11-06 09:45,USD,FOMC Member Evans Speaks,Medium,,,
+2009-11-06 10:00,USD,Final Wholesale Inventories m/m,Low,-0.9%,-1.3%,-0.9%
+2009-11-06 11:30,USD,FOMC Member Duke Speaks,Low,,,
+2009-11-06 15:00,USD,Consumer Credit m/m,Low,-9.9B,-9.9B,-14.8B
+2009-11-06 15:29,All,G20 Meetings,Medium,,,
+2009-11-07 10:15,EUR,ECB President Trichet Speaks,Medium,,,
+2009-11-07 15:29,All,G20 Meetings,High,,,
+2009-11-08 19:30,AUD,Home Loans m/m,High,3.1%,-1.9%,5.1%
+2009-11-08 22:20,AUD,RBA Deputy Gov Lowe Speaks,Medium,,,
+2009-11-09 00:00,AUD,ANZ Job Advertisements m/m,Medium,,4.4%,-1.7%
+2009-11-09 02:00,EUR,German Trade Balance,Low,11.8B,10.6B,9.9B
+2009-11-09 04:30,EUR,Sentix Investor Confidence,Low,-11.2,-12.6,-7.0
+2009-11-09 06:00,EUR,German Industrial Production m/m,Medium,1.2%,1.8%,2.7%
+2009-11-09 08:15,CAD,Housing Starts,High,157K,149K,157K
+2009-11-09 14:00,USD,Loan Officer Survey,Low,,,
+2009-11-09 15:29,EUR,Eurogroup Meetings,Low,,,
+2009-11-09 18:50,JPY,Bank Lending y/y,Low,,1.6%,1.5%
+2009-11-09 19:00,USD,FOMC Member Tarullo Speaks,Low,,,
+2009-11-09 19:01,GBP,BRC Retail Sales Monitor y/y,Medium,,2.8%,3.8%
+2009-11-09 19:30,AUD,NAB Business Confidence,Medium,,14,16
+2009-11-10 00:00,EUR,German WPI m/m,Low,0.2%,-0.2%,-0.4%
+2009-11-10 00:00,EUR,ZEW Economic Sentiment,Medium,58.9,56.9,51.8
+2009-11-10 00:00,GBP,CB Leading Index m/m,Low,,0.9%,1.0%
+2009-11-10 00:00,GBP,ONS HPI y/y,Low,-4.9%,-5.6%,-4.1%
+2009-11-10 00:00,GBP,RICS House Price Balance,Medium,29%,21%,34%
+2009-11-10 00:00,JPY,Current Account,Low,1.53T,1.23T,1.34T
+2009-11-10 00:00,JPY,Economy Watchers Sentiment,Low,43.9,43.1,40.9
+2009-11-10 00:00,JPY,M2 Money Stock y/y,Low,3.2%,3.0%,3.3%
+2009-11-10 00:00,USD,RCM/TIPP Economic Optimism,Low,50.3,48.7,47.9
+2009-11-10 01:00,JPY,Prelim Machine Tool Orders y/y,Low,,-62.1%,-42.6%
+2009-11-10 02:00,EUR,German Final CPI m/m,Low,0.1%,0.1%,0.1%
+2009-11-10 02:45,EUR,French Industrial Production m/m,Medium,0.7%,2.8%,-1.5%
+2009-11-10 04:00,EUR,Italian Industrial Production m/m,Low,-4.2%,5.8%,-5.3%
+2009-11-10 04:30,GBP,Goods Trade Balance,Medium,-6.1B,-6.1B,-7.2B
+2009-11-10 05:00,EUR,German ZEW Economic Sentiment,High,55.2,56.0,51.1
+2009-11-10 05:38,GBP,10-y Bond Auction,Low,,3.56|1.8,3.92|2.0
+2009-11-10 07:30,USD,NFIB Small Business Index,Low,,88.8,89.1
+2009-11-10 09:15,USD,FOMC Member Lockhart Speaks,Medium,,,
+2009-11-10 10:00,USD,JOLTS Job Openings,Low,,2.42M,2.48M
+2009-11-10 10:05,USD,FOMC Member Yellen Speaks,Medium,,,
+2009-11-10 13:00,USD,10-y Bond Auction,Medium,,3.21|3.0,3.47|2.8
+2009-11-10 15:00,NZD,RBNZ Financial Stability Report,High,,,
+2009-11-10 15:29,EUR,ECOFIN Meetings,Low,,,
+2009-11-10 16:49,NZD,FPI m/m,Low,,-0.7%,-1.5%
+2009-11-10 18:30,AUD,Westpac Consumer Sentiment,Medium,,1.7%,-2.5%
+2009-11-10 18:50,JPY,Core Machinery Orders m/m,Medium,3.4%,0.5%,10.5%
+2009-11-10 21:00,CNY,Industrial Production y/y,High,15.3%,13.9%,16.1%
+2009-11-10 21:10,CNY,New Loans,Medium,,517B,253B
+2009-11-10 22:48,CNY,USD-Denominated Trade Balance,High,19.2B,12.9B,24.0B
+2009-11-11 00:00,CNY,CPI y/y,Medium,-0.4%,-0.8%,-0.5%
+2009-11-11 00:00,CNY,Fixed Asset Investment ytd/y,Medium,33.5%,33.3%,33.1%
+2009-11-11 00:00,CNY,M2 Money Supply y/y,Low,29.6%,29.3%,29.4%
+2009-11-11 00:00,CNY,NBS Press Conference,Medium,,,
+2009-11-11 00:00,CNY,PPI y/y,Medium,-5.1%,-7.0%,-5.8%
+2009-11-11 00:00,CNY,Retail Sales y/y,Low,15.7%,15.5%,16.2%
+2009-11-11 00:00,GBP,Average Earnings Index 3m/y,Medium,1.5%,1.6%,1.2%
+2009-11-11 00:00,GBP,BOE Monetary Policy Report,High,,,
+2009-11-11 00:00,GBP,Unemployment Rate,Low,8.0%,7.8%,7.8%
+2009-11-11 00:00,USD,FOMC Member Tarullo Speaks,Low,,,
+2009-11-11 04:30,GBP,Claimant Count Change,High,20.2K,20.6K,12.9K
+2009-11-11 05:05,EUR,German 10-y Bond Auction,Low,,3.28|1.6,3.37|1.4
+2009-11-11 05:30,GBP,BOE Gov King Speaks,High,,,
+2009-11-11 12:00,EUR,German Buba President Weber Speaks,Medium,,,
+2009-11-11 16:30,NZD,BusinessNZ Manufacturing Index,Low,,51.5,50.6
+2009-11-11 16:45,NZD,Core Retail Sales m/m,High,0.4%,1.2%,0.0%
+2009-11-11 18:50,JPY,PPI y/y,Low,-6.0%,-8.0%,-6.7%
+2009-11-11 19:00,AUD,MI Inflation Expectations,Medium,,3.5%,3.2%
+2009-11-11 19:30,AUD,Employment Change,High,-10.1K,39.8K,24.5K
+2009-11-12 00:00,AUD,Unemployment Rate,High,5.8%,5.7%,5.8%
+2009-11-12 00:00,EUR,Industrial Production m/m,Medium,0.6%,1.2%,0.3%
+2009-11-12 00:00,NZD,Core Retail Sales q/q,Low,,0.3%,0.5%
+2009-11-12 00:00,NZD,Retail Sales m/m,Medium,0.5%,1.1%,0.2%
+2009-11-12 00:00,NZD,Retail Sales q/q,Low,0.0%,0.5%,0.1%
+2009-11-12 00:00,USD,Federal Budget Balance,Medium,-152.5B,-46.6B,-176.4B
+2009-11-12 00:00,USD,Unemployment Claims,High,512K,514K,502K
+2009-11-12 03:00,EUR,Spanish Flash GDP q/q,Low,-0.5%,-1.0%,-0.3%
+2009-11-12 04:00,EUR,ECB Monthly Bulletin,Medium,,,
+2009-11-12 05:00,CHF,UBS Economic Expectations,Medium,,65.0,56.4
+2009-11-12 08:30,CAD,NHPI m/m,Medium,0.2%,0.1%,0.5%
+2009-11-12 11:00,USD,Crude Oil Inventories,Medium,0.8M,-4.0M,1.8M
+2009-11-12 11:30,USD,Treasury Sec Geithner Speaks,Medium,,,
+2009-11-12 12:00,CHF,Gov Board Member Jordan Speaks,Medium,,,
+2009-11-12 13:00,USD,30-y Bond Auction,Low,,4.01|2.4,4.47|2.3
+2009-11-12 14:00,EUR,ECB President Trichet Speaks,Medium,,,
+2009-11-12 16:00,NZD,REINZ HPI m/m,Medium,,1.9%,1.3%
+2009-11-12 23:30,JPY,Revised Industrial Production m/m,Low,1.4%,1.4%,2.1%
+2009-11-13 00:00,CAD,New Motor Vehicle Sales m/m,Low,0.1%,-0.2%,1.2%
+2009-11-13 00:00,JPY,Consumer Confidence,Low,40.9,40.5,40.5
+2009-11-13 00:00,USD,Import Prices m/m,Medium,1.1%,0.2%,0.7%
+2009-11-13 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.9%,2.8%
+2009-11-13 00:00,USD,Trade Balance,High,-31.8B,-30.8B,-36.5B
+2009-11-13 02:00,EUR,German Prelim GDP q/q,High,0.8%,0.4%,0.7%
+2009-11-13 02:40,EUR,French Final CPI m/m,Low,0.2%,-0.2%,0.1%
+2009-11-13 02:45,EUR,French Prelim Private Payrolls q/q,Medium,-0.2%,-0.7%,0.0%
+2009-11-13 02:50,EUR,French Prelim GDP q/q,Low,0.6%,0.3%,0.3%
+2009-11-13 03:15,CHF,PPI m/m,Medium,0.1%,0.2%,-0.4%
+2009-11-13 04:00,EUR,Italian Prelim GDP q/q,Low,0.8%,-0.5%,0.6%
+2009-11-13 05:00,EUR,Flash GDP q/q,Medium,0.6%,-0.2%,0.4%
+2009-11-13 08:15,EUR,German Buba President Weber Speaks,Medium,,,
+2009-11-13 08:30,CAD,Trade Balance,High,-1.6B,-2.0B,-0.9B
+2009-11-13 09:55,USD,Prelim UoM Consumer Sentiment,High,71.1,70.6,66.0
+2009-11-13 10:30,USD,Natural Gas Storage,Low,17B,29B,25B
+2009-11-13 11:30,USD,FOMC Member Evans Speaks,Medium,,,
+2009-11-13 20:30,USD,FOMC Member Dudley Speaks,Low,,,
+2009-11-15 16:45,NZD,PPI Input q/q,High,0.0%,0.0%,-1.1%
+2009-11-15 18:50,JPY,Prelim GDP q/q,High,0.7%,0.7%,1.2%
+2009-11-15 19:01,GBP,Rightmove HPI m/m,Medium,,2.8%,-1.6%
+2009-11-15 19:30,JPY,BOJ Gov Shirakawa Speaks,Medium,,,
+2009-11-15 21:18,CNY,Foreign Direct Investment ytd/y,Low,,-14.2%,-12.6%
+2009-11-16 00:00,EUR,Final CPI y/y,Medium,-0.1%,-0.1%,-0.1%
+2009-11-16 00:00,JPY,Prelim GDP Price Index y/y,Medium,0.1%,0.5%,0.2%
+2009-11-16 00:00,NZD,PPI Output q/q,Low,0.3%,-0.7%,-1.4%
+2009-11-16 00:00,USD,Core Retail Sales m/m,High,0.4%,0.4%,0.2%
+2009-11-16 00:00,USD,Empire State Manufacturing Index,Medium,29.9,34.6,23.5
+2009-11-16 00:00,USD,Retail Sales m/m,High,1.0%,-2.3%,1.4%
+2009-11-16 03:15,GBP,MPC Member Tucker Speaks,Medium,,,
+2009-11-16 03:50,EUR,German Buba President Weber Speaks,Medium,,,
+2009-11-16 05:00,EUR,Final Core CPI y/y,Medium,1.2%,1.2%,1.2%
+2009-11-16 08:30,CAD,Manufacturing Sales m/m,Medium,1.0%,-1.8%,1.4%
+2009-11-16 10:00,USD,Business Inventories m/m,Medium,-0.7%,-1.6%,-0.4%
+2009-11-16 12:15,USD,Fed Chairman Bernanke Speaks,High,,,
+2009-11-16 13:00,GBP,MPC Member Sentance Speaks,Medium,,,
+2009-11-16 18:15,USD,FOMC Member Kohn Speaks,Medium,,,
+2009-11-16 18:50,JPY,Tertiary Industry Activity m/m,Medium,0.1%,0.3%,-0.5%
+2009-11-16 19:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2009-11-17 00:00,GBP,Core CPI y/y,Low,1.7%,1.7%,1.8%
+2009-11-17 00:00,GBP,RPI y/y,Medium,-0.9%,-1.4%,-0.8%
+2009-11-17 00:00,USD,Core PPI m/m,Medium,0.1%,-0.1%,-0.6%
+2009-11-17 00:00,USD,Industrial Production m/m,Medium,0.4%,0.6%,0.1%
+2009-11-17 03:15,CHF,Retail Sales y/y,High,1.1%,-1.0%,-1.6%
+2009-11-17 04:30,GBP,CPI y/y,High,1.4%,1.1%,1.5%
+2009-11-17 05:00,EUR,Trade Balance,Low,-0.9B,2.2B,6.8B
+2009-11-17 05:30,USD,FOMC Member Yellen Speaks,Medium,,,
+2009-11-17 05:53,CHF,SNB Chairman Roth Speaks,High,,,
+2009-11-17 08:30,USD,PPI m/m,High,0.6%,-0.6%,0.3%
+2009-11-17 09:00,USD,TIC Long-Term Purchases,High,27.3B,34.2B,40.7B
+2009-11-17 09:15,USD,Capacity Utilization Rate,Medium,70.9%,70.5%,70.7%
+2009-11-17 10:15,USD,FOMC Member Lacker Speaks,Medium,,,
+2009-11-17 13:00,USD,NAHB Housing Market Index,Low,19,17,17
+2009-11-17 17:05,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2009-11-17 18:30,AUD,MI Leading Index m/m,Medium,,1.3%,0.9%
+2009-11-17 19:30,AUD,Wage Price Index q/q,Medium,0.7%,0.8%,0.7%
+2009-11-18 00:00,CAD,CPI m/m,Medium,0.2%,0.0%,-0.1%
+2009-11-18 00:00,GBP,MPC Official Bank Rate Votes,High,0-0-9,0-0-9,0-0-9
+2009-11-18 00:00,USD,CPI m/m,Medium,0.2%,0.2%,0.3%
+2009-11-18 00:00,USD,Core CPI m/m,High,0.1%,0.2%,0.2%
+2009-11-18 00:00,USD,Housing Starts,Medium,0.61M,0.59M,0.53M
+2009-11-18 03:40,EUR,ECB President Trichet Speaks,Medium,,,
+2009-11-18 04:00,EUR,Current Account,Medium,0.6B,0.6B,-5.4B
+2009-11-18 04:30,GBP,MPC Asset Purchase Facility Votes,High,9-0-0,0-0-9,8-0-1
+2009-11-18 06:00,GBP,CBI Industrial Order Expectations,Medium,-47,-51,-45
+2009-11-18 07:00,CAD,Core CPI m/m,High,0.0%,0.3%,0.1%
+2009-11-18 07:30,USD,CPI y/y,High,-0.3%,-1.3%,-0.2%
+2009-11-18 08:30,USD,Building Permits,High,0.59M,0.57M,0.55M
+2009-11-18 10:30,USD,Crude Oil Inventories,Medium,0.8M,1.8M,-0.9M
+2009-11-18 19:30,AUD,RBA Bulletin,Low,,,
+2009-11-18 20:00,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2009-11-18 23:30,JPY,All Industries Activity m/m,Low,-0.1%,0.9%,-0.6%
+2009-11-19 00:00,CAD,Leading Index m/m,Medium,0.8%,1.2%,0.7%
+2009-11-19 00:00,CAD,Wholesale Sales m/m,Medium,0.6%,-1.5%,0.2%
+2009-11-19 00:00,GBP,M4 Money Supply m/m,Low,1.2%,0.9%,1.8%
+2009-11-19 00:00,GBP,Prelim Mortgage Approvals,Medium,60K,56K,61K
+2009-11-19 00:00,GBP,Public Sector Net Borrowing,Medium,6.7B,14.9B,11.4B
+2009-11-19 00:00,USD,CB Leading Index m/m,Low,0.5%,1.0%,0.3%
+2009-11-19 00:00,USD,Natural Gas Storage,Low,21B,25B,20B
+2009-11-19 00:00,USD,Philly Fed Manufacturing Index,Medium,12.3,11.5,16.7
+2009-11-19 00:00,USD,Treasury Sec Geithner Speaks,Low,,,
+2009-11-19 00:00,USD,Unemployment Claims,High,503K,505K,505K
+2009-11-19 02:15,CHF,Trade Balance,Medium,2.15B,1.91B,2.46B
+2009-11-19 04:00,EUR,Italian Trade Balance,Low,-0.72B,-1.37B,-0.90B
+2009-11-19 04:20,GBP,MPC Member Fisher Speaks,Medium,,,
+2009-11-19 04:30,GBP,Retail Sales m/m,High,0.6%,0.4%,0.4%
+2009-11-19 06:00,EUR,German Buba Monthly Report,Low,,,
+2009-11-19 08:30,CAD,Foreign Securities Purchases,Medium,3.23B,5.07B,13.59B
+2009-11-19 10:00,USD,Mortgage Delinquencies,Medium,,9.24%,9.64%
+2009-11-19 10:30,CAD,BOC Review,Low,,,
+2009-11-19 11:00,EUR,ECB President Trichet Speaks,Medium,,,
+2009-11-19 18:05,CAD,BOC Gov Carney Speaks,Medium,,,
+2009-11-19 21:00,NZD,Credit Card Spending y/y,Low,,-2.3%,-0.4%
+2009-11-19 22:34,JPY,Monetary Policy Statement,Medium,,,
+2009-11-20 00:00,JPY,Overnight Call Rate,Medium,0.10%,0.10%,0.10%
+2009-11-20 02:00,EUR,German PPI m/m,Medium,0.1%,-0.5%,0.0%
+2009-11-20 02:15,JPY,BOJ Press Conference,High,,,
+2009-11-20 03:00,EUR,German Buba President Weber Speaks,Medium,,,
+2009-11-20 04:15,CHF,SNB Chairman Roth Speaks,Medium,,,
+2009-11-20 05:30,EUR,ECB President Trichet Speaks,Medium,,,
+2009-11-22 16:45,NZD,Visitor Arrivals m/m,Low,,3.8%,-0.7%
+2009-11-22 19:30,AUD,New Motor Vehicle Sales m/m,Low,,3.1%,3.7%
+2009-11-23 00:00,CAD,Retail Sales m/m,Medium,0.6%,1.0%,1.0%
+2009-11-23 00:00,EUR,Flash Services PMI,Medium,52.7,52.6,53.2
+2009-11-23 00:00,EUR,French Flash Services PMI,Medium,57.7,57.7,60.4
+2009-11-23 00:00,EUR,German Flash Services PMI,Medium,51.2,50.7,51.5
+2009-11-23 03:00,EUR,French Flash Manufacturing PMI,Medium,55.5,55.6,54.2
+2009-11-23 03:30,EUR,German Flash Manufacturing PMI,Medium,51.7,51.0,52.0
+2009-11-23 04:00,EUR,Flash Manufacturing PMI,Medium,51.3,50.7,51.0
+2009-11-23 08:00,EUR,ECB President Trichet Speaks,Medium,,,
+2009-11-23 08:30,CAD,Core Retail Sales m/m,High,0.4%,0.7%,1.1%
+2009-11-23 10:00,USD,Existing Home Sales,High,5.71M,5.54M,6.10M
+2009-11-23 18:00,AUD,CB Leading Index m/m,Medium,,1.5%,0.3%
+2009-11-23 22:13,NZD,Inflation Expectations q/q,High,,2.30%,2.60%
+2009-11-24 00:00,EUR,German Final GDP q/q,Low,0.7%,0.7%,0.7%
+2009-11-24 00:00,GBP,Prelim Business Investment q/q,Medium,-3.5%,-10.2%,-3.0%
+2009-11-24 00:00,JPY,BOJ Monthly Report,Medium,,,
+2009-11-24 00:00,USD,HPI m/m,Low,0.2%,-0.5%,0.0%
+2009-11-24 00:00,USD,Prelim GDP Price Index q/q,Low,0.8%,0.8%,0.5%
+2009-11-24 00:00,USD,S&P/CS Composite-20 HPI y/y,Medium,-9.1%,-11.3%,-9.4%
+2009-11-24 02:00,CHF,UBS Consumption Indicator,Medium,,0.67,0.87
+2009-11-24 02:50,EUR,French Consumer Spending m/m,Medium,0.5%,2.4%,1.1%
+2009-11-24 03:15,CHF,Employment Level,Medium,3.96M,3.95M,3.96M
+2009-11-24 04:00,EUR,German ifo Business Climate,High,92.6,91.9,93.9
+2009-11-24 04:30,GBP,High Street Lending,Medium,44.0K,42.1K,42.2K
+2009-11-24 04:45,GBP,Monetary Policy Report Hearings,High,,,
+2009-11-24 05:00,EUR,Industrial New Orders m/m,Medium,0.7%,0.6%,1.5%
+2009-11-24 08:30,USD,Prelim GDP q/q,High,2.9%,3.5%,2.8%
+2009-11-24 09:00,EUR,Belgian NBB Business Climate,Medium,-11.3,-14.2,-8.8
+2009-11-24 09:59,USD,Richmond Manufacturing Index,Low,10,7,1
+2009-11-24 10:00,USD,CB Consumer Confidence,High,47.6,48.7,49.5
+2009-11-24 10:35,GBP,BOE Gov King Speaks,High,,,
+2009-11-24 12:30,CHF,SNB Chairman Roth Speaks,Medium,,,
+2009-11-24 14:00,USD,FOMC Meeting Minutes,High,,,
+2009-11-24 17:20,AUD,RBA Deputy Gov Battellino Speaks,Medium,,,
+2009-11-24 18:50,JPY,Trade Balance,Medium,0.31T,0.06T,0.42T
+2009-11-24 19:30,AUD,Construction Work Done q/q,Medium,0.1%,4.5%,2.2%
+2009-11-25 00:00,GBP,Index of Services 3m/3m,Low,0.0%,-0.1%,-0.1%
+2009-11-25 00:00,JPY,SPPI y/y,Low,-2.5%,-3.2%,-2.2%
+2009-11-25 00:00,USD,Core Durable Goods Orders m/m,High,0.7%,1.8%,-1.3%
+2009-11-25 00:00,USD,Core PCE Price Index m/m,Medium,0.1%,0.1%,0.2%
+2009-11-25 00:00,USD,Durable Goods Orders m/m,Medium,0.5%,2.0%,-0.6%
+2009-11-25 00:00,USD,Personal Income m/m,Low,0.2%,0.2%,0.2%
+2009-11-25 00:00,USD,Personal Spending m/m,Medium,0.6%,-0.6%,0.7%
+2009-11-25 00:00,USD,Revised UoM Inflation Expectations,Low,,2.8%,2.7%
+2009-11-25 00:00,USD,Unemployment Claims,High,500K,501K,466K
+2009-11-25 02:00,EUR,German GfK Consumer Climate,Medium,4.2,4.0,3.7
+2009-11-25 04:00,EUR,Italian Retail Sales m/m,Low,-0.1%,0.1%,-0.1%
+2009-11-25 04:30,GBP,Second Estimate GDP q/q,High,-0.3%,-0.4%,-0.3%
+2009-11-25 08:30,CAD,Corporate Profits q/q,Low,,-6.4%,7.9%
+2009-11-25 09:55,USD,Revised UoM Consumer Sentiment,Medium,67.1,66.0,67.4
+2009-11-25 10:00,USD,New Home Sales,High,408K,405K,430K
+2009-11-25 10:30,USD,Crude Oil Inventories,Medium,1.6M,-0.9M,1.0M
+2009-11-25 12:00,USD,Natural Gas Storage,Low,17B,20B,2B
+2009-11-25 18:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2009-11-25 19:30,AUD,Private Capital Expenditure q/q,High,1.1%,2.1%,-3.9%
+2009-11-25 21:00,NZD,ANZ Business Confidence,High,,48.2,43.4
+2009-11-26 00:00,EUR,Private Loans y/y,Low,-0.4%,-0.3%,-0.8%
+2009-11-26 04:00,EUR,M3 Money Supply y/y,Medium,0.7%,1.8%,0.3%
+2009-11-26 05:15,EUR,German Buba President Weber Speaks,Medium,,,
+2009-11-26 06:00,GBP,CBI Realized Sales,High,12,8,13
+2009-11-26 12:00,EUR,German Buba President Weber Speaks,Medium,,,
+2009-11-26 15:29,EUR,German Prelim CPI m/m,Medium,0.0%,0.1%,-0.2%
+2009-11-26 16:45,NZD,Trade Balance,Medium,-469M,-563M,-487M
+2009-11-26 18:30,JPY,Household Spending y/y,Medium,0.6%,1.0%,1.6%
+2009-11-26 18:50,JPY,Retail Sales y/y,Medium,-1.5%,-1.3%,-0.9%
+2009-11-27 00:00,JPY,National Core CPI y/y,Low,-2.2%,-2.3%,-2.2%
+2009-11-27 00:00,JPY,Tokyo Core CPI y/y,Medium,-2.0%,-2.2%,-1.9%
+2009-11-27 00:00,JPY,Unemployment Rate,Low,5.4%,5.3%,5.1%
+2009-11-27 02:00,EUR,German Import Prices m/m,Low,0.4%,-0.9%,0.5%
+2009-11-27 04:00,EUR,Retail PMI,Low,,50.0,48.9
+2009-11-27 05:00,EUR,Consumer Confidence,Low,-18,-18,-17
+2009-11-27 05:16,EUR,Italian 10-y Bond Auction,Low,,4.06|1.6,4.01|1.6
+2009-11-27 05:30,CHF,KOF Economic Barometer,High,1.85,1.44,1.62
+2009-11-27 08:30,CAD,Current Account,Medium,-12.9B,-11.9B,-13.1B
+2009-11-29 16:45,NZD,Building Consents m/m,High,,5.5%,11.7%
+2009-11-29 18:00,CHF,SNB Chairman Roth Speaks,Medium,,,
+2009-11-29 18:15,JPY,Final Manufacturing PMI,Low,,54.3,52.3
+2009-11-29 18:30,AUD,MI Inflation Gauge m/m,Low,,-0.3%,0.3%
+2009-11-29 18:50,JPY,Prelim Industrial Production m/m,Medium,2.5%,2.1%,0.5%
+2009-11-29 19:01,GBP,GfK Consumer Confidence,Medium,-11,-13,-17
+2009-11-29 19:02,AUD,HIA New Home Sales m/m,Medium,,-4.5%,-6.0%
+2009-11-29 19:30,AUD,Private Sector Credit m/m,Medium,0.2%,-0.1%,0.0%
+2009-11-29 20:00,JPY,BOJ Gov Shirakawa Speaks,Medium,,,
+2009-11-29 20:30,JPY,Average Cash Earnings y/y,Medium,-1.7%,-1.8%,-1.7%
+2009-11-30 00:00,AUD,Company Operating Profits q/q,Low,0.1%,-7.0%,-2.1%
+2009-11-30 00:00,CAD,IPPI m/m,Low,0.4%,-0.4%,-0.3%
+2009-11-30 00:00,CAD,RMPI m/m,Medium,3.1%,-1.0%,2.5%
+2009-11-30 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.1%,0.1%
+2009-11-30 00:00,GBP,Mortgage Approvals,Low,59K,56K,57K
+2009-11-30 00:00,JPY,Housing Starts y/y,Low,-33.2%,-37.0%,-27.1%
+2009-11-30 04:30,GBP,Net Lending to Individuals m/m,Medium,0.8B,0.6B,0.3B
+2009-11-30 05:00,EUR,CPI Flash Estimate y/y,Medium,0.5%,-0.1%,0.6%
+2009-11-30 08:30,CAD,GDP m/m,High,0.4%,-0.1%,0.4%
+2009-11-30 09:45,USD,Chicago PMI,High,53.4,54.2,56.1
+2009-11-30 17:30,AUD,AIG Manufacturing Index,Low,,51.7,51.2
+2009-11-30 19:30,AUD,Building Approvals m/m,High,2.0%,5.1%,-0.6%
+2009-11-30 19:40,CNY,Manufacturing PMI,High,55.7,55.2,55.2
+2009-11-30 21:30,CNY,Caixin Manufacturing PMI,Medium,,55.4,55.7
+2009-11-30 22:30,AUD,Cash Rate,High,3.75%,3.50%,3.75%
+2009-11-30 22:45,JPY,10-y Bond Auction,Low,,1.44|2.4,1.25|2.8

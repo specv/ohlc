@@ -1,0 +1,391 @@
+datetime,currency,title,impact,forecast,previous,actual
+2015-11-01 00:00,CNY,Non-Manufacturing PMI,Medium,,53.4,53.1
+2015-11-01 17:30,AUD,AIG Manufacturing Index,Low,,52.1,50.2
+2015-11-01 18:30,AUD,MI Inflation Gauge m/m,Low,,0.3%,0.0%
+2015-11-01 19:30,AUD,Building Approvals m/m,High,1.8%,-9.5%,2.2%
+2015-11-01 20:35,JPY,Final Manufacturing PMI,Low,52.1,52.5,52.4
+2015-11-01 20:45,CNY,Caixin Manufacturing PMI,High,47.7,47.2,48.3
+2015-11-02 00:00,EUR,Spanish Manufacturing PMI,Medium,51.9,51.7,51.3
+2015-11-02 00:00,USD,Construction Spending m/m,Low,0.5%,0.7%,0.6%
+2015-11-02 00:00,USD,ISM Manufacturing Prices,Low,39.5,38.0,39.0
+2015-11-02 00:30,AUD,Commodity Prices y/y,Low,,-21.0%,-19.8%
+2015-11-02 03:15,CHF,Retail Sales y/y,Medium,0.2%,-0.6%,0.2%
+2015-11-02 03:30,CHF,Manufacturing PMI,Low,50.2,49.5,50.7
+2015-11-02 03:45,EUR,Italian Manufacturing PMI,Low,52.9,52.7,54.1
+2015-11-02 03:50,EUR,French Final Manufacturing PMI,Low,50.7,50.7,50.6
+2015-11-02 03:55,EUR,German Final Manufacturing PMI,Low,51.6,51.6,52.1
+2015-11-02 04:00,EUR,Final Manufacturing PMI,Low,52.0,52.0,52.3
+2015-11-02 04:30,GBP,Final Manufacturing PMI,High,51.3,51.8,55.5
+2015-11-02 09:30,CAD,Manufacturing PMI,Low,,48.6,48.0
+2015-11-02 09:45,USD,Final Manufacturing PMI,Low,54.0,54.0,54.1
+2015-11-02 10:00,USD,ISM Manufacturing PMI,High,50.0,50.2,50.1
+2015-11-02 12:00,USD,FOMC Member Williams Speaks,Medium,,,
+2015-11-02 14:00,USD,Loan Officer Survey,Low,,,
+2015-11-02 19:00,NZD,ANZ Commodity Prices m/m,Low,,5.5%,6.9%
+2015-11-02 22:30,AUD,Cash Rate,High,2.00%,2.00%,2.00%
+2015-11-03 00:00,AUD,RBA Rate Statement,High,,,
+2015-11-03 00:00,USD,RCM/TIPP Economic Optimism,Low,47.5,47.3,45.5
+2015-11-03 03:00,EUR,Spanish Unemployment Change,Medium,70.3K,26.1K,82.3K
+2015-11-03 04:30,GBP,Construction PMI,High,58.9,59.9,58.8
+2015-11-03 08:41,NZD,GDT Price Index,High,,-3.1%,-7.4%
+2015-11-03 10:00,USD,Factory Orders m/m,Medium,-0.8%,-2.1%,-1.0%
+2015-11-03 14:00,EUR,ECB President Draghi Speaks,Medium,,,
+2015-11-03 15:29,USD,Total Vehicle Sales,Low,17.8M,18.2M,18.2M
+2015-11-03 16:45,NZD,Employment Change q/q,High,0.4%,0.1%,-0.4%
+2015-11-03 17:30,AUD,AIG Services Index,Low,,52.3,48.9
+2015-11-03 18:50,JPY,Monetary Base y/y,Low,36.2%,35.1%,32.5%
+2015-11-03 19:01,GBP,BRC Shop Price Index y/y,Low,,-1.9%,-1.8%
+2015-11-03 19:30,AUD,Goods Trade Balance,High,-2.85B,-2.71B,-2.32B
+2015-11-03 20:45,CNY,Caixin Services PMI,Medium,51.0,50.5,52.0
+2015-11-04 00:00,AUD,Retail Sales m/m,High,0.4%,0.4%,0.4%
+2015-11-04 00:00,JPY,Consumer Confidence,Low,41.1,40.6,41.5
+2015-11-04 00:00,NZD,Labor Cost Index q/q,Low,0.5%,0.5%,0.4%
+2015-11-04 00:00,NZD,Unemployment Rate,High,6.0%,5.9%,6.0%
+2015-11-04 00:00,USD,ISM Services PMI,High,56.6,56.9,59.1
+2015-11-04 00:00,USD,Trade Balance,High,-42.7B,-48.0B,-40.8B
+2015-11-04 03:00,EUR,ECB President Draghi Speaks,High,,,
+2015-11-04 03:15,EUR,Spanish Services PMI,Low,55.5,55.1,55.9
+2015-11-04 03:45,EUR,Italian Services PMI,Low,53.7,53.3,53.4
+2015-11-04 03:50,EUR,French Final Services PMI,Low,52.3,52.3,52.7
+2015-11-04 03:55,EUR,German Final Services PMI,Low,55.2,55.2,54.5
+2015-11-04 04:00,EUR,Final Services PMI,Low,54.2,54.2,54.1
+2015-11-04 04:30,GBP,Final Services PMI,High,54.6,53.3,54.9
+2015-11-04 05:00,EUR,PPI m/m,Low,-0.4%,-0.8%,-0.3%
+2015-11-04 05:30,USD,FOMC Member Brainard Speaks,Medium,,,
+2015-11-04 08:15,USD,ADP Non-Farm Employment Change,High,183K,190K,182K
+2015-11-04 08:30,CAD,Trade Balance,High,-1.9B,-2.7B,-1.7B
+2015-11-04 09:45,USD,Final Services PMI,Low,54.6,54.4,54.8
+2015-11-04 10:00,USD,Fed Chair Yellen Testifies,High,,,
+2015-11-04 10:30,USD,Crude Oil Inventories,Medium,2.5M,3.4M,2.8M
+2015-11-04 14:30,USD,FOMC Member Dudley Speaks,Medium,,,
+2015-11-04 17:25,AUD,RBA Gov Stevens Speaks,High,,,
+2015-11-04 18:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2015-11-04 19:30,USD,FOMC Member Fischer Speaks,Medium,,,
+2015-11-04 20:00,AUD,RBA Deputy Gov Lowe Speaks,Medium,,,
+2015-11-04 22:45,JPY,10-y Bond Auction,Low,,0.34|3.0,0.32|2.8
+2015-11-05 00:00,EUR,French 10-y Bond Auction,Low,,0.98|2.2,0.95|2.5
+2015-11-05 00:00,EUR,Retail Sales m/m,Low,0.2%,0.0%,-0.1%
+2015-11-05 00:00,GBP,Asset Purchase Facility,Medium,375B,375B,375B
+2015-11-05 00:00,GBP,BOE Inflation Letter,Medium,,,
+2015-11-05 00:00,GBP,MPC Asset Purchase Facility Votes,Medium,0-0-9,0-0-9,0-0-9
+2015-11-05 00:00,GBP,MPC Official Bank Rate Votes,High,1-0-8,1-0-8,1-0-8
+2015-11-05 00:00,GBP,Monetary Policy Summary,High,,,
+2015-11-05 00:00,GBP,Official Bank Rate,High,0.50%,0.50%,0.50%
+2015-11-05 00:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2015-11-05 00:00,USD,Prelim Nonfarm Productivity q/q,Medium,0.1%,3.3%,1.6%
+2015-11-05 00:00,USD,Prelim Unit Labor Costs q/q,Medium,2.2%,-1.4%,1.4%
+2015-11-05 01:45,CHF,SECO Consumer Climate,Low,-14,-19,-18
+2015-11-05 02:00,EUR,German Factory Orders m/m,Medium,1.1%,-1.8%,-1.7%
+2015-11-05 03:00,GBP,Halifax HPI m/m,Medium,0.7%,-0.9%,1.1%
+2015-11-05 03:15,CHF,CPI m/m,Low,0.0%,0.1%,0.1%
+2015-11-05 04:00,EUR,ECB Economic Bulletin,Low,,,
+2015-11-05 04:10,EUR,Retail PMI,Low,,51.9,51.3
+2015-11-05 04:50,EUR,Spanish 10-y Bond Auction,Low,,1.77|2.2,1.75|2.4
+2015-11-05 05:00,EUR,EU Economic Forecasts,Medium,,,
+2015-11-05 05:45,EUR,ECB President Draghi Speaks,Medium,,,
+2015-11-05 07:00,GBP,BOE Monetary Policy Report,High,,,
+2015-11-05 07:30,USD,Challenger Job Cuts y/y,Low,,93.2%,-1.3%
+2015-11-05 07:45,GBP,BOE Gov Carney Speaks,High,,,
+2015-11-05 08:30,USD,Unemployment Claims,High,263K,260K,276K
+2015-11-05 09:10,USD,FOMC Member Fischer Speaks,Medium,,,
+2015-11-05 10:00,CAD,Ivey PMI,Medium,54.0,53.7,53.1
+2015-11-05 10:30,USD,Natural Gas Storage,Low,60B,63B,52B
+2015-11-05 13:25,USD,FOMC Member Tarullo Speaks,Low,,,
+2015-11-05 13:30,USD,FOMC Member Lockhart Speaks,Medium,,,
+2015-11-05 15:15,GBP,BOE Gov Carney Speaks,High,,,
+2015-11-05 17:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2015-11-05 17:30,AUD,AIG Construction Index,Low,,51.9,52.1
+2015-11-05 18:45,USD,FOMC Member Evans Speaks,Low,,,
+2015-11-05 19:30,AUD,RBA Monetary Policy Statement,High,,,
+2015-11-05 20:00,AUD,RBA Assist Gov Edey Speaks,Medium,,,
+2015-11-05 23:00,JPY,BOJ Gov Kuroda Speaks,High,,,
+2015-11-06 00:00,CAD,Building Permits m/m,Medium,1.4%,-3.6%,-6.7%
+2015-11-06 00:00,CAD,Unemployment Rate,High,7.1%,7.1%,7.0%
+2015-11-06 00:00,EUR,French Trade Balance,Low,-3.1B,-3.0B,-3.4B
+2015-11-06 00:00,GBP,Goods Trade Balance,Medium,-10.7B,-10.8B,-9.4B
+2015-11-06 00:00,GBP,Industrial Production m/m,Low,-0.1%,0.9%,-0.2%
+2015-11-06 00:00,JPY,Leading Indicators,Low,102.1%,103.5%,101.4%
+2015-11-06 00:00,USD,Average Hourly Earnings m/m,High,0.2%,0.0%,0.4%
+2015-11-06 00:00,USD,Non-Farm Employment Change,High,181K,137K,271K
+2015-11-06 00:00,USD,Unemployment Rate,High,5.0%,5.1%,5.0%
+2015-11-06 02:00,EUR,German Industrial Production m/m,Low,0.6%,-0.6%,-1.1%
+2015-11-06 02:45,EUR,French Gov Budget Balance,Low,,-89.7B,-74.5B
+2015-11-06 03:00,CHF,Foreign Currency Reserves,Medium,,541B,551B
+2015-11-06 04:30,GBP,Manufacturing Production m/m,High,0.4%,0.4%,0.8%
+2015-11-06 08:30,CAD,Employment Change,High,9.5K,12.1K,44.4K
+2015-11-06 09:53,GBP,NIESR GDP Estimate,Medium,,0.5%,0.6%
+2015-11-06 15:00,USD,Consumer Credit m/m,Low,17.6B,16.0B,28.9B
+2015-11-06 16:15,USD,FOMC Member Brainard Speaks,Medium,,,
+2015-11-07 11:10,USD,FOMC Member Williams Speaks,Medium,,,
+2015-11-07 21:09,CNY,Trade Balance,High,367B,376B,393B
+2015-11-07 22:01,CNY,USD-Denominated Trade Balance,Low,62.1B,60.3B,61.6B
+2015-11-08 19:30,AUD,ANZ Job Advertisements m/m,Medium,,3.8%,0.4%
+2015-11-08 20:30,JPY,Average Cash Earnings y/y,Low,0.5%,0.4%,0.6%
+2015-11-09 02:00,EUR,German Trade Balance,Low,20.3B,19.6B,19.4B
+2015-11-09 04:30,EUR,Sentix Investor Confidence,Low,12.4,11.7,15.1
+2015-11-09 08:13,CAD,Housing Starts,Low,200K,232K,198K
+2015-11-09 10:00,USD,Labor Market Conditions Index m/m,Low,,1.3,1.6
+2015-11-09 15:29,EUR,Eurogroup Meetings,Medium,,,
+2015-11-09 18:50,JPY,Current Account,Medium,1.50T,1.59T,0.78T
+2015-11-09 19:01,GBP,BRC Retail Sales Monitor y/y,Low,,2.6%,-0.2%
+2015-11-09 19:30,AUD,NAB Business Confidence,High,,5,2
+2015-11-09 20:30,CNY,CPI y/y,High,1.5%,1.6%,1.3%
+2015-11-10 00:00,AUD,Home Loans m/m,Medium,0.1%,1.5%,2.0%
+2015-11-10 00:00,CNY,PPI y/y,Medium,-5.9%,-5.9%,-5.9%
+2015-11-10 00:00,EUR,Italian Industrial Production m/m,Low,0.5%,-0.5%,0.2%
+2015-11-10 00:00,JPY,Bank Lending y/y,Low,,2.6%,2.5%
+2015-11-10 00:00,JPY,Economy Watchers Sentiment,Low,48.2,47.5,48.2
+2015-11-10 01:45,CHF,Unemployment Rate,Low,3.4%,3.4%,3.4%
+2015-11-10 02:45,EUR,French Industrial Production m/m,Low,0.1%,1.7%,0.1%
+2015-11-10 04:00,EUR,German Buba President Weidmann Speaks,Medium,,,
+2015-11-10 05:58,USD,NFIB Small Business Index,Low,96.4,96.1,96.1
+2015-11-10 08:30,USD,Import Prices m/m,Medium,-0.1%,-0.6%,-0.5%
+2015-11-10 10:00,USD,Final Wholesale Inventories m/m,Low,0.0%,0.3%,0.5%
+2015-11-10 12:00,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2015-11-10 12:30,GBP,MPC Member Cunliffe Speaks,Medium,,,
+2015-11-10 13:01,USD,10-y Bond Auction,Low,,2.07|2.6,2.30|2.6
+2015-11-10 15:00,NZD,RBNZ Financial Stability Report,High,,,
+2015-11-10 15:05,NZD,RBNZ Gov Wheeler Speaks,High,,,
+2015-11-10 15:29,EUR,ECOFIN Meetings,Medium,,,
+2015-11-10 17:15,USD,FOMC Member Evans Speaks,Medium,,,
+2015-11-10 18:30,AUD,Westpac Consumer Sentiment,Medium,,4.2%,3.9%
+2015-11-10 18:50,JPY,M2 Money Stock y/y,Low,3.8%,3.8%,3.6%
+2015-11-11 00:00,CNY,Fixed Asset Investment ytd/y,Medium,10.2%,10.3%,10.2%
+2015-11-11 00:00,CNY,Retail Sales y/y,Low,10.9%,10.9%,11.0%
+2015-11-11 00:00,GBP,Claimant Count Change,High,1.6K,0.5K,3.3K
+2015-11-11 00:00,GBP,Unemployment Rate,Medium,5.4%,5.4%,5.3%
+2015-11-11 00:30,CNY,Industrial Production y/y,High,5.8%,5.7%,5.6%
+2015-11-11 01:03,JPY,Prelim Machine Tool Orders y/y,Low,,-19.1%,-23.1%
+2015-11-11 02:00,EUR,German WPI m/m,Low,0.2%,-0.6%,-0.4%
+2015-11-11 02:52,CNY,Foreign Direct Investment ytd/y,Low,,9.0%,8.6%
+2015-11-11 04:30,GBP,Average Earnings Index 3m/y,High,3.2%,3.0%,3.0%
+2015-11-11 08:15,EUR,ECB President Draghi Speaks,High,,,
+2015-11-11 16:30,NZD,BusinessNZ Manufacturing Index,Low,,55.0,53.3
+2015-11-11 16:45,NZD,FPI m/m,Low,,-0.5%,-1.2%
+2015-11-11 18:50,JPY,Core Machinery Orders m/m,Medium,3.3%,-5.7%,7.5%
+2015-11-11 19:00,AUD,MI Inflation Expectations,Medium,,3.5%,3.5%
+2015-11-11 19:01,GBP,RICS House Price Balance,Low,45%,44%,49%
+2015-11-11 19:30,AUD,Employment Change,High,14.8K,-0.8K,58.6K
+2015-11-11 22:45,JPY,30-y Bond Auction,Low,,1.35|3.3,1.39|3.2
+2015-11-12 00:00,AUD,Unemployment Rate,High,6.2%,6.2%,5.9%
+2015-11-12 00:00,CNY,New Loans,Low,800B,1050B,514B
+2015-11-12 00:00,JPY,PPI y/y,Low,-3.5%,-4.0%,-3.8%
+2015-11-12 00:00,USD,Unemployment Claims,High,270K,276K,276K
+2015-11-12 02:00,EUR,German Final CPI m/m,Low,0.0%,0.0%,0.0%
+2015-11-12 02:45,EUR,French Final CPI m/m,Low,0.1%,-0.4%,0.1%
+2015-11-12 03:00,CNY,M2 Money Supply y/y,Low,13.2%,13.1%,13.5%
+2015-11-12 03:30,EUR,ECB President Draghi Speaks,High,,,
+2015-11-12 05:00,EUR,Industrial Production m/m,Low,-0.1%,-0.4%,-0.3%
+2015-11-12 05:30,EUR,ECB President Draghi Speaks,High,,,
+2015-11-12 08:30,CAD,NHPI m/m,Medium,0.2%,0.3%,0.1%
+2015-11-12 09:30,USD,Fed Chair Yellen Speaks,High,,,
+2015-11-12 10:00,USD,JOLTS Job Openings,Medium,5.39M,5.38M,5.53M
+2015-11-12 10:15,USD,FOMC Member Evans Speaks,Medium,,,
+2015-11-12 11:00,USD,Crude Oil Inventories,Medium,0.8M,2.8M,4.2M
+2015-11-12 12:00,GBP,MPC Member Haldane Speaks,Medium,,,
+2015-11-12 12:15,USD,FOMC Member Dudley Speaks,Medium,,,
+2015-11-12 13:01,USD,30-y Bond Auction,Low,,2.91|2.5,3.07|2.4
+2015-11-12 13:57,USD,Federal Budget Balance,Low,-130.2B,91.1B,-136.5B
+2015-11-12 18:00,USD,FOMC Member Fischer Speaks,Medium,,,
+2015-11-12 23:30,JPY,Revised Industrial Production m/m,Low,1.0%,1.0%,1.1%
+2015-11-12 23:34,JPY,Tertiary Industry Activity m/m,Low,0.2%,0.2%,-0.4%
+2015-11-13 00:00,EUR,Trade Balance,Low,19.4B,19.0B,20.1B
+2015-11-13 00:00,USD,Business Inventories m/m,Low,0.1%,0.1%,0.3%
+2015-11-13 00:00,USD,Core PPI m/m,Medium,0.1%,-0.3%,-0.3%
+2015-11-13 00:00,USD,PPI m/m,High,0.2%,-0.5%,-0.4%
+2015-11-13 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.7%,2.5%
+2015-11-13 00:00,USD,Retail Sales m/m,High,0.3%,0.0%,0.1%
+2015-11-13 01:30,EUR,French Prelim GDP q/q,Low,0.3%,0.0%,0.3%
+2015-11-13 02:00,EUR,German Prelim GDP q/q,High,0.3%,0.4%,0.3%
+2015-11-13 02:45,EUR,French Prelim Private Payrolls q/q,Low,0.1%,0.2%,0.1%
+2015-11-13 03:15,CHF,PPI m/m,Medium,-0.2%,-0.1%,0.2%
+2015-11-13 04:00,EUR,Italian Prelim GDP q/q,Low,0.3%,0.3%,0.2%
+2015-11-13 04:30,GBP,Construction Output m/m,Low,1.5%,-3.4%,-0.2%
+2015-11-13 05:00,EUR,Flash GDP q/q,Medium,0.4%,0.4%,0.3%
+2015-11-13 08:00,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2015-11-13 08:30,USD,Core Retail Sales m/m,High,0.4%,-0.4%,0.2%
+2015-11-13 09:30,GBP,CB Leading Index m/m,Low,,0.1%,-0.3%
+2015-11-13 10:00,USD,Prelim UoM Consumer Sentiment,High,91.3,90.0,93.1
+2015-11-13 10:30,USD,Natural Gas Storage,Low,51B,52B,49B
+2015-11-15 15:29,All,G20 Meetings,Medium,,,
+2015-11-15 16:30,NZD,BusinessNZ Services Index,Low,,59.6,56.2
+2015-11-15 16:45,NZD,Retail Sales q/q,High,1.0%,0.1%,1.6%
+2015-11-15 18:50,JPY,Prelim GDP q/q,High,-0.1%,-0.3%,-0.2%
+2015-11-15 19:01,GBP,Rightmove HPI m/m,Low,,0.6%,-1.3%
+2015-11-15 19:30,AUD,New Motor Vehicle Sales m/m,Low,,5.9%,-3.6%
+2015-11-16 00:00,CAD,Foreign Securities Purchases,Medium,4.12B,5.78B,3.35B
+2015-11-16 00:00,EUR,Final Core CPI y/y,Low,1.0%,1.0%,1.1%
+2015-11-16 00:00,JPY,Prelim GDP Price Index y/y,Low,1.7%,1.5%,2.0%
+2015-11-16 00:00,NZD,Core Retail Sales q/q,Medium,1.4%,0.0,1.0%
+2015-11-16 00:00,USD,Empire State Manufacturing Index,Medium,-5.3,-11.4,-10.7
+2015-11-16 05:00,EUR,Final CPI y/y,Medium,0.0%,0.0%,0.1%
+2015-11-16 05:15,EUR,ECB President Draghi Speaks,High,,,
+2015-11-16 06:00,EUR,German Buba Monthly Report,Low,,,
+2015-11-16 08:30,CAD,Manufacturing Sales m/m,High,0.3%,-0.6%,-1.5%
+2015-11-16 15:29,All,G20 Meetings,Medium,,,
+2015-11-16 16:30,AUD,RBA Assist Gov Kent Speaks,Medium,,,
+2015-11-16 19:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2015-11-16 21:00,NZD,Inflation Expectations q/q,High,,1.94%,1.85%
+2015-11-17 00:00,EUR,ZEW Economic Sentiment,Medium,35.2,30.1,28.3
+2015-11-17 00:00,GBP,Core CPI y/y,Low,1.0%,1.0%,1.1%
+2015-11-17 00:00,GBP,ONS HPI y/y,Low,5.4%,5.5%,6.1%
+2015-11-17 00:00,GBP,PPI Input m/m,Medium,0.2%,0.5%,0.2%
+2015-11-17 00:00,GBP,PPI Output m/m,Low,-0.1%,-0.1%,0.0%
+2015-11-17 00:00,GBP,RPI y/y,Medium,0.9%,0.8%,0.7%
+2015-11-17 00:00,USD,CPI m/m,High,0.2%,-0.2%,0.2%
+2015-11-17 00:00,USD,CPI y/y,High,0.1%,0.0%,0.2%
+2015-11-17 00:00,USD,Industrial Production m/m,Medium,0.1%,-0.2%,-0.2%
+2015-11-17 00:00,USD,NAHB Housing Market Index,Low,64,65,62
+2015-11-17 04:00,EUR,Italian Trade Balance,Low,2.24B,1.85B,2.19B
+2015-11-17 04:30,GBP,CPI y/y,High,-0.1%,-0.1%,-0.1%
+2015-11-17 05:00,EUR,German ZEW Economic Sentiment,High,6.7,1.9,10.4
+2015-11-17 08:30,USD,Core CPI m/m,High,0.2%,0.2%,0.2%
+2015-11-17 09:07,NZD,GDT Price Index,High,,-7.4%,-7.9%
+2015-11-17 09:15,USD,Capacity Utilization Rate,Medium,77.5%,77.7%,77.5%
+2015-11-17 10:00,USD,Mortgage Delinquencies,Medium,,5.30%,4.99%
+2015-11-17 16:00,USD,TIC Long-Term Purchases,Low,23.3B,20.8B,33.6B
+2015-11-17 17:15,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2015-11-17 18:00,AUD,CB Leading Index m/m,Low,,-0.4%,-0.1%
+2015-11-17 18:30,AUD,MI Leading Index m/m,Low,,0.1%,0.1%
+2015-11-17 19:30,AUD,Wage Price Index q/q,Medium,0.6%,0.6%,0.6%
+2015-11-18 00:00,USD,FOMC Member Tarullo Speaks,Low,,,
+2015-11-18 00:00,USD,Housing Starts,Medium,1.16M,1.19M,1.06M
+2015-11-18 05:00,CHF,UBS Economic Expectations,Low,,18.3,0.0
+2015-11-18 05:35,GBP,10-y Bond Auction,Low,,1.82|1.7,1.94|1.5
+2015-11-18 08:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2015-11-18 08:30,USD,Building Permits,High,1.15M,1.11M,1.15M
+2015-11-18 10:30,USD,Crude Oil Inventories,Medium,2.0M,4.2M,0.3M
+2015-11-18 14:00,USD,FOMC Meeting Minutes,High,,,
+2015-11-18 16:45,NZD,PPI Input q/q,Medium,0.1%,-0.3%,1.6%
+2015-11-18 18:50,JPY,Trade Balance,Low,-0.38T,-0.31T,-0.20T
+2015-11-18 22:17,JPY,Monetary Policy Statement,High,,,
+2015-11-18 23:30,JPY,All Industries Activity m/m,Low,0.2%,-0.1%,-0.2%
+2015-11-19 00:00,NZD,PPI Output q/q,Low,0.2%,-0.2%,1.3%
+2015-11-19 00:00,USD,FOMC Member Lockhart Speaks,Medium,,,
+2015-11-19 00:00,USD,Natural Gas Storage,Low,23B,49B,15B
+2015-11-19 00:00,USD,Philly Fed Manufacturing Index,High,0.1,-4.5,1.9
+2015-11-19 00:00,USD,Unemployment Claims,High,272K,276K,271K
+2015-11-19 01:31,JPY,BOJ Press Conference,High,,,
+2015-11-19 02:00,CHF,Trade Balance,Low,3.18B,3.25B,4.16B
+2015-11-19 03:00,EUR,German Buba President Weidmann Speaks,Medium,,,
+2015-11-19 04:00,EUR,Current Account,Low,18.3B,18.7B,29.4B
+2015-11-19 04:30,GBP,Retail Sales m/m,High,-0.4%,1.7%,-0.6%
+2015-11-19 06:00,GBP,CBI Industrial Order Expectations,Low,-10,-18,-11
+2015-11-19 07:30,EUR,ECB Monetary Policy Meeting Accounts,Medium,,,
+2015-11-19 08:30,CAD,Wholesale Sales m/m,Medium,0.2%,-0.1%,-0.1%
+2015-11-19 10:00,USD,CB Leading Index m/m,Low,0.5%,-0.1%,0.6%
+2015-11-19 10:30,CAD,BOC Review,Low,,,
+2015-11-19 12:30,CHF,Gov Board Member Maechler Speaks,Medium,,,
+2015-11-19 16:45,USD,FOMC Member Fischer Speaks,Medium,,,
+2015-11-19 21:00,CNY,CB Leading Index m/m,Low,,1.6%,0.6%
+2015-11-20 00:00,CAD,CPI m/m,Medium,0.1%,-0.2%,0.1%
+2015-11-20 00:00,CAD,Core Retail Sales m/m,High,-0.3%,0.0%,-0.5%
+2015-11-20 00:00,CAD,Retail Sales m/m,Medium,0.1%,0.5%,-0.5%
+2015-11-20 00:00,JPY,BOJ Monthly Report,Low,,,
+2015-11-20 00:00,NZD,Credit Card Spending y/y,Low,,7.3%,7.8%
+2015-11-20 02:00,EUR,German PPI m/m,Low,-0.2%,-0.4%,-0.4%
+2015-11-20 03:00,EUR,ECB President Draghi Speaks,High,,,
+2015-11-20 04:30,GBP,Public Sector Net Borrowing,Medium,5.5B,8.3B,7.5B
+2015-11-20 05:15,EUR,German Buba President Weidmann Speaks,Medium,,,
+2015-11-20 08:30,CAD,Core CPI m/m,High,0.2%,0.2%,0.3%
+2015-11-20 10:00,EUR,Consumer Confidence,Low,-7,-8,-6
+2015-11-20 11:15,USD,FOMC Member Dudley Speaks,Medium,,,
+2015-11-21 12:00,USD,FOMC Member Williams Speaks,Medium,,,
+2015-11-22 06:00,EUR,German Buba President Weidmann Speaks,Medium,,,
+2015-11-22 16:45,NZD,Visitor Arrivals m/m,Low,,4.4%,0.2%
+2015-11-23 00:00,EUR,Flash Services PMI,Medium,54.2,54.1,54.6
+2015-11-23 00:00,EUR,French Flash Services PMI,Medium,52.1,52.7,51.3
+2015-11-23 00:00,EUR,German Flash Services PMI,Medium,54.3,54.5,55.6
+2015-11-23 03:00,EUR,French Flash Manufacturing PMI,High,50.7,50.6,50.8
+2015-11-23 03:30,EUR,German Flash Manufacturing PMI,High,52.2,52.1,52.6
+2015-11-23 04:00,EUR,Flash Manufacturing PMI,Medium,52.3,52.3,52.8
+2015-11-23 09:45,USD,Flash Manufacturing PMI,Low,54.0,54.1,52.6
+2015-11-23 10:00,USD,Existing Home Sales,Medium,5.39M,5.55M,5.36M
+2015-11-23 15:29,EUR,Eurogroup Meetings,Medium,,,
+2015-11-23 20:35,JPY,Flash Manufacturing PMI,Low,52.1,52.4,52.8
+2015-11-24 00:00,USD,Goods Trade Balance,Medium,-61.8B,-59.1B,-58.4B
+2015-11-24 00:00,USD,Prelim GDP Price Index q/q,Low,1.2%,1.2%,1.3%
+2015-11-24 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,5.2%,5.1%,5.5%
+2015-11-24 02:00,EUR,German Final GDP q/q,Low,0.3%,0.3%,0.3%
+2015-11-24 04:00,EUR,German ifo Business Climate,High,108.3,108.2,109.0
+2015-11-24 04:05,AUD,RBA Gov Stevens Speaks,High,,,
+2015-11-24 05:00,GBP,Monetary Policy Report Hearings,High,,,
+2015-11-24 06:00,GBP,CBI Realized Sales,Low,25,19,7
+2015-11-24 08:30,USD,Prelim GDP q/q,High,2.0%,1.5%,2.1%
+2015-11-24 09:00,EUR,Belgian NBB Business Climate,Low,-3.2,-4.0,-3.9
+2015-11-24 09:59,USD,Richmond Manufacturing Index,Low,0,-1,-3
+2015-11-24 10:00,USD,CB Consumer Confidence,High,99.3,99.1,90.4
+2015-11-24 17:35,CAD,Gov Council Member Patterson Speaks,Low,,,
+2015-11-24 18:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2015-11-24 19:30,AUD,Construction Work Done q/q,Medium,-1.8%,2.1%,-3.6%
+2015-11-25 00:00,EUR,Italian Retail Sales m/m,Low,0.5%,0.2%,-0.1%
+2015-11-25 00:00,JPY,SPPI y/y,Low,0.6%,0.5%,0.5%
+2015-11-25 00:00,USD,Core PCE Price Index m/m,Medium,0.1%,0.2%,0.0%
+2015-11-25 00:00,USD,Durable Goods Orders m/m,Medium,1.6%,-0.8%,3.0%
+2015-11-25 00:00,USD,Personal Income m/m,Low,0.4%,0.2%,0.4%
+2015-11-25 00:00,USD,Personal Spending m/m,Medium,0.3%,0.1%,0.1%
+2015-11-25 00:00,USD,Revised UoM Consumer Sentiment,Medium,93.2,93.1,91.3
+2015-11-25 00:00,USD,Revised UoM Inflation Expectations,Low,,2.5%,2.7%
+2015-11-25 00:00,USD,Unemployment Claims,High,273K,272K,260K
+2015-11-25 02:00,CHF,UBS Consumption Indicator,Low,,1.56,1.60
+2015-11-25 04:30,GBP,High Street Lending,Low,45.5K,44.8K,45.4K
+2015-11-25 05:00,EUR,ECB Financial Stability Review,Low,,,
+2015-11-25 05:20,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2015-11-25 05:35,EUR,German 10-y Bond Auction,Low,,0.44|1.2,0.49|1.1
+2015-11-25 07:30,GBP,Autumn Forecast Statement,Medium,,,
+2015-11-25 08:30,USD,Core Durable Goods Orders m/m,High,0.5%,-0.3%,0.5%
+2015-11-25 09:00,USD,HPI m/m,Low,0.5%,0.3%,0.8%
+2015-11-25 09:45,USD,Flash Services PMI,Low,55.2,54.8,56.5
+2015-11-25 10:00,USD,New Home Sales,Medium,500K,447K,495K
+2015-11-25 10:30,USD,Crude Oil Inventories,Medium,1.2M,0.3M,1.0M
+2015-11-25 12:00,USD,Natural Gas Storage,Low,5B,15B,9B
+2015-11-25 16:45,NZD,Trade Balance,High,-1000M,-1140M,-963M
+2015-11-25 19:30,AUD,Private Capital Expenditure q/q,High,-2.8%,-4.4%,-9.2%
+2015-11-26 00:00,EUR,Private Loans y/y,Low,1.2%,1.1%,1.2%
+2015-11-26 04:00,EUR,M3 Money Supply y/y,Medium,4.9%,4.9%,5.3%
+2015-11-26 08:30,CAD,Corporate Profits q/q,Low,,12.9%,-5.4%
+2015-11-26 18:30,JPY,Household Spending y/y,Medium,0.0%,-0.4%,-2.4%
+2015-11-26 18:39,GBP,GfK Consumer Confidence,Low,2,2,1
+2015-11-27 00:00,CAD,IPPI m/m,Low,-0.1%,-0.4%,-0.5%
+2015-11-27 00:00,GBP,Index of Services 3m/3m,Low,0.8%,0.9%,0.7%
+2015-11-27 00:00,GBP,Nationwide HPI m/m,Low,0.5%,0.5%,0.1%
+2015-11-27 00:00,GBP,Prelim Business Investment q/q,Medium,1.5%,1.6%,2.2%
+2015-11-27 00:00,JPY,BOJ Core CPI y/y,Low,,1.2%,1.2%
+2015-11-27 00:00,JPY,National Core CPI y/y,Low,-0.1%,-0.1%,-0.1%
+2015-11-27 00:00,JPY,Tokyo Core CPI y/y,Medium,-0.1%,-0.2%,0.0%
+2015-11-27 00:00,JPY,Unemployment Rate,Low,3.4%,3.4%,3.1%
+2015-11-27 02:00,EUR,German Import Prices m/m,Low,-0.1%,-0.7%,-0.3%
+2015-11-27 02:45,EUR,French Consumer Spending m/m,Low,0.2%,0.1%,-0.7%
+2015-11-27 03:00,EUR,Spanish Flash CPI y/y,Medium,-0.5%,-0.7%,-0.3%
+2015-11-27 04:30,GBP,Second Estimate GDP q/q,High,0.5%,0.5%,0.5%
+2015-11-27 05:23,EUR,Italian 10-y Bond Auction,Low,,1.48|1.7,1.36|1.7
+2015-11-27 07:00,EUR,German GfK Consumer Climate,Low,9.2,9.4,9.3
+2015-11-27 08:30,CAD,RMPI m/m,Medium,0.4%,2.4%,0.4%
+2015-11-29 16:45,NZD,Building Consents m/m,Low,,-5.8%,5.1%
+2015-11-29 18:30,AUD,MI Inflation Gauge m/m,Low,,0.0%,0.1%
+2015-11-29 18:50,JPY,Retail Sales y/y,Medium,0.9%,-0.1%,1.8%
+2015-11-29 19:00,NZD,ANZ Business Confidence,High,,10.5,14.6
+2015-11-29 19:30,AUD,Company Operating Profits q/q,Medium,1.1%,-0.5%,1.3%
+2015-11-29 20:00,JPY,BOJ Gov Kuroda Speaks,High,,,
+2015-11-30 00:00,AUD,Private Sector Credit m/m,Low,0.6%,0.7%,0.7%
+2015-11-30 00:00,GBP,M4 Money Supply m/m,Low,-0.2%,-1.0%,0.6%
+2015-11-30 00:00,GBP,Mortgage Approvals,Low,70K,69K,70K
+2015-11-30 00:00,JPY,Housing Starts y/y,Low,2.5%,2.6%,-2.5%
+2015-11-30 00:00,JPY,Prelim Industrial Production m/m,Low,1.9%,1.1%,1.4%
+2015-11-30 02:00,EUR,German Retail Sales m/m,Medium,0.3%,0.0%,-0.4%
+2015-11-30 03:00,CHF,KOF Economic Barometer,Medium,100.3,100.4,97.9
+2015-11-30 04:30,GBP,Net Lending to Individuals m/m,Medium,4.8B,4.9B,4.8B
+2015-11-30 05:00,EUR,Italian Prelim CPI m/m,Low,-0.2%,0.2%,-0.4%
+2015-11-30 08:30,CAD,Current Account,Medium,-15.2B,-16.6B,-16.2B
+2015-11-30 09:45,USD,Chicago PMI,Medium,54.3,56.2,48.7
+2015-11-30 10:00,USD,Pending Home Sales m/m,Medium,1.6%,-1.6%,0.2%
+2015-11-30 15:29,EUR,German Prelim CPI m/m,Medium,0.1%,0.0%,0.1%
+2015-11-30 16:45,NZD,Overseas Trade Index q/q,Low,-2.5%,1.5%,-3.7%
+2015-11-30 17:30,AUD,AIG Manufacturing Index,Low,,50.2,52.5
+2015-11-30 18:50,JPY,Capital Spending q/y,Low,2.3%,5.6%,11.2%
+2015-11-30 19:30,AUD,Building Approvals m/m,Medium,-2.4%,2.3%,3.9%
+2015-11-30 20:00,CNY,Manufacturing PMI,High,49.9,49.8,49.6
+2015-11-30 20:35,JPY,Final Manufacturing PMI,Low,52.8,52.8,52.6
+2015-11-30 20:45,CNY,Caixin Manufacturing PMI,High,48.3,48.3,48.6
+2015-11-30 22:30,AUD,Cash Rate,High,2.00%,2.00%,2.00%
+2015-11-30 22:45,JPY,10-y Bond Auction,Low,,0.32|2.8,0.32|3.6

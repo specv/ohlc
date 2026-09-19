@@ -1,0 +1,334 @@
+datetime,currency,title,impact,forecast,previous,actual
+2008-02-01 00:00,CAD,IPPI m/m,Low,0.6%,0.6%,1.1%
+2008-02-01 00:00,USD,Average Hourly Earnings m/m,Medium,0.3%,0.4%,0.2%
+2008-02-01 00:00,USD,Construction Spending m/m,Low,-0.5%,-0.4%,-1.1%
+2008-02-01 00:00,USD,ISM Manufacturing Prices,Low,68.0,68.0,76.0
+2008-02-01 00:00,USD,Non-Farm Employment Change,High,65K,82K,-17K
+2008-02-01 00:00,USD,Revised UoM Consumer Sentiment,Medium,79.0,80.5,78.4
+2008-02-01 00:00,USD,Revised UoM Inflation Expectations,Low,,3.4%,3.4%
+2008-02-01 00:00,USD,Unemployment Rate,High,5.0%,5.0%,4.9%
+2008-02-01 00:30,AUD,Commodity Prices y/y,Medium,,2.2%,5.2%
+2008-02-01 03:15,EUR,Spanish Manufacturing PMI,Low,,49.5,49.8
+2008-02-01 03:30,CHF,Manufacturing PMI,Medium,60.3,61.3,61.6
+2008-02-01 03:45,EUR,Italian Manufacturing PMI,Low,51.0,50.7,50.8
+2008-02-01 04:00,EUR,Final Manufacturing PMI,Low,52.6,52.6,52.8
+2008-02-01 04:30,GBP,Final Manufacturing PMI,Medium,52.5,52.4,50.6
+2008-02-01 08:30,CAD,RMPI m/m,Medium,0.8%,3.4%,0.2%
+2008-02-01 10:00,USD,ISM Manufacturing PMI,High,47.3,47.7,50.7
+2008-02-01 15:29,All,OPEC Meetings,Medium,,,
+2008-02-01 15:29,USD,Total Vehicle Sales,Low,16.0M,16.2M,15.3M
+2008-02-02 20:00,CNY,Non-Manufacturing PMI,Low,,58.8,57.1
+2008-02-03 16:45,NZD,Visitor Arrivals m/m,Low,,2.8%,-1.2%
+2008-02-03 18:30,AUD,MI Inflation Gauge m/m,Low,,0.6%,0.3%
+2008-02-03 18:50,JPY,Monetary Base y/y,Low,0.3%,0.4%,-0.1%
+2008-02-03 19:30,AUD,Goods Trade Balance,High,-2.04B,-2.16B,-1.94B
+2008-02-04 00:00,AUD,HPI q/q,Medium,2.9%,3.2%,3.2%
+2008-02-04 00:00,GBP,Construction PMI,Low,55.0,56.0,53.9
+2008-02-04 03:00,EUR,Spanish Unemployment Change,Low,,35.1K,132.4K
+2008-02-04 04:30,EUR,Sentix Investor Confidence,Low,5.7,8.2,4.3
+2008-02-04 05:00,EUR,PPI m/m,Low,0.2%,0.9%,0.1%
+2008-02-04 07:30,USD,Challenger Job Cuts y/y,Low,,-4.7%,-18.7%
+2008-02-04 10:00,USD,Factory Orders m/m,Medium,2.3%,1.7%,2.3%
+2008-02-04 11:20,USD,FOMC Member Kroszner Speaks,Medium,,,
+2008-02-04 14:00,USD,Loan Officer Survey,Low,,,
+2008-02-04 16:45,NZD,Labor Cost Index q/q,High,0.8%,0.9%,1.1%
+2008-02-04 17:30,AUD,AIG Services Index,Low,,56.9,54.9
+2008-02-04 19:30,AUD,Building Approvals m/m,High,-3.8%,8.2%,-16.0%
+2008-02-04 21:00,NZD,ANZ Commodity Prices m/m,Low,,0.0%,-1.4%
+2008-02-04 22:30,AUD,Cash Rate,High,7.00%,6.75%,7.00%
+2008-02-04 22:45,JPY,10-y Bond Auction,Low,,1.44|2.5,1.46|2.9
+2008-02-05 00:00,AUD,NAB Quarterly Business Confidence,Medium,,9,6
+2008-02-05 00:00,AUD,RBA Rate Statement,High,,,
+2008-02-05 00:00,AUD,Retail Sales m/m,High,0.6%,0.8%,0.5%
+2008-02-05 00:00,EUR,Italian Prelim CPI m/m,Low,0.3%,0.3%,0.4%
+2008-02-05 00:00,USD,Treasury Sec Paulson Speaks,Low,,,
+2008-02-05 03:00,GBP,Halifax HPI m/m,High,-0.4%,1.4%,0.0%
+2008-02-05 03:15,EUR,Spanish Services PMI,Low,,51.0,44.2
+2008-02-05 03:45,EUR,Italian Services PMI,Low,49.5,49.7,47.9
+2008-02-05 04:00,EUR,Final Services PMI,Low,52.0,52.0,50.6
+2008-02-05 04:30,GBP,Final Services PMI,Medium,52.0,52.4,52.5
+2008-02-05 05:00,EUR,Retail Sales m/m,Medium,0.2%,-0.7%,-0.1%
+2008-02-05 05:40,GBP,10-y Bond Auction,Low,,4.99|1.9,4.50|1.9
+2008-02-05 10:00,USD,ISM Services PMI,High,52.4,53.2,44.6
+2008-02-05 19:01,GBP,Nationwide Consumer Confidence,Low,83,85,81
+2008-02-06 00:00,JPY,Leading Indicators,Low,40.0%,18.2%,40.0%
+2008-02-06 00:00,USD,Crude Oil Inventories,Low,2.6M,3.6M,7.0M
+2008-02-06 00:00,USD,Prelim Nonfarm Productivity q/q,Medium,0.5%,6.3%,1.8%
+2008-02-06 00:00,USD,Prelim Unit Labor Costs q/q,Medium,3.5%,-2.0%,2.1%
+2008-02-06 03:00,CHF,Foreign Currency Reserves,Low,,50B,49B
+2008-02-06 05:30,GBP,BRC Shop Price Index y/y,Low,,1.0%,1.2%
+2008-02-06 08:30,CAD,Building Permits m/m,Medium,0.0%,-9.9%,0.4%
+2008-02-06 10:00,CAD,Ivey PMI,High,47.0,45.9,56.2
+2008-02-06 10:30,GBP,CB Leading Index m/m,Low,,-0.3%,-0.4%
+2008-02-06 12:30,USD,FOMC Member Kroszner Speaks,Low,,,
+2008-02-06 13:00,USD,10-y Bond Auction,Medium,,4.16|2.2,3.62|2.3
+2008-02-06 13:40,USD,FOMC Member Plosser Speaks,Medium,,,
+2008-02-06 16:45,NZD,Employment Change q/q,High,0.3%,-0.3%,1.1%
+2008-02-06 17:30,AUD,AIG Construction Index,Low,,59.2,58.3
+2008-02-07 00:00,GBP,Industrial Production m/m,Low,0.2%,-0.1%,-0.1%
+2008-02-07 00:00,GBP,Official Bank Rate,High,5.25%,5.50%,5.25%
+2008-02-07 00:00,NZD,Unemployment Rate,High,3.6%,3.5%,3.4%
+2008-02-07 00:00,USD,30-y Bond Auction,Low,,4.67|3.0,4.45|1.8
+2008-02-07 00:00,USD,Unemployment Claims,High,340K,378K,356K
+2008-02-07 01:00,JPY,Prelim Machine Tool Orders y/y,Low,,3.7%,-1.0%
+2008-02-07 01:45,CHF,Unemployment Rate,Low,2.6%,2.6%,2.6%
+2008-02-07 02:45,EUR,French Trade Balance,Low,-4.0B,-4.6B,-4.3B
+2008-02-07 04:30,GBP,Manufacturing Production m/m,High,0.1%,-0.1%,-0.2%
+2008-02-07 05:01,EUR,French 10-y Bond Auction,Low,,4.31|2.5,4.01|3.2
+2008-02-07 06:00,EUR,German Factory Orders m/m,Medium,-1.8%,3.0%,-1.7%
+2008-02-07 07:00,GBP,MPC Rate Statement,High,,,
+2008-02-07 07:45,EUR,Main Refinancing Rate,Medium,4.00%,4.00%,4.00%
+2008-02-07 08:30,EUR,ECB Press Conference,High,,,
+2008-02-07 10:00,USD,Pending Home Sales m/m,High,-1.0%,-3.0%,-1.5%
+2008-02-07 10:30,USD,Natural Gas Storage,Low,-187B,-274B,-200B
+2008-02-07 13:00,USD,FOMC Member Fisher Speaks,Medium,,,
+2008-02-07 15:00,USD,Consumer Credit m/m,Low,7.2B,17.1B,4.5B
+2008-02-07 18:50,JPY,Core Machinery Orders m/m,Medium,-1.0%,-2.8%,-3.2%
+2008-02-07 19:01,GBP,NIESR GDP Estimate,Low,,0.6%,0.5%
+2008-02-08 00:00,CAD,Unemployment Rate,High,6.0%,5.9%,5.8%
+2008-02-08 00:00,CHF,SECO Consumer Climate,Medium,11,15,14
+2008-02-08 00:00,JPY,Economy Watchers Sentiment,Low,35.5,36.6,31.8
+2008-02-08 00:00,JPY,M2 Money Stock y/y,Low,2.1%,2.1%,2.1%
+2008-02-08 01:45,CHF,CPI m/m,High,-0.5%,0.2%,-0.3%
+2008-02-08 02:00,EUR,German Trade Balance,Low,17.7B,20.1B,15.6B
+2008-02-08 06:00,EUR,German Industrial Production m/m,Medium,1.0%,-0.3%,0.8%
+2008-02-08 07:00,CAD,Employment Change,High,10.0K,-18.7K,46.4K
+2008-02-08 08:15,CAD,Housing Starts,High,210K,185K,223K
+2008-02-08 10:00,USD,Final Wholesale Inventories m/m,Low,0.3%,0.8%,1.1%
+2008-02-08 12:55,USD,FOMC Member Pianalto Speaks,Low,,,
+2008-02-08 15:29,All,G7 Meetings,Medium,,,
+2008-02-09 15:29,All,G7 Meetings,High,,,
+2008-02-10 19:30,AUD,Home Loans m/m,High,-0.9%,3.3%,0.1%
+2008-02-11 00:00,AUD,ANZ Job Advertisements m/m,Medium,,7.1%,1.8%
+2008-02-11 00:00,AUD,RBA Monetary Policy Statement,High,,,
+2008-02-11 00:00,GBP,Goods Trade Balance,Medium,-7.4B,-7.9B,-7.6B
+2008-02-11 00:00,GBP,ONS HPI y/y,Low,8.0%,9.7%,9.1%
+2008-02-11 00:00,GBP,PPI Output m/m,Low,0.5%,0.4%,1.0%
+2008-02-11 02:45,EUR,French Industrial Production m/m,Medium,0.7%,-1.7%,0.7%
+2008-02-11 04:00,EUR,Italian Industrial Production m/m,Low,0.5%,-1.1%,-0.5%
+2008-02-11 04:30,GBP,PPI Input m/m,High,1.0%,1.4%,2.6%
+2008-02-11 08:30,CAD,NHPI m/m,Low,0.3%,0.5%,0.1%
+2008-02-11 15:29,EUR,Eurogroup Meetings,Low,,,
+2008-02-11 19:01,GBP,BRC Retail Sales Monitor y/y,Medium,,0.3%,2.6%
+2008-02-11 19:30,AUD,NAB Business Confidence,Low,,5,-4
+2008-02-12 00:00,EUR,ZEW Economic Sentiment,Low,-43.0,-41.7,-41.4
+2008-02-12 00:00,GBP,Core CPI y/y,Medium,1.5%,1.4%,1.3%
+2008-02-12 00:00,GBP,RPI y/y,Low,4.1%,4.0%,4.1%
+2008-02-12 00:00,USD,RCM/TIPP Economic Optimism,Low,42.5,43.2,44.5
+2008-02-12 04:30,GBP,CPI y/y,High,2.3%,2.1%,2.2%
+2008-02-12 05:00,EUR,German ZEW Economic Sentiment,Medium,-45.0,-41.6,-39.5
+2008-02-12 07:30,USD,NFIB Small Business Index,Low,,94.6,91.8
+2008-02-12 10:00,USD,JOLTS Job Openings,Low,,4.02M,4.04M
+2008-02-12 14:00,USD,Federal Budget Balance,Medium,23.5B,48.3B,17.8B
+2008-02-12 15:29,EUR,ECOFIN Meetings,Low,,,
+2008-02-12 16:45,NZD,PPI Input q/q,High,1.2%,2.3%,1.3%
+2008-02-12 18:30,AUD,Westpac Consumer Sentiment,Medium,,-8.3%,-5.5%
+2008-02-12 18:50,JPY,Current Account,Low,1.90T,2.16T,1.86T
+2008-02-12 19:01,GBP,RICS House Price Balance,Medium,-52%,-49%,-55%
+2008-02-13 00:00,GBP,Average Earnings Index 3m/y,Medium,3.9%,4.0%,3.8%
+2008-02-13 00:00,GBP,BOE Monetary Policy Report,High,,,
+2008-02-13 00:00,GBP,Unemployment Rate,Low,5.3%,5.3%,5.2%
+2008-02-13 00:00,JPY,Consumer Confidence,Low,37.5,38.0,37.5
+2008-02-13 00:00,JPY,PPI y/y,Low,2.7%,2.6%,3.0%
+2008-02-13 00:00,NZD,PPI Output q/q,Low,1.0%,1.6%,1.5%
+2008-02-13 00:00,USD,Retail Sales m/m,High,-0.2%,-0.4%,0.3%
+2008-02-13 02:00,EUR,German WPI m/m,Low,0.2%,-0.5%,1.4%
+2008-02-13 02:45,EUR,French Gov Budget Balance,Low,,-54.7B,-38.4B
+2008-02-13 04:30,GBP,Claimant Count Change,High,-5.2K,-8.7K,-10.8K
+2008-02-13 05:00,EUR,Industrial Production m/m,Medium,0.5%,-0.4%,-0.2%
+2008-02-13 05:06,EUR,German 10-y Bond Auction,Low,,4.35|1.2,3.94|1.7
+2008-02-13 05:30,GBP,BOE Gov King Speaks,High,,,
+2008-02-13 08:30,USD,Core Retail Sales m/m,High,0.2%,-0.3%,0.3%
+2008-02-13 10:00,USD,Business Inventories m/m,Medium,0.4%,0.4%,0.6%
+2008-02-13 10:30,USD,Crude Oil Inventories,Low,2.4M,7.0M,1.1M
+2008-02-13 16:40,NZD,BusinessNZ Manufacturing Index,Low,,53.6,53.3
+2008-02-13 16:45,NZD,FPI m/m,Low,,0.9%,0.4%
+2008-02-13 18:50,JPY,Prelim GDP q/q,High,0.4%,0.4%,0.9%
+2008-02-13 19:00,AUD,MI Inflation Expectations,Low,,4.4%,4.5%
+2008-02-13 19:30,AUD,Employment Change,High,15.0K,24.8K,26.8K
+2008-02-13 21:00,CNY,New Loans,Medium,,49B,804B
+2008-02-13 23:30,JPY,Revised Industrial Production m/m,Low,1.4%,1.4%,1.4%
+2008-02-14 00:00,AUD,Unemployment Rate,Medium,4.3%,4.3%,4.1%
+2008-02-14 00:00,CNY,M2 Money Supply y/y,Low,16.5%,16.7%,18.9%
+2008-02-14 00:00,EUR,Flash GDP q/q,Medium,0.3%,0.8%,0.4%
+2008-02-14 00:00,EUR,German Final CPI m/m,Low,-0.3%,-0.3%,-0.4%
+2008-02-14 00:00,JPY,Bank Lending y/y,Low,,0.1%,0.4%
+2008-02-14 00:00,JPY,Prelim GDP Price Index y/y,Medium,-0.9%,-0.6%,-1.3%
+2008-02-14 00:00,USD,Natural Gas Storage,Low,-117B,-200B,-120B
+2008-02-14 00:00,USD,Trade Balance,High,-61.8B,-63.1B,-58.8B
+2008-02-14 00:00,USD,Unemployment Claims,Medium,345K,357K,348K
+2008-02-14 02:00,EUR,German Prelim GDP q/q,High,0.3%,0.7%,0.3%
+2008-02-14 02:45,EUR,French Prelim GDP q/q,Low,0.3%,0.8%,0.3%
+2008-02-14 03:00,EUR,Spanish Flash GDP q/q,Low,0.7%,0.7%,0.8%
+2008-02-14 04:00,EUR,ECB Monthly Bulletin,Medium,,,
+2008-02-14 05:00,CHF,UBS Economic Expectations,Medium,,-32.8,-55.6
+2008-02-14 08:30,CAD,Trade Balance,High,3.6B,3.8B,2.4B
+2008-02-14 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2008-02-14 10:30,CAD,BOC Review,Low,,,
+2008-02-14 12:30,EUR,ECB President Trichet Speaks,Medium,,,
+2008-02-14 16:45,NZD,Core Retail Sales m/m,High,0.2%,0.8%,0.3%
+2008-02-14 22:51,JPY,Overnight Call Rate,Medium,0.50%,0.50%,0.50%
+2008-02-15 00:00,CAD,New Motor Vehicle Sales m/m,Low,2.8%,-2.7%,4.8%
+2008-02-15 00:00,NZD,Core Retail Sales q/q,Low,,0.1%,0.0%
+2008-02-15 00:00,NZD,Retail Sales m/m,High,0.1%,1.7%,0.1%
+2008-02-15 00:00,NZD,Retail Sales q/q,Low,0.5%,0.2%,0.3%
+2008-02-15 00:00,USD,Empire State Manufacturing Index,Medium,6.5,9.0,-11.7
+2008-02-15 00:00,USD,Import Prices m/m,Medium,0.4%,-0.2%,1.7%
+2008-02-15 00:00,USD,Industrial Production m/m,Medium,0.1%,0.1%,0.1%
+2008-02-15 00:00,USD,Prelim UoM Inflation Expectations,Low,,3.4%,3.7%
+2008-02-15 01:00,JPY,BOJ Monthly Report,Medium,,,
+2008-02-15 02:24,JPY,BOJ Press Conference,High,,,
+2008-02-15 02:45,EUR,French Prelim Private Payrolls q/q,Medium,0.3%,0.4%,0.4%
+2008-02-15 03:00,CNY,USD-Denominated Trade Balance,High,17.2B,22.7B,19.5B
+2008-02-15 05:00,EUR,Trade Balance,Low,2.5B,2.0B,-2.1B
+2008-02-15 08:30,CAD,Manufacturing Sales m/m,Medium,-0.1%,1.0%,-3.4%
+2008-02-15 09:00,USD,TIC Long-Term Purchases,High,73.0B,90.9B,56.5B
+2008-02-15 09:15,USD,Capacity Utilization Rate,Medium,81.4%,81.5%,81.5%
+2008-02-15 09:45,EUR,ECB President Trichet Speaks,Medium,,,
+2008-02-15 09:55,USD,Prelim UoM Consumer Sentiment,High,76.0,78.4,69.6
+2008-02-15 13:15,USD,FOMC Member Mishkin Speaks,Medium,,,
+2008-02-17 18:50,JPY,Tertiary Industry Activity m/m,Medium,-0.2%,0.0%,-0.6%
+2008-02-17 19:01,GBP,Rightmove HPI m/m,Medium,,-0.8%,3.2%
+2008-02-17 21:00,CNY,PPI y/y,Medium,5.7%,5.4%,6.1%
+2008-02-18 00:00,GBP,MPC Member Besley Speaks,Medium,,,
+2008-02-18 01:45,CNY,Foreign Direct Investment ytd/y,Low,,13.6%,109.8%
+2008-02-18 03:15,CHF,Retail Sales y/y,Medium,5.1%,2.9%,1.2%
+2008-02-18 06:00,EUR,German Buba Monthly Report,Medium,,,
+2008-02-18 14:30,CAD,BOC Gov Carney Speaks,High,,,
+2008-02-18 17:30,AUD,RBA Assist Gov Edey Speaks,Low,,,
+2008-02-18 19:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2008-02-18 21:00,CNY,CPI y/y,Medium,7.0%,6.5%,7.1%
+2008-02-19 00:00,CAD,CPI m/m,Medium,-0.1%,0.1%,-0.2%
+2008-02-19 04:00,EUR,Italian Trade Balance,Low,-1.72B,-0.28B,-1.97B
+2008-02-19 07:00,CAD,Core CPI m/m,High,0.1%,-0.3%,0.1%
+2008-02-19 08:30,CAD,Wholesale Sales m/m,Medium,-0.6%,0.2%,-2.9%
+2008-02-19 09:00,USD,FOMC Member Stern Speaks,Medium,,,
+2008-02-19 13:00,USD,NAHB Housing Market Index,Low,19,19,20
+2008-02-19 14:35,GBP,MPC Member Barker Speaks,Medium,,,
+2008-02-19 18:30,AUD,MI Leading Index m/m,Low,,-0.9%,-0.2%
+2008-02-19 18:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2008-02-19 19:30,AUD,Wage Price Index q/q,Medium,1.0%,1.0%,1.1%
+2008-02-20 00:00,CAD,Leading Index m/m,Low,0.0%,0.0%,0.2%
+2008-02-20 00:00,GBP,M4 Money Supply m/m,Low,0.9%,1.6%,1.3%
+2008-02-20 00:00,GBP,Public Sector Net Borrowing,Low,-9.5B,6.9B,-14.1B
+2008-02-20 00:00,USD,Building Permits,High,1.05M,1.08M,1.05M
+2008-02-20 00:00,USD,CPI m/m,Medium,0.3%,0.3%,0.4%
+2008-02-20 00:00,USD,CPI y/y,High,4.2%,4.1%,4.3%
+2008-02-20 00:00,USD,Core CPI m/m,High,0.2%,0.2%,0.3%
+2008-02-20 00:00,USD,Housing Starts,Medium,1.01M,1.00M,1.01M
+2008-02-20 02:00,EUR,German PPI m/m,Medium,0.3%,-0.1%,0.8%
+2008-02-20 04:30,GBP,MPC Official Bank Rate Votes,High,0-9-0,0-1-8,0-9-0
+2008-02-20 06:00,GBP,CBI Industrial Order Expectations,Medium,-3,2,3
+2008-02-20 08:30,CAD,Foreign Securities Purchases,Medium,1.50B,-4.90B,1.24B
+2008-02-20 14:00,USD,FOMC Meeting Minutes,High,,,
+2008-02-20 18:50,JPY,All Industries Activity m/m,Low,0.1%,-0.5%,-0.2%
+2008-02-20 19:30,AUD,New Motor Vehicle Sales m/m,Low,,1.6%,0.6%
+2008-02-21 00:00,AUD,RBA Bulletin,Low,,,
+2008-02-21 00:00,JPY,Trade Balance,Low,0.93T,0.62T,0.86T
+2008-02-21 00:00,USD,CB Leading Index m/m,Low,-0.1%,-0.1%,-0.1%
+2008-02-21 00:00,USD,Natural Gas Storage,Low,-174B,-120B,-172B
+2008-02-21 00:00,USD,Unemployment Claims,Medium,345K,339K,349K
+2008-02-21 02:15,CHF,Trade Balance,Low,0.80B,0.18B,1.22B
+2008-02-21 02:45,EUR,French Final CPI m/m,Low,-0.2%,0.4%,-0.1%
+2008-02-21 03:15,CHF,PPI m/m,Medium,-0.1%,-0.1%,0.5%
+2008-02-21 04:00,EUR,Current Account,Low,0.2B,2.3B,-10.3B
+2008-02-21 04:30,GBP,Retail Sales m/m,High,0.3%,-0.2%,0.8%
+2008-02-21 08:30,CAD,Corporate Profits q/q,Low,,5.8%,7.8%
+2008-02-21 08:45,GBP,MPC Member Sentance Speaks,Medium,,,
+2008-02-21 10:00,USD,Philly Fed Manufacturing Index,Medium,-10.0,-20.9,-24.0
+2008-02-21 10:30,USD,Crude Oil Inventories,Low,2.4M,1.1M,4.2M
+2008-02-21 21:00,NZD,Credit Card Spending y/y,Low,,7.6%,8.6%
+2008-02-22 00:00,CAD,Retail Sales m/m,Medium,0.8%,0.9%,0.6%
+2008-02-22 00:00,EUR,Flash Services PMI,Low,51.0,50.6,52.3
+2008-02-22 02:45,EUR,French Consumer Spending m/m,Medium,-0.5%,2.1%,-1.2%
+2008-02-22 04:00,EUR,Flash Manufacturing PMI,Medium,52.5,52.8,52.3
+2008-02-22 05:00,EUR,Industrial New Orders m/m,Medium,-1.1%,2.0%,-3.6%
+2008-02-22 08:30,CAD,Core Retail Sales m/m,High,0.4%,2.0%,-0.4%
+2008-02-22 09:00,EUR,Belgian NBB Business Climate,Medium,-1.7,-0.8,0.2
+2008-02-22 13:30,USD,FOMC Member Fisher Speaks,Medium,,,
+2008-02-25 04:00,EUR,Italian Retail Sales m/m,Low,-0.1%,-0.3%,0.1%
+2008-02-25 04:30,GBP,High Street Lending,Medium,,42.3K,44.3K
+2008-02-25 09:50,USD,FOMC Member Kroszner Speaks,Medium,,,
+2008-02-25 10:00,USD,Existing Home Sales,High,4.80M,4.91M,4.89M
+2008-02-25 12:30,CHF,SNB Chairman Roth Speaks,Medium,,,
+2008-02-25 13:50,EUR,ECB President Trichet Speaks,Medium,,,
+2008-02-25 18:50,JPY,SPPI y/y,Low,1.4%,1.5%,0.8%
+2008-02-25 21:00,NZD,Inflation Expectations q/q,High,,2.70%,2.70%
+2008-02-26 00:00,EUR,German ifo Business Climate,High,103.0,103.4,104.1
+2008-02-26 00:00,USD,Core PPI m/m,Medium,0.2%,0.2%,0.4%
+2008-02-26 00:00,USD,FOMC Member Mishkin Speaks,Medium,,,
+2008-02-26 00:00,USD,Richmond Manufacturing Index,Low,-10,-8,-5
+2008-02-26 01:00,EUR,German Final GDP q/q,Low,0.3%,0.3%,0.3%
+2008-02-26 04:00,CHF,UBS Consumption Indicator,Medium,,2.18,2.19
+2008-02-26 04:30,GBP,Prelim Business Investment q/q,Medium,1.0%,2.0%,-0.5%
+2008-02-26 06:00,GBP,CBI Realized Sales,High,2,4,-3
+2008-02-26 08:30,USD,PPI m/m,High,0.4%,-0.1%,1.0%
+2008-02-26 09:00,USD,S&P/CS Composite-20 HPI y/y,Low,-9.9%,-7.7%,-9.1%
+2008-02-26 10:00,USD,CB Consumer Confidence,High,82.0,87.3,75.0
+2008-02-26 11:00,CAD,Gov Council Member Jenkins Speaks,Medium,,,
+2008-02-26 12:15,USD,FOMC Member Kohn Speaks,Medium,,,
+2008-02-26 16:00,CAD,Annual Budget Release,Medium,,,
+2008-02-26 16:45,NZD,Building Consents m/m,Medium,,-3.9%,3.3%
+2008-02-26 19:30,AUD,Construction Work Done q/q,Medium,2.0%,2.2%,-1.0%
+2008-02-26 21:00,NZD,ANZ Business Confidence,Medium,,-24.9,-43.9
+2008-02-27 00:00,EUR,German Import Prices m/m,Low,0.2%,-0.1%,0.8%
+2008-02-27 00:00,EUR,Private Loans y/y,Low,11.0%,11.2%,11.1%
+2008-02-27 00:00,GBP,Index of Services 3m/3m,Low,0.7%,0.7%,0.6%
+2008-02-27 00:00,USD,Durable Goods Orders m/m,Medium,-4.0%,4.4%,-5.3%
+2008-02-27 00:00,USD,FOMC Member Mishkin Speaks,Medium,,,
+2008-02-27 00:00,USD,Fed Monetary Policy Report,Low,,,
+2008-02-27 00:00,USD,New Home Sales,High,600K,605K,588K
+2008-02-27 02:00,EUR,German GfK Consumer Climate,Low,4.4,4.5,4.5
+2008-02-27 04:00,EUR,M3 Money Supply y/y,Low,11.3%,11.6%,11.5%
+2008-02-27 04:30,GBP,Second Estimate GDP q/q,High,0.6%,0.7%,0.6%
+2008-02-27 08:30,USD,Core Durable Goods Orders m/m,High,-1.4%,2.0%,-1.6%
+2008-02-27 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2008-02-27 10:20,GBP,MPC Member Gieve Speaks,Medium,,,
+2008-02-27 10:30,USD,Crude Oil Inventories,Low,2.7M,4.2M,3.2M
+2008-02-27 16:45,NZD,Visitor Arrivals m/m,Low,,-1.2%,0.0%
+2008-02-27 18:00,AUD,CB Leading Index m/m,Low,,0.6%,0.2%
+2008-02-27 18:50,JPY,Prelim Industrial Production m/m,Medium,-0.8%,1.4%,-2.0%
+2008-02-27 19:30,AUD,Private Capital Expenditure q/q,High,3.0%,-6.2%,5.1%
+2008-02-28 00:00,JPY,Retail Sales y/y,Medium,0.0%,0.2%,1.5%
+2008-02-28 00:00,USD,Prelim GDP Price Index q/q,Low,2.6%,2.6%,2.7%
+2008-02-28 00:00,USD,Unemployment Claims,Low,350K,342K,373K
+2008-02-28 03:15,CHF,Employment Level,Medium,3.86M,3.87M,3.88M
+2008-02-28 03:55,EUR,German Unemployment Change,Medium,-60K,-86K,-68K
+2008-02-28 04:00,EUR,Retail PMI,Low,,48.1,52.4
+2008-02-28 05:34,EUR,Italian 10-y Bond Auction,Low,,4.31|1.5,4.43|1.5
+2008-02-28 08:30,USD,Prelim GDP q/q,High,0.7%,0.6%,0.6%
+2008-02-28 09:15,EUR,ECB President Trichet Speaks,Medium,,,
+2008-02-28 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2008-02-28 10:30,USD,Natural Gas Storage,Low,-157B,-172B,-151B
+2008-02-28 10:48,GBP,GfK Consumer Confidence,Low,-15,-13,-17
+2008-02-28 16:45,NZD,Trade Balance,High,-272M,33M,-320M
+2008-02-28 18:15,JPY,Final Manufacturing PMI,Low,,52.3,50.8
+2008-02-28 18:30,JPY,Tokyo Core CPI y/y,Medium,0.5%,0.4%,0.4%
+2008-02-28 19:30,AUD,Private Sector Credit m/m,Medium,1.0%,1.3%,1.1%
+2008-02-29 00:00,CAD,IPPI m/m,Low,0.8%,1.1%,0.9%
+2008-02-29 00:00,CAD,RMPI m/m,Medium,0.7%,0.4%,3.4%
+2008-02-29 00:00,EUR,Consumer Confidence,Low,-12,-12,-12
+2008-02-29 00:00,EUR,Final CPI y/y,Medium,3.2%,3.2%,3.2%
+2008-02-29 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.4%,0.3%
+2008-02-29 00:00,EUR,Unemployment Rate,Low,7.2%,7.1%,7.1%
+2008-02-29 00:00,GBP,Nationwide HPI m/m,High,0.0%,-0.3%,-0.5%
+2008-02-29 00:00,GBP,Net Lending to Individuals m/m,Low,9.0B,8.5B,8.4B
+2008-02-29 00:00,JPY,Household Spending y/y,Low,0.4%,2.2%,3.6%
+2008-02-29 00:00,JPY,Housing Starts y/y,Low,-12.4%,-19.2%,-5.7%
+2008-02-29 00:00,JPY,National Core CPI y/y,Low,0.9%,0.8%,0.8%
+2008-02-29 00:00,JPY,Unemployment Rate,Low,3.9%,3.8%,3.8%
+2008-02-29 00:00,USD,Core PCE Price Index m/m,Medium,0.3%,0.2%,0.3%
+2008-02-29 00:00,USD,Personal Income m/m,Low,0.2%,0.5%,0.3%
+2008-02-29 00:00,USD,Personal Spending m/m,Medium,0.2%,0.3%,0.4%
+2008-02-29 00:00,USD,Revised UoM Inflation Expectations,Low,,3.7%,3.6%
+2008-02-29 02:00,EUR,German Retail Sales m/m,Medium,1.0%,-0.2%,1.6%
+2008-02-29 04:00,EUR,Italian Prelim GDP q/q,Low,,0.4%,0.0%
+2008-02-29 04:30,GBP,Mortgage Approvals,Low,70K,72K,74K
+2008-02-29 05:00,EUR,Final Core CPI y/y,Medium,1.8%,1.9%,1.7%
+2008-02-29 05:30,CHF,KOF Economic Barometer,Medium,1.60,1.75,1.65
+2008-02-29 08:30,CAD,Current Account,Medium,0.0B,1.3B,-0.5B
+2008-02-29 09:45,USD,Chicago PMI,Medium,49.4,51.5,44.5
+2008-02-29 09:55,USD,Revised UoM Consumer Sentiment,Medium,70.0,69.6,70.8
+2008-02-29 11:00,USD,FOMC Member Mishkin Speaks,Medium,,,
+2008-02-29 15:29,EUR,German Prelim CPI m/m,Medium,0.4%,-0.4%,0.5%
+2008-02-29 20:00,CNY,Manufacturing PMI,High,,53.0,53.4

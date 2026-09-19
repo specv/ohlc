@@ -1,0 +1,362 @@
+datetime,currency,title,impact,forecast,previous,actual
+2010-09-01 00:00,USD,Construction Spending m/m,Low,-0.4%,-0.8%,-1.0%
+2010-09-01 00:00,USD,Crude Oil Inventories,Medium,1.3M,4.1M,3.4M
+2010-09-01 00:00,USD,ISM Manufacturing Prices,Low,55.5,57.5,61.5
+2010-09-01 02:00,EUR,German Retail Sales m/m,Medium,0.6%,-0.3%,-0.3%
+2010-09-01 02:30,AUD,Commodity Prices y/y,Medium,,52.4%,52.7%
+2010-09-01 03:15,EUR,Spanish Manufacturing PMI,Medium,,51.6,51.2
+2010-09-01 03:30,CHF,Manufacturing PMI,Medium,65.9,66.9,61.4
+2010-09-01 03:45,EUR,Italian Manufacturing PMI,Medium,53.6,54.4,52.8
+2010-09-01 03:50,EUR,French Final Manufacturing PMI,Low,54.7,54.7,55.1
+2010-09-01 03:55,EUR,German Final Manufacturing PMI,Low,58.2,58.2,58.2
+2010-09-01 04:00,EUR,Final Manufacturing PMI,Low,55.0,55.0,55.1
+2010-09-01 04:30,GBP,Final Manufacturing PMI,High,57.1,56.9,54.3
+2010-09-01 07:30,USD,Challenger Job Cuts y/y,Low,,-57.2%,-54.5%
+2010-09-01 08:15,USD,ADP Non-Farm Employment Change,High,20K,37K,-10K
+2010-09-01 10:00,USD,ISM Manufacturing PMI,High,53.2,55.5,56.3
+2010-09-01 10:30,NZD,GDT Price Index,Low,,-8.1%,16.6%
+2010-09-01 10:45,USD,FOMC Member Duke Speaks,Low,,,
+2010-09-01 15:29,USD,Total Vehicle Sales,Low,11.6M,12.1M,11.5M
+2010-09-01 19:50,JPY,Monetary Base y/y,Low,6.3%,6.1%,5.4%
+2010-09-01 21:30,AUD,Goods Trade Balance,High,3.11B,3.44B,1.89B
+2010-09-02 00:00,EUR,Revised GDP q/q,Low,1.0%,1.0%,1.0%
+2010-09-02 00:00,USD,Factory Orders m/m,Medium,0.4%,-0.6%,0.1%
+2010-09-02 00:00,USD,Revised Nonfarm Productivity q/q,Medium,-1.9%,-0.9%,-1.8%
+2010-09-02 00:00,USD,Revised Unit Labor Costs q/q,Low,1.3%,0.2%,1.1%
+2010-09-02 00:00,USD,Unemployment Claims,High,476K,478K,472K
+2010-09-02 01:45,CHF,GDP q/q,Medium,0.8%,1.0%,0.9%
+2010-09-02 02:00,GBP,Nationwide HPI m/m,High,-0.3%,-0.5%,-0.9%
+2010-09-02 03:00,EUR,Spanish Unemployment Change,Medium,,-73.8K,61.1K
+2010-09-02 03:15,CHF,Retail Sales y/y,High,2.3%,1.0%,4.8%
+2010-09-02 04:30,GBP,Construction PMI,Medium,53.5,54.1,52.1
+2010-09-02 05:00,EUR,PPI m/m,Low,0.2%,0.3%,0.2%
+2010-09-02 05:15,EUR,French 10-y Bond Auction,Medium,,3.04|3.5,2.55|2.2
+2010-09-02 07:45,EUR,Main Refinancing Rate,High,1.00%,1.00%,1.00%
+2010-09-02 08:30,EUR,ECB Press Conference,High,,,
+2010-09-02 09:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2010-09-02 10:00,USD,Pending Home Sales m/m,High,-1.3%,-2.8%,5.2%
+2010-09-02 10:30,USD,Natural Gas Storage,Low,56B,40B,54B
+2010-09-02 19:29,AUD,AIG Services Index,Medium,,46.6,47.5
+2010-09-02 19:50,JPY,Capital Spending q/y,Medium,-6.6%,-11.5%,-1.7%
+2010-09-02 20:45,GBP,MPC Member Tucker Speaks,Medium,,,
+2010-09-02 21:00,CNY,Non-Manufacturing PMI,Low,,60.1,60.1
+2010-09-03 00:00,EUR,Spanish Services PMI,Low,,51.3,49.2
+2010-09-03 00:00,USD,Average Hourly Earnings m/m,Medium,0.1%,0.2%,0.3%
+2010-09-03 00:00,USD,Unemployment Rate,High,9.6%,9.5%,9.6%
+2010-09-03 03:15,CHF,CPI m/m,Medium,0.1%,-0.7%,0.0%
+2010-09-03 03:45,EUR,Italian Services PMI,Low,50.1,49.6,51.4
+2010-09-03 03:50,EUR,French Final Services PMI,Low,59.9,59.9,60.4
+2010-09-03 03:55,EUR,German Final Services PMI,Low,58.5,58.5,57.2
+2010-09-03 04:00,EUR,Final Services PMI,Low,55.6,55.6,55.9
+2010-09-03 04:30,GBP,Final Services PMI,High,53.0,53.1,51.3
+2010-09-03 05:00,EUR,Retail Sales m/m,Medium,0.3%,0.2%,0.1%
+2010-09-03 08:30,USD,Non-Farm Employment Change,High,-101K,-54K,-54K
+2010-09-03 10:00,USD,ISM Services PMI,High,53.6,54.3,51.5
+2010-09-04 07:15,EUR,ECB President Trichet Speaks,Medium,,,
+2010-09-05 14:00,EUR,ECB President Trichet Speaks,Medium,,,
+2010-09-05 20:30,AUD,MI Inflation Gauge m/m,Low,,0.1%,0.2%
+2010-09-05 21:30,AUD,ANZ Job Advertisements m/m,High,,1.4%,2.6%
+2010-09-06 03:00,CHF,Foreign Currency Reserves,High,,220B,218B
+2010-09-06 04:30,EUR,Sentix Investor Confidence,Low,8.7,8.5,7.6
+2010-09-06 15:10,USD,President Obama Speaks,Low,,,
+2010-09-06 19:00,GBP,BRC Retail Sales Monitor y/y,Medium,,0.5%,1.0%
+2010-09-06 19:28,AUD,AIG Construction Index,Low,,43.3,43.2
+2010-09-06 23:39,JPY,Monetary Policy Statement,Medium,,,
+2010-09-07 00:00,AUD,RBA Rate Statement,High,,,
+2010-09-07 00:00,JPY,Overnight Call Rate,Medium,0.10%,0.10%,0.10%
+2010-09-07 00:30,AUD,Cash Rate,High,4.50%,4.50%,4.50%
+2010-09-07 01:00,JPY,Leading Indicators,Low,98.3%,99.0%,98.2%
+2010-09-07 01:45,CHF,Unemployment Rate,Low,3.7%,3.8%,3.8%
+2010-09-07 03:13,JPY,BOJ Press Conference,High,,,
+2010-09-07 06:00,EUR,German Factory Orders m/m,Medium,0.6%,3.6%,-2.2%
+2010-09-07 15:29,EUR,ECOFIN Meetings,Medium,,,
+2010-09-07 19:00,GBP,BRC Shop Price Index y/y,Low,,1.5%,1.7%
+2010-09-07 19:50,JPY,Core Machinery Orders m/m,Medium,1.9%,1.6%,8.8%
+2010-09-07 21:30,AUD,Home Loans m/m,High,1.1%,-3.2%,1.7%
+2010-09-07 23:45,JPY,30-y Bond Auction,Low,,1.95|4.1,1.99|4.2
+2010-09-08 00:00,CAD,Overnight Rate,High,1.00%,0.75%,1.00%
+2010-09-08 00:00,EUR,French Trade Balance,Low,-4.1B,-3.7B,-4.2B
+2010-09-08 00:00,GBP,Industrial Production m/m,Low,0.4%,-0.5%,0.3%
+2010-09-08 00:00,JPY,Bank Lending y/y,Low,,-1.8%,-1.9%
+2010-09-08 00:00,JPY,Current Account,Low,1.38T,1.36T,1.46T
+2010-09-08 00:00,JPY,Economy Watchers Sentiment,Low,50.3,49.8,45.1
+2010-09-08 00:00,JPY,M2 Money Stock y/y,Low,2.6%,2.7%,2.8%
+2010-09-08 00:00,USD,JOLTS Job Openings,Low,,2.86M,3.04M
+2010-09-08 01:00,JPY,BOJ Monthly Report,Medium,,,
+2010-09-08 02:00,EUR,German Trade Balance,Low,12.8B,12.4B,12.7B
+2010-09-08 02:45,EUR,French Gov Budget Balance,Low,,-61.7B,-93.1B
+2010-09-08 03:00,GBP,Halifax HPI m/m,High,-0.3%,0.7%,0.2%
+2010-09-08 03:45,EUR,German Buba President Weber Speaks,Medium,,,
+2010-09-08 04:30,GBP,Manufacturing Production m/m,High,0.3%,0.3%,0.3%
+2010-09-08 06:00,EUR,German Industrial Production m/m,Medium,1.1%,-0.6%,0.1%
+2010-09-08 08:30,CAD,Building Permits m/m,High,-4.2%,6.9%,-3.3%
+2010-09-08 09:00,CAD,BOC Rate Statement,High,,,
+2010-09-08 09:57,GBP,NIESR GDP Estimate,Medium,,1.3%,0.7%
+2010-09-08 10:00,CAD,Ivey PMI,High,55.9,54.0,65.9
+2010-09-08 13:00,USD,10-y Bond Auction,Medium,,2.73|3.0,2.67|3.2
+2010-09-08 14:00,USD,Beige Book,Medium,,,
+2010-09-08 15:00,USD,Consumer Credit m/m,Low,-4.2B,-1.0B,-3.6B
+2010-09-08 18:45,NZD,Manufacturing Sales q/q,Low,,1.4%,3.1%
+2010-09-08 19:50,JPY,BSI Manufacturing Index,Medium,6.3,10.0,13.3
+2010-09-08 21:30,AUD,Employment Change,High,27.2K,25.0K,30.9K
+2010-09-08 23:00,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2010-09-09 00:00,AUD,Unemployment Rate,High,5.2%,5.3%,5.1%
+2010-09-09 00:00,CAD,NHPI m/m,Medium,0.1%,0.1%,-0.1%
+2010-09-09 00:00,GBP,Official Bank Rate,High,0.50%,0.50%,0.50%
+2010-09-09 00:00,USD,Trade Balance,High,-47.4B,-49.8B,-42.8B
+2010-09-09 00:00,USD,Unemployment Claims,High,470K,478K,451K
+2010-09-09 01:00,JPY,Consumer Confidence,Low,43.8,43.3,42.4
+2010-09-09 01:30,EUR,French Final Private Payrolls q/q,Low,0.2%,0.2%,0.1%
+2010-09-09 02:00,EUR,German Final CPI m/m,Low,0.0%,0.0%,0.0%
+2010-09-09 02:04,JPY,Prelim Machine Tool Orders y/y,Low,,144.9%,170.0%
+2010-09-09 04:00,EUR,ECB Monthly Bulletin,Medium,,,
+2010-09-09 04:30,GBP,Goods Trade Balance,Medium,-7.5B,-7.5B,-8.7B
+2010-09-09 07:00,GBP,Asset Purchase Facility,High,200B,200B,200B
+2010-09-09 08:15,CAD,Housing Starts,High,185K,189K,183K
+2010-09-09 08:30,CAD,Trade Balance,High,-0.8B,-1.8B,-2.7B
+2010-09-09 10:00,EUR,German Buba President Weber Speaks,Medium,,,
+2010-09-09 10:30,USD,Natural Gas Storage,Low,51B,54B,58B
+2010-09-09 11:00,USD,Crude Oil Inventories,Medium,0.7M,3.4M,-1.9M
+2010-09-09 13:00,USD,30-y Bond Auction,Low,,3.95|2.8,3.82|2.7
+2010-09-09 18:45,NZD,Overseas Trade Index q/q,Low,3.4%,6.1%,2.1%
+2010-09-09 19:50,JPY,Final GDP q/q,Medium,0.4%,0.1%,0.4%
+2010-09-09 19:52,JPY,Final GDP Price Index y/y,Low,-1.8%,-1.8%,-1.7%
+2010-09-09 21:32,CNY,USD-Denominated Trade Balance,High,26.9B,28.7B,20.0B
+2010-09-10 00:00,CAD,Unemployment Rate,High,8.0%,8.0%,8.1%
+2010-09-10 00:00,GBP,PPI Output m/m,Low,0.1%,0.1%,0.0%
+2010-09-10 00:00,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2010-09-10 00:00,JPY,PPI y/y,Low,-0.2%,-0.1%,0.0%
+2010-09-10 02:45,EUR,French Industrial Production m/m,Medium,0.8%,-1.7%,0.9%
+2010-09-10 04:00,EUR,Italian Industrial Production m/m,Low,0.4%,0.5%,0.1%
+2010-09-10 04:30,GBP,PPI Input m/m,High,0.2%,-1.0%,-0.5%
+2010-09-10 05:00,GBP,CB Leading Index m/m,Low,,0.5%,0.2%
+2010-09-10 07:00,CAD,Employment Change,High,30.8K,-9.3K,35.8K
+2010-09-10 10:00,USD,Final Wholesale Inventories m/m,Low,0.4%,0.3%,1.3%
+2010-09-10 11:55,CAD,BOC Gov Carney Speaks,Medium,,,
+2010-09-10 22:00,CNY,CPI y/y,High,3.5%,3.3%,3.5%
+2010-09-10 22:03,CNY,New Loans,Medium,500B,533B,545B
+2010-09-11 00:00,CNY,Fixed Asset Investment ytd/y,Medium,24.6%,24.9%,24.8%
+2010-09-11 00:00,CNY,Industrial Production y/y,Medium,13.1%,13.4%,13.9%
+2010-09-11 00:00,CNY,M2 Money Supply y/y,Low,17.5%,17.6%,19.2%
+2010-09-11 00:00,CNY,NBS Press Conference,Medium,,,
+2010-09-11 00:00,CNY,PPI y/y,Medium,4.6%,4.8%,4.3%
+2010-09-11 00:00,CNY,Retail Sales y/y,Low,18.0%,17.9%,18.4%
+2010-09-12 18:45,NZD,FPI m/m,Low,,1.6%,-0.1%
+2010-09-13 03:15,CHF,PPI m/m,Medium,0.3%,-0.5%,0.1%
+2010-09-13 08:00,EUR,ECB President Trichet Speaks,High,,,
+2010-09-13 14:00,USD,Federal Budget Balance,Medium,-102.0B,-165.0B,-90.5B
+2010-09-13 18:00,NZD,REINZ HPI m/m,Medium,,-1.2%,0.3%
+2010-09-13 18:45,NZD,Core Retail Sales m/m,High,0.1%,1.5%,-0.1%
+2010-09-13 19:01,GBP,Nationwide Consumer Confidence,Medium,59,56,61
+2010-09-13 21:30,AUD,NAB Business Confidence,Medium,,2,11
+2010-09-13 22:00,CNY,CB Leading Index m/m,Low,,0.7%,0.5%
+2010-09-14 00:00,CAD,Capacity Utilization Rate,Low,75.3%,74.4%,76.0%
+2010-09-14 00:00,CAD,New Motor Vehicle Sales m/m,Low,1.1%,2.5%,2.4%
+2010-09-14 00:00,EUR,German Buba President Weber Speaks,Medium,,,
+2010-09-14 00:00,EUR,Industrial Production m/m,Medium,0.2%,-0.2%,0.0%
+2010-09-14 00:00,EUR,ZEW Economic Sentiment,Medium,14.9,15.8,4.4
+2010-09-14 00:00,GBP,Core CPI y/y,Medium,2.6%,2.6%,2.8%
+2010-09-14 00:00,GBP,RICS House Price Balance,Medium,-11%,-8%,-32%
+2010-09-14 00:00,GBP,RPI y/y,Low,4.6%,4.8%,4.7%
+2010-09-14 00:00,NZD,Retail Sales m/m,Medium,0.0%,1.0%,-0.4%
+2010-09-14 00:00,USD,Core Retail Sales m/m,High,0.3%,0.1%,0.6%
+2010-09-14 00:00,USD,RCM/TIPP Economic Optimism,Low,44.2,43.6,45.3
+2010-09-14 00:00,USD,Retail Sales m/m,High,0.4%,0.3%,0.4%
+2010-09-14 00:30,JPY,Revised Industrial Production m/m,Low,0.3%,0.3%,-0.2%
+2010-09-14 01:30,EUR,French Final CPI m/m,Low,0.4%,-0.3%,0.2%
+2010-09-14 02:00,EUR,German WPI m/m,Low,0.3%,-0.3%,1.6%
+2010-09-14 04:30,GBP,CPI y/y,High,2.9%,3.1%,3.1%
+2010-09-14 04:32,GBP,ONS HPI y/y,Low,10.6%,9.9%,8.4%
+2010-09-14 05:00,EUR,German ZEW Economic Sentiment,High,10.7,14.0,-4.3
+2010-09-14 06:00,GBP,MPC Member Weale Speaks,Medium,,,
+2010-09-14 07:30,USD,NFIB Small Business Index,Low,89.1,88.1,88.8
+2010-09-14 08:30,CAD,Labor Productivity q/q,Medium,-0.5%,0.5%,-0.8%
+2010-09-14 10:00,USD,Business Inventories m/m,Medium,0.5%,0.5%,1.0%
+2010-09-14 11:00,CAD,BOC Gov Carney Speaks,Medium,,,
+2010-09-14 20:30,AUD,Westpac Consumer Sentiment,Medium,,5.4%,-5.0%
+2010-09-14 21:30,AUD,Housing Starts q/q,Low,3.8%,9.1%,0.8%
+2010-09-14 21:47,AUD,New Motor Vehicle Sales m/m,Medium,,-2.6%,0.3%
+2010-09-14 22:02,CNY,Foreign Direct Investment ytd/y,Low,,20.7%,18.1%
+2010-09-15 00:00,EUR,Final CPI y/y,Medium,1.6%,1.6%,1.6%
+2010-09-15 00:00,EUR,Final Core CPI y/y,Medium,0.9%,1.0%,1.0%
+2010-09-15 00:00,EUR,Final Employment Change q/q,Low,0.0%,0.0%,0.0%
+2010-09-15 00:00,GBP,Average Earnings Index 3m/y,Medium,1.6%,1.1%,1.5%
+2010-09-15 00:00,GBP,Unemployment Rate,Low,7.8%,7.8%,7.8%
+2010-09-15 00:00,USD,Crude Oil Inventories,Medium,-2.6M,-1.9M,-2.5M
+2010-09-15 00:00,USD,Empire State Manufacturing Index,Medium,8.7,7.1,4.1
+2010-09-15 00:00,USD,Import Prices m/m,Medium,0.2%,0.1%,0.6%
+2010-09-15 00:00,USD,Industrial Production m/m,Medium,0.3%,0.6%,0.2%
+2010-09-15 04:30,GBP,Claimant Count Change,High,-4.1K,-1.0K,2.3K
+2010-09-15 05:00,CHF,UBS Economic Expectations,Medium,,9.1,-5.1
+2010-09-15 05:08,EUR,German 10-y Bond Auction,Medium,,2.37|1.6,2.39|1.8
+2010-09-15 06:30,GBP,BOE Gov King Speaks,High,,,
+2010-09-15 08:30,CAD,Manufacturing Sales m/m,Medium,0.1%,-0.1%,-0.9%
+2010-09-15 09:15,USD,Capacity Utilization Rate,Medium,75.1%,74.6%,74.7%
+2010-09-15 10:30,NZD,GDT Price Index,Low,,16.6%,2.4%
+2010-09-15 12:00,CAD,Gov Council Member Lane Speaks,Medium,,,
+2010-09-15 17:00,NZD,Official Cash Rate,High,3.00%,3.00%,3.00%
+2010-09-15 18:28,NZD,BusinessNZ Manufacturing Index,Low,,50.3,49.3
+2010-09-15 19:50,JPY,Tertiary Industry Activity m/m,Medium,0.7%,0.2%,1.6%
+2010-09-15 21:00,AUD,MI Inflation Expectations,Medium,,2.8%,3.1%
+2010-09-15 21:30,AUD,RBA Bulletin,Low,,,
+2010-09-15 23:45,AUD,RBA Deputy Gov Lowe Speaks,Medium,,,
+2010-09-16 00:00,CHF,SNB Monetary Policy Assessment,High,,,
+2010-09-16 00:00,GBP,Consumer Inflation Expectations,Medium,,3.3%,3.4%
+2010-09-16 00:00,NZD,RBNZ Monetary Policy Statement,Medium,,,
+2010-09-16 00:00,NZD,RBNZ Press Conference,High,,,
+2010-09-16 00:00,NZD,RBNZ Rate Statement,High,,,
+2010-09-16 00:00,USD,Core PPI m/m,Medium,0.1%,0.3%,0.1%
+2010-09-16 00:00,USD,Current Account,Medium,-124B,-109B,-123B
+2010-09-16 00:00,USD,Treasury Sec Geithner Speaks,High,,,
+2010-09-16 00:00,USD,Unemployment Claims,High,463K,453K,450K
+2010-09-16 01:45,CHF,SECO Economic Forecasts,Medium,,,
+2010-09-16 02:00,JPY,BOJ Gov Shirakawa Speaks,Medium,,,
+2010-09-16 03:15,CHF,Industrial Production q/q,Medium,3.3%,-7.9%,5.7%
+2010-09-16 04:30,GBP,Retail Sales m/m,High,0.3%,0.8%,-0.5%
+2010-09-16 04:47,EUR,Spanish 10-y Bond Auction,Medium,,4.86|1.9,4.14|2.3
+2010-09-16 05:00,EUR,Trade Balance,Low,-0.7B,-1.4B,-0.2B
+2010-09-16 06:00,GBP,CBI Industrial Order Expectations,Medium,-12,-14,-17
+2010-09-16 07:34,GBP,10-y Bond Auction,Medium,,3.49|1.7,3.22|1.7
+2010-09-16 07:59,CHF,Libor Rate,High,0.25%,0.25%,0.25%
+2010-09-16 08:30,USD,PPI m/m,High,0.3%,0.2%,0.4%
+2010-09-16 09:00,USD,TIC Long-Term Purchases,High,37.9B,44.4B,61.2B
+2010-09-16 10:00,USD,Philly Fed Manufacturing Index,High,0.9,-7.7,-0.7
+2010-09-16 10:30,USD,Natural Gas Storage,Low,93B,58B,103B
+2010-09-16 14:00,USD,Treasury Sec Geithner Speaks,Medium,,,
+2010-09-16 14:45,GBP,MPC Member Posen Speaks,Medium,,,
+2010-09-16 18:05,NZD,Westpac Consumer Sentiment,Low,,119.3,114.1
+2010-09-17 00:00,USD,CPI m/m,Medium,0.2%,0.3%,0.3%
+2010-09-17 00:00,USD,CPI y/y,High,1.1%,1.2%,1.1%
+2010-09-17 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.7%,2.2%
+2010-09-17 02:00,EUR,German PPI m/m,Medium,0.3%,0.5%,0.0%
+2010-09-17 03:30,EUR,German Buba President Weber Speaks,Medium,,,
+2010-09-17 04:00,EUR,Current Account,Medium,-3.7B,-3.8B,-3.8B
+2010-09-17 08:30,USD,Core CPI m/m,High,0.1%,0.1%,0.0%
+2010-09-17 09:55,USD,Prelim UoM Consumer Sentiment,High,70.2,68.9,66.6
+2010-09-17 11:30,USD,FOMC Member Tarullo Speaks,Low,,,
+2010-09-19 13:00,EUR,ECB President Trichet Speaks,Medium,,,
+2010-09-19 18:30,NZD,BusinessNZ Services Index,Low,,49.7,51.4
+2010-09-19 19:01,GBP,Rightmove HPI m/m,Medium,,-1.7%,-1.1%
+2010-09-19 23:30,AUD,RBA Gov Stevens Speaks,High,,,
+2010-09-20 00:00,CAD,Wholesale Sales m/m,Medium,0.4%,0.2%,-0.1%
+2010-09-20 00:00,GBP,BOE Quarterly Bulletin,Low,,,
+2010-09-20 00:00,GBP,M4 Money Supply m/m,Low,0.3%,0.4%,-0.2%
+2010-09-20 04:00,EUR,Italian Trade Balance,Low,-1.37B,-3.06B,1.75B
+2010-09-20 04:30,GBP,Prelim Mortgage Approvals,Medium,46K,47K,45K
+2010-09-20 06:00,EUR,German Buba Monthly Report,Low,,,
+2010-09-20 08:30,CAD,Foreign Securities Purchases,Medium,8.11B,5.39B,5.48B
+2010-09-20 10:00,USD,NAHB Housing Market Index,Low,14,13,13
+2010-09-20 18:48,NZD,Visitor Arrivals m/m,Low,,0.8%,0.6%
+2010-09-20 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2010-09-20 23:00,NZD,Credit Card Spending y/y,Low,,2.6%,2.0%
+2010-09-21 00:00,CAD,CPI m/m,Medium,0.0%,0.5%,-0.1%
+2010-09-21 00:00,USD,FOMC Statement,High,,,
+2010-09-21 00:00,USD,Housing Starts,Medium,0.55M,0.54M,0.60M
+2010-09-21 02:15,CHF,Trade Balance,Medium,1.97B,2.84B,0.57B
+2010-09-21 04:30,GBP,Public Sector Net Borrowing,High,12.3B,2.0B,15.3B
+2010-09-21 07:00,CAD,Core CPI m/m,High,0.1%,-0.1%,0.1%
+2010-09-21 08:30,USD,Building Permits,High,0.56M,0.56M,0.57M
+2010-09-21 14:15,USD,Federal Funds Rate,High,<0.25%,<0.25%,<0.25%
+2010-09-21 18:45,NZD,Current Account,High,-0.19B,0.16B,-0.88B
+2010-09-21 20:30,AUD,MI Leading Index m/m,Medium,,-0.1%,0.4%
+2010-09-22 00:00,CAD,Leading Index m/m,Medium,0.5%,0.4%,0.5%
+2010-09-22 00:00,CAD,Retail Sales m/m,Medium,0.5%,0.0%,-0.1%
+2010-09-22 00:00,GBP,MPC Official Bank Rate Votes,High,1-0-8,1-0-8,1-0-8
+2010-09-22 00:00,USD,HPI m/m,Low,-0.1%,-1.2%,-0.5%
+2010-09-22 00:30,JPY,All Industries Activity m/m,Low,1.1%,0.2%,1.0%
+2010-09-22 04:30,GBP,MPC Asset Purchase Facility Votes,High,0-0-9,0-0-9,0-0-9
+2010-09-22 05:00,EUR,Industrial New Orders m/m,Medium,-1.2%,2.4%,-2.4%
+2010-09-22 08:30,CAD,Core Retail Sales m/m,High,0.4%,-0.6%,-0.4%
+2010-09-22 09:00,EUR,Belgian NBB Business Climate,Medium,-5.0,-5.1,-3.4
+2010-09-22 10:00,EUR,Consumer Confidence,Low,-10,-11,-11
+2010-09-22 10:30,USD,Crude Oil Inventories,Medium,-1.5M,-2.5M,1.0M
+2010-09-22 14:00,USD,Treasury Sec Geithner Speaks,Medium,,,
+2010-09-22 18:45,NZD,GDP q/q,High,0.8%,0.5%,0.2%
+2010-09-23 00:00,EUR,Flash Services PMI,Medium,55.5,55.9,53.6
+2010-09-23 00:00,EUR,French Flash Services PMI,Medium,60.1,60.4,58.8
+2010-09-23 00:00,EUR,German Flash Services PMI,Medium,57.2,57.2,54.6
+2010-09-23 00:00,USD,CB Leading Index m/m,Low,0.1%,0.1%,0.3%
+2010-09-23 03:00,EUR,French Flash Manufacturing PMI,Medium,55.0,55.1,55.4
+2010-09-23 03:30,EUR,German Flash Manufacturing PMI,Medium,57.7,58.2,55.3
+2010-09-23 04:00,EUR,Flash Manufacturing PMI,Medium,54.6,55.1,53.6
+2010-09-23 04:30,GBP,High Street Lending,Medium,32.3K,34.2K,31.8K
+2010-09-23 05:00,EUR,Italian Quarterly Unemployment Rate,Low,8.6%,8.4%,8.5%
+2010-09-23 08:30,USD,Unemployment Claims,High,451K,453K,465K
+2010-09-23 10:00,USD,Existing Home Sales,High,4.11M,3.84M,4.13M
+2010-09-23 10:30,USD,Natural Gas Storage,Low,82B,103B,73B
+2010-09-24 00:00,EUR,Italian Retail Sales m/m,Low,-0.4%,0.5%,0.0%
+2010-09-24 00:00,USD,Durable Goods Orders m/m,Medium,-0.9%,0.7%,-1.3%
+2010-09-24 02:00,EUR,German Import Prices m/m,Low,0.3%,-0.2%,0.2%
+2010-09-24 04:00,EUR,German ifo Business Climate,High,106.3,106.7,106.8
+2010-09-24 05:00,CHF,SNB Quarterly Bulletin,Low,,,
+2010-09-24 08:30,USD,Core Durable Goods Orders m/m,High,0.9%,-2.8%,2.0%
+2010-09-24 09:00,USD,FOMC Member Duke Speaks,Low,,,
+2010-09-24 10:00,USD,New Home Sales,High,292K,288K,288K
+2010-09-25 00:00,USD,Fed Chairman Bernanke Speaks,High,,,
+2010-09-25 12:50,JPY,BOJ Gov Shirakawa Speaks,Medium,,,
+2010-09-25 23:50,JPY,BOJ Gov Shirakawa Speaks,Medium,,,
+2010-09-26 19:50,JPY,Trade Balance,Medium,0.52T,0.59T,0.59T
+2010-09-27 00:00,EUR,Private Loans y/y,Low,1.2%,0.8%,1.2%
+2010-09-27 00:00,JPY,SPPI y/y,Low,-1.2%,-1.1%,-1.1%
+2010-09-27 01:30,JPY,BOJ Gov Shirakawa Speaks,Medium,,,
+2010-09-27 03:00,EUR,ECB President Trichet Speaks,Medium,,,
+2010-09-27 04:00,EUR,M3 Money Supply y/y,Medium,0.4%,0.2%,1.1%
+2010-09-27 09:00,EUR,ECB President Trichet Speaks,High,,,
+2010-09-28 00:00,EUR,French Consumer Spending m/m,Low,0.5%,-1.5%,2.7%
+2010-09-28 00:00,EUR,German GfK Consumer Climate,Medium,4.3,4.3,4.9
+2010-09-28 00:00,GBP,Final GDP q/q,Medium,1.2%,1.2%,1.2%
+2010-09-28 00:00,GBP,Revised Business Investment q/q,Low,-1.6%,-1.6%,0.7%
+2010-09-28 00:00,USD,Richmond Manufacturing Index,Low,6,11,-2
+2010-09-28 00:00,USD,S&P/CS Composite-20 HPI y/y,Medium,3.1%,4.2%,3.2%
+2010-09-28 02:00,CHF,UBS Consumption Indicator,Medium,,1.88,1.95
+2010-09-28 02:45,EUR,French Consumer Spending m/m,Medium,-0.1%,2.7%,-1.6%
+2010-09-28 04:30,GBP,Current Account,High,-9.6B,-11.3B,-7.4B
+2010-09-28 06:00,GBP,CBI Realized Sales,Medium,27,35,49
+2010-09-28 09:00,GBP,MPC Member Posen Speaks,Medium,,,
+2010-09-28 10:00,USD,CB Consumer Confidence,High,52.5,53.2,48.5
+2010-09-28 16:29,EUR,German Prelim CPI m/m,Medium,-0.2%,0.0%,-0.1%
+2010-09-28 17:45,NZD,Trade Balance,Medium,-365M,-183M,-437M
+2010-09-28 19:50,JPY,Tankan Manufacturing Index,High,7,1,8
+2010-09-28 20:00,AUD,CB Leading Index m/m,Medium,,0.6%,0.8%
+2010-09-28 20:42,AUD,HIA New Home Sales m/m,Medium,,-7.0%,-2.6%
+2010-09-28 22:30,CNY,Caixin Manufacturing PMI,Medium,,51.9,52.9
+2010-09-29 00:00,CAD,IPPI m/m,Low,0.3%,0.0%,0.4%
+2010-09-29 00:00,GBP,Index of Services 3m/3m,Low,0.7%,0.6%,0.5%
+2010-09-29 00:00,GBP,Mortgage Approvals,Low,47K,48K,47K
+2010-09-29 00:00,JPY,Tankan Non-Manufacturing Index,Medium,-2,-5,2
+2010-09-29 00:00,USD,FOMC Member Warsh Speaks,Medium,,,
+2010-09-29 04:00,EUR,Retail PMI,Low,,49.7,48.7
+2010-09-29 04:30,GBP,Net Lending to Individuals m/m,Medium,0.5B,0.2B,1.5B
+2010-09-29 05:30,CHF,KOF Economic Barometer,High,2.12,2.22,2.21
+2010-09-29 05:32,EUR,Italian 10-y Bond Auction,Medium,,3.81|1.3,3.90|1.5
+2010-09-29 08:30,CAD,RMPI m/m,Medium,0.6%,1.9%,2.2%
+2010-09-29 10:30,USD,Crude Oil Inventories,Medium,-0.4M,1.0M,-0.5M
+2010-09-29 13:15,USD,FOMC Member Rosengren Speaks,Medium,,,
+2010-09-29 17:45,NZD,Building Consents m/m,Medium,,2.4%,-17.8%
+2010-09-29 19:01,GBP,GfK Consumer Confidence,Medium,-19,-18,-20
+2010-09-29 19:15,JPY,Final Manufacturing PMI,Low,,50.1,49.5
+2010-09-29 19:50,JPY,Prelim Industrial Production m/m,Medium,1.2%,-0.2%,-0.3%
+2010-09-29 21:30,AUD,Building Approvals m/m,High,0.0%,0.1%,-4.7%
+2010-09-29 22:00,NZD,ANZ Business Confidence,High,,16.4,13.5
+2010-09-30 00:00,AUD,Private Sector Credit m/m,Medium,0.3%,0.3%,0.1%
+2010-09-30 00:00,AUD,RBA Financial Stability Review,Medium,,,
+2010-09-30 00:00,EUR,Italian Prelim CPI m/m,Low,0.0%,0.2%,-0.2%
+2010-09-30 00:00,JPY,Retail Sales y/y,Medium,4.6%,3.8%,4.3%
+2010-09-30 00:00,USD,Final GDP Price Index q/q,Low,1.9%,1.9%,1.9%
+2010-09-30 00:00,USD,Final GDP q/q,Medium,1.6%,1.6%,1.7%
+2010-09-30 00:00,USD,Unemployment Claims,High,458K,469K,453K
+2010-09-30 01:00,JPY,Housing Starts y/y,Low,10.3%,4.3%,20.5%
+2010-09-30 02:00,GBP,Nationwide HPI m/m,High,-0.3%,-0.8%,0.1%
+2010-09-30 03:00,GBP,MPC Member Tucker Speaks,Medium,,,
+2010-09-30 03:55,EUR,German Unemployment Change,Medium,-20K,-20K,-40K
+2010-09-30 04:30,GBP,BOE Credit Conditions Survey,Medium,,,
+2010-09-30 05:00,EUR,CPI Flash Estimate y/y,Medium,1.8%,1.6%,1.8%
+2010-09-30 05:05,GBP,MPC Member Fisher Speaks,Medium,,,
+2010-09-30 08:30,CAD,GDP m/m,High,-0.1%,0.2%,-0.1%
+2010-09-30 09:45,USD,Chicago PMI,Medium,56.0,56.7,60.4
+2010-09-30 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2010-09-30 10:30,USD,Natural Gas Storage,Low,68B,73B,74B
+2010-09-30 12:50,CAD,BOC Gov Carney Speaks,Medium,,,
+2010-09-30 14:30,USD,Fed Chairman Bernanke Speaks,High,,,
+2010-09-30 19:30,AUD,AIG Manufacturing Index,Low,,51.7,47.3
+2010-09-30 21:00,CNY,Manufacturing PMI,High,52.5,51.7,53.8

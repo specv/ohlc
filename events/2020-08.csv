@@ -1,0 +1,351 @@
+datetime,currency,title,impact,forecast,previous,actual
+2020-08-02 18:30,AUD,AIG Manufacturing Index,Low,,51.5,53.5
+2020-08-02 20:30,JPY,Final Manufacturing PMI,Low,42.6,42.6,45.2
+2020-08-02 21:00,AUD,MI Inflation Gauge m/m,Low,,0.6%,0.9%
+2020-08-02 21:30,AUD,ANZ Job Advertisements m/m,Low,,41.4%,16.7%
+2020-08-02 21:45,CNY,Caixin Manufacturing PMI,Low,51.1,51.2,52.8
+2020-08-03 00:00,USD,Construction Spending m/m,Low,1.0%,-1.7%,-0.7%
+2020-08-03 00:00,USD,ISM Manufacturing Prices,Low,52.2,51.3,53.2
+2020-08-03 02:30,CHF,CPI m/m,Low,-0.4%,0.0%,-0.2%
+2020-08-03 03:15,EUR,Spanish Manufacturing PMI,Low,52.6,49.0,53.5
+2020-08-03 03:30,CHF,Manufacturing PMI,Low,50.0,41.9,49.2
+2020-08-03 03:45,EUR,Italian Manufacturing PMI,Low,51.3,47.5,51.9
+2020-08-03 03:50,EUR,French Final Manufacturing PMI,Low,52.0,52.0,52.4
+2020-08-03 03:55,EUR,German Final Manufacturing PMI,Low,50.0,50.0,51.0
+2020-08-03 04:00,EUR,Final Manufacturing PMI,Low,51.1,51.1,51.8
+2020-08-03 04:30,GBP,Final Manufacturing PMI,Low,53.6,53.6,53.3
+2020-08-03 09:45,USD,Final Manufacturing PMI,Low,51.3,51.3,50.9
+2020-08-03 10:00,USD,ISM Manufacturing PMI,High,53.6,52.6,54.2
+2020-08-03 14:00,USD,Loan Officer Survey,Low,,,
+2020-08-03 15:29,USD,Wards Total Vehicle Sales,Low,14.0M,13.1M,14.5M
+2020-08-03 19:30,JPY,Tokyo Core CPI y/y,Low,0.2%,0.2%,0.4%
+2020-08-03 19:50,JPY,Monetary Base y/y,Low,7.1%,6.0%,9.8%
+2020-08-03 21:30,AUD,Goods Trade Balance,Medium,8.80B,7.34B,8.20B
+2020-08-03 23:35,JPY,10-y Bond Auction,Low,,0.06|3.7,0.02|3.6
+2020-08-04 00:00,AUD,RBA Rate Statement,High,,,
+2020-08-04 00:30,AUD,Cash Rate,High,0.25%,0.25%,0.25%
+2020-08-04 01:45,CHF,SECO Consumer Climate,Low,-23,-39,-12
+2020-08-04 02:30,AUD,Commodity Prices y/y,Low,,-10.6%,-12.0%
+2020-08-04 02:45,EUR,French Gov Budget Balance,Low,,-117.9B,-124.9B
+2020-08-04 03:00,EUR,Spanish Unemployment Change,Low,19.5K,5.1K,-89.8K
+2020-08-04 05:00,EUR,PPI m/m,Low,0.6%,-0.6%,0.7%
+2020-08-04 09:30,CAD,Manufacturing PMI,Low,,47.8,52.9
+2020-08-04 09:59,USD,RCM/TIPP Economic Optimism,Low,45.3,44.0,46.8
+2020-08-04 10:00,USD,Factory Orders m/m,Low,5.1%,7.7%,6.2%
+2020-08-04 10:54,NZD,GDT Price Index,Low,,-0.7%,-5.1%
+2020-08-04 18:30,AUD,AIG Construction Index,Low,,35.5,42.7
+2020-08-04 18:45,NZD,Employment Change q/q,High,-2.0%,1.0%,-0.4%
+2020-08-04 21:00,NZD,ANZ Commodity Prices m/m,Low,,-0.8%,2.3%
+2020-08-04 21:45,CNY,Caixin Services PMI,Low,58.0,58.4,54.1
+2020-08-05 00:00,NZD,Labor Cost Index q/q,Low,0.4%,0.3%,0.2%
+2020-08-05 00:00,NZD,Unemployment Rate,High,5.6%,4.2%,4.0%
+2020-08-05 00:00,USD,Trade Balance,Low,-50.3B,-54.8B,-50.7B
+2020-08-05 03:15,EUR,Spanish Services PMI,Low,52.3,50.2,51.9
+2020-08-05 03:45,EUR,Italian Services PMI,Low,51.2,46.4,51.6
+2020-08-05 03:50,EUR,French Final Services PMI,Low,57.8,57.8,57.3
+2020-08-05 03:55,EUR,German Final Services PMI,Low,56.7,56.7,55.6
+2020-08-05 04:00,EUR,Final Services PMI,Low,55.1,55.1,54.7
+2020-08-05 04:30,GBP,Final Services PMI,Low,56.6,56.6,56.5
+2020-08-05 05:00,EUR,Retail Sales m/m,Low,6.5%,20.3%,5.7%
+2020-08-05 05:06,GBP,10-y Bond Auction,Low,,0.20|2.5,0.14|2.4
+2020-08-05 08:00,JPY,BOJ Gov Kuroda Speaks,Medium,,,
+2020-08-05 08:15,USD,ADP Non-Farm Employment Change,Medium,1200K,4314K,167K
+2020-08-05 08:30,CAD,Trade Balance,Low,-0.6B,-1.3B,-3.2B
+2020-08-05 09:45,USD,Final Services PMI,Low,49.6,49.6,50.0
+2020-08-05 10:00,USD,ISM Services PMI,High,55.0,57.1,58.1
+2020-08-05 10:30,USD,Crude Oil Inventories,Medium,-3.4M,-10.6M,-7.4M
+2020-08-05 17:00,USD,FOMC Member Mester Speaks,Low,,,
+2020-08-05 23:00,NZD,Inflation Expectations q/q,High,,1.24%,1.43%
+2020-08-06 00:00,GBP,Asset Purchase Facility,Low,745B,745B,745B
+2020-08-06 00:00,GBP,BOE Financial Stability Report,Low,,,
+2020-08-06 00:00,GBP,BOE Monetary Policy Report,High,,,
+2020-08-06 00:00,GBP,FPC Meeting Minutes,Low,,,
+2020-08-06 00:00,GBP,FPC Statement,Low,,,
+2020-08-06 00:00,GBP,MPC Asset Purchase Facility Votes,Medium,0-0-9,8-0-1,0-0-9
+2020-08-06 00:00,GBP,MPC Official Bank Rate Votes,High,0-0-9,0-0-9,0-0-9
+2020-08-06 00:00,GBP,Monetary Policy Summary,High,,,
+2020-08-06 00:00,GBP,Official Bank Rate,High,0.10%,0.10%,0.10%
+2020-08-06 02:00,EUR,German Factory Orders m/m,Low,10.3%,10.4%,27.9%
+2020-08-06 04:00,EUR,Italian Industrial Production m/m,Low,5.6%,41.6%,8.2%
+2020-08-06 04:30,GBP,Construction PMI,Low,57.0,55.3,58.1
+2020-08-06 04:56,EUR,Spanish 10-y Bond Auction,Low,,0.27|2.7,0.26|3.0
+2020-08-06 05:00,GBP,BOE Gov Bailey Speaks,High,,,
+2020-08-06 05:01,EUR,French 10-y Bond Auction,Low,,-0.09|2.7,-0.27|2.1
+2020-08-06 07:30,USD,Challenger Job Cuts y/y,Low,,305.5%,576.1%
+2020-08-06 08:30,USD,Unemployment Claims,Medium,1410K,1435K,1186K
+2020-08-06 10:00,USD,FOMC Member Kaplan Speaks,Low,,,
+2020-08-06 10:30,USD,Natural Gas Storage,Low,31B,26B,33B
+2020-08-06 18:30,AUD,AIG Services Index,Low,,31.5,44.0
+2020-08-06 19:30,JPY,Average Cash Earnings y/y,Low,-3.0%,-2.3%,-1.7%
+2020-08-06 21:30,AUD,RBA Monetary Policy Statement,High,,,
+2020-08-06 21:45,AUD,RBA Assist Gov Ellis Speaks,Medium,,,
+2020-08-06 23:03,CNY,Trade Balance,Medium,291B,329B,442B
+2020-08-06 23:14,CNY,USD-Denominated Trade Balance,Medium,42.5B,46.4B,62.3B
+2020-08-07 00:00,CAD,Unemployment Rate,High,11.1%,12.3%,10.9%
+2020-08-07 00:00,EUR,French Prelim Private Payrolls q/q,Low,-1.0%,-2.5%,-0.6%
+2020-08-07 00:00,EUR,French Trade Balance,Low,-7.1B,-7.5B,-8.0B
+2020-08-07 00:00,EUR,German Trade Balance,Low,10.3B,7.5B,14.5B
+2020-08-07 00:00,JPY,Household Spending y/y,Low,-7.8%,-16.2%,-1.2%
+2020-08-07 00:00,USD,Average Hourly Earnings m/m,High,-0.5%,-1.3%,0.2%
+2020-08-07 00:00,USD,Final Wholesale Inventories m/m,Low,-2.0%,-2.0%,-1.4%
+2020-08-07 00:00,USD,Non-Farm Employment Change,High,1530K,4791K,1763K
+2020-08-07 00:00,USD,Unemployment Rate,High,10.5%,11.1%,10.2%
+2020-08-07 01:00,JPY,Leading Indicators,Low,84.8%,78.4%,85.0%
+2020-08-07 02:00,EUR,German Industrial Production m/m,Low,8.3%,7.4%,8.9%
+2020-08-07 02:45,EUR,French Industrial Production m/m,Low,8.6%,19.9%,12.7%
+2020-08-07 03:00,CHF,Foreign Currency Reserves,Low,,851B,846B
+2020-08-07 03:30,GBP,Halifax HPI m/m,Low,0.2%,0.0%,1.6%
+2020-08-07 04:00,EUR,Italian Trade Balance,Low,6.50B,5.58B,6.23B
+2020-08-07 08:30,CAD,Employment Change,High,395.0K,952.9K,418.5K
+2020-08-07 10:00,CAD,Ivey PMI,Low,57.5,58.2,68.5
+2020-08-07 15:00,USD,Consumer Credit m/m,Low,10.0B,-14.4B,8.9B
+2020-08-09 21:00,NZD,Prelim ANZ Business Confidence,Low,,-31.8,-42.4
+2020-08-09 21:30,CNY,CPI y/y,Low,2.6%,2.5%,2.7%
+2020-08-10 00:00,CNY,PPI y/y,Low,-2.5%,-3.0%,-2.4%
+2020-08-10 01:45,CHF,Unemployment Rate,Low,3.4%,3.3%,3.3%
+2020-08-10 04:30,EUR,Sentix Investor Confidence,Low,-16.0,-18.2,-13.4
+2020-08-10 10:00,USD,JOLTS Job Openings,Low,5.30M,5.37M,5.89M
+2020-08-10 19:01,GBP,BRC Retail Sales Monitor y/y,Low,2.5%,10.9%,4.3%
+2020-08-10 19:50,JPY,Bank Lending y/y,Low,6.2%,6.2%,6.3%
+2020-08-10 21:30,AUD,NAB Business Confidence,Medium,,1,-14
+2020-08-11 00:00,CNY,New Loans,Low,1200B,1810B,993B
+2020-08-11 00:00,EUR,German ZEW Economic Sentiment,Low,57.0,59.3,71.5
+2020-08-11 00:00,GBP,Unemployment Rate,Low,4.2%,3.9%,3.9%
+2020-08-11 00:00,JPY,Current Account,Low,1.00T,0.82T,1.05T
+2020-08-11 00:00,USD,PPI m/m,Low,0.3%,-0.2%,0.6%
+2020-08-11 01:05,JPY,Economy Watchers Sentiment,Low,40.0,38.8,41.1
+2020-08-11 02:00,GBP,Claimant Count Change,Medium,9.7K,-68.5K,94.4K
+2020-08-11 02:02,GBP,Average Earnings Index 3m/y,Low,-1.2%,-0.3%,-1.2%
+2020-08-11 04:32,CNY,M2 Money Supply y/y,Low,11.1%,11.1%,10.7%
+2020-08-11 05:00,EUR,ZEW Economic Sentiment,Low,55.3,59.6,64.0
+2020-08-11 06:00,USD,NFIB Small Business Index,Low,100.7,100.6,98.8
+2020-08-11 08:15,CAD,Housing Starts,Low,208K,212K,246K
+2020-08-11 08:30,USD,Core PPI m/m,Low,0.1%,-0.3%,0.5%
+2020-08-11 09:30,GBP,CB Leading Index m/m,Low,,-3.8%,-2.4%
+2020-08-11 18:45,NZD,Visitor Arrivals m/m,Low,,82.8%,65.6%
+2020-08-11 19:50,JPY,M2 Money Stock y/y,Low,8.5%,7.3%,7.9%
+2020-08-11 20:30,AUD,Westpac Consumer Sentiment,Low,,-6.1%,-9.5%
+2020-08-11 21:30,AUD,Wage Price Index q/q,Low,0.3%,0.5%,0.2%
+2020-08-11 22:00,NZD,Official Cash Rate,High,0.25%,0.25%,0.25%
+2020-08-11 23:00,NZD,RBNZ Press Conference,High,,,
+2020-08-12 00:00,GBP,Index of Services 3m/3m,Low,-20.5%,-18.5%,-19.9%
+2020-08-12 00:00,GBP,Industrial Production m/m,Low,9.2%,6.2%,9.3%
+2020-08-12 00:00,GBP,Manufacturing Production m/m,Low,10.0%,8.3%,11.0%
+2020-08-12 00:00,GBP,Prelim Business Investment q/q,Low,-30.0%,-0.3%,-31.4%
+2020-08-12 00:00,GBP,Prelim GDP q/q,Medium,-20.5%,-2.2%,-20.4%
+2020-08-12 00:00,NZD,RBNZ Monetary Policy Statement,High,,,
+2020-08-12 00:00,NZD,RBNZ Rate Statement,High,,,
+2020-08-12 00:00,USD,CPI m/m,High,0.3%,0.6%,0.6%
+2020-08-12 00:00,USD,CPI y/y,High,0.7%,0.6%,1.0%
+2020-08-12 01:59,JPY,Prelim Machine Tool Orders y/y,Low,,-32.1%,-31.1%
+2020-08-12 02:00,GBP,GDP m/m,Medium,8.1%,2.4%,8.7%
+2020-08-12 02:02,GBP,Construction Output m/m,Low,15.1%,7.6%,23.5%
+2020-08-12 02:04,GBP,Goods Trade Balance,Low,-4.5B,-1.8B,-5.1B
+2020-08-12 05:00,EUR,Industrial Production m/m,Low,10.1%,12.3%,9.1%
+2020-08-12 05:43,EUR,German 10-y Bond Auction,Low,,-0.46|1.8,-0.46|2.5
+2020-08-12 08:30,USD,Core CPI m/m,High,0.2%,0.2%,0.6%
+2020-08-12 09:03,GBP,NIESR GDP Estimate,Low,,-20.4%,-7.9%
+2020-08-12 10:30,USD,Crude Oil Inventories,Medium,-3.4M,-7.4M,-4.5M
+2020-08-12 11:00,USD,FOMC Member Kaplan Speaks,Low,,,
+2020-08-12 13:01,USD,10-y Bond Auction,Low,,0.65|2.6,0.68|2.4
+2020-08-12 14:00,USD,Federal Budget Balance,Low,-138.3B,-864.1B,-63.0B
+2020-08-12 18:45,NZD,FPI m/m,Low,,0.5%,1.2%
+2020-08-12 19:01,GBP,RICS House Price Balance,Low,-5%,-13%,12%
+2020-08-12 19:50,JPY,PPI y/y,Low,-1.1%,-1.6%,-0.9%
+2020-08-12 21:00,AUD,MI Inflation Expectations,Low,,3.2%,3.3%
+2020-08-12 21:30,AUD,Employment Change,High,30.0K,228.4K,114.7K
+2020-08-13 00:00,AUD,Unemployment Rate,High,7.8%,7.4%,7.5%
+2020-08-13 00:00,EUR,German WPI m/m,Low,0.4%,0.6%,0.5%
+2020-08-13 00:00,USD,Import Prices m/m,Low,0.6%,1.4%,0.7%
+2020-08-13 02:00,EUR,German Final CPI m/m,Low,-0.5%,-0.5%,-0.5%
+2020-08-13 05:08,CNY,Foreign Direct Investment ytd/y,Low,,-1.3%,0.5%
+2020-08-13 08:30,USD,Unemployment Claims,Medium,1120K,1191K,963K
+2020-08-13 10:30,USD,Natural Gas Storage,Low,51B,33B,58B
+2020-08-13 13:01,USD,30-y Bond Auction,Low,,1.33|2.5,1.41|2.1
+2020-08-13 18:30,NZD,BusinessNZ Manufacturing Index,Low,,56.2,58.8
+2020-08-13 19:30,AUD,RBA Gov Lowe Speaks,High,,,
+2020-08-13 21:30,CNY,New Home Prices m/m,Low,,0.58%,0.47%
+2020-08-13 22:00,CNY,Fixed Asset Investment ytd/y,Low,-1.6%,-3.1%,-1.6%
+2020-08-14 00:00,CNY,Industrial Production y/y,Low,5.1%,4.8%,4.8%
+2020-08-14 00:00,CNY,Retail Sales y/y,Low,0.1%,-1.8%,-1.1%
+2020-08-14 00:00,CNY,Unemployment Rate,Low,5.7%,5.7%,5.7%
+2020-08-14 00:00,EUR,Flash GDP q/q,Low,-12.1%,-12.1%,-12.1%
+2020-08-14 00:00,EUR,Trade Balance,Low,18.0B,8.6B,17.1B
+2020-08-14 00:00,USD,Business Inventories m/m,Low,-1.1%,-2.3%,-1.1%
+2020-08-14 00:00,USD,Core Retail Sales m/m,High,1.3%,8.3%,1.9%
+2020-08-14 00:00,USD,Industrial Production m/m,Low,3.1%,5.7%,3.0%
+2020-08-14 00:00,USD,Prelim Nonfarm Productivity q/q,Low,1.5%,-0.9%,7.3%
+2020-08-14 00:00,USD,Prelim Unit Labor Costs q/q,Low,6.5%,5.1%,12.2%
+2020-08-14 00:00,USD,Prelim UoM Inflation Expectations,Low,,3.0%,3.0%
+2020-08-14 00:00,USD,Retail Sales m/m,High,2.0%,8.4%,1.2%
+2020-08-14 00:30,JPY,Tertiary Industry Activity m/m,Low,6.4%,-2.9%,7.9%
+2020-08-14 02:30,CHF,PPI m/m,Low,0.3%,0.5%,0.1%
+2020-08-14 02:45,EUR,French Final CPI m/m,Low,0.4%,0.4%,0.4%
+2020-08-14 05:00,EUR,Flash Employment Change q/q,Low,-2.2%,-0.2%,-2.8%
+2020-08-14 08:30,CAD,Manufacturing Sales m/m,Low,16.4%,11.6%,20.7%
+2020-08-14 09:15,USD,Capacity Utilization Rate,Low,70.3%,68.5%,70.6%
+2020-08-14 10:00,USD,Prelim UoM Consumer Sentiment,Medium,72.0,72.5,72.8
+2020-08-16 18:30,NZD,BusinessNZ Services Index,Low,,54.3,54.3
+2020-08-16 19:01,GBP,Rightmove HPI m/m,Low,,-0.2%,-0.2%
+2020-08-16 19:50,JPY,Prelim GDP Price Index y/y,Low,1.9%,0.9%,1.5%
+2020-08-17 00:00,JPY,Prelim GDP q/q,Low,-7.5%,-0.6%,-7.8%
+2020-08-17 00:00,USD,Empire State Manufacturing Index,Low,14.6,17.2,3.7
+2020-08-17 00:00,USD,NAHB Housing Market Index,Low,74,72,78
+2020-08-17 00:30,JPY,Revised Industrial Production m/m,Low,2.7%,2.7%,1.9%
+2020-08-17 06:00,EUR,German Buba Monthly Report,Low,,,
+2020-08-17 08:30,CAD,Foreign Securities Purchases,Low,20.00B,22.39B,-13.52B
+2020-08-17 10:00,USD,Mortgage Delinquencies,Low,,4.36%,8.22%
+2020-08-17 15:29,All,G7 Meetings,Medium,,,
+2020-08-17 16:00,USD,TIC Long-Term Purchases,Low,108.0B,118.1B,113.0B
+2020-08-17 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2020-08-17 23:35,JPY,30-y Bond Auction,Low,,0.61|3.9,0.62|3.4
+2020-08-18 00:00,USD,Housing Starts,Low,1.23M,1.22M,1.50M
+2020-08-18 06:33,GBP,30-y Bond Auction,Low,,0.68|1.8,0.78|2.1
+2020-08-18 08:30,USD,Building Permits,Low,1.33M,1.26M,1.50M
+2020-08-18 10:30,AUD,CB Leading Index m/m,Low,,-0.1%,0.4%
+2020-08-18 10:41,NZD,GDT Price Index,Low,,-5.1%,-1.7%
+2020-08-18 18:45,NZD,PPI Input q/q,Low,-0.8%,-0.3%,-1.0%
+2020-08-18 19:50,JPY,Core Machinery Orders m/m,Low,2.1%,1.7%,-7.6%
+2020-08-18 20:30,AUD,MI Leading Index m/m,Low,,0.5%,0.1%
+2020-08-19 00:00,CAD,CPI m/m,Low,0.4%,0.8%,0.0%
+2020-08-19 00:00,CAD,Median CPI y/y,Low,2.0%,1.9%,1.9%
+2020-08-19 00:00,CAD,Trimmed CPI y/y,Low,1.8%,1.8%,1.7%
+2020-08-19 00:00,CAD,Wholesale Sales m/m,Low,10.4%,5.7%,18.5%
+2020-08-19 00:00,EUR,Final CPI y/y,Low,0.4%,0.3%,0.4%
+2020-08-19 00:00,GBP,CPI y/y,Low,0.6%,0.6%,1.0%
+2020-08-19 00:00,GBP,PPI Input m/m,Low,1.1%,3.0%,1.8%
+2020-08-19 00:00,GBP,PPI Output m/m,Low,0.2%,0.3%,0.3%
+2020-08-19 00:00,GBP,RPI y/y,Low,1.2%,1.1%,1.6%
+2020-08-19 00:00,JPY,Trade Balance,Low,-0.44T,-0.41T,-0.03T
+2020-08-19 00:00,NZD,PPI Output q/q,Low,-0.1%,0.1%,-0.3%
+2020-08-19 02:00,GBP,Core CPI y/y,Low,1.3%,1.4%,1.8%
+2020-08-19 04:00,EUR,Current Account,Low,7.0B,11.3B,20.7B
+2020-08-19 04:30,GBP,HPI y/y,Low,2.4%,3.5%,2.6%
+2020-08-19 05:00,EUR,Final Core CPI y/y,Low,1.2%,1.2%,1.2%
+2020-08-19 05:33,EUR,German 30-y Bond Auction,Low,,-0.06|2.4,-0.05|2.9
+2020-08-19 08:30,CAD,Common CPI y/y,Low,1.6%,1.4%,1.3%
+2020-08-19 08:32,CAD,Core CPI m/m,Low,,0.4%,-0.1%
+2020-08-19 10:30,USD,Crude Oil Inventories,Medium,-2.9M,-4.5M,-1.6M
+2020-08-19 14:00,USD,FOMC Meeting Minutes,Medium,,,
+2020-08-19 15:29,All,OPEC-JMMC Meetings,High,,,
+2020-08-19 21:30,CNY,1-y Loan Prime Rate,Medium,3.85%,3.85%,3.85%
+2020-08-20 00:00,CNY,5-y Loan Prime Rate,Medium,4.65%,4.65%,4.65%
+2020-08-20 00:00,EUR,German PPI m/m,Low,0.1%,0.0%,0.2%
+2020-08-20 00:00,USD,Unemployment Claims,Medium,930K,971K,1106K
+2020-08-20 02:00,CHF,Trade Balance,Low,3.02B,3.20B,3.38B
+2020-08-20 07:30,EUR,ECB Monetary Policy Meeting Accounts,Low,,,
+2020-08-20 08:30,USD,Philly Fed Manufacturing Index,Medium,21.0,24.1,17.2
+2020-08-20 08:32,CAD,ADP Non-Farm Employment Change,Medium,,-1764.6K,1149.8K
+2020-08-20 10:00,USD,CB Leading Index m/m,Medium,1.0%,3.0%,1.4%
+2020-08-20 10:30,USD,Natural Gas Storage,Low,43B,58B,43B
+2020-08-20 12:00,CAD,Gov Council Member Beaudry Speaks,Low,,,
+2020-08-20 19:00,AUD,Flash Manufacturing PMI,Low,,54.0,53.9
+2020-08-20 19:01,GBP,GfK Consumer Confidence,Low,-25,-27,-27
+2020-08-20 19:30,JPY,National Core CPI y/y,Low,0.1%,0.0%,0.0%
+2020-08-20 20:30,JPY,Flash Manufacturing PMI,Low,45.0,45.2,46.6
+2020-08-20 21:30,AUD,Retail Sales m/m,Low,3.2%,2.7%,3.3%
+2020-08-20 23:00,NZD,Credit Card Spending y/y,Low,,-9.4%,-5.8%
+2020-08-21 00:00,AUD,Flash Services PMI,Low,,58.2,48.1
+2020-08-21 00:00,CAD,NHPI m/m,Low,0.1%,0.1%,0.4%
+2020-08-21 00:00,CAD,Retail Sales m/m,Medium,24.7%,21.2%,23.7%
+2020-08-21 00:00,EUR,Flash Services PMI,Medium,54.6,54.7,50.1
+2020-08-21 00:00,EUR,French Flash Manufacturing PMI,Medium,53.0,52.4,49.0
+2020-08-21 00:00,EUR,German Flash Services PMI,High,55.3,55.6,50.8
+2020-08-21 00:00,GBP,Flash Services PMI,Medium,57.0,56.5,60.1
+2020-08-21 00:00,GBP,Retail Sales m/m,Low,2.0%,13.9%,3.6%
+2020-08-21 00:00,USD,Flash Services PMI,Low,50.9,50.0,54.8
+2020-08-21 02:00,GBP,Public Sector Net Borrowing,Low,28.3B,28.8B,25.9B
+2020-08-21 03:15,EUR,French Flash Services PMI,High,56.3,57.3,51.9
+2020-08-21 03:30,EUR,German Flash Manufacturing PMI,High,52.2,51.0,53.0
+2020-08-21 04:00,EUR,Flash Manufacturing PMI,Medium,52.7,51.8,51.7
+2020-08-21 04:30,GBP,Flash Manufacturing PMI,Medium,54.0,53.3,55.3
+2020-08-21 06:00,GBP,CBI Industrial Order Expectations,Low,-34,-46,-44
+2020-08-21 08:30,CAD,Core Retail Sales m/m,Medium,14.5%,11.8%,15.7%
+2020-08-21 09:45,USD,Flash Manufacturing PMI,Medium,51.9,50.9,53.6
+2020-08-21 09:52,EUR,Consumer Confidence,Low,-15,-15,-15
+2020-08-21 10:00,USD,Existing Home Sales,Low,5.40M,4.70M,5.86M
+2020-08-23 18:45,NZD,Retail Sales q/q,Medium,-16.3%,-1.2%,-14.6%
+2020-08-23 18:53,NZD,Core Retail Sales q/q,Low,-15.0%,0.1%,-13.7%
+2020-08-24 09:00,CNY,CB Leading Index m/m,Low,,1.0%,0.7%
+2020-08-24 21:30,AUD,Goods Trade Balance,Low,,7.74B,3.30B
+2020-08-25 00:00,USD,HPI m/m,Low,0.3%,-0.2%,0.9%
+2020-08-25 00:00,USD,New Home Sales,Low,787K,791K,901K
+2020-08-25 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,3.6%,3.6%,3.5%
+2020-08-25 01:00,JPY,BOJ Core CPI y/y,Low,0.1%,0.1%,0.0%
+2020-08-25 02:00,EUR,German Final GDP q/q,Low,-10.1%,-10.1%,-9.7%
+2020-08-25 04:00,EUR,German ifo Business Climate,Low,92.5,90.4,92.6
+2020-08-25 06:00,GBP,CBI Realized Sales,Low,7,4,-6
+2020-08-25 08:32,CAD,Corporate Profits q/q,Low,,-38.4%,-8.0%
+2020-08-25 09:00,EUR,Belgian NBB Business Climate,Low,-11.7,-13.9,-12.0
+2020-08-25 09:59,USD,Richmond Manufacturing Index,Low,10,10,18
+2020-08-25 10:00,USD,CB Consumer Confidence,Medium,93.0,91.7,84.8
+2020-08-25 13:30,CAD,Gov Council Member Schembri Speaks,Medium,,,
+2020-08-25 18:45,NZD,Trade Balance,Low,285M,475M,282M
+2020-08-25 19:50,JPY,SPPI y/y,Low,0.8%,0.9%,1.2%
+2020-08-25 21:30,AUD,Construction Work Done q/q,Medium,-6.5%,0.7%,-0.7%
+2020-08-26 00:00,USD,Durable Goods Orders m/m,Medium,4.4%,7.6%,11.2%
+2020-08-26 04:00,CHF,UBS Economic Expectations,Low,,42.4,45.6
+2020-08-26 05:06,GBP,10-y Bond Auction,Low,,0.14|2.4,0.32|2.7
+2020-08-26 08:30,USD,Core Durable Goods Orders m/m,Medium,1.9%,3.6%,2.4%
+2020-08-26 10:00,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2020-08-26 10:30,USD,Crude Oil Inventories,Medium,-3.4M,-1.6M,-4.7M
+2020-08-26 12:00,GBP,MPC Member Haldane Speaks,Low,,,
+2020-08-26 21:30,AUD,Private Capital Expenditure q/q,Medium,-8.2%,-2.1%,-5.9%
+2020-08-27 00:00,EUR,Private Loans y/y,Low,3.0%,3.0%,3.0%
+2020-08-27 00:00,USD,Prelim GDP Price Index q/q,Low,-1.8%,-1.8%,-2.0%
+2020-08-27 00:00,USD,Prelim GDP q/q,Medium,-32.5%,-32.9%,-31.7%
+2020-08-27 00:00,USD,Unemployment Claims,Medium,1000K,1104K,1006K
+2020-08-27 00:30,JPY,All Industries Activity m/m,Low,6.3%,-4.1%,6.1%
+2020-08-27 01:45,CHF,GDP q/q,Low,-8.8%,-2.5%,-8.2%
+2020-08-27 04:00,EUR,M3 Money Supply y/y,Low,9.2%,9.2%,10.2%
+2020-08-27 08:30,CAD,Current Account,Low,-11.8B,-13.2B,-8.6B
+2020-08-27 09:10,USD,Fed Chair Powell Speaks,High,,,
+2020-08-27 10:00,USD,Pending Home Sales m/m,Medium,2.5%,15.8%,5.9%
+2020-08-27 10:30,USD,Natural Gas Storage,Low,39B,43B,45B
+2020-08-27 11:15,CAD,BOC Gov Macklem Speaks,High,,,
+2020-08-27 15:29,All,Jackson Hole Symposium,High,,,
+2020-08-27 19:30,JPY,Tokyo Core CPI y/y,Low,0.3%,0.4%,-0.3%
+2020-08-28 00:00,EUR,French Prelim CPI m/m,Low,-0.2%,0.4%,-0.1%
+2020-08-28 00:00,EUR,French Prelim GDP q/q,Low,-13.8%,-13.8%,-13.8%
+2020-08-28 00:00,USD,Core PCE Price Index m/m,Medium,0.5%,0.3%,0.3%
+2020-08-28 00:00,USD,Goods Trade Balance,Low,-72.3B,-71.0B,-79.3B
+2020-08-28 00:00,USD,Personal Income m/m,Low,-0.3%,-1.0%,0.4%
+2020-08-28 00:00,USD,Personal Spending m/m,Medium,1.5%,6.2%,1.9%
+2020-08-28 00:00,USD,Prelim Wholesale Inventories m/m,Low,-1.0%,-1.4%,-0.1%
+2020-08-28 00:00,USD,Revised UoM Inflation Expectations,Low,,3.0%,3.1%
+2020-08-28 02:00,EUR,German GfK Consumer Climate,Low,1.0,-0.2,-1.8
+2020-08-28 02:03,EUR,German Import Prices m/m,Low,0.2%,0.6%,0.3%
+2020-08-28 02:45,EUR,French Consumer Spending m/m,Low,1.2%,10.3%,0.5%
+2020-08-28 03:00,CHF,KOF Economic Barometer,Medium,90.3,86.0,110.2
+2020-08-28 05:20,EUR,Italian 10-y Bond Auction,Low,,1.04|1.4,1.11|1.3
+2020-08-28 08:30,CAD,GDP m/m,Medium,5.2%,4.8%,6.5%
+2020-08-28 09:05,GBP,BOE Gov Bailey Speaks,High,,,
+2020-08-28 09:45,USD,Chicago PMI,Medium,51.0,51.9,51.2
+2020-08-28 10:00,USD,Revised UoM Consumer Sentiment,Medium,72.8,72.8,74.1
+2020-08-28 15:29,All,Jackson Hole Symposium,High,,,
+2020-08-30 19:50,JPY,Prelim Industrial Production m/m,Low,5.0%,1.9%,8.0%
+2020-08-30 21:00,AUD,MI Inflation Gauge m/m,Low,,0.9%,0.1%
+2020-08-30 21:30,AUD,Company Operating Profits q/q,Low,-6.0%,1.4%,15.0%
+2020-08-31 00:00,AUD,Private Sector Credit m/m,Low,-0.1%,-0.2%,-0.1%
+2020-08-31 00:00,CAD,IPPI m/m,Low,0.8%,0.2%,0.7%
+2020-08-31 00:00,CAD,RMPI m/m,Low,4.3%,7.5%,3.0%
+2020-08-31 00:00,CNY,Manufacturing PMI,Medium,51.1,51.1,51.0
+2020-08-31 00:00,CNY,Non-Manufacturing PMI,Low,54.0,54.2,55.2
+2020-08-31 00:00,JPY,Retail Sales y/y,Low,-1.7%,-1.3%,-2.8%
+2020-08-31 00:00,NZD,ANZ Business Confidence,Low,,-42.4,-41.8
+2020-08-31 01:00,JPY,Consumer Confidence,Low,28.7,29.5,29.3
+2020-08-31 01:02,JPY,Housing Starts y/y,Low,-12.0%,-12.8%,-11.4%
+2020-08-31 02:30,CHF,Retail Sales y/y,Low,0.9%,3.3%,4.1%
+2020-08-31 03:00,EUR,Spanish Flash CPI y/y,Low,-0.4%,-0.6%,-0.5%
+2020-08-31 05:00,EUR,Italian Prelim CPI m/m,Low,0.3%,-0.2%,0.3%
+2020-08-31 08:30,CAD,Building Permits m/m,Low,-1.0%,5.7%,-3.0%
+2020-08-31 09:00,USD,FOMC Member Clarida Speaks,Low,,,
+2020-08-31 15:29,EUR,German Prelim CPI m/m,Low,0.0%,-0.5%,-0.1%
+2020-08-31 18:30,AUD,AIG Manufacturing Index,Low,,53.5,49.3
+2020-08-31 18:45,NZD,Building Consents m/m,Low,,0.7%,-4.5%
+2020-08-31 19:30,JPY,Unemployment Rate,Low,3.0%,2.8%,2.9%
+2020-08-31 19:50,JPY,Capital Spending q/y,Low,-4.0%,0.1%,-11.3%
+2020-08-31 20:30,JPY,Final Manufacturing PMI,Low,46.6,46.6,47.2
+2020-08-31 21:30,AUD,Building Approvals m/m,Low,-0.9%,-4.2%,12.0%
+2020-08-31 21:45,CNY,Caixin Manufacturing PMI,Medium,52.6,52.8,53.1
+2020-08-31 23:35,JPY,10-y Bond Auction,Low,,0.02|3.6,0.03|3.2

@@ -1,0 +1,348 @@
+datetime,currency,title,impact,forecast,previous,actual
+2012-02-01 00:00,EUR,Spanish Manufacturing PMI,Medium,,43.7,45.1
+2012-02-01 00:00,USD,Construction Spending m/m,Low,0.7%,0.4%,1.5%
+2012-02-01 00:00,USD,ISM Manufacturing Prices,Low,49.5,47.5,55.5
+2012-02-01 00:30,AUD,Commodity Prices y/y,Medium,,9.6%,6.0%
+2012-02-01 02:00,GBP,Nationwide HPI m/m,Medium,-0.1%,-0.2%,-0.2%
+2012-02-01 03:15,CHF,Retail Sales y/y,High,1.6%,1.8%,0.6%
+2012-02-01 03:30,CHF,Manufacturing PMI,Medium,51.7,50.7,47.3
+2012-02-01 03:45,EUR,Italian Manufacturing PMI,Medium,45.4,44.3,46.8
+2012-02-01 03:50,EUR,French Final Manufacturing PMI,Low,48.5,48.5,48.5
+2012-02-01 03:55,EUR,German Final Manufacturing PMI,Low,50.9,50.9,51.0
+2012-02-01 04:00,EUR,Final Manufacturing PMI,Low,48.7,48.7,48.8
+2012-02-01 04:30,GBP,Final Manufacturing PMI,High,50.1,49.7,52.1
+2012-02-01 05:00,EUR,CPI Flash Estimate y/y,Medium,2.7%,2.7%,2.7%
+2012-02-01 05:34,EUR,German 10-y Bond Auction,Medium,,1.93|1.3,1.82|1.4
+2012-02-01 08:15,USD,ADP Non-Farm Employment Change,High,189K,292K,170K
+2012-02-01 08:30,NZD,GDT Price Index,Low,,1.0%,-1.4%
+2012-02-01 09:30,CAD,Manufacturing PMI,Low,,54.0,50.6
+2012-02-01 10:00,USD,ISM Manufacturing PMI,High,54.6,53.9,54.1
+2012-02-01 10:30,USD,Crude Oil Inventories,Medium,3.2M,3.6M,4.2M
+2012-02-01 11:04,USD,President Obama Speaks,Low,,,
+2012-02-01 15:29,USD,Total Vehicle Sales,Low,13.4M,13.6M,14.2M
+2012-02-01 18:50,JPY,Monetary Base y/y,Low,14.6%,13.5%,15.0%
+2012-02-01 19:00,NZD,ANZ Commodity Prices m/m,Low,,-0.8%,1.2%
+2012-02-01 19:30,AUD,Building Approvals m/m,High,2.1%,10.1%,-1.0%
+2012-02-01 22:45,JPY,10-y Bond Auction,Low,,0.97|3.0,0.96|3.7
+2012-02-02 00:00,AUD,Goods Trade Balance,High,1.22B,1.34B,1.71B
+2012-02-02 00:00,USD,Prelim Nonfarm Productivity q/q,Medium,1.0%,2.3%,0.7%
+2012-02-02 00:00,USD,Prelim Unit Labor Costs q/q,Medium,0.9%,-2.5%,1.2%
+2012-02-02 02:00,CHF,Trade Balance,Medium,2.85B,2.95B,2.07B
+2012-02-02 03:00,EUR,Spanish Unemployment Change,Medium,,1.9K,177.5K
+2012-02-02 04:30,GBP,Construction PMI,High,52.8,53.2,51.4
+2012-02-02 05:00,EUR,PPI m/m,Low,-0.1%,0.2%,-0.2%
+2012-02-02 05:02,EUR,French 10-y Bond Auction,Medium,,3.29|1.6,3.13|1.7
+2012-02-02 07:30,USD,Challenger Job Cuts y/y,Low,,30.6%,38.9%
+2012-02-02 08:30,USD,Unemployment Claims,High,373K,379K,367K
+2012-02-02 09:00,GBP,MPC Member Posen Speaks,Medium,,,
+2012-02-02 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2012-02-02 10:30,USD,Natural Gas Storage,Low,-129B,-192B,-132B
+2012-02-02 16:49,NZD,Visitor Arrivals m/m,Low,,-11.1%,4.5%
+2012-02-02 17:20,AUD,AIG Services Index,Medium,,49.0,51.9
+2012-02-02 20:00,CNY,Non-Manufacturing PMI,Low,,56.0,52.9
+2012-02-02 21:30,CNY,Caixin Services PMI,Low,,52.5,52.5
+2012-02-03 00:00,CAD,Unemployment Rate,High,7.5%,7.5%,7.6%
+2012-02-03 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.4%,0.3%
+2012-02-03 00:00,USD,Average Hourly Earnings m/m,Medium,0.2%,0.1%,0.2%
+2012-02-03 00:00,USD,Factory Orders m/m,Medium,1.5%,2.2%,1.1%
+2012-02-03 00:00,USD,Unemployment Rate,High,8.5%,8.5%,8.3%
+2012-02-03 03:15,EUR,Spanish Services PMI,Low,,42.1,46.1
+2012-02-03 03:45,EUR,Italian Services PMI,Low,45.5,44.5,44.8
+2012-02-03 03:50,EUR,French Final Services PMI,Low,51.7,51.7,52.3
+2012-02-03 03:55,EUR,German Final Services PMI,Low,54.5,54.5,53.7
+2012-02-03 04:00,EUR,Final Services PMI,Low,50.5,50.5,50.4
+2012-02-03 04:30,GBP,Final Services PMI,High,53.5,54.0,56.0
+2012-02-03 05:00,EUR,Retail Sales m/m,Medium,0.4%,-0.4%,-0.4%
+2012-02-03 07:00,CAD,Employment Change,High,23.3K,17.5K,2.3K
+2012-02-03 08:30,USD,Non-Farm Employment Change,High,150K,203K,243K
+2012-02-03 10:00,USD,ISM Services PMI,High,53.1,52.6,56.8
+2012-02-05 18:30,AUD,MI Inflation Gauge m/m,Low,,0.5%,0.2%
+2012-02-05 19:30,AUD,Retail Sales m/m,High,0.2%,0.1%,-0.1%
+2012-02-06 00:00,AUD,ANZ Job Advertisements m/m,Medium,,-0.6%,6.0%
+2012-02-06 03:00,GBP,Halifax HPI m/m,High,0.1%,-1.0%,0.6%
+2012-02-06 04:30,EUR,Sentix Investor Confidence,Medium,-14.8,-21.1,-11.1
+2012-02-06 06:00,EUR,German Factory Orders m/m,Medium,0.7%,-4.9%,1.7%
+2012-02-06 10:00,CAD,Ivey PMI,High,58.6,63.5,64.1
+2012-02-06 16:45,NZD,Labor Cost Index q/q,High,0.5%,0.5%,0.7%
+2012-02-06 17:22,AUD,AIG Construction Index,Low,,41.0,39.8
+2012-02-06 19:01,GBP,BRC Retail Sales Monitor y/y,Medium,,2.2%,-0.3%
+2012-02-06 22:30,AUD,Cash Rate,High,4.00%,4.25%,4.25%
+2012-02-07 00:00,AUD,RBA Rate Statement,High,,,
+2012-02-07 00:00,JPY,Leading Indicators,Low,93.9%,93.7%,94.3%
+2012-02-07 00:00,USD,JOLTS Job Openings,Low,,3.12M,3.38M
+2012-02-07 00:00,USD,RCM/TIPP Economic Optimism,Low,48.1,47.5,49.4
+2012-02-07 02:45,EUR,French Trade Balance,Low,-5.2B,-4.1B,-5.0B
+2012-02-07 03:00,CHF,Foreign Currency Reserves,High,,254B,227B
+2012-02-07 06:00,EUR,German Industrial Production m/m,Medium,-0.1%,0.0%,-2.9%
+2012-02-07 06:15,CHF,Gov Board Member Jordan Speaks,High,,,
+2012-02-07 08:05,CAD,Gov Council Member Macklem Speaks,Low,,,
+2012-02-07 08:30,CAD,Building Permits m/m,High,0.2%,-2.6%,11.1%
+2012-02-07 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2012-02-07 15:00,USD,Consumer Credit m/m,Low,7.7B,20.4B,19.3B
+2012-02-07 18:50,JPY,Bank Lending y/y,Low,,0.4%,0.6%
+2012-02-07 19:00,GBP,BRC Shop Price Index y/y,Low,,1.7%,1.4%
+2012-02-08 00:00,JPY,Current Account,Low,0.63T,0.48T,0.75T
+2012-02-08 00:00,JPY,Economy Watchers Sentiment,Low,47.6,47.0,44.1
+2012-02-08 01:45,CHF,Unemployment Rate,Low,3.1%,3.1%,3.1%
+2012-02-08 02:00,EUR,German Trade Balance,Low,14.1B,14.9B,13.9B
+2012-02-08 02:45,EUR,French Gov Budget Balance,Low,,-97.2B,-90.8B
+2012-02-08 08:13,CAD,Housing Starts,Medium,193K,200K,198K
+2012-02-08 10:30,USD,Crude Oil Inventories,Medium,2.9M,4.2M,0.3M
+2012-02-08 10:40,USD,FOMC Member Williams Speaks,Medium,,,
+2012-02-08 13:00,USD,10-y Bond Auction,Medium,,1.90|3.3,2.02|3.1
+2012-02-08 16:45,NZD,Employment Change q/q,High,0.4%,0.2%,0.1%
+2012-02-08 18:50,JPY,Core Machinery Orders m/m,Medium,-4.8%,14.8%,-7.1%
+2012-02-08 19:30,AUD,NAB Quarterly Business Confidence,Medium,,-3,1
+2012-02-08 20:32,CNY,CPI y/y,High,4.0%,4.1%,4.5%
+2012-02-09 00:00,CNY,PPI y/y,Medium,0.8%,1.7%,0.7%
+2012-02-09 00:00,EUR,ECB Press Conference,High,,,
+2012-02-09 00:00,GBP,Goods Trade Balance,Medium,-8.5B,-8.9B,-7.1B
+2012-02-09 00:00,GBP,Industrial Production m/m,Low,0.2%,-0.5%,0.5%
+2012-02-09 00:00,GBP,MPC Rate Statement,High,,,
+2012-02-09 00:00,GBP,Official Bank Rate,High,0.50%,0.50%,0.50%
+2012-02-09 00:00,JPY,Consumer Confidence,Low,38.6,38.9,40.0
+2012-02-09 00:00,JPY,M2 Money Stock y/y,Low,3.1%,3.2%,3.0%
+2012-02-09 00:00,NZD,Unemployment Rate,High,6.5%,6.6%,6.3%
+2012-02-09 00:00,USD,Final Wholesale Inventories m/m,Low,0.4%,0.0%,1.0%
+2012-02-09 00:00,USD,Unemployment Claims,High,369K,373K,358K
+2012-02-09 01:00,JPY,Prelim Machine Tool Orders y/y,Low,,17.4%,-6.6%
+2012-02-09 01:45,CHF,SECO Consumer Climate,Medium,-23,-24,-19
+2012-02-09 04:30,GBP,Manufacturing Production m/m,High,0.3%,-0.1%,1.0%
+2012-02-09 07:00,GBP,Asset Purchase Facility,High,325B,275B,325B
+2012-02-09 07:45,EUR,Main Refinancing Rate,High,1.00%,1.00%,1.00%
+2012-02-09 08:30,CAD,NHPI m/m,Medium,0.2%,0.3%,0.1%
+2012-02-09 10:00,GBP,NIESR GDP Estimate,Medium,,-0.2%,-0.2%
+2012-02-09 10:30,USD,Natural Gas Storage,Low,-82B,-132B,-78B
+2012-02-09 13:00,USD,30-y Bond Auction,Low,,2.99|2.6,3.24|2.5
+2012-02-09 15:29,EUR,Eurogroup Meetings,Medium,,,
+2012-02-09 18:50,JPY,PPI y/y,Low,0.9%,1.2%,0.5%
+2012-02-09 19:30,AUD,RBA Monetary Policy Statement,High,,,
+2012-02-09 22:04,CNY,USD-Denominated Trade Balance,High,10.8B,16.5B,27.3B
+2012-02-10 00:00,CNY,M2 Money Supply y/y,Low,13.7%,13.6%,12.4%
+2012-02-10 00:00,GBP,PPI Output m/m,Low,0.1%,-0.2%,0.5%
+2012-02-10 00:00,USD,Prelim UoM Inflation Expectations,Low,,3.3%,3.2%
+2012-02-10 00:00,USD,Trade Balance,High,-48.1B,-47.1B,-48.8B
+2012-02-10 02:00,EUR,German Final CPI m/m,Low,-0.4%,-0.4%,-0.4%
+2012-02-10 02:45,EUR,French Industrial Production m/m,Medium,-0.8%,1.1%,-1.4%
+2012-02-10 03:15,CHF,CPI m/m,High,-0.3%,-0.2%,-0.4%
+2012-02-10 04:02,EUR,Italian Industrial Production m/m,Low,-0.5%,0.3%,1.4%
+2012-02-10 04:07,CNY,New Loans,Medium,1002B,641B,738B
+2012-02-10 04:30,GBP,PPI Input m/m,High,0.4%,-0.6%,0.5%
+2012-02-10 08:30,CAD,Trade Balance,High,0.7B,1.2B,2.7B
+2012-02-10 09:55,USD,Prelim UoM Consumer Sentiment,High,74.4,75.0,72.5
+2012-02-10 12:30,USD,Fed Chairman Bernanke Speaks,High,,,
+2012-02-10 12:50,USD,FOMC Member Pianalto Speaks,Medium,,,
+2012-02-10 13:59,USD,Federal Budget Balance,Medium,-58.5B,-86.0B,-27.4B
+2012-02-12 18:50,JPY,Prelim GDP q/q,High,-0.3%,1.4%,-0.6%
+2012-02-12 19:30,AUD,Home Loans m/m,High,1.9%,1.8%,2.3%
+2012-02-13 00:00,JPY,Prelim GDP Price Index y/y,Medium,-1.6%,-2.1%,-1.6%
+2012-02-13 00:00,JPY,Tertiary Industry Activity m/m,Medium,0.9%,-0.6%,1.4%
+2012-02-13 02:00,EUR,German WPI m/m,Low,0.2%,0.0%,1.2%
+2012-02-13 03:15,CHF,PPI m/m,Medium,0.2%,0.3%,0.0%
+2012-02-13 16:45,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2012-02-13 16:47,NZD,FPI m/m,Low,,0.2%,0.0%
+2012-02-13 18:32,GBP,RICS House Price Balance,Medium,-16%,-16%,-16%
+2012-02-13 19:30,AUD,NAB Business Confidence,Medium,,3,4
+2012-02-13 21:45,USD,FOMC Member Williams Speaks,Medium,,,
+2012-02-13 22:01,NZD,REINZ HPI m/m,Medium,,-0.1%,-1.4%
+2012-02-13 22:43,JPY,Monetary Policy Statement,High,,,
+2012-02-13 23:30,JPY,Revised Industrial Production m/m,Low,4.0%,4.0%,3.8%
+2012-02-14 00:00,EUR,Industrial Production m/m,Medium,-1.1%,0.0%,-1.1%
+2012-02-14 00:00,EUR,ZEW Economic Sentiment,Medium,-21.1,-32.5,-8.1
+2012-02-14 00:00,GBP,CB Leading Index m/m,Low,,-0.6%,-0.5%
+2012-02-14 00:00,GBP,Core CPI y/y,Low,2.7%,3.0%,2.6%
+2012-02-14 00:00,GBP,ONS HPI y/y,Low,-0.1%,-0.3%,0.1%
+2012-02-14 00:00,GBP,RPI y/y,Medium,4.1%,4.8%,3.9%
+2012-02-14 00:00,JPY,Overnight Call Rate,High,<0.10%,<0.10%,<0.10%
+2012-02-14 00:00,USD,Core Retail Sales m/m,High,0.6%,-0.5%,0.7%
+2012-02-14 00:00,USD,Import Prices m/m,Medium,0.3%,-0.1%,0.3%
+2012-02-14 00:00,USD,Retail Sales m/m,High,0.8%,0.0%,0.4%
+2012-02-14 00:00,USD,Treasury Sec Geithner Speaks,Medium,,,
+2012-02-14 02:33,JPY,BOJ Press Conference,High,,,
+2012-02-14 02:45,EUR,French Prelim Private Payrolls q/q,Medium,0.2%,0.0%,-0.2%
+2012-02-14 04:30,GBP,CPI y/y,High,3.6%,4.2%,3.6%
+2012-02-14 05:00,EUR,German ZEW Economic Sentiment,High,-11.8,-21.6,5.4
+2012-02-14 05:30,GBP,BOE Inflation Letter,High,,,
+2012-02-14 07:30,USD,NFIB Small Business Index,Low,95.1,93.8,93.9
+2012-02-14 08:30,CAD,New Motor Vehicle Sales m/m,Low,0.5%,-1.0%,-3.0%
+2012-02-14 10:00,USD,Business Inventories m/m,Medium,0.4%,0.3%,0.4%
+2012-02-14 16:45,NZD,Retail Sales q/q,Medium,1.2%,2.4%,2.2%
+2012-02-14 16:47,NZD,Core Retail Sales q/q,High,1.1%,2.6%,2.9%
+2012-02-14 17:40,USD,FOMC Member Lockhart Speaks,Medium,,,
+2012-02-14 18:30,AUD,Westpac Consumer Sentiment,Medium,,2.4%,4.2%
+2012-02-14 19:30,AUD,New Motor Vehicle Sales m/m,Medium,,-2.7%,1.3%
+2012-02-15 00:00,EUR,Flash GDP q/q,Medium,-0.3%,0.1%,-0.3%
+2012-02-15 00:00,EUR,Trade Balance,Low,3.5B,6.1B,7.5B
+2012-02-15 00:00,GBP,Average Earnings Index 3m/y,Low,1.8%,2.0%,2.0%
+2012-02-15 00:00,GBP,BOE Monetary Policy Report,High,,,
+2012-02-15 00:00,GBP,Unemployment Rate,Medium,8.4%,8.4%,8.4%
+2012-02-15 00:00,JPY,BOJ Monthly Report,Medium,,,
+2012-02-15 00:00,USD,Empire State Manufacturing Index,Medium,14.7,13.5,19.5
+2012-02-15 00:00,USD,Industrial Production m/m,Medium,0.7%,1.0%,0.0%
+2012-02-15 01:30,EUR,French Prelim GDP q/q,Medium,-0.2%,0.3%,0.2%
+2012-02-15 02:00,EUR,German Prelim GDP q/q,High,-0.3%,0.6%,-0.2%
+2012-02-15 04:00,EUR,Italian Prelim GDP q/q,Low,-0.6%,-0.2%,-0.7%
+2012-02-15 04:30,GBP,Claimant Count Change,High,3.2K,1.9K,6.9K
+2012-02-15 05:00,CHF,UBS Economic Expectations,Medium,,-50.1,-21.2
+2012-02-15 05:30,GBP,BOE Gov King Speaks,High,,,
+2012-02-15 08:30,NZD,GDT Price Index,Low,,-1.4%,-3.7%
+2012-02-15 08:54,USD,TIC Long-Term Purchases,High,45.4B,61.3B,17.9B
+2012-02-15 09:15,USD,Capacity Utilization Rate,Medium,78.6%,78.6%,78.5%
+2012-02-15 10:00,USD,NAHB Housing Market Index,Low,26,25,29
+2012-02-15 10:30,USD,Crude Oil Inventories,Medium,1.8M,0.3M,-0.2M
+2012-02-15 14:00,USD,FOMC Meeting Minutes,High,,,
+2012-02-15 16:26,NZD,BusinessNZ Manufacturing Index,Low,,51.6,50.5
+2012-02-15 17:10,AUD,RBA Deputy Gov Lowe Speaks,Medium,,,
+2012-02-15 18:58,AUD,MI Inflation Expectations,Medium,,2.8%,2.5%
+2012-02-15 19:01,GBP,Nationwide Consumer Confidence,Medium,40,38,47
+2012-02-15 19:30,AUD,Employment Change,High,10.5K,-35.6K,46.3K
+2012-02-15 20:54,CNY,Foreign Direct Investment ytd/y,Low,,9.7%,-0.3%
+2012-02-16 00:00,AUD,Unemployment Rate,High,5.3%,5.2%,5.1%
+2012-02-16 00:00,CAD,Manufacturing Sales m/m,Medium,1.0%,1.9%,0.6%
+2012-02-16 00:00,EUR,Italian Trade Balance,Low,-1.21B,-1.58B,1.45B
+2012-02-16 00:00,USD,Building Permits,High,0.68M,0.67M,0.68M
+2012-02-16 00:00,USD,Core PPI m/m,Medium,0.1%,0.3%,0.4%
+2012-02-16 00:00,USD,Housing Starts,Medium,0.68M,0.69M,0.70M
+2012-02-16 00:00,USD,Mortgage Delinquencies,Medium,,7.99%,7.58%
+2012-02-16 00:00,USD,PPI m/m,High,0.3%,-0.1%,0.1%
+2012-02-16 00:00,USD,Unemployment Claims,High,364K,361K,348K
+2012-02-16 04:00,EUR,ECB Monthly Bulletin,Medium,,,
+2012-02-16 08:30,CAD,Foreign Securities Purchases,Medium,7.98B,14.64B,7.38B
+2012-02-16 09:00,USD,Fed Chairman Bernanke Speaks,High,,,
+2012-02-16 10:00,USD,Philly Fed Manufacturing Index,High,9.0,7.3,10.2
+2012-02-16 10:30,USD,Natural Gas Storage,Low,-126B,-78B,-127B
+2012-02-16 18:00,NZD,RBNZ Gov Bollard Speaks,Medium,,,
+2012-02-16 18:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2012-02-17 00:00,CAD,CPI m/m,Medium,0.3%,-0.6%,0.4%
+2012-02-17 00:00,USD,CPI m/m,Medium,0.3%,0.0%,0.2%
+2012-02-17 00:00,USD,CPI y/y,High,2.8%,3.0%,2.9%
+2012-02-17 00:00,USD,Core CPI m/m,High,0.2%,0.1%,0.2%
+2012-02-17 02:00,EUR,German PPI m/m,Medium,0.4%,-0.4%,0.6%
+2012-02-17 04:00,EUR,Current Account,Medium,2.3B,-0.9B,2.0B
+2012-02-17 04:30,GBP,Retail Sales m/m,High,-0.3%,0.6%,0.9%
+2012-02-17 07:00,CAD,Core CPI m/m,High,0.1%,-0.5%,0.2%
+2012-02-17 08:30,CAD,Leading Index m/m,Medium,0.6%,0.7%,0.7%
+2012-02-17 10:00,USD,CB Leading Index m/m,Low,0.6%,0.5%,0.4%
+2012-02-17 14:00,GBP,MPC Member Posen Speaks,Medium,,,
+2012-02-19 16:30,NZD,BusinessNZ Services Index,Low,,52.4,53.6
+2012-02-19 16:45,NZD,PPI Input q/q,High,0.4%,0.6%,0.5%
+2012-02-19 18:40,GBP,Rightmove HPI m/m,Medium,,-0.8%,4.1%
+2012-02-19 18:50,JPY,Trade Balance,Medium,-0.83T,-0.57T,-0.61T
+2012-02-20 00:00,NZD,PPI Output q/q,Low,0.5%,0.2%,0.1%
+2012-02-20 06:00,EUR,German Buba Monthly Report,Low,,,
+2012-02-20 19:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2012-02-20 21:00,NZD,Inflation Expectations q/q,High,,2.82%,2.50%
+2012-02-20 21:30,AUD,RBA Gov Stevens Speaks,High,,,
+2012-02-20 23:30,JPY,All Industries Activity m/m,Low,1.6%,-1.0%,1.3%
+2012-02-21 00:00,CAD,Retail Sales m/m,Medium,-0.2%,0.4%,-0.2%
+2012-02-21 00:00,CAD,Wholesale Sales m/m,Medium,0.6%,-0.3%,0.9%
+2012-02-21 02:00,CHF,Trade Balance,Medium,1.95B,2.01B,1.55B
+2012-02-21 04:30,GBP,Public Sector Net Borrowing,High,-8.9B,11.1B,-10.7B
+2012-02-21 08:30,CAD,Core Retail Sales m/m,High,0.1%,0.4%,0.0%
+2012-02-21 10:00,EUR,Consumer Confidence,Low,-20,-21,-20
+2012-02-21 14:30,GBP,MPC Member Bean Speaks,Medium,,,
+2012-02-21 15:29,EUR,ECOFIN Meetings,Medium,,,
+2012-02-21 15:29,EUR,Eurogroup Meetings,Medium,,,
+2012-02-21 18:00,AUD,CB Leading Index m/m,Medium,,-0.3%,0.2%
+2012-02-21 18:30,AUD,MI Leading Index m/m,Medium,,-0.1%,0.5%
+2012-02-21 19:30,AUD,Wage Price Index q/q,Medium,0.8%,0.7%,1.0%
+2012-02-21 21:00,NZD,Credit Card Spending y/y,Low,,5.9%,3.1%
+2012-02-21 21:30,CNY,Caixin Flash Manufacturing PMI,High,,48.8,49.7
+2012-02-22 00:00,EUR,Flash Services PMI,Medium,50.7,50.4,49.4
+2012-02-22 00:00,EUR,French Flash Services PMI,Medium,52.3,52.3,50.3
+2012-02-22 00:00,EUR,German Flash Services PMI,Medium,53.8,53.7,52.6
+2012-02-22 00:00,GBP,MPC Official Bank Rate Votes,High,0-0-9,0-0-9,0-0-9
+2012-02-22 01:30,EUR,French Final CPI m/m,Low,-0.1%,0.4%,-0.4%
+2012-02-22 03:00,EUR,French Flash Manufacturing PMI,Medium,49.1,48.5,50.2
+2012-02-22 03:30,EUR,German Flash Manufacturing PMI,Medium,51.6,51.0,50.1
+2012-02-22 04:00,EUR,Flash Manufacturing PMI,Medium,49.4,48.8,49.0
+2012-02-22 04:30,GBP,MPC Asset Purchase Facility Votes,High,9-0-0,0-0-9,9-0-0
+2012-02-22 05:00,EUR,Industrial New Orders m/m,Medium,0.6%,-1.1%,1.9%
+2012-02-22 09:00,EUR,Belgian NBB Business Climate,Medium,-8.2,-9.5,-7.7
+2012-02-22 10:00,USD,Existing Home Sales,High,4.66M,4.38M,4.57M
+2012-02-23 00:00,USD,Natural Gas Storage,Low,-146B,-127B,-166B
+2012-02-23 00:00,USD,Unemployment Claims,High,352K,351K,351K
+2012-02-23 04:00,EUR,German ifo Business Climate,High,108.7,108.3,109.6
+2012-02-23 04:30,GBP,High Street Lending,Medium,37.3K,36.6K,38.1K
+2012-02-23 05:00,EUR,EU Economic Forecasts,Medium,,,
+2012-02-23 06:00,GBP,CBI Industrial Order Expectations,Medium,-14,-16,-3
+2012-02-23 08:30,CAD,Corporate Profits q/q,Low,,-0.5%,9.0%
+2012-02-23 10:00,USD,HPI m/m,Low,0.2%,0.7%,0.7%
+2012-02-23 10:30,CAD,BOC Review,Low,,,
+2012-02-23 11:00,USD,Crude Oil Inventories,Medium,0.9M,-0.2M,1.6M
+2012-02-23 17:30,AUD,RBA Gov Stevens Speaks,High,,,
+2012-02-23 18:50,JPY,SPPI y/y,Low,0.1%,0.1%,-0.2%
+2012-02-23 21:00,CNY,CB Leading Index m/m,Low,,0.8%,1.6%
+2012-02-24 00:00,GBP,Index of Services 3m/3m,Low,0.2%,0.2%,0.0%
+2012-02-24 00:00,GBP,Prelim Business Investment q/q,Medium,-0.3%,1.0%,-5.6%
+2012-02-24 00:00,USD,New Home Sales,High,316K,324K,321K
+2012-02-24 00:00,USD,Revised UoM Inflation Expectations,Low,,3.2%,3.3%
+2012-02-24 02:00,EUR,German Final GDP q/q,Low,-0.2%,-0.2%,-0.2%
+2012-02-24 04:00,EUR,Italian Retail Sales m/m,Low,-0.2%,-0.7%,-1.1%
+2012-02-24 04:30,GBP,Second Estimate GDP q/q,High,-0.2%,-0.2%,-0.2%
+2012-02-24 09:55,USD,Revised UoM Consumer Sentiment,Medium,72.8,72.5,75.3
+2012-02-24 10:00,CAD,BOC Gov Carney Speaks,Medium,,,
+2012-02-24 10:45,USD,FOMC Member Williams Speaks,Medium,,,
+2012-02-24 13:30,USD,FOMC Member Dudley Speaks,Low,,,
+2012-02-24 15:00,EUR,German Buba President Weidmann Speaks,Medium,,,
+2012-02-25 15:29,All,G20 Meetings,Medium,,,
+2012-02-26 15:29,All,G20 Meetings,Medium,,,
+2012-02-26 16:45,NZD,Trade Balance,Medium,184M,306M,-199M
+2012-02-27 00:00,EUR,Private Loans y/y,Low,1.2%,1.0%,1.1%
+2012-02-27 04:00,EUR,M3 Money Supply y/y,Medium,1.8%,1.5%,2.5%
+2012-02-27 10:00,USD,Pending Home Sales m/m,High,1.1%,-1.9%,2.0%
+2012-02-27 18:50,JPY,Retail Sales y/y,Medium,-0.2%,2.5%,1.9%
+2012-02-28 00:00,EUR,German GfK Consumer Climate,Medium,6.1,5.9,6.0
+2012-02-28 00:00,USD,Durable Goods Orders m/m,Medium,-0.8%,3.2%,-4.0%
+2012-02-28 00:00,USD,FOMC Member Duke Speaks,Low,,,
+2012-02-28 02:00,CHF,UBS Consumption Indicator,Low,,0.94,0.92
+2012-02-28 03:15,CHF,Employment Level,Medium,4.03M,4.05M,4.04M
+2012-02-28 04:00,EUR,Retail PMI,Low,,42.9,47.9
+2012-02-28 05:14,EUR,Italian 10-y Bond Auction,High,,6.08|1.4,5.50|1.4
+2012-02-28 06:00,GBP,CBI Realized Sales,Medium,-17,-22,-2
+2012-02-28 08:30,USD,Core Durable Goods Orders m/m,High,0.0%,3.5%,-3.2%
+2012-02-28 09:00,USD,S&P/CS Composite-20 HPI y/y,Medium,-3.6%,-3.9%,-4.0%
+2012-02-28 09:59,USD,Richmond Manufacturing Index,Low,11,12,20
+2012-02-28 10:00,USD,CB Consumer Confidence,High,63.1,61.5,70.8
+2012-02-28 12:30,CHF,Gov Board Member Jordan Speaks,High,,,
+2012-02-28 14:00,GBP,MPC Member Tucker Speaks,Medium,,,
+2012-02-28 15:29,EUR,German Prelim CPI m/m,Medium,0.5%,-0.4%,0.7%
+2012-02-28 16:45,NZD,Building Consents m/m,Medium,,2.6%,8.3%
+2012-02-28 18:15,JPY,Final Manufacturing PMI,Low,,50.7,50.5
+2012-02-28 18:50,JPY,Prelim Industrial Production m/m,Medium,1.6%,3.8%,2.0%
+2012-02-28 19:00,AUD,HIA New Home Sales m/m,Medium,,-4.9%,-7.3%
+2012-02-28 19:01,GBP,GfK Consumer Confidence,Medium,-27,-29,-29
+2012-02-28 19:15,USD,FOMC Member Pianalto Speaks,Medium,,,
+2012-02-28 19:30,AUD,Retail Sales m/m,High,0.3%,-0.1%,0.3%
+2012-02-29 00:00,AUD,Construction Work Done q/q,Medium,-0.8%,11.7%,-4.6%
+2012-02-29 00:00,AUD,Private Sector Credit m/m,Medium,0.3%,0.3%,0.2%
+2012-02-29 00:00,EUR,Final CPI y/y,Medium,2.7%,2.7%,2.6%
+2012-02-29 00:00,EUR,Spanish Flash CPI y/y,Low,2.0%,2.0%,2.0%
+2012-02-29 00:00,GBP,M4 Money Supply m/m,Low,-0.8%,-1.4%,1.6%
+2012-02-29 00:00,GBP,Mortgage Approvals,Low,54K,55K,59K
+2012-02-29 00:00,JPY,Housing Starts y/y,Low,-3.4%,-7.3%,-1.1%
+2012-02-29 00:00,NZD,ANZ Business Confidence,High,,16.9,28.0
+2012-02-29 00:00,USD,Fed Monetary Policy Report,Low,,,
+2012-02-29 00:00,USD,Prelim GDP Price Index q/q,Low,0.4%,0.4%,0.9%
+2012-02-29 02:00,EUR,German Import Prices m/m,Low,0.5%,0.3%,1.3%
+2012-02-29 02:45,EUR,French Consumer Spending m/m,Medium,0.3%,-0.2%,-0.4%
+2012-02-29 03:00,CHF,KOF Economic Barometer,High,-0.11,-0.15,-0.12
+2012-02-29 03:55,EUR,German Unemployment Change,Medium,-5K,-26K,0K
+2012-02-29 04:30,GBP,Net Lending to Individuals m/m,Medium,0.9B,0.9B,1.8B
+2012-02-29 04:45,GBP,Monetary Policy Report Hearings,High,,,
+2012-02-29 05:00,EUR,Final Core CPI y/y,Medium,1.8%,1.6%,1.5%
+2012-02-29 05:25,EUR,Long Term Refinancing Operation,High,,489B,530B
+2012-02-29 05:34,EUR,German 10-y Bond Auction,Medium,,1.82|1.4,1.83|1.4
+2012-02-29 08:30,USD,Prelim GDP q/q,High,2.8%,2.8%,3.0%
+2012-02-29 09:45,USD,Chicago PMI,Medium,61.6,60.2,64.0
+2012-02-29 10:00,USD,Fed Chairman Bernanke Testifies,High,,,
+2012-02-29 10:30,USD,Crude Oil Inventories,Medium,1.4M,1.6M,4.2M
+2012-02-29 13:30,GBP,MPC Member Weale Speaks,Medium,,,
+2012-02-29 14:00,USD,Beige Book,Medium,,,
+2012-02-29 16:45,NZD,Overseas Trade Index q/q,Low,-1.8%,-0.6%,-1.4%
+2012-02-29 17:22,AUD,AIG Manufacturing Index,Low,,51.6,51.3
+2012-02-29 18:50,JPY,Capital Spending q/y,Medium,-6.4%,-9.8%,7.6%
+2012-02-29 19:30,AUD,Building Approvals m/m,High,2.1%,-0.5%,0.9%
+2012-02-29 20:00,CNY,Manufacturing PMI,High,50.9,50.5,51.0
+2012-02-29 21:30,CNY,Caixin Manufacturing PMI,Medium,,49.7,49.6
+2012-02-29 22:45,JPY,10-y Bond Auction,Low,,0.96|3.7,0.97|3.3

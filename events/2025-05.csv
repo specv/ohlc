@@ -1,0 +1,431 @@
+datetime,currency,title,impact,forecast,previous,actual
+2025-05-01 01:00,JPY,Consumer Confidence,,33.9,34.1,31.2
+2025-05-01 02:30,AUD,Commodity Prices y/y,,,-7.2%,-6.1%
+2025-05-01 02:30,CHF,Retail Sales y/y,,1.9%,1.2%,2.2%
+2025-05-01 02:30,JPY,BOJ Press Conference,,,,
+2025-05-01 04:30,GBP,Final Manufacturing PMI,,44.0,44.0,45.4
+2025-05-01 04:30,GBP,M4 Money Supply m/m,,0.2%,0.2%,0.3%
+2025-05-01 04:30,GBP,Mortgage Approvals,,64K,65K,64K
+2025-05-01 04:32,GBP,Net Lending to Individuals m/m,,4.4B,4.6B,13.8B
+2025-05-01 07:30,USD,Challenger Job Cuts y/y,,,204.8%,62.7%
+2025-05-01 08:30,USD,Unemployment Claims,,224K,223K,241K
+2025-05-01 09:30,CAD,Manufacturing PMI,,,46.3,45.3
+2025-05-01 09:45,USD,Final Manufacturing PMI,,50.5,50.7,50.2
+2025-05-01 10:00,USD,Construction Spending m/m,,0.2%,0.6%,-0.5%
+2025-05-01 10:00,USD,ISM Manufacturing PMI,,48.0,49.0,48.7
+2025-05-01 10:00,USD,ISM Manufacturing Prices,,72.9,69.4,69.8
+2025-05-01 14:00,USD,Natural Gas Storage,,111B,88B,107B
+2025-05-01 18:45,NZD,Building Consents m/m,,,0.8%,9.6%
+2025-05-01 19:30,JPY,Unemployment Rate,,2.4%,2.4%,2.5%
+2025-05-01 19:50,JPY,Monetary Base y/y,,-2.0%,-3.1%,-4.8%
+2025-05-01 21:30,AUD,PPI q/q,,0.8%,0.8%,0.9%
+2025-05-01 21:30,AUD,Retail Sales m/m,,0.4%,0.2%,0.3%
+2025-05-02 02:45,EUR,French Gov Budget Balance,,,-40.3B,-47.0B
+2025-05-02 03:15,EUR,Spanish Manufacturing PMI,,50.0,49.5,48.1
+2025-05-02 03:30,CHF,Manufacturing PMI,,48.7,48.9,45.8
+2025-05-02 03:45,EUR,Italian Manufacturing PMI,,47.1,46.6,49.3
+2025-05-02 03:50,EUR,French Final Manufacturing PMI,,48.2,48.2,48.7
+2025-05-02 03:55,EUR,German Final Manufacturing PMI,,48.0,48.0,48.4
+2025-05-02 04:00,EUR,Final Manufacturing PMI,,48.7,48.7,49.0
+2025-05-02 04:00,EUR,Italian Monthly Unemployment Rate,,6.0%,5.9%,6.0%
+2025-05-02 05:00,EUR,CPI Flash Estimate y/y,,2.1%,2.2%,2.2%
+2025-05-02 05:00,EUR,Core CPI Flash Estimate y/y,,2.5%,2.4%,2.7%
+2025-05-02 05:00,EUR,ECB Economic Bulletin,,,,
+2025-05-02 05:00,EUR,Unemployment Rate,,6.1%,6.2%,6.2%
+2025-05-02 08:30,USD,Average Hourly Earnings m/m,,0.3%,0.3%,0.2%
+2025-05-02 08:30,USD,Non-Farm Employment Change,,138K,185K,177K
+2025-05-02 08:30,USD,Unemployment Rate,,4.2%,4.2%,4.2%
+2025-05-02 10:00,USD,Factory Orders m/m,,4.4%,0.5%,4.3%
+2025-05-04 21:00,AUD,MI Inflation Gauge m/m,,,0.7%,0.6%
+2025-05-04 21:30,AUD,ANZ Job Advertisements m/m,,,0.4%,0.5%
+2025-05-05 02:30,CHF,CPI m/m,,0.2%,0.0%,0.0%
+2025-05-05 04:30,EUR,Sentix Investor Confidence,,-14.9,-19.5,-8.1
+2025-05-05 09:45,USD,Final Services PMI,,51.4,51.4,50.8
+2025-05-05 10:00,USD,ISM Services PMI,,50.2,50.8,51.6
+2025-05-05 21:00,NZD,ANZ Commodity Prices m/m,,,-0.4%,0.0%
+2025-05-05 21:30,AUD,Building Approvals m/m,,-1.7%,-0.2%,-8.8%
+2025-05-05 21:45,CNY,Caixin Services PMI,,51.7,51.9,50.7
+2025-05-06 01:45,CHF,Unemployment Rate,,2.8%,2.8%,2.8%
+2025-05-06 02:45,EUR,French Industrial Production m/m,,0.4%,1.0%,0.2%
+2025-05-06 03:00,EUR,Spanish Unemployment Change,,6.5K,-13.3K,-67.4K
+2025-05-06 03:15,EUR,Spanish Services PMI,,53.9,54.7,53.4
+2025-05-06 03:35,CHF,SNB Chairman Schlegel Speaks,,,,
+2025-05-06 03:45,EUR,Italian Services PMI,,51.3,52.0,52.9
+2025-05-06 03:50,EUR,French Final Services PMI,,46.8,46.8,47.3
+2025-05-06 03:55,EUR,German Final Services PMI,,48.8,48.8,49.0
+2025-05-06 04:00,EUR,Final Services PMI,,49.7,49.7,50.1
+2025-05-06 04:30,GBP,Final Services PMI,,48.9,48.9,49.0
+2025-05-06 05:00,EUR,PPI m/m,,-1.4%,0.2%,-1.6%
+2025-05-06 08:30,CAD,Trade Balance,,-1.7B,-1.4B,-0.5B
+2025-05-06 08:30,USD,Trade Balance,,-136.8B,-123.2B,-140.5B
+2025-05-06 10:00,CAD,Ivey PMI,,51.2,51.3,47.9
+2025-05-06 10:06,USD,RCM/TIPP Economic Optimism,,50.2,49.1,47.9
+2025-05-06 11:34,NZD,GDT Price Index,,,1.6%,4.6%
+2025-05-06 13:01,USD,10-y Bond Auction,,,4.44|2.7,4.34|2.6
+2025-05-06 16:30,USD,API Weekly Statistical Bulletin,,,,
+2025-05-06 17:00,NZD,RBNZ Financial Stability Report,,,,
+2025-05-06 18:45,NZD,Employment Change q/q,,0.1%,-0.2%,0.1%
+2025-05-06 18:45,NZD,Labor Cost Index q/q,,0.5%,0.6%,0.4%
+2025-05-06 18:45,NZD,Unemployment Rate,,5.3%,5.1%,5.1%
+2025-05-06 21:00,NZD,RBNZ Gov Hawkesby Speaks,,,,
+2025-05-07 02:00,EUR,German Factory Orders m/m,,1.4%,0.0%,3.6%
+2025-05-07 02:45,EUR,French Prelim Private Payrolls q/q,,0.0%,-0.3%,0.0%
+2025-05-07 02:45,EUR,French Trade Balance,,-7.0B,-7.7B,-6.2B
+2025-05-07 03:00,CHF,Foreign Currency Reserves,,,726B,703B
+2025-05-07 04:00,EUR,Italian Retail Sales m/m,,0.2%,0.1%,-0.5%
+2025-05-07 04:30,GBP,Construction PMI,,46.0,46.4,46.6
+2025-05-07 04:57,EUR,French 10-y Bond Auction,,,3.37|3.0,3.24|2.8
+2025-05-07 05:00,CHF,Gov Board Member Tschudin Speaks,,,,
+2025-05-07 05:00,EUR,Retail Sales m/m,,-0.1%,0.2%,-0.1%
+2025-05-07 10:30,USD,Crude Oil Inventories,,-1.7M,-2.7M,-2.0M
+2025-05-07 14:00,USD,FOMC Statement,,,,
+2025-05-07 14:00,USD,Federal Funds Rate,,4.50%,4.50%,4.50%
+2025-05-07 14:30,USD,FOMC Press Conference,,,,
+2025-05-07 15:00,USD,Consumer Credit m/m,,9.8B,-0.6B,10.2B
+2025-05-07 19:01,GBP,RICS House Price Balance,,-4%,2%,-3%
+2025-05-07 19:50,JPY,Monetary Policy Meeting Minutes,,,,
+2025-05-07 23:35,JPY,10-y Bond Auction,,,1.41|3.1,1.27|2.5
+2025-05-08 02:00,EUR,German Industrial Production m/m,,0.9%,-1.3%,3.0%
+2025-05-08 02:00,EUR,German Trade Balance,,19.0B,18.0B,21.1B
+2025-05-08 02:00,GBP,Halifax HPI m/m,,0.2%,-0.5%,0.3%
+2025-05-08 07:02,GBP,BOE Monetary Policy Report,,,,
+2025-05-08 07:02,GBP,MPC Official Bank Rate Votes,,0-9-0,0-1-8,0-7-2
+2025-05-08 07:02,GBP,Monetary Policy Summary,,,,
+2025-05-08 07:02,GBP,Official Bank Rate,,4.25%,4.50%,4.25%
+2025-05-08 07:30,GBP,BOE Gov Bailey Speaks,,,,
+2025-05-08 08:30,USD,Prelim Nonfarm Productivity q/q,,-0.4%,1.5%,-0.8%
+2025-05-08 08:30,USD,Prelim Unit Labor Costs q/q,,5.3%,2.2%,5.7%
+2025-05-08 08:30,USD,Unemployment Claims,,231K,241K,228K
+2025-05-08 10:00,CAD,BOC Financial System Review,,,,
+2025-05-08 10:00,USD,Final Wholesale Inventories m/m,,0.5%,0.5%,0.4%
+2025-05-08 10:00,USD,President Trump Speaks,,,,
+2025-05-08 10:30,USD,Natural Gas Storage,,103B,107B,104B
+2025-05-08 11:00,CAD,BOC Press Conference,,,,
+2025-05-08 13:01,USD,30-y Bond Auction,,,4.81|2.4,4.82|2.3
+2025-05-08 19:30,JPY,Average Cash Earnings y/y,,2.4%,2.7%,2.1%
+2025-05-08 19:30,JPY,Household Spending y/y,,0.2%,-0.5%,2.1%
+2025-05-08 23:04,CNY,Trade Balance,,701B,737B,690B
+2025-05-08 23:06,CNY,USD-Denominated Trade Balance,,97.0B,102.6B,96.2B
+2025-05-09 01:00,JPY,Leading Indicators,,107.4%,108.2%,107.7%
+2025-05-09 03:00,CHF,SECO Consumer Climate,,-34,-35,-42
+2025-05-09 04:00,EUR,Italian Industrial Production m/m,,0.4%,-0.9%,0.1%
+2025-05-09 04:40,GBP,BOE Gov Bailey Speaks,,,,
+2025-05-09 05:55,USD,FOMC Member Barr Speaks,,,,
+2025-05-09 06:45,USD,FOMC Member Kugler Speaks,,,,
+2025-05-09 07:15,GBP,MPC Member Pill Speaks,,,,
+2025-05-09 08:30,CAD,Employment Change,,4.1K,-32.6K,7.4K
+2025-05-09 08:30,CAD,Unemployment Rate,,6.8%,6.7%,6.9%
+2025-05-09 08:30,USD,FOMC Member Barkin Speaks,,,,
+2025-05-09 08:30,USD,FOMC Member Williams Speaks,,,,
+2025-05-09 10:00,USD,FOMC Member Goolsbee Speaks,,,,
+2025-05-09 11:30,USD,FOMC Member Waller Speaks,,,,
+2025-05-09 11:30,USD,FOMC Member Williams Speaks,,,,
+2025-05-09 19:45,USD,FOMC Member Cook Speaks,,,,
+2025-05-09 19:45,USD,FOMC Member Hammack Speaks,,,,
+2025-05-09 19:45,USD,FOMC Member Musalem Speaks,,,,
+2025-05-09 21:30,CNY,CPI y/y,,-0.1%,-0.1%,-0.1%
+2025-05-09 21:30,CNY,PPI y/y,,-2.7%,-2.5%,-2.7%
+2025-05-11 14:00,USD,FOMC Member Barkin Speaks,,,,
+2025-05-11 19:50,JPY,Bank Lending y/y,,2.8%,2.8%,2.4%
+2025-05-11 19:50,JPY,Current Account,,2.42T,2.91T,2.72T
+2025-05-12 01:00,JPY,Economy Watchers Sentiment,,44.7,45.1,42.6
+2025-05-12 04:00,GBP,MPC Member Lombardelli Speaks,,,,
+2025-05-12 06:30,GBP,MPC Member Greene Speaks,,,,
+2025-05-12 08:50,GBP,MPC Member Mann Speaks,,,,
+2025-05-12 09:30,USD,President Trump Speaks,,,,
+2025-05-12 09:45,USD,Cleveland Fed Inflation Expectations,,,3.2%,3.9%
+2025-05-12 10:25,USD,FOMC Member Kugler Speaks,,,,
+2025-05-12 12:00,GBP,MPC Member Taylor Speaks,,,,
+2025-05-12 14:00,USD,Federal Budget Balance,,256.4B,-160.5B,258.4B
+2025-05-12 14:00,USD,Loan Officer Survey,,,,
+2025-05-12 19:01,GBP,BRC Retail Sales Monitor y/y,,2.4%,0.9%,6.8%
+2025-05-12 19:50,JPY,BOJ Summary of Opinions,,,,
+2025-05-12 19:50,JPY,M2 Money Stock y/y,,0.6%,0.8%,0.5%
+2025-05-12 20:26,AUD,Westpac Consumer Sentiment,,,-6.0%,2.2%
+2025-05-12 21:30,AUD,NAB Business Confidence,,,-3,-1
+2025-05-12 23:35,JPY,30-y Bond Auction,,,2.41|3.0,2.94|3.1
+2025-05-13 02:00,GBP,Average Earnings Index 3m/y,,5.2%,5.7%,5.5%
+2025-05-13 02:00,GBP,Claimant Count Change,,22.3K,-16.9K,5.2K
+2025-05-13 02:00,GBP,Unemployment Rate,,4.5%,4.4%,4.5%
+2025-05-13 04:45,GBP,MPC Member Pill Speaks,,,,
+2025-05-13 05:00,EUR,German ZEW Economic Sentiment,,10.7,-14.0,25.2
+2025-05-13 05:00,EUR,ZEW Economic Sentiment,,-3.5,-18.5,11.6
+2025-05-13 06:00,USD,NFIB Small Business Index,,94.9,97.4,95.8
+2025-05-13 08:30,USD,CPI m/m,,0.3%,-0.1%,0.2%
+2025-05-13 08:30,USD,CPI y/y,,2.4%,2.4%,2.3%
+2025-05-13 08:30,USD,Core CPI m/m,,0.3%,0.1%,0.2%
+2025-05-13 09:30,GBP,CB Leading Index m/m,,,-0.1%,-0.4%
+2025-05-13 10:00,USD,Mortgage Delinquencies,,,3.98%,4.04%
+2025-05-13 11:00,GBP,BOE Gov Bailey Speaks,,,,
+2025-05-13 11:34,USD,President Trump Speaks,,,,
+2025-05-13 16:30,USD,API Weekly Statistical Bulletin,,,,
+2025-05-13 18:45,NZD,Visitor Arrivals m/m,,,-4.7%,-1.9%
+2025-05-13 19:50,JPY,PPI y/y,,4.0%,4.3%,4.0%
+2025-05-13 21:30,AUD,Wage Price Index q/q,,0.8%,0.7%,0.9%
+2025-05-14 02:00,EUR,German Final CPI m/m,,0.4%,0.4%,0.4%
+2025-05-14 03:15,GBP,MPC Member Breeden Speaks,,,,
+2025-05-14 04:15,EUR,German Buba President Nagel Speaks,,,,
+2025-05-14 05:02,CNY,M2 Money Supply y/y,,7.2%,7.0%,8.0%
+2025-05-14 05:03,CNY,New Loans,,710B,3640B,280B
+2025-05-14 05:03,GBP,10-y Bond Auction,,,4.64|2.9,4.67|3.1
+2025-05-14 05:15,USD,FOMC Member Waller Speaks,,,,
+2025-05-14 05:38,EUR,German 30-y Bond Auction,,,2.90|1.7,3.12|2.3
+2025-05-14 08:30,CAD,Building Permits m/m,,-0.7%,4.9%,-4.1%
+2025-05-14 09:10,USD,FOMC Member Jefferson Speaks,,,,
+2025-05-14 10:30,AUD,CB Leading Index m/m,,,-0.1%,-0.4%
+2025-05-14 10:30,USD,Crude Oil Inventories,,-2.0M,-2.0M,3.5M
+2025-05-14 17:40,USD,FOMC Member Daly Speaks,,,,
+2025-05-14 18:45,NZD,FPI m/m,,,0.5%,
+2025-05-14 21:00,AUD,MI Inflation Expectations,,,4.2%,
+2025-05-14 21:30,AUD,Employment Change,,20.9K,32.2K,
+2025-05-14 21:30,AUD,Unemployment Rate,,4.1%,4.1%,
+2025-05-15 01:59,JPY,Prelim Machine Tool Orders y/y,,,11.4%,7.7%
+2025-05-15 02:00,EUR,German WPI m/m,,0.2%,-0.2%,
+2025-05-15 02:00,GBP,Construction Output m/m,,0.2%,0.4%,
+2025-05-15 02:00,GBP,GDP m/m,,0.0%,0.5%,
+2025-05-15 02:00,GBP,Goods Trade Balance,,-19.7B,-20.8B,
+2025-05-15 02:00,GBP,Index of Services 3m/3m,,0.7%,0.6%,
+2025-05-15 02:00,GBP,Industrial Production m/m,,-0.6%,1.5%,
+2025-05-15 02:00,GBP,Manufacturing Production m/m,,-0.8%,2.2%,
+2025-05-15 02:00,GBP,Prelim Business Investment q/q,,0.4%,-1.9%,
+2025-05-15 02:00,GBP,Prelim GDP q/q,,0.6%,0.1%,
+2025-05-15 02:00,JPY,Prelim Machine Tool Orders y/y,,,11.4%,
+2025-05-15 02:30,CHF,PPI m/m,,0.2%,0.1%,
+2025-05-15 02:45,EUR,French Final CPI m/m,,0.5%,0.5%,
+2025-05-15 05:00,EUR,Flash Employment Change q/q,,0.1%,0.1%,
+2025-05-15 05:00,EUR,Flash GDP q/q,,0.4%,0.4%,
+2025-05-15 05:00,EUR,Industrial Production m/m,,1.7%,1.1%,
+2025-05-15 08:15,CAD,Housing Starts,,234K,214K,
+2025-05-15 08:30,CAD,Manufacturing Sales m/m,,-1.8%,0.2%,
+2025-05-15 08:30,CAD,Wholesale Sales m/m,,0.2%,0.3%,
+2025-05-15 08:30,USD,Core PPI m/m,,0.3%,-0.1%,
+2025-05-15 08:30,USD,Core Retail Sales m/m,,0.3%,0.5%,
+2025-05-15 08:30,USD,Empire State Manufacturing Index,,-7.9,-8.1,
+2025-05-15 08:30,USD,PPI m/m,,0.2%,-0.4%,
+2025-05-15 08:30,USD,Philly Fed Manufacturing Index,,-9.9,-26.4,
+2025-05-15 08:30,USD,Retail Sales m/m,,0.0%,1.4%,
+2025-05-15 08:30,USD,Unemployment Claims,,229K,228K,
+2025-05-15 08:40,USD,Fed Chair Powell Speaks,,,,
+2025-05-15 09:15,USD,Capacity Utilization Rate,,77.9%,77.8%,
+2025-05-15 09:15,USD,Industrial Production m/m,,0.2%,-0.3%,
+2025-05-15 10:00,GBP,MPC Member Dhingra Speaks,,,,
+2025-05-15 10:00,USD,Business Inventories m/m,,0.2%,0.2%,
+2025-05-15 10:00,USD,NAHB Housing Market Index,,40,40,
+2025-05-15 10:30,USD,Natural Gas Storage,,,104B,
+2025-05-15 11:15,GBP,MPC Member Dhingra Speaks,,,,
+2025-05-15 14:05,USD,FOMC Member Barr Speaks,,,,
+2025-05-15 18:30,NZD,BusinessNZ Manufacturing Index,,,53.2,53.9
+2025-05-15 19:50,JPY,Prelim GDP Price Index y/y,,3.2%,2.9%,3.3%
+2025-05-15 19:50,JPY,Prelim GDP q/q,,-0.1%,0.7%,-0.2%
+2025-05-15 23:00,NZD,Inflation Expectations q/q,,,2.06%,2.29%
+2025-05-16 00:30,JPY,Revised Industrial Production m/m,,-1.1%,-1.1%,0.2%
+2025-05-16 05:00,EUR,Italian Trade Balance,,5.15B,4.44B,3.66B
+2025-05-16 05:00,EUR,Trade Balance,,17.5B,22.7B,27.9B
+2025-05-16 07:00,CHF,SNB Chairman Schlegel Speaks,,,,
+2025-05-16 08:30,CAD,Foreign Securities Purchases,,5.20B,-10.45B,-4.23B
+2025-05-16 08:30,USD,Building Permits,,1.45M,1.48M,1.41M
+2025-05-16 08:30,USD,Housing Starts,,1.36M,1.34M,1.36M
+2025-05-16 08:30,USD,Import Prices m/m,,-0.4%,-0.4%,0.1%
+2025-05-16 10:00,USD,Prelim UoM Consumer Sentiment,,53.1,52.2,50.8
+2025-05-16 10:00,USD,Prelim UoM Inflation Expectations,,,6.5%,7.3%
+2025-05-16 11:00,GBP,MPC Member Lombardelli Speaks,,,,
+2025-05-16 16:00,USD,TIC Long-Term Purchases,,44.2B,112.9B,161.8B
+2025-05-16 18:00,USD,FOMC Member Barkin Speaks,,,,
+2025-05-16 21:40,USD,FOMC Member Daly Speaks,,,,
+2025-05-18 17:20,USD,FOMC Member Williams Speaks,,,,
+2025-05-18 18:30,NZD,BusinessNZ Services Index,,,48.9,48.5
+2025-05-18 18:45,NZD,PPI Input q/q,,0.2%,-0.9%,2.9%
+2025-05-18 18:45,NZD,PPI Output q/q,,0.1%,-0.1%,2.1%
+2025-05-18 19:01,GBP,Rightmove HPI m/m,,,1.4%,0.6%
+2025-05-18 21:30,CNY,New Home Prices m/m,,-0.12%,-0.08%,-0.12%
+2025-05-18 22:00,CNY,Fixed Asset Investment ytd/y,,4.4%,4.2%,4.0%
+2025-05-18 22:00,CNY,Industrial Production y/y,,5.7%,7.7%,6.1%
+2025-05-18 22:00,CNY,NBS Press Conference,,,,
+2025-05-18 22:00,CNY,Retail Sales y/y,,6.0%,5.9%,5.1%
+2025-05-18 22:00,CNY,Unemployment Rate,,5.2%,5.2%,5.1%
+2025-05-19 00:30,JPY,Tertiary Industry Activity m/m,,-0.2%,0.5%,-0.3%
+2025-05-19 05:00,EUR,EU Economic Forecasts,,,,
+2025-05-19 05:00,EUR,Final CPI y/y,,2.2%,2.2%,2.2%
+2025-05-19 05:00,EUR,Final Core CPI y/y,,2.7%,2.7%,2.7%
+2025-05-19 08:30,USD,FOMC Member Bostic Speaks,,,,
+2025-05-19 08:45,USD,FOMC Member Jefferson Speaks,,,,
+2025-05-19 08:45,USD,FOMC Member Williams Speaks,,,,
+2025-05-19 10:00,USD,CB Leading Index m/m,,-0.7%,-0.8%,-1.0%
+2025-05-19 12:30,CHF,SNB Chairman Schlegel Speaks,,,,
+2025-05-19 13:15,USD,FOMC Member Logan Speaks,,,,
+2025-05-19 13:30,USD,FOMC Member Kashkari Speaks,,,,
+2025-05-19 14:45,USD,FOMC Member Bostic Speaks,,,,
+2025-05-19 21:00,CNY,1-y Loan Prime Rate,,3.00%,3.10%,3.00%
+2025-05-19 21:00,CNY,5-y Loan Prime Rate,,3.50%,3.60%,3.50%
+2025-05-20 00:30,AUD,Cash Rate,,3.85%,4.10%,3.85%
+2025-05-20 00:30,AUD,RBA Monetary Policy Statement,,,,
+2025-05-20 00:30,AUD,RBA Rate Statement,,,,
+2025-05-20 01:30,AUD,RBA Press Conference,,,,
+2025-05-20 02:00,EUR,German PPI m/m,,-0.3%,-0.7%,-0.6%
+2025-05-20 04:00,EUR,Current Account,,35.9B,40.6B,50.9B
+2025-05-20 04:00,GBP,MPC Member Pill Speaks,,,,
+2025-05-20 08:30,CAD,CPI m/m,,-0.1%,0.3%,-0.1%
+2025-05-20 08:30,CAD,Common CPI y/y,,2.3%,2.3%,2.5%
+2025-05-20 08:30,CAD,Median CPI y/y,,2.9%,2.9%,3.2%
+2025-05-20 08:30,CAD,Trimmed CPI y/y,,2.8%,2.8%,3.1%
+2025-05-20 08:32,CAD,Core CPI m/m,,,0.1%,0.5%
+2025-05-20 09:00,USD,FOMC Member Barkin Speaks,,,,
+2025-05-20 09:00,USD,FOMC Member Bostic Speaks,,,,
+2025-05-20 10:00,EUR,Consumer Confidence,,-16,-17,
+2025-05-20 10:14,NZD,GDT Price Index,,,4.6%,-0.9%
+2025-05-20 13:00,USD,FOMC Member Musalem Speaks,,,,
+2025-05-20 15:00,USD,President Trump Speaks,,,,
+2025-05-20 16:30,USD,API Weekly Statistical Bulletin,,,,
+2025-05-20 17:00,USD,FOMC Member Kugler Speaks,,,,
+2025-05-20 18:45,NZD,Trade Balance,,670M,794M,1426M
+2025-05-20 19:00,USD,FOMC Member Daly Speaks,,,,
+2025-05-20 19:00,USD,FOMC Member Hammack Speaks,,,,
+2025-05-20 19:50,JPY,Trade Balance,,-0.24T,-0.29T,-0.41T
+2025-05-20 20:30,AUD,MI Leading Index m/m,,,-0.15%,-0.01%
+2025-05-20 23:00,NZD,Credit Card Spending y/y,,,0.7%,0.5%
+2025-05-21 02:00,GBP,CPI y/y,,3.3%,2.6%,3.5%
+2025-05-21 02:00,GBP,Core CPI y/y,,3.6%,3.4%,3.8%
+2025-05-21 02:00,GBP,RPI y/y,,4.2%,3.2%,4.5%
+2025-05-21 04:00,EUR,ECB Financial Stability Review,,,,
+2025-05-21 04:30,GBP,HPI y/y,,5.2%,5.5%,6.4%
+2025-05-21 05:34,EUR,German 10-y Bond Auction,,,2.47|1.4,2.66|2.4
+2025-05-21 08:30,CAD,NHPI m/m,,0.1%,0.0%,-0.4%
+2025-05-21 10:30,USD,Crude Oil Inventories,,-0.9M,3.5M,1.3M
+2025-05-21 12:15,USD,FOMC Member Barkin Speaks,,,,
+2025-05-21 12:15,USD,FOMC Member Bowman Speaks,,,,
+2025-05-21 19:00,AUD,Flash Manufacturing PMI,,,51.7,51.7
+2025-05-21 19:00,AUD,Flash Services PMI,,,51.0,50.5
+2025-05-21 19:50,JPY,Core Machinery Orders m/m,,-1.5%,4.3%,13.0%
+2025-05-21 20:30,JPY,Flash Manufacturing PMI,,49.0,48.7,49.0
+2025-05-21 22:00,NZD,Annual Budget Release,,,,
+2025-05-22 02:00,GBP,Public Sector Net Borrowing,,18.0B,14.1B,20.2B
+2025-05-22 03:15,EUR,French Flash Manufacturing PMI,,48.9,48.7,49.5
+2025-05-22 03:15,EUR,French Flash Services PMI,,47.7,47.3,47.4
+2025-05-22 03:15,GBP,MPC Member Breeden Speaks,,,,
+2025-05-22 03:30,EUR,German Flash Manufacturing PMI,,48.8,48.4,48.8
+2025-05-22 03:30,EUR,German Flash Services PMI,,49.6,49.0,47.2
+2025-05-22 04:00,EUR,Flash Manufacturing PMI,,49.2,49.0,49.4
+2025-05-22 04:00,EUR,Flash Services PMI,,50.4,50.1,48.9
+2025-05-22 04:00,EUR,German ifo Business Climate,,87.4,86.9,87.5
+2025-05-22 04:30,AUD,RBA Deputy Gov Hauser Speaks,,,,
+2025-05-22 04:30,GBP,Flash Manufacturing PMI,,46.2,45.4,45.1
+2025-05-22 04:30,GBP,Flash Services PMI,,50.0,49.0,50.2
+2025-05-22 06:00,EUR,German Buba Monthly Report,,,,
+2025-05-22 06:00,GBP,CBI Industrial Order Expectations,,-24,-26,-30
+2025-05-22 06:50,GBP,MPC Member Breeden Speaks,,,,
+2025-05-22 07:30,EUR,ECB Monetary Policy Meeting Accounts,,,,
+2025-05-22 08:00,GBP,MPC Member Dhingra Speaks,,,,
+2025-05-22 08:30,CAD,IPPI m/m,,-0.5%,0.3%,-0.8%
+2025-05-22 08:30,CAD,RMPI m/m,,-2.2%,-0.7%,-3.0%
+2025-05-22 08:30,GBP,MPC Member Pill Speaks,,,,
+2025-05-22 08:30,USD,Unemployment Claims,,230K,229K,227K
+2025-05-22 08:55,EUR,Belgian NBB Business Climate,,-13.9,-14.7,-13.5
+2025-05-22 09:30,EUR,German Buba President Nagel Speaks,,,,
+2025-05-22 09:45,USD,Flash Manufacturing PMI,,49.9,50.2,52.3
+2025-05-22 09:45,USD,Flash Services PMI,,51.0,50.8,52.3
+2025-05-22 10:00,USD,Existing Home Sales,,4.15M,4.02M,4.00M
+2025-05-22 10:30,USD,Natural Gas Storage,,118B,110B,120B
+2025-05-22 14:00,USD,FOMC Member Williams Speaks,,,,
+2025-05-22 14:30,CAD,BOC Gov Macklem Speaks,,,,
+2025-05-22 15:15,CAD,Gov Council Member Gravelle Speaks,,,,
+2025-05-22 18:45,NZD,Core Retail Sales q/q,,0.7%,1.4%,0.4%
+2025-05-22 18:45,NZD,Retail Sales q/q,,0.0%,1.0%,0.8%
+2025-05-22 19:01,GBP,GfK Consumer Confidence,,-22,-23,-20
+2025-05-22 19:30,JPY,National Core CPI y/y,,3.4%,3.2%,3.5%
+2025-05-23 02:00,EUR,German Final GDP q/q,,0.2%,0.2%,0.4%
+2025-05-23 02:00,GBP,Retail Sales m/m,,0.3%,0.1%,1.2%
+2025-05-23 07:03,CNY,Foreign Direct Investment ytd/y,,,-10.8%,-10.9%
+2025-05-23 08:30,CAD,Core Retail Sales m/m,,-0.1%,0.6%,-0.7%
+2025-05-23 08:30,CAD,Corporate Profits q/q,,,2.1%,2.7%
+2025-05-23 08:30,CAD,Retail Sales m/m,,0.6%,-0.5%,0.8%
+2025-05-23 09:35,USD,FOMC Member Musalem Speaks,,,,
+2025-05-23 09:35,USD,FOMC Member Schmid Speaks,,,,
+2025-05-23 10:00,USD,New Home Sales,,694K,670K,743K
+2025-05-23 12:00,USD,FOMC Member Cook Speaks,,,,
+2025-05-25 14:40,USD,Fed Chair Powell Speaks,,,,
+2025-05-26 09:20,EUR,ECB President Lagarde Speaks,,,,
+2025-05-26 09:30,EUR,German Buba President Nagel Speaks,,,,
+2025-05-26 19:01,GBP,BRC Shop Price Index y/y,,-0.1%,-0.1%,-0.1%
+2025-05-26 19:50,JPY,SPPI y/y,,3.0%,3.3%,3.1%
+2025-05-26 20:00,JPY,BOJ Gov Ueda Speaks,,,,
+2025-05-27 01:02,JPY,BOJ Core CPI y/y,,2.3%,2.2%,2.4%
+2025-05-27 02:00,CHF,Trade Balance,,5.55B,6.29B,6.36B
+2025-05-27 02:00,EUR,German GfK Consumer Climate,,-19.9,-20.8,-19.9
+2025-05-27 02:45,EUR,French Prelim CPI m/m,,0.1%,0.6%,-0.1%
+2025-05-27 04:00,AUD,RBA Deputy Gov Hauser Speaks,,,,
+2025-05-27 04:00,USD,FOMC Member Kashkari Speaks,,,,
+2025-05-27 06:00,GBP,CBI Realized Sales,,-18,-8,-27
+2025-05-27 08:30,USD,Core Durable Goods Orders m/m,,-0.1%,-0.4%,0.2%
+2025-05-27 08:30,USD,Durable Goods Orders m/m,,-7.6%,7.5%,-6.3%
+2025-05-27 09:00,USD,HPI m/m,,0.1%,0.0%,-0.1%
+2025-05-27 09:00,USD,S&P/CS Composite-20 HPI y/y,,4.5%,4.5%,4.1%
+2025-05-27 10:00,USD,CB Consumer Confidence,,87.1,85.7,98.0
+2025-05-27 12:00,EUR,German Buba President Nagel Speaks,,,,
+2025-05-27 12:20,CHF,SNB Chairman Schlegel Speaks,,,,
+2025-05-27 20:00,USD,FOMC Member Williams Speaks,,,,
+2025-05-27 21:30,AUD,CPI y/y,,2.3%,2.4%,2.4%
+2025-05-27 21:30,AUD,Construction Work Done q/q,,0.5%,0.9%,0.0%
+2025-05-27 22:00,NZD,Official Cash Rate,,3.25%,3.50%,3.25%
+2025-05-27 22:00,NZD,RBNZ Monetary Policy Statement,,,,
+2025-05-27 22:00,NZD,RBNZ Rate Statement,,,,
+2025-05-27 22:10,GBP,MPC Member Lombardelli Speaks,,,,
+2025-05-27 22:10,USD,FOMC Member Waller Speaks,,,,
+2025-05-27 23:00,NZD,RBNZ Press Conference,,,,
+2025-05-28 02:00,EUR,German Import Prices m/m,,-1.4%,-1.0%,-1.7%
+2025-05-28 02:45,EUR,French Consumer Spending m/m,,0.8%,-1.1%,0.3%
+2025-05-28 02:45,EUR,French Final Private Payrolls q/q,,0.0%,0.0%,-0.1%
+2025-05-28 02:45,EUR,French Prelim GDP q/q,,0.1%,0.1%,0.1%
+2025-05-28 03:55,EUR,German Unemployment Change,,12K,6K,34K
+2025-05-28 04:00,CHF,UBS Economic Expectations,,,-51.6,-22.0
+2025-05-28 04:00,USD,FOMC Member Kashkari Speaks,,,,
+2025-05-28 09:00,CNY,CB Leading Index m/m,,,-0.3%,-0.3%
+2025-05-28 09:59,USD,Richmond Manufacturing Index,,-9,-13,-9
+2025-05-28 14:00,USD,FOMC Meeting Minutes,,,,
+2025-05-28 16:30,USD,API Weekly Statistical Bulletin,,,,
+2025-05-28 17:10,NZD,RBNZ Gov Hawkesby Speaks,,,,
+2025-05-28 21:00,NZD,ANZ Business Confidence,,,49.3,
+2025-05-28 21:30,AUD,Private Capital Expenditure q/q,,0.5%,-0.2%,
+2025-05-29 01:00,JPY,Consumer Confidence,,31.8,31.2,
+2025-05-29 05:00,GBP,MPC Member Breeden Speaks,,,,
+2025-05-29 08:30,CAD,Current Account,,-3.4B,-5.0B,
+2025-05-29 08:30,USD,FOMC Member Barkin Speaks,,,,
+2025-05-29 08:30,USD,Prelim GDP Price Index q/q,,3.7%,3.7%,
+2025-05-29 08:30,USD,Prelim GDP q/q,,-0.3%,-0.3%,
+2025-05-29 08:30,USD,Unemployment Claims,,229K,227K,
+2025-05-29 10:00,USD,Pending Home Sales m/m,,-0.9%,6.1%,
+2025-05-29 10:30,USD,Natural Gas Storage,,98B,120B,
+2025-05-29 10:40,USD,FOMC Member Goolsbee Speaks,,,,
+2025-05-29 11:00,USD,Crude Oil Inventories,,0.3M,1.3M,
+2025-05-29 14:00,USD,FOMC Member Kugler Speaks,,,,
+2025-05-29 15:00,GBP,BOE Gov Bailey Speaks,,,,
+2025-05-29 16:00,USD,FOMC Member Daly Speaks,,,,
+2025-05-29 18:45,NZD,Building Consents m/m,,,9.6%,
+2025-05-29 19:30,JPY,Tokyo Core CPI y/y,,3.5%,3.4%,
+2025-05-29 19:30,JPY,Unemployment Rate,,2.5%,2.5%,
+2025-05-29 19:50,JPY,Prelim Industrial Production m/m,,-1.4%,0.2%,
+2025-05-29 19:50,JPY,Retail Sales y/y,,2.9%,3.1%,
+2025-05-29 20:25,USD,FOMC Member Logan Speaks,,,,
+2025-05-29 21:30,AUD,Building Approvals m/m,,3.1%,-8.8%,
+2025-05-29 21:30,AUD,Private Sector Credit m/m,,0.5%,0.5%,
+2025-05-29 21:30,AUD,Retail Sales m/m,,0.3%,0.3%,
+2025-05-30 01:00,JPY,Housing Starts y/y,,-18.2%,39.1%,
+2025-05-30 02:00,EUR,German Retail Sales m/m,,0.2%,-0.2%,
+2025-05-30 03:00,CHF,KOF Economic Barometer,,98.3,97.1,
+2025-05-30 03:00,EUR,Spanish Flash CPI y/y,,2.1%,2.2%,
+2025-05-30 04:00,EUR,M3 Money Supply y/y,,3.7%,3.6%,
+2025-05-30 04:00,EUR,Private Loans y/y,,1.8%,1.7%,
+2025-05-30 05:00,EUR,Italian Prelim CPI m/m,,0.1%,0.1%,
+2025-05-30 05:02,EUR,Italian Prelim CPI m/m,,0.1%,0.1%,0.0%
+2025-05-30 08:30,CAD,GDP m/m,,0.1%,-0.2%,
+2025-05-30 08:30,USD,Core PCE Price Index m/m,,0.1%,0.0%,
+2025-05-30 08:30,USD,Goods Trade Balance,,-142.8B,-162.0B,
+2025-05-30 08:30,USD,Personal Income m/m,,0.3%,0.5%,
+2025-05-30 08:30,USD,Personal Spending m/m,,0.2%,0.7%,
+2025-05-30 08:30,USD,Prelim Wholesale Inventories m/m,,0.4%,0.5%,
+2025-05-30 09:45,USD,Chicago PMI,,45.1,44.6,
+2025-05-30 10:00,USD,Revised UoM Consumer Sentiment,,51.1,50.8,
+2025-05-30 10:00,USD,Revised UoM Inflation Expectations,,,7.3%,
+2025-05-30 12:20,USD,FOMC Member Bostic Speaks,,,,
+2025-05-30 19:30,USD,FOMC Member Goolsbee Speaks,,,,
+2025-05-30 21:30,CNY,Manufacturing PMI,,49.5,49.0,
+2025-05-30 21:30,CNY,Non-Manufacturing PMI,,50.6,50.4,

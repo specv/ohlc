@@ -1,0 +1,357 @@
+datetime,currency,title,impact,forecast,previous,actual
+2017-04-02 19:30,AUD,AIG Manufacturing Index,Low,,59.3,57.5
+2017-04-02 19:50,JPY,Tankan Manufacturing Index,Medium,14,10,12
+2017-04-02 20:30,JPY,Final Manufacturing PMI,Low,52.6,52.6,52.4
+2017-04-02 21:00,AUD,MI Inflation Gauge m/m,Low,,-0.3%,0.1%
+2017-04-02 21:30,AUD,Retail Sales m/m,High,0.3%,0.4%,-0.1%
+2017-04-03 00:00,AUD,ANZ Job Advertisements m/m,Low,,-0.8%,0.3%
+2017-04-03 00:00,AUD,Building Approvals m/m,Medium,-1.4%,2.2%,8.3%
+2017-04-03 00:00,EUR,Italian Monthly Unemployment Rate,Low,11.9%,11.8%,11.5%
+2017-04-03 00:00,EUR,Spanish Manufacturing PMI,Medium,54.6,54.8,53.9
+2017-04-03 00:00,EUR,Unemployment Rate,Low,9.5%,9.6%,9.5%
+2017-04-03 00:00,JPY,Tankan Non-Manufacturing Index,Medium,19,18,20
+2017-04-03 00:00,USD,Construction Spending m/m,Low,1.0%,-0.4%,0.8%
+2017-04-03 00:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2017-04-03 00:00,USD,ISM Manufacturing Prices,Low,68.5,68.0,70.5
+2017-04-03 02:30,AUD,Commodity Prices y/y,Low,,59.1%,50.1%
+2017-04-03 03:15,CHF,Retail Sales y/y,Low,-0.8%,-1.2%,0.6%
+2017-04-03 03:30,CHF,Manufacturing PMI,Low,58.2,57.8,58.6
+2017-04-03 03:45,EUR,Italian Manufacturing PMI,Low,55.2,55.0,55.7
+2017-04-03 03:50,EUR,French Final Manufacturing PMI,Low,53.4,53.4,53.3
+2017-04-03 03:55,EUR,German Final Manufacturing PMI,Low,58.3,58.3,58.3
+2017-04-03 04:00,EUR,Final Manufacturing PMI,Low,56.3,56.2,56.2
+2017-04-03 04:30,GBP,Final Manufacturing PMI,High,55.1,54.5,54.2
+2017-04-03 05:00,EUR,PPI m/m,Low,0.2%,1.1%,0.0%
+2017-04-03 09:30,CAD,Manufacturing PMI,Low,,54.7,55.5
+2017-04-03 09:45,USD,Final Manufacturing PMI,Low,53.5,53.4,53.3
+2017-04-03 10:00,USD,ISM Manufacturing PMI,High,57.2,57.7,57.2
+2017-04-03 10:30,CAD,BOC Business Outlook Survey,Medium,,,
+2017-04-03 15:00,USD,FOMC Member Harker Speaks,Medium,,,
+2017-04-03 15:29,USD,Total Vehicle Sales,Low,17.4M,17.6M,16.6M
+2017-04-03 15:29,USD,Wards Total Vehicle Sales,Low,17.3M,17.3M,16.5M
+2017-04-03 18:00,NZD,NZIER Business Confidence,Medium,,28,17
+2017-04-03 19:50,JPY,Monetary Base y/y,Low,23.2%,21.4%,20.3%
+2017-04-03 21:30,AUD,Goods Trade Balance,High,1.75B,1.50B,3.57B
+2017-04-03 23:45,JPY,10-y Bond Auction,Low,,0.08|3.7,0.06|4.0
+2017-04-04 00:00,AUD,RBA Rate Statement,High,,,
+2017-04-04 00:00,GBP,FPC Meeting Minutes,Low,,,
+2017-04-04 00:00,USD,RCM/TIPP Economic Optimism,Low,53.2,55.3,51.7
+2017-04-04 00:00,USD,Trade Balance,Medium,-46.0B,-48.2B,-43.6B
+2017-04-04 00:30,AUD,Cash Rate,High,1.50%,1.50%,1.50%
+2017-04-04 01:00,JPY,BOJ Core CPI y/y,Low,0.2%,0.2%,0.1%
+2017-04-04 03:00,EUR,Spanish Unemployment Change,Medium,-41.2K,-9.4K,-48.6K
+2017-04-04 04:30,GBP,Construction PMI,High,52.5,52.5,52.2
+2017-04-04 05:00,EUR,Retail Sales m/m,Low,0.5%,0.1%,0.7%
+2017-04-04 05:15,AUD,RBA Gov Lowe Speaks,High,,,
+2017-04-04 05:38,GBP,10-y Bond Auction,Low,,1.31|2.2,1.13|2.0
+2017-04-04 08:30,CAD,Trade Balance,High,0.7B,0.4B,-1.0B
+2017-04-04 09:30,EUR,ECB President Draghi Speaks,High,,,
+2017-04-04 10:00,USD,Factory Orders m/m,Medium,1.0%,1.5%,1.0%
+2017-04-04 10:04,NZD,GDT Price Index,High,,1.7%,1.6%
+2017-04-04 16:30,USD,FOMC Member Tarullo Speaks,Low,,,
+2017-04-04 19:01,GBP,BRC Shop Price Index y/y,Low,,-1.0%,-0.8%
+2017-04-04 19:30,AUD,AIG Services Index,Low,,49.0,51.7
+2017-04-04 21:00,NZD,ANZ Commodity Prices m/m,Low,,2.0%,0.4%
+2017-04-05 03:15,EUR,Spanish Services PMI,Low,57.2,57.7,57.4
+2017-04-05 03:45,EUR,Italian Services PMI,Low,54.3,54.1,52.9
+2017-04-05 03:50,EUR,French Final Services PMI,Low,58.5,58.5,57.5
+2017-04-05 03:55,EUR,German Final Services PMI,Low,55.6,55.6,55.6
+2017-04-05 04:00,EUR,Final Services PMI,Low,56.5,56.5,56.0
+2017-04-05 04:30,GBP,Final Services PMI,High,53.5,53.3,55.0
+2017-04-05 08:15,USD,ADP Non-Farm Employment Change,High,184K,245K,263K
+2017-04-05 08:30,GBP,MPC Member Vlieghe Speaks,Medium,,,
+2017-04-05 09:45,USD,Final Services PMI,Low,53.1,52.9,52.8
+2017-04-05 10:00,USD,ISM Services PMI,High,57.0,57.6,55.2
+2017-04-05 10:30,USD,Crude Oil Inventories,High,-0.1M,0.9M,1.6M
+2017-04-05 14:00,USD,FOMC Meeting Minutes,High,,,
+2017-04-05 18:40,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2017-04-05 21:45,CNY,Caixin Services PMI,Low,53.2,52.6,52.2
+2017-04-06 00:00,USD,Challenger Job Cuts y/y,Low,,-40.0%,-2.0%
+2017-04-06 00:00,USD,Unemployment Claims,High,251K,259K,234K
+2017-04-06 01:02,JPY,Consumer Confidence,Low,43.5,43.1,43.9
+2017-04-06 02:00,EUR,German Factory Orders m/m,Medium,3.5%,-6.8%,3.4%
+2017-04-06 03:00,EUR,ECB President Draghi Speaks,High,,,
+2017-04-06 03:15,CHF,CPI m/m,Medium,0.2%,0.5%,0.2%
+2017-04-06 04:10,EUR,Retail PMI,Low,,49.9,49.5
+2017-04-06 04:30,GBP,Housing Equity Withdrawal q/q,Low,-9.5B,-11.2B,-10.2B
+2017-04-06 04:48,EUR,Spanish 10-y Bond Auction,Low,,1.94|1.3,1.61|1.6
+2017-04-06 04:58,EUR,French 10-y Bond Auction,Low,,0.91|2.8,0.97|2.0
+2017-04-06 05:40,EUR,German Buba President Weidmann Speaks,Medium,,,
+2017-04-06 07:30,EUR,ECB Monetary Policy Meeting Accounts,Medium,,,
+2017-04-06 08:30,CAD,Building Permits m/m,Medium,1.4%,5.8%,-2.5%
+2017-04-06 10:30,USD,Natural Gas Storage,Low,10B,-43B,2B
+2017-04-06 19:30,AUD,AIG Construction Index,Low,,53.1,51.2
+2017-04-06 20:00,JPY,Average Cash Earnings y/y,Low,0.5%,0.3%,0.4%
+2017-04-07 00:00,CAD,Unemployment Rate,High,6.7%,6.6%,6.7%
+2017-04-07 00:00,EUR,French Industrial Production m/m,Low,0.5%,-0.2%,-1.6%
+2017-04-07 00:00,EUR,French Trade Balance,Low,-4.9B,-8.1B,-6.6B
+2017-04-07 00:00,EUR,German Trade Balance,Low,19.4B,18.9B,21.0B
+2017-04-07 00:00,GBP,Construction Output m/m,Low,0.1%,0.0%,-1.7%
+2017-04-07 00:00,GBP,Goods Trade Balance,Medium,-10.9B,-12.0B,-12.5B
+2017-04-07 00:00,GBP,Industrial Production m/m,Low,0.2%,-0.3%,-0.7%
+2017-04-07 00:00,USD,Average Hourly Earnings m/m,High,0.2%,0.3%,0.2%
+2017-04-07 00:00,USD,Final Wholesale Inventories m/m,Low,0.1%,-0.1%,0.4%
+2017-04-07 00:00,USD,Non-Farm Employment Change,High,174K,219K,98K
+2017-04-07 00:00,USD,Unemployment Rate,High,4.7%,4.7%,4.5%
+2017-04-07 01:00,JPY,Leading Indicators,Low,104.7%,104.9%,104.4%
+2017-04-07 01:45,CHF,Unemployment Rate,Low,3.3%,3.3%,3.3%
+2017-04-07 02:00,EUR,German Industrial Production m/m,Low,-0.1%,2.2%,2.2%
+2017-04-07 02:45,EUR,French Gov Budget Balance,Low,,-5.4B,-21.5B
+2017-04-07 03:00,CHF,Foreign Currency Reserves,Low,,668B,683B
+2017-04-07 03:30,GBP,Halifax HPI m/m,Medium,0.2%,0.0%,0.0%
+2017-04-07 04:00,EUR,Italian Retail Sales m/m,Low,-0.1%,1.4%,-0.3%
+2017-04-07 04:30,GBP,Manufacturing Production m/m,High,0.3%,-1.0%,-0.1%
+2017-04-07 05:00,GBP,BOE Gov Carney Speaks,High,,,
+2017-04-07 08:00,GBP,NIESR GDP Estimate,Low,,0.5%,0.5%
+2017-04-07 08:30,CAD,Employment Change,High,5.7K,15.3K,19.4K
+2017-04-07 10:00,CAD,Ivey PMI,Medium,56.3,55.0,61.1
+2017-04-07 12:15,USD,FOMC Member Dudley Speaks,Medium,,,
+2017-04-07 15:00,USD,Consumer Credit m/m,Low,14.2B,10.9B,15.2B
+2017-04-09 19:50,JPY,Current Account,Low,1.79T,1.26T,2.21T
+2017-04-09 21:30,AUD,Home Loans m/m,Low,0.1%,0.4%,-0.5%
+2017-04-10 01:08,JPY,Economy Watchers Sentiment,Low,49.8,48.6,47.4
+2017-04-10 04:00,EUR,Italian Industrial Production m/m,Low,0.4%,-2.3%,1.0%
+2017-04-10 04:30,EUR,Sentix Investor Confidence,Low,20.1,20.7,23.9
+2017-04-10 08:15,CAD,Housing Starts,Low,212K,214K,254K
+2017-04-10 10:00,USD,Labor Market Conditions Index m/m,Low,,1.5,0.4
+2017-04-10 16:10,USD,Fed Chair Yellen Speaks,High,,,
+2017-04-10 19:01,GBP,BRC Retail Sales Monitor y/y,Low,,-0.4%,-1.0%
+2017-04-10 21:30,AUD,NAB Business Confidence,Medium,,7,6
+2017-04-11 00:00,EUR,Industrial Production m/m,Low,0.2%,0.3%,-0.3%
+2017-04-11 00:00,EUR,ZEW Economic Sentiment,Low,25.0,25.6,26.3
+2017-04-11 00:00,GBP,Core CPI y/y,Low,1.8%,2.0%,1.8%
+2017-04-11 00:00,GBP,HPI y/y,Low,6.1%,5.3%,5.8%
+2017-04-11 00:00,GBP,PPI Input m/m,Medium,-0.5%,-0.1%,0.4%
+2017-04-11 00:00,GBP,PPI Output m/m,Low,0.2%,0.2%,0.4%
+2017-04-11 00:00,GBP,RPI y/y,Medium,3.1%,3.2%,3.1%
+2017-04-11 01:59,JPY,Prelim Machine Tool Orders y/y,Low,,9.1%,22.6%
+2017-04-11 04:30,GBP,CPI y/y,High,2.2%,2.3%,2.3%
+2017-04-11 05:00,EUR,German ZEW Economic Sentiment,Medium,13.2,12.8,19.5
+2017-04-11 06:00,USD,NFIB Small Business Index,Low,104.7,105.3,104.7
+2017-04-11 10:00,USD,JOLTS Job Openings,Medium,5.59M,5.63M,5.74M
+2017-04-11 13:01,USD,10-y Bond Auction,Low,,2.56|2.7,2.33|2.5
+2017-04-11 13:45,USD,FOMC Member Kashkari Speaks,Medium,,,
+2017-04-11 15:29,All,G7 Meetings,High,,,
+2017-04-11 19:50,JPY,Bank Lending y/y,Low,2.9%,2.8%,3.0%
+2017-04-11 20:30,AUD,Westpac Consumer Sentiment,Low,,0.1%,-0.7%
+2017-04-11 21:30,CNY,CPI y/y,Medium,1.1%,0.8%,0.9%
+2017-04-12 00:00,CAD,BOC Rate Statement,High,,,
+2017-04-12 00:00,CAD,Overnight Rate,High,0.50%,0.50%,0.50%
+2017-04-12 00:00,CNY,PPI y/y,Medium,7.4%,7.8%,7.6%
+2017-04-12 00:00,GBP,Claimant Count Change,Medium,-10.2K,-6.1K,25.5K
+2017-04-12 00:00,GBP,Unemployment Rate,Medium,4.7%,4.7%,4.7%
+2017-04-12 00:00,JPY,Core Machinery Orders m/m,Low,3.9%,-3.2%,1.5%
+2017-04-12 00:00,JPY,PPI y/y,Low,1.5%,1.1%,1.4%
+2017-04-12 02:00,EUR,German WPI m/m,Low,0.4%,0.5%,0.0%
+2017-04-12 04:30,GBP,Average Earnings Index 3m/y,High,2.1%,2.3%,2.3%
+2017-04-12 04:40,GBP,BOE Gov Carney Speaks,High,,,
+2017-04-12 05:32,EUR,German 10-y Bond Auction,Low,,0.41|1.5,0.21|1.4
+2017-04-12 06:00,USD,President Trump Speaks,High,,,
+2017-04-12 08:30,USD,Import Prices m/m,Medium,-0.3%,0.4%,-0.2%
+2017-04-12 10:00,CAD,BOC Monetary Policy Report,High,,,
+2017-04-12 10:30,USD,Crude Oil Inventories,High,-0.7M,1.6M,-2.2M
+2017-04-12 11:15,CAD,BOC Press Conference,High,,,
+2017-04-12 13:01,USD,30-y Bond Auction,Low,,3.17|2.3,2.94|2.2
+2017-04-12 14:00,USD,Federal Budget Balance,Low,-150.0B,-192.0B,-176.2B
+2017-04-12 16:15,CAD,BOC Gov Poloz Speaks,High,,,
+2017-04-12 18:30,NZD,BusinessNZ Manufacturing Index,Low,,55.7,57.8
+2017-04-12 18:45,NZD,FPI m/m,Low,,0.2%,-0.3%
+2017-04-12 19:01,GBP,RICS House Price Balance,Low,22%,22%,22%
+2017-04-12 19:50,JPY,M2 Money Stock y/y,Low,4.2%,4.2%,4.3%
+2017-04-12 21:00,AUD,MI Inflation Expectations,Medium,,4.0%,4.1%
+2017-04-12 21:30,AUD,Employment Change,High,20.3K,2.8K,60.9K
+2017-04-12 23:04,CNY,USD-Denominated Trade Balance,Low,12.5B,-9.1B,23.9B
+2017-04-12 23:11,CNY,Trade Balance,High,76B,-60B,164B
+2017-04-12 23:45,JPY,30-y Bond Auction,Low,,0.82|3.1,0.80|3.1
+2017-04-13 00:00,AUD,RBA Financial Stability Review,Medium,,,
+2017-04-13 00:00,AUD,Unemployment Rate,High,5.9%,5.9%,5.9%
+2017-04-13 00:00,CAD,NHPI m/m,Medium,0.2%,0.1%,0.4%
+2017-04-13 00:00,USD,Core PPI m/m,Medium,0.2%,0.3%,0.0%
+2017-04-13 00:00,USD,Natural Gas Storage,Low,5B,2B,10B
+2017-04-13 00:00,USD,PPI m/m,High,0.0%,0.3%,-0.1%
+2017-04-13 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.5%,2.5%
+2017-04-13 00:00,USD,Unemployment Claims,High,242K,235K,234K
+2017-04-13 02:00,EUR,German Final CPI m/m,Low,0.2%,0.2%,0.2%
+2017-04-13 02:45,EUR,French Final CPI m/m,Low,0.6%,0.6%,0.6%
+2017-04-13 03:15,CHF,PPI m/m,Medium,0.1%,-0.2%,0.1%
+2017-04-13 03:41,CNY,Foreign Direct Investment ytd/y,Low,,-2.3%,1.0%
+2017-04-13 04:30,GBP,BOE Credit Conditions Survey,Medium,,,
+2017-04-13 08:30,CAD,Manufacturing Sales m/m,High,-0.4%,0.1%,-0.2%
+2017-04-13 09:30,GBP,CB Leading Index m/m,Low,,0.3%,0.1%
+2017-04-13 10:00,USD,Prelim UoM Consumer Sentiment,High,97.1,96.9,98.0
+2017-04-13 10:30,CAD,BOC Gov Poloz Speaks,High,,,
+2017-04-14 00:00,CNY,New Loans,Low,1200B,1170B,1020B
+2017-04-14 00:00,USD,CPI m/m,High,0.0%,0.1%,-0.3%
+2017-04-14 00:00,USD,CPI y/y,High,2.6%,2.7%,2.4%
+2017-04-14 00:00,USD,Core Retail Sales m/m,High,0.2%,0.0%,0.0%
+2017-04-14 00:00,USD,Retail Sales m/m,High,0.1%,-0.3%,-0.2%
+2017-04-14 00:32,JPY,Revised Industrial Production m/m,Low,2.0%,2.0%,3.2%
+2017-04-14 03:01,CNY,M2 Money Supply y/y,Low,11.1%,11.1%,10.6%
+2017-04-14 08:30,USD,Core CPI m/m,High,0.2%,0.2%,-0.1%
+2017-04-14 10:00,USD,Business Inventories m/m,Low,0.3%,0.3%,0.3%
+2017-04-14 17:00,USD,Treasury Currency Report,High,,,
+2017-04-16 22:00,CNY,GDP q/y,High,6.8%,6.8%,6.9%
+2017-04-17 00:00,CNY,Fixed Asset Investment ytd/y,Medium,8.8%,8.9%,9.2%
+2017-04-17 00:00,CNY,Industrial Production y/y,High,6.2%,6.3%,7.6%
+2017-04-17 00:00,CNY,NBS Press Conference,Medium,,,
+2017-04-17 00:00,CNY,Retail Sales y/y,Low,9.7%,9.5%,10.9%
+2017-04-17 02:15,JPY,BOJ Gov Kuroda Speaks,High,,,
+2017-04-17 08:30,USD,Empire State Manufacturing Index,Medium,15.2,16.4,5.2
+2017-04-17 10:00,USD,NAHB Housing Market Index,Low,70,71,68
+2017-04-17 16:00,USD,TIC Long-Term Purchases,Low,12.4B,5.9B,53.4B
+2017-04-17 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2017-04-18 00:00,USD,Building Permits,High,1.25M,1.22M,1.26M
+2017-04-18 00:00,USD,Housing Starts,Medium,1.25M,1.30M,1.22M
+2017-04-18 00:00,USD,Industrial Production m/m,Medium,0.5%,0.0%,0.5%
+2017-04-18 06:05,GBP,Prime Minister May Speaks,High,,,
+2017-04-18 08:30,CAD,Foreign Securities Purchases,Medium,5.21B,6.35B,38.84B
+2017-04-18 09:15,USD,Capacity Utilization Rate,Medium,76.3%,75.4%,76.1%
+2017-04-18 10:19,NZD,GDT Price Index,High,,1.6%,3.1%
+2017-04-18 10:30,AUD,CB Leading Index m/m,Low,,0.4%,0.4%
+2017-04-18 12:45,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2017-04-18 18:30,NZD,BusinessNZ Services Index,Low,,58.6,59.0
+2017-04-18 20:30,AUD,MI Leading Index m/m,Low,,-0.1%,0.1%
+2017-04-18 21:30,AUD,New Motor Vehicle Sales m/m,Low,,-2.7%,1.9%
+2017-04-19 00:00,EUR,Final Core CPI y/y,Low,0.7%,0.7%,0.7%
+2017-04-19 00:00,EUR,Trade Balance,Low,18.6B,15.7B,19.2B
+2017-04-19 04:04,EUR,Italian Trade Balance,Low,2.24B,-0.57B,1.88B
+2017-04-19 05:00,EUR,Final CPI y/y,Medium,1.5%,1.5%,1.5%
+2017-04-19 05:35,EUR,German 30-y Bond Auction,Low,,1.18|1.4,0.87|1.2
+2017-04-19 10:30,USD,Crude Oil Inventories,High,-1.0M,-2.2M,-1.0M
+2017-04-19 13:00,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2017-04-19 14:00,USD,Beige Book,Low,,,
+2017-04-19 16:00,USD,FOMC Member Fischer Speaks,Medium,,,
+2017-04-19 18:45,NZD,CPI q/q,High,0.8%,0.4%,1.0%
+2017-04-19 19:50,JPY,Trade Balance,Low,0.61T,0.61T,0.17T
+2017-04-19 21:30,AUD,NAB Quarterly Business Confidence,Medium,,6,6
+2017-04-20 00:00,USD,CB Leading Index m/m,Low,0.2%,0.5%,0.4%
+2017-04-20 00:00,USD,Unemployment Claims,High,241K,234K,244K
+2017-04-20 02:00,EUR,German PPI m/m,Low,0.2%,0.2%,0.0%
+2017-04-20 04:50,EUR,Spanish 10-y Bond Auction,Low,,1.61|1.6,1.68|1.5
+2017-04-20 08:30,USD,Philly Fed Manufacturing Index,High,25.6,32.8,22.0
+2017-04-20 10:00,EUR,Consumer Confidence,Low,-5,-5,-4
+2017-04-20 10:30,USD,Natural Gas Storage,Low,49B,10B,54B
+2017-04-20 11:30,GBP,BOE Gov Carney Speaks,High,,,
+2017-04-20 12:30,GBP,BOE Gov Carney Speaks,High,,,
+2017-04-20 13:15,USD,Treasury Sec Mnuchin Speaks,High,,,
+2017-04-20 20:30,JPY,Flash Manufacturing PMI,Low,52.5,52.4,52.8
+2017-04-21 00:00,CAD,Common CPI y/y,Medium,,1.3%,1.3%
+2017-04-21 00:00,CAD,Median CPI y/y,Medium,,1.8%,1.7%
+2017-04-21 00:00,CAD,Trimmed CPI y/y,Medium,,1.5%,1.4%
+2017-04-21 00:00,EUR,Current Account,Low,26.3B,26.1B,37.9B
+2017-04-21 00:00,EUR,Flash Services PMI,Medium,56.0,56.0,56.2
+2017-04-21 00:00,EUR,French Flash Services PMI,Medium,57.2,57.5,57.7
+2017-04-21 00:00,EUR,German Flash Services PMI,Medium,55.5,55.6,54.7
+2017-04-21 00:00,USD,Flash Services PMI,Low,53.7,52.8,52.5
+2017-04-21 00:30,JPY,Tertiary Industry Activity m/m,Low,0.3%,-0.2%,0.2%
+2017-04-21 03:00,EUR,French Flash Manufacturing PMI,Medium,53.2,53.3,55.1
+2017-04-21 03:30,EUR,German Flash Manufacturing PMI,Medium,58.1,58.3,58.2
+2017-04-21 04:00,EUR,Flash Manufacturing PMI,Medium,56.1,56.2,56.8
+2017-04-21 04:30,GBP,Retail Sales m/m,High,-0.3%,1.7%,-1.8%
+2017-04-21 07:45,GBP,MPC Member Saunders Speaks,Medium,,,
+2017-04-21 08:30,CAD,CPI m/m,High,0.4%,0.2%,0.2%
+2017-04-21 08:33,CAD,Core CPI m/m,Low,,0.4%,0.3%
+2017-04-21 09:30,USD,FOMC Member Kashkari Speaks,Medium,,,
+2017-04-21 09:45,USD,Flash Manufacturing PMI,Low,53.9,53.3,52.8
+2017-04-21 10:00,USD,Existing Home Sales,Medium,5.61M,5.47M,5.71M
+2017-04-21 15:29,All,IMF Meetings,Low,,,
+2017-04-22 15:29,All,IMF Meetings,Medium,,,
+2017-04-22 16:15,USD,Treasury Sec Mnuchin Speaks,High,,,
+2017-04-23 15:29,All,IMF Meetings,Low,,,
+2017-04-23 15:29,EUR,French Presidential Election,High,,,
+2017-04-23 19:01,GBP,Rightmove HPI m/m,Low,,1.3%,1.1%
+2017-04-24 00:00,GBP,CBI Industrial Order Expectations,Low,9,8,4
+2017-04-24 04:00,EUR,German ifo Business Climate,High,112.4,112.4,112.9
+2017-04-24 06:00,EUR,German Buba Monthly Report,Low,,,
+2017-04-24 08:30,CAD,Wholesale Sales m/m,Medium,2.1%,3.0%,-0.2%
+2017-04-24 09:00,CNY,CB Leading Index m/m,Low,,1.3%,0.9%
+2017-04-24 11:30,USD,FOMC Member Kashkari Speaks,Medium,,,
+2017-04-24 15:15,USD,FOMC Member Kashkari Speaks,Medium,,,
+2017-04-24 19:50,JPY,SPPI y/y,Low,0.7%,0.8%,0.8%
+2017-04-25 00:00,USD,New Home Sales,Medium,590K,587K,621K
+2017-04-25 00:00,USD,S&P/CS Composite-20 HPI y/y,Low,5.7%,5.7%,5.9%
+2017-04-25 04:30,GBP,Public Sector Net Borrowing,Medium,2.6B,-0.7B,4.4B
+2017-04-25 08:58,EUR,Belgian NBB Business Climate,Low,-1.4,-1.6,-0.8
+2017-04-25 09:00,USD,HPI m/m,Low,0.1%,0.2%,0.8%
+2017-04-25 09:59,USD,Richmond Manufacturing Index,Low,18,22,20
+2017-04-25 10:00,USD,CB Consumer Confidence,High,123.7,124.9,120.3
+2017-04-25 18:45,NZD,Visitor Arrivals m/m,Low,,-1.9%,1.5%
+2017-04-25 21:30,AUD,CPI q/q,High,0.6%,0.5%,0.5%
+2017-04-25 23:00,NZD,Credit Card Spending y/y,Low,,5.3%,7.1%
+2017-04-26 00:00,AUD,Trimmed Mean CPI q/q,High,0.5%,0.4%,0.5%
+2017-04-26 00:00,CAD,Retail Sales m/m,Medium,0.0%,2.3%,-0.6%
+2017-04-26 00:30,JPY,All Industries Activity m/m,Low,0.8%,-0.4%,0.7%
+2017-04-26 02:00,CHF,UBS Consumption Indicator,Low,,1.45,1.50
+2017-04-26 04:00,CHF,UBS Economic Expectations,Low,,29.6,22.2
+2017-04-26 08:30,CAD,Core Retail Sales m/m,High,-0.2%,2.3%,-0.1%
+2017-04-26 10:30,USD,Crude Oil Inventories,High,-1.1M,-1.0M,-3.6M
+2017-04-26 21:30,AUD,Import Prices q/q,Low,-0.4%,0.2%,1.2%
+2017-04-26 23:14,JPY,BOJ Outlook Report,High,,,
+2017-04-27 00:00,EUR,German GfK Consumer Climate,Low,9.9,9.8,10.2
+2017-04-27 00:00,EUR,Monetary Policy Statement,High,,,
+2017-04-27 00:00,EUR,Spanish Unemployment Rate,Medium,18.6%,18.6%,18.8%
+2017-04-27 00:00,JPY,BOJ Policy Rate,High,-0.10%,-0.10%,-0.10%
+2017-04-27 00:00,JPY,Monetary Policy Statement,High,,,
+2017-04-27 00:00,USD,Core Durable Goods Orders m/m,High,0.4%,0.5%,-0.2%
+2017-04-27 00:00,USD,Durable Goods Orders m/m,Medium,1.5%,1.8%,0.7%
+2017-04-27 00:00,USD,Goods Trade Balance,Low,-65.2B,-63.9B,-64.8B
+2017-04-27 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.3%,0.2%,-0.1%
+2017-04-27 00:00,USD,Unemployment Claims,High,241K,243K,257K
+2017-04-27 02:00,CHF,Trade Balance,Low,3.01B,3.12B,3.10B
+2017-04-27 02:30,JPY,BOJ Press Conference,High,,,
+2017-04-27 03:00,EUR,Spanish Flash CPI y/y,Medium,2.5%,2.3%,2.6%
+2017-04-27 05:10,AUD,RBA Gov Lowe Speaks,High,,,
+2017-04-27 05:21,EUR,Italian 10-y Bond Auction,Low,,2.25|1.4,2.29|1.3
+2017-04-27 06:00,GBP,CBI Realized Sales,Low,6,9,38
+2017-04-27 07:45,EUR,Main Refinancing Rate,High,0.00%,0.00%,0.00%
+2017-04-27 08:30,EUR,ECB Press Conference,High,,,
+2017-04-27 10:00,USD,Pending Home Sales m/m,Medium,-0.6%,5.5%,-0.8%
+2017-04-27 10:30,USD,Natural Gas Storage,Low,72B,54B,74B
+2017-04-27 15:29,EUR,German Prelim CPI m/m,Medium,-0.1%,0.2%,0.0%
+2017-04-27 18:05,GBP,GfK Consumer Confidence,Low,-7,-6,-7
+2017-04-27 18:45,NZD,Building Consents m/m,Low,,17.2%,-1.8%
+2017-04-27 19:30,JPY,Household Spending y/y,Medium,-0.6%,-3.8%,-1.3%
+2017-04-27 19:50,JPY,Prelim Industrial Production m/m,Low,-0.6%,3.2%,-2.1%
+2017-04-27 21:00,NZD,ANZ Business Confidence,Medium,,11.3,11.0
+2017-04-27 21:30,AUD,PPI q/q,Low,0.3%,0.5%,0.5%
+2017-04-28 00:00,AUD,Private Sector Credit m/m,Low,0.5%,0.3%,0.3%
+2017-04-28 00:00,CAD,IPPI m/m,Low,0.3%,0.3%,0.8%
+2017-04-28 00:00,CAD,RMPI m/m,Medium,-0.4%,1.3%,-1.6%
+2017-04-28 00:00,EUR,CPI Flash Estimate y/y,Medium,1.8%,1.5%,1.9%
+2017-04-28 00:00,EUR,French Prelim CPI m/m,Low,0.2%,0.6%,0.1%
+2017-04-28 00:00,EUR,German Import Prices m/m,Low,0.3%,0.7%,-0.5%
+2017-04-28 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.0%,0.3%
+2017-04-28 00:00,EUR,M3 Money Supply y/y,Medium,4.7%,4.7%,5.3%
+2017-04-28 00:00,EUR,Private Loans y/y,Low,2.4%,2.3%,2.4%
+2017-04-28 00:00,EUR,Spanish Flash GDP q/q,Medium,0.7%,0.7%,0.8%
+2017-04-28 00:00,GBP,High Street Lending,Low,42.1K,42.2K,41.1K
+2017-04-28 00:00,GBP,Index of Services 3m/3m,Low,0.5%,0.6%,0.5%
+2017-04-28 00:00,GBP,Nationwide HPI m/m,Low,0.1%,-0.3%,-0.4%
+2017-04-28 00:00,JPY,National Core CPI y/y,Low,0.2%,0.2%,0.2%
+2017-04-28 00:00,JPY,Retail Sales y/y,Low,1.6%,0.2%,2.1%
+2017-04-28 00:00,JPY,Tokyo Core CPI y/y,Low,-0.2%,-0.4%,-0.1%
+2017-04-28 00:00,JPY,Unemployment Rate,Low,2.9%,2.8%,2.8%
+2017-04-28 00:00,NZD,Trade Balance,Low,375M,-50M,332M
+2017-04-28 00:00,USD,Advance GDP Price Index q/q,Medium,2.0%,2.1%,2.3%
+2017-04-28 00:00,USD,Advance GDP q/q,High,1.3%,2.1%,0.7%
+2017-04-28 00:00,USD,Employment Cost Index q/q,Medium,0.6%,0.5%,0.8%
+2017-04-28 00:00,USD,Revised UoM Inflation Expectations,Low,,2.5%,2.5%
+2017-04-28 01:00,JPY,Housing Starts y/y,Low,-2.5%,-2.6%,0.2%
+2017-04-28 01:30,EUR,French Flash GDP q/q,Low,0.4%,0.5%,0.3%
+2017-04-28 02:00,EUR,German Retail Sales m/m,Medium,0.1%,1.1%,0.1%
+2017-04-28 02:45,EUR,French Consumer Spending m/m,Low,0.6%,-0.7%,-0.4%
+2017-04-28 03:00,CHF,KOF Economic Barometer,Medium,107.7,107.2,106.0
+2017-04-28 04:00,CHF,SNB Chairman Jordan Speaks,High,,,
+2017-04-28 04:30,GBP,Prelim GDP q/q,High,0.4%,0.7%,0.3%
+2017-04-28 05:00,EUR,Core CPI Flash Estimate y/y,Medium,1.0%,0.7%,1.2%
+2017-04-28 08:30,CAD,GDP m/m,High,0.1%,0.6%,0.0%
+2017-04-28 09:45,USD,Chicago PMI,Medium,56.9,57.7,58.3
+2017-04-28 10:00,USD,Revised UoM Consumer Sentiment,Medium,98.1,98.0,97.0
+2017-04-28 13:15,USD,FOMC Member Brainard Speaks,Medium,,,
+2017-04-28 14:30,USD,FOMC Member Harker Speaks,Medium,,,
+2017-04-28 15:29,All,OPEC-JMMC Meetings,Medium,,,
+2017-04-29 21:00,CNY,Manufacturing PMI,Medium,51.7,51.8,51.2
+2017-04-30 00:00,CNY,Non-Manufacturing PMI,Medium,,55.1,54.0
+2017-04-30 19:30,AUD,AIG Manufacturing Index,Low,,57.5,59.2
+2017-04-30 20:30,JPY,Final Manufacturing PMI,Low,52.8,52.8,52.7
+2017-04-30 21:00,AUD,MI Inflation Gauge m/m,Low,,0.1%,0.5%

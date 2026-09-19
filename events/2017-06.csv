@@ -1,0 +1,381 @@
+datetime,currency,title,impact,forecast,previous,actual
+2017-06-01 00:00,AUD,Retail Sales m/m,High,0.3%,-0.2%,1.0%
+2017-06-01 00:00,EUR,Spanish Manufacturing PMI,Medium,54.9,54.5,55.4
+2017-06-01 00:00,USD,Construction Spending m/m,Low,0.5%,1.1%,-1.4%
+2017-06-01 00:00,USD,ISM Manufacturing Prices,Low,67.0,68.5,60.5
+2017-06-01 01:45,CHF,GDP q/q,Low,0.5%,0.2%,0.3%
+2017-06-01 02:00,GBP,Nationwide HPI m/m,Low,0.2%,-0.4%,-0.2%
+2017-06-01 02:30,AUD,Commodity Prices y/y,Low,,40.5%,32.6%
+2017-06-01 03:15,CHF,Retail Sales y/y,Low,2.4%,2.1%,-1.2%
+2017-06-01 03:30,CHF,Manufacturing PMI,Low,57.8,57.4,55.6
+2017-06-01 03:45,EUR,Italian Manufacturing PMI,Low,56.1,56.2,55.1
+2017-06-01 03:50,EUR,French Final Manufacturing PMI,Low,54.0,54.0,53.8
+2017-06-01 03:55,EUR,German Final Manufacturing PMI,Low,59.4,59.4,59.5
+2017-06-01 04:00,EUR,Final Manufacturing PMI,Low,57.0,57.0,57.0
+2017-06-01 04:30,GBP,Final Manufacturing PMI,High,56.5,57.3,56.7
+2017-06-01 04:59,EUR,French 10-y Bond Auction,Low,,0.81|2.0,0.72|1.8
+2017-06-01 05:34,GBP,10-y Bond Auction,Low,,1.13|2.0,1.14|2.1
+2017-06-01 07:30,USD,Challenger Job Cuts y/y,Low,,-42.9%,9.7%
+2017-06-01 08:15,USD,ADP Non-Farm Employment Change,High,181K,174K,253K
+2017-06-01 08:30,USD,Unemployment Claims,High,239K,235K,248K
+2017-06-01 09:30,CAD,Manufacturing PMI,Low,,55.9,55.1
+2017-06-01 09:45,USD,Final Manufacturing PMI,Low,52.5,52.5,52.7
+2017-06-01 10:00,USD,ISM Manufacturing PMI,High,54.7,54.8,54.9
+2017-06-01 10:30,USD,Natural Gas Storage,Low,78B,75B,81B
+2017-06-01 11:00,USD,Crude Oil Inventories,High,-2.7M,-4.4M,-6.4M
+2017-06-01 15:00,USD,President Trump Speaks,High,,,
+2017-06-01 15:29,USD,Total Vehicle Sales,Low,17.0M,16.9M,16.7M
+2017-06-01 15:29,USD,Wards Total Vehicle Sales,Low,16.5M,17.0M,16.6M
+2017-06-01 19:50,JPY,Monetary Base y/y,Low,19.6%,19.8%,19.4%
+2017-06-01 21:00,AUD,HIA New Home Sales m/m,Low,,-1.1%,0.8%
+2017-06-02 00:00,CAD,Labor Productivity q/q,Medium,0.2%,0.4%,1.4%
+2017-06-02 00:00,USD,Average Hourly Earnings m/m,High,0.2%,0.2%,0.2%
+2017-06-02 00:00,USD,Non-Farm Employment Change,High,181K,174K,138K
+2017-06-02 00:00,USD,Trade Balance,Medium,-45.5B,-45.3B,-47.6B
+2017-06-02 00:00,USD,Unemployment Rate,High,4.4%,4.4%,4.3%
+2017-06-02 01:00,JPY,Consumer Confidence,Low,43.6,43.2,43.6
+2017-06-02 03:00,EUR,Spanish Unemployment Change,Medium,-110.2K,-129.3K,-111.9K
+2017-06-02 04:30,GBP,Construction PMI,High,52.7,53.1,56.0
+2017-06-02 05:00,EUR,PPI m/m,Low,0.2%,-0.3%,0.0%
+2017-06-02 08:30,CAD,Trade Balance,High,0.0B,-0.9B,-0.4B
+2017-06-04 19:30,AUD,AIG Services Index,Low,,53.0,51.5
+2017-06-04 21:00,AUD,MI Inflation Gauge m/m,Low,,0.5%,0.0%
+2017-06-04 21:30,AUD,Company Operating Profits q/q,Medium,5.1%,20.1%,6.0%
+2017-06-04 21:45,CNY,Caixin Services PMI,Low,51.4,51.5,52.8
+2017-06-05 00:00,AUD,ANZ Job Advertisements m/m,Low,,1.5%,0.4%
+2017-06-05 00:00,USD,Factory Orders m/m,Medium,-0.2%,1.0%,-0.2%
+2017-06-05 00:00,USD,Revised Unit Labor Costs q/q,Low,3.0%,3.0%,2.2%
+2017-06-05 03:15,EUR,Spanish Services PMI,Low,57.5,57.8,57.3
+2017-06-05 03:45,EUR,Italian Services PMI,Low,55.4,56.2,55.1
+2017-06-05 03:50,EUR,French Final Services PMI,Low,58.0,58.0,57.2
+2017-06-05 03:55,EUR,German Final Services PMI,Low,55.2,55.2,55.4
+2017-06-05 04:00,EUR,Final Services PMI,Low,56.2,56.2,56.3
+2017-06-05 04:30,GBP,Final Services PMI,High,55.1,55.8,53.8
+2017-06-05 08:30,USD,Revised Nonfarm Productivity q/q,Medium,-0.6%,-0.6%,0.0%
+2017-06-05 09:45,USD,Final Services PMI,Low,54.1,54.0,53.6
+2017-06-05 10:00,USD,ISM Services PMI,High,57.1,57.5,56.9
+2017-06-05 19:01,GBP,BRC Retail Sales Monitor y/y,Low,,5.6%,-0.4%
+2017-06-05 20:00,JPY,Average Cash Earnings y/y,Low,0.3%,0.0%,0.5%
+2017-06-05 21:00,NZD,ANZ Commodity Prices m/m,Low,,-0.2%,3.2%
+2017-06-05 21:30,AUD,Current Account,Medium,-0.2B,-3.5B,-3.1B
+2017-06-05 23:45,JPY,30-y Bond Auction,Low,,0.82|3.4,0.82|3.6
+2017-06-06 00:00,AUD,Cash Rate,Medium,1.50%,1.50%,1.50%
+2017-06-06 00:30,AUD,RBA Rate Statement,High,,,
+2017-06-06 04:10,EUR,Retail PMI,Low,,52.7,52.0
+2017-06-06 04:30,EUR,Sentix Investor Confidence,Low,27.6,27.4,28.4
+2017-06-06 05:00,EUR,Retail Sales m/m,Low,0.2%,0.2%,0.1%
+2017-06-06 09:59,CAD,Ivey PMI,Medium,62.0,62.4,53.8
+2017-06-06 10:00,USD,JOLTS Job Openings,Medium,5.65M,5.79M,6.04M
+2017-06-06 10:37,NZD,GDT Price Index,Medium,,3.2%,0.6%
+2017-06-06 18:45,NZD,Manufacturing Sales q/q,Low,,1.3%,2.8%
+2017-06-06 19:30,AUD,AIG Construction Index,Low,,51.9,56.7
+2017-06-06 21:30,AUD,GDP q/q,High,0.2%,1.1%,0.3%
+2017-06-07 01:00,JPY,Leading Indicators,Low,104.4%,105.7%,104.5%
+2017-06-07 02:00,EUR,German Factory Orders m/m,Low,-0.2%,1.1%,-2.1%
+2017-06-07 03:00,CHF,Foreign Currency Reserves,Low,,697B,694B
+2017-06-07 03:30,GBP,Halifax HPI m/m,Medium,-0.2%,0.0%,0.4%
+2017-06-07 04:00,EUR,Italian Retail Sales m/m,Low,0.2%,0.0%,-0.1%
+2017-06-07 08:30,CAD,Building Permits m/m,Medium,2.4%,-4.9%,-0.2%
+2017-06-07 10:30,USD,Crude Oil Inventories,High,-3.1M,-6.4M,3.3M
+2017-06-07 15:00,USD,Consumer Credit m/m,Low,15.2B,19.5B,8.2B
+2017-06-07 19:01,GBP,RICS House Price Balance,Low,20%,22%,17%
+2017-06-07 19:50,JPY,Final GDP q/q,Medium,0.6%,0.5%,0.3%
+2017-06-07 21:30,AUD,Goods Trade Balance,High,1.91B,3.17B,0.56B
+2017-06-07 23:30,CNY,Trade Balance,High,336B,262B,282B
+2017-06-07 23:33,CNY,USD-Denominated Trade Balance,Low,47.5B,38.1B,40.8B
+2017-06-08 00:00,EUR,ECB Press Conference,High,,,
+2017-06-08 00:00,EUR,Monetary Policy Statement,High,,,
+2017-06-08 00:00,JPY,Bank Lending y/y,Low,3.0%,3.0%,3.2%
+2017-06-08 00:00,JPY,Current Account,Low,1.62T,1.73T,1.81T
+2017-06-08 00:00,JPY,Final GDP Price Index y/y,Low,-0.8%,-0.8%,-0.8%
+2017-06-08 00:00,USD,Natural Gas Storage,Low,99B,81B,106B
+2017-06-08 00:00,USD,Unemployment Claims,High,241K,255K,245K
+2017-06-08 01:00,JPY,Economy Watchers Sentiment,Low,48.6,48.1,48.6
+2017-06-08 01:45,CHF,Unemployment Rate,Low,3.3%,3.2%,3.2%
+2017-06-08 02:00,EUR,German Industrial Production m/m,Low,0.6%,-0.1%,0.8%
+2017-06-08 02:45,EUR,French Trade Balance,Low,-5.9B,-4.8B,-5.5B
+2017-06-08 03:15,CHF,CPI m/m,Medium,0.0%,0.2%,0.2%
+2017-06-08 05:00,EUR,Revised GDP q/q,Low,0.5%,0.5%,0.6%
+2017-06-08 07:45,EUR,Main Refinancing Rate,High,0.00%,0.00%,0.00%
+2017-06-08 08:13,CAD,Housing Starts,Low,205K,213K,195K
+2017-06-08 08:30,CAD,NHPI m/m,Medium,0.3%,0.2%,0.8%
+2017-06-08 10:00,USD,RCM/TIPP Economic Optimism,Low,51.6,51.3,51.3
+2017-06-08 10:30,CAD,BOC Financial System Review,Low,,,
+2017-06-08 11:15,CAD,BOC Gov Poloz Speaks,High,,,
+2017-06-08 15:29,GBP,Parliamentary Elections,High,,,
+2017-06-08 19:50,JPY,M2 Money Stock y/y,Low,4.3%,4.0%,3.9%
+2017-06-08 21:30,AUD,Home Loans m/m,Low,-0.9%,-0.9%,-1.9%
+2017-06-09 00:00,CAD,Capacity Utilization Rate,Low,82.4%,81.8%,83.3%
+2017-06-09 00:00,CAD,Unemployment Rate,High,6.6%,6.5%,6.6%
+2017-06-09 00:00,CNY,CPI y/y,Medium,1.5%,1.2%,1.5%
+2017-06-09 00:00,CNY,PPI y/y,Medium,5.7%,6.4%,5.5%
+2017-06-09 00:00,EUR,French Industrial Production m/m,Low,0.3%,2.2%,-0.5%
+2017-06-09 00:00,GBP,Construction Output m/m,Low,0.5%,0.7%,-1.6%
+2017-06-09 00:00,GBP,Consumer Inflation Expectations,Low,,2.9%,2.8%
+2017-06-09 00:00,GBP,Goods Trade Balance,Medium,-12.0B,-12.0B,-10.4B
+2017-06-09 00:00,GBP,Industrial Production m/m,Low,0.7%,-0.5%,0.2%
+2017-06-09 00:30,JPY,Tertiary Industry Activity m/m,Low,0.5%,-0.3%,1.2%
+2017-06-09 02:00,EUR,German Trade Balance,Low,20.3B,19.9B,19.8B
+2017-06-09 02:45,EUR,French Gov Budget Balance,Low,,-29.6B,-57.9B
+2017-06-09 04:00,EUR,Italian Quarterly Unemployment Rate,Low,11.6%,11.8%,11.6%
+2017-06-09 04:30,GBP,Manufacturing Production m/m,High,0.8%,-0.6%,0.2%
+2017-06-09 07:48,GBP,NIESR GDP Estimate,Low,,0.2%,0.2%
+2017-06-09 08:30,CAD,Employment Change,High,11.5K,3.2K,54.5K
+2017-06-09 10:00,USD,Final Wholesale Inventories m/m,Low,-0.1%,-0.3%,-0.5%
+2017-06-11 15:29,EUR,French Parliamentary Elections,High,,,
+2017-06-11 19:50,JPY,Core Machinery Orders m/m,Low,0.6%,1.4%,-3.1%
+2017-06-12 00:00,JPY,PPI y/y,Low,2.2%,2.1%,2.1%
+2017-06-12 01:59,JPY,Prelim Machine Tool Orders y/y,Low,,34.7%,24.4%
+2017-06-12 04:00,EUR,Italian Industrial Production m/m,Low,0.2%,0.4%,-0.4%
+2017-06-12 04:30,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2017-06-12 13:01,USD,10-y Bond Auction,Low,,2.40|2.3,2.20|2.5
+2017-06-12 13:35,CAD,Gov Council Member Wilkins Speaks,Medium,,,
+2017-06-12 14:00,USD,Federal Budget Balance,Low,-87.3B,182.4B,-88.4B
+2017-06-12 19:50,JPY,BSI Manufacturing Index,Low,1.5,1.1,-2.9
+2017-06-12 21:30,AUD,NAB Business Confidence,Medium,,13,7
+2017-06-13 00:00,EUR,ZEW Economic Sentiment,Low,37.2,35.1,37.7
+2017-06-13 00:00,GBP,Core CPI y/y,Low,2.3%,2.4%,2.6%
+2017-06-13 00:00,GBP,HPI y/y,Low,3.7%,4.5%,5.6%
+2017-06-13 00:00,GBP,PPI Input m/m,Medium,-0.5%,-0.3%,-1.3%
+2017-06-13 00:00,GBP,PPI Output m/m,Low,0.2%,0.4%,0.1%
+2017-06-13 00:00,GBP,RPI y/y,Medium,3.5%,3.5%,3.7%
+2017-06-13 00:00,USD,Core PPI m/m,Medium,0.2%,0.4%,0.3%
+2017-06-13 01:30,EUR,French Final Private Payrolls q/q,Low,0.3%,0.3%,0.4%
+2017-06-13 02:00,EUR,German WPI m/m,Low,0.2%,0.3%,-0.7%
+2017-06-13 04:30,GBP,CPI y/y,High,2.7%,2.7%,2.9%
+2017-06-13 05:00,EUR,German ZEW Economic Sentiment,Medium,21.6,20.6,18.6
+2017-06-13 05:57,USD,NFIB Small Business Index,Low,105.2,104.5,104.5
+2017-06-13 08:30,USD,PPI m/m,High,0.0%,0.5%,0.0%
+2017-06-13 13:01,USD,30-y Bond Auction,Low,,3.05|2.2,2.87|2.3
+2017-06-13 18:45,NZD,Current Account,Medium,0.95B,-2.42B,0.24B
+2017-06-13 20:30,AUD,Westpac Consumer Sentiment,Low,,-1.1%,-1.8%
+2017-06-13 22:00,CNY,Industrial Production y/y,High,6.4%,6.5%,6.5%
+2017-06-14 00:00,CNY,Fixed Asset Investment ytd/y,Medium,8.8%,8.9%,8.6%
+2017-06-14 00:00,CNY,New Loans,Low,1000B,1100B,1110B
+2017-06-14 00:00,CNY,Retail Sales y/y,Low,10.8%,10.7%,10.7%
+2017-06-14 00:00,EUR,Industrial Production m/m,Low,0.5%,0.2%,0.5%
+2017-06-14 00:00,GBP,Claimant Count Change,Medium,12.5K,22.0K,7.3K
+2017-06-14 00:00,GBP,Unemployment Rate,Medium,4.6%,4.6%,4.6%
+2017-06-14 00:00,NZD,FPI m/m,Low,,-0.8%,2.4%
+2017-06-14 00:00,USD,CPI m/m,High,0.2%,0.2%,-0.1%
+2017-06-14 00:00,USD,CPI y/y,High,2.0%,2.2%,1.9%
+2017-06-14 00:00,USD,Core Retail Sales m/m,High,0.2%,0.3%,-0.3%
+2017-06-14 00:00,USD,FOMC Economic Projections,High,,,
+2017-06-14 00:00,USD,FOMC Statement,High,,,
+2017-06-14 00:00,USD,Retail Sales m/m,High,0.1%,0.4%,-0.3%
+2017-06-14 00:30,JPY,Revised Industrial Production m/m,Low,4.1%,4.0%,4.0%
+2017-06-14 02:00,EUR,German Final CPI m/m,Low,0.5%,-0.2%,-0.2%
+2017-06-14 04:30,GBP,Average Earnings Index 3m/y,High,2.4%,2.3%,2.1%
+2017-06-14 05:00,EUR,Final Employment Change q/q,Low,0.3%,0.4%,0.4%
+2017-06-14 05:08,CNY,M2 Money Supply y/y,Low,10.4%,10.5%,9.6%
+2017-06-14 05:35,EUR,German 10-y Bond Auction,Low,,0.39|1.5,0.26|1.5
+2017-06-14 08:30,USD,Core CPI m/m,High,0.2%,0.1%,0.1%
+2017-06-14 09:30,GBP,CB Leading Index m/m,Low,,-0.1%,-0.3%
+2017-06-14 10:00,USD,Business Inventories m/m,Low,-0.1%,0.2%,-0.2%
+2017-06-14 10:30,USD,Crude Oil Inventories,High,-2.3M,3.3M,-1.7M
+2017-06-14 14:00,USD,Federal Funds Rate,High,1.25%,1.00%,1.25%
+2017-06-14 14:30,USD,FOMC Press Conference,High,,,
+2017-06-14 18:45,NZD,GDP q/q,High,0.7%,0.4%,0.5%
+2017-06-14 21:00,AUD,MI Inflation Expectations,Medium,,4.0%,3.6%
+2017-06-14 21:30,AUD,Employment Change,High,9.7K,46.1K,42.0K
+2017-06-15 00:00,AUD,RBA Bulletin,Low,,,
+2017-06-15 00:00,AUD,Unemployment Rate,High,5.7%,5.7%,5.5%
+2017-06-15 00:00,CHF,SNB Monetary Policy Assessment,High,,,
+2017-06-15 00:00,GBP,Asset Purchase Facility,Medium,435B,435B,435B
+2017-06-15 00:00,GBP,MPC Asset Purchase Facility Votes,Medium,0-0-8,0-0-8,0-0-8
+2017-06-15 00:00,GBP,MPC Official Bank Rate Votes,High,1-0-7,1-0-7,3-0-5
+2017-06-15 00:00,GBP,Official Bank Rate,High,0.25%,0.25%,0.25%
+2017-06-15 00:00,USD,Empire State Manufacturing Index,Medium,5.2,-1.0,19.8
+2017-06-15 00:00,USD,Import Prices m/m,Medium,0.1%,0.2%,-0.3%
+2017-06-15 00:00,USD,Industrial Production m/m,Medium,0.2%,1.1%,0.0%
+2017-06-15 00:00,USD,Philly Fed Manufacturing Index,Medium,25.5,38.8,27.6
+2017-06-15 00:00,USD,Unemployment Claims,High,241K,245K,237K
+2017-06-15 00:30,CHF,SNB Financial Stability Report,Medium,,,
+2017-06-15 02:38,CNY,Foreign Direct Investment ytd/y,Low,,-0.1%,-0.7%
+2017-06-15 02:45,EUR,French Final CPI m/m,Low,0.1%,0.1%,0.0%
+2017-06-15 03:15,CHF,PPI m/m,Low,-0.1%,-0.2%,-0.3%
+2017-06-15 03:30,CHF,Libor Rate,High,-0.75%,-0.75%,-0.75%
+2017-06-15 03:40,AUD,RBA Deputy Gov Debelle Speaks,Medium,,,
+2017-06-15 04:00,CHF,SNB Press Conference,High,,,
+2017-06-15 04:30,GBP,Retail Sales m/m,High,-0.9%,2.5%,-1.2%
+2017-06-15 04:49,EUR,Spanish 10-y Bond Auction,Low,,1.55|1.4,1.40|1.8
+2017-06-15 05:00,EUR,Trade Balance,Low,22.4B,22.2B,19.6B
+2017-06-15 07:00,GBP,Monetary Policy Summary,High,,,
+2017-06-15 08:30,CAD,Manufacturing Sales m/m,Medium,0.9%,0.8%,1.1%
+2017-06-15 09:15,USD,Capacity Utilization Rate,Medium,76.8%,76.7%,76.6%
+2017-06-15 10:00,USD,NAHB Housing Market Index,Low,70,69,67
+2017-06-15 10:30,USD,Natural Gas Storage,Low,88B,106B,78B
+2017-06-15 15:29,EUR,Eurogroup Meetings,Medium,,,
+2017-06-15 16:00,USD,TIC Long-Term Purchases,Low,37.3B,59.7B,1.8B
+2017-06-15 18:30,NZD,BusinessNZ Manufacturing Index,Medium,,56.9,58.5
+2017-06-15 22:54,JPY,BOJ Policy Rate,High,-0.10%,-0.10%,-0.10%
+2017-06-16 00:00,EUR,Final Core CPI y/y,Low,0.9%,0.9%,0.9%
+2017-06-16 00:00,JPY,Monetary Policy Statement,High,,,
+2017-06-16 00:00,USD,Building Permits,High,1.25M,1.23M,1.17M
+2017-06-16 00:00,USD,Housing Starts,Medium,1.23M,1.16M,1.09M
+2017-06-16 00:00,USD,Labor Market Conditions Index m/m,Low,,3.7,2.3
+2017-06-16 00:00,USD,Prelim UoM Inflation Expectations,Low,,2.6%,2.6%
+2017-06-16 02:30,JPY,BOJ Press Conference,High,,,
+2017-06-16 04:00,EUR,Italian Trade Balance,Low,3.41B,5.31B,3.60B
+2017-06-16 05:00,EUR,Final CPI y/y,Medium,1.4%,1.4%,1.4%
+2017-06-16 07:00,GBP,BOE Quarterly Bulletin,Low,,,
+2017-06-16 08:30,CAD,Foreign Securities Purchases,Medium,12.14B,15.05B,10.60B
+2017-06-16 10:00,USD,Prelim UoM Consumer Sentiment,Medium,97.2,97.1,94.5
+2017-06-16 12:45,USD,FOMC Member Kaplan Speaks,Medium,,,
+2017-06-16 15:29,EUR,ECOFIN Meetings,Medium,,,
+2017-06-18 18:00,NZD,Westpac Consumer Sentiment,Low,,111.9,113.4
+2017-06-18 18:30,NZD,BusinessNZ Services Index,Low,,53.2,58.8
+2017-06-18 19:01,GBP,Rightmove HPI m/m,Low,,1.2%,-0.4%
+2017-06-18 19:30,AUD,RBA Gov Lowe Speaks,High,,,
+2017-06-18 19:50,JPY,Trade Balance,Low,0.35T,0.16T,0.13T
+2017-06-18 21:30,AUD,New Motor Vehicle Sales m/m,Low,,0.6%,2.9%
+2017-06-19 08:00,USD,FOMC Member Dudley Speaks,Medium,,,
+2017-06-19 10:30,AUD,CB Leading Index m/m,Low,,0.6%,0.5%
+2017-06-19 11:00,EUR,German Buba President Weidmann Speaks,Medium,,,
+2017-06-19 15:29,EUR,French Parliamentary Elections,High,,,
+2017-06-19 18:15,USD,FOMC Member Evans Speaks,Medium,,,
+2017-06-19 21:30,AUD,Monetary Policy Meeting Minutes,High,,,
+2017-06-20 00:00,AUD,HPI q/q,Medium,2.2%,4.1%,2.2%
+2017-06-20 00:00,USD,Current Account,Medium,-124B,-114B,-117B
+2017-06-20 01:45,CHF,SECO Economic Forecasts,Low,,,
+2017-06-20 02:00,EUR,German PPI m/m,Low,-0.1%,0.4%,-0.2%
+2017-06-20 03:15,USD,FOMC Member Fischer Speaks,Medium,,,
+2017-06-20 03:30,GBP,BOE Gov Carney Speaks,High,,,
+2017-06-20 04:00,EUR,Current Account,Low,31.3B,35.7B,22.2B
+2017-06-20 04:45,CHF,SNB Chairman Jordan Speaks,High,,,
+2017-06-20 05:00,CHF,SNB Chairman Jordan Speaks,High,,,
+2017-06-20 08:30,CAD,Wholesale Sales m/m,Medium,0.5%,1.2%,1.0%
+2017-06-20 09:00,CNY,CB Leading Index m/m,Low,,1.0%,1.3%
+2017-06-20 11:03,NZD,GDT Price Index,Medium,,0.6%,-0.8%
+2017-06-20 15:00,USD,FOMC Member Kaplan Speaks,Medium,,,
+2017-06-20 19:50,JPY,Monetary Policy Meeting Minutes,Low,,,
+2017-06-20 20:30,AUD,MI Leading Index m/m,Low,,-0.1%,0.0%
+2017-06-21 00:30,JPY,All Industries Activity m/m,Low,1.7%,-0.7%,2.1%
+2017-06-21 04:30,GBP,Public Sector Net Borrowing,Medium,7.3B,8.7B,6.0B
+2017-06-21 05:35,EUR,German 30-y Bond Auction,Low,,1.24|2.3,1.02|2.0
+2017-06-21 07:00,GBP,MPC Member Haldane Speaks,Medium,,,
+2017-06-21 09:00,CHF,SNB Quarterly Bulletin,Low,,,
+2017-06-21 10:00,USD,Existing Home Sales,Medium,5.54M,5.56M,5.62M
+2017-06-21 10:30,USD,Crude Oil Inventories,High,-1.2M,-1.7M,-2.5M
+2017-06-21 17:00,NZD,Official Cash Rate,High,1.75%,1.75%,1.75%
+2017-06-21 18:45,NZD,Visitor Arrivals m/m,Low,,3.8%,-3.0%
+2017-06-21 23:00,NZD,Credit Card Spending y/y,Low,,6.5%,7.6%
+2017-06-22 00:00,CAD,Retail Sales m/m,Medium,0.3%,0.5%,0.8%
+2017-06-22 00:00,NZD,RBNZ Rate Statement,High,,,
+2017-06-22 00:00,USD,CB Leading Index m/m,Low,0.4%,0.2%,0.3%
+2017-06-22 00:00,USD,FOMC Member Powell Speaks,Medium,,,
+2017-06-22 00:00,USD,Unemployment Claims,High,241K,238K,241K
+2017-06-22 02:00,CHF,Trade Balance,Low,2.44B,1.96B,3.40B
+2017-06-22 04:00,EUR,ECB Economic Bulletin,Low,,,
+2017-06-22 05:36,GBP,30-y Bond Auction,Low,,1.79|1.8,1.67|2.1
+2017-06-22 06:00,GBP,CBI Industrial Order Expectations,Low,7,9,16
+2017-06-22 08:30,CAD,Core Retail Sales m/m,High,0.6%,-0.1%,1.5%
+2017-06-22 09:00,USD,HPI m/m,Low,0.4%,0.7%,0.7%
+2017-06-22 10:00,EUR,Consumer Confidence,Low,-3,-3,-1
+2017-06-22 10:30,USD,Natural Gas Storage,Low,55B,78B,61B
+2017-06-22 12:00,CHF,Gov Board Member Maechler Speaks,Medium,,,
+2017-06-22 14:00,GBP,MPC Member Forbes Speaks,Low,,,
+2017-06-22 15:29,All,OPEC-JMMC Meetings,Medium,,,
+2017-06-22 16:30,USD,Bank Stress Test Results,Medium,,,
+2017-06-22 20:30,JPY,Flash Manufacturing PMI,Low,53.4,53.1,52.0
+2017-06-23 00:00,CAD,Common CPI y/y,Medium,,1.3%,1.3%
+2017-06-23 00:00,CAD,Core CPI m/m,Low,,0.0%,0.1%
+2017-06-23 00:00,CAD,Median CPI y/y,Medium,,1.6%,1.5%
+2017-06-23 00:00,CAD,Trimmed CPI y/y,Medium,,1.3%,1.2%
+2017-06-23 00:00,EUR,Flash Services PMI,Medium,56.2,56.3,54.7
+2017-06-23 00:00,EUR,French Flash Services PMI,Medium,57.1,57.2,55.3
+2017-06-23 00:00,EUR,German Flash Services PMI,Medium,55.4,55.4,53.7
+2017-06-23 00:00,USD,Flash Services PMI,Low,53.9,53.6,53.0
+2017-06-23 03:00,EUR,French Flash Manufacturing PMI,Medium,54.1,53.8,55.0
+2017-06-23 03:30,EUR,German Flash Manufacturing PMI,Medium,59.1,59.5,59.3
+2017-06-23 04:00,EUR,Flash Manufacturing PMI,Medium,56.9,57.0,57.3
+2017-06-23 08:30,CAD,CPI m/m,High,0.2%,0.4%,0.1%
+2017-06-23 09:00,EUR,Belgian NBB Business Climate,Low,-0.8,-1.1,-2.0
+2017-06-23 09:45,USD,Flash Manufacturing PMI,Low,53.1,52.7,52.1
+2017-06-23 10:00,USD,New Home Sales,Medium,599K,593K,610K
+2017-06-23 14:15,USD,FOMC Member Powell Speaks,Medium,,,
+2017-06-25 19:50,JPY,BOJ Summary of Opinions,Low,,,
+2017-06-26 00:00,JPY,SPPI y/y,Low,0.7%,0.8%,0.7%
+2017-06-26 00:00,USD,Durable Goods Orders m/m,Medium,-0.5%,-0.8%,-1.1%
+2017-06-26 04:00,EUR,German ifo Business Climate,Medium,114.7,114.6,115.1
+2017-06-26 04:30,GBP,High Street Lending,Low,40.3K,40.7K,40.3K
+2017-06-26 06:00,EUR,German Buba Monthly Report,Low,,,
+2017-06-26 08:30,USD,Core Durable Goods Orders m/m,High,0.4%,-0.5%,0.1%
+2017-06-26 14:45,EUR,ECB President Draghi Speaks,High,,,
+2017-06-26 18:45,NZD,Trade Balance,Low,420M,536M,103M
+2017-06-27 00:00,GBP,CBI Realized Sales,Low,4,2,12
+2017-06-27 00:00,GBP,FPC Statement,Low,,,
+2017-06-27 04:00,EUR,ECB President Draghi Speaks,High,,,
+2017-06-27 04:30,AUD,RBA Deputy Gov Debelle Speaks,Low,,,
+2017-06-27 05:30,GBP,BOE Financial Stability Report,High,,,
+2017-06-27 06:00,GBP,BOE Gov Carney Speaks,High,,,
+2017-06-27 09:00,USD,S&P/CS Composite-20 HPI y/y,Low,5.9%,5.9%,5.7%
+2017-06-27 09:59,USD,Richmond Manufacturing Index,Low,4,1,7
+2017-06-27 10:00,USD,CB Consumer Confidence,High,116.1,117.6,118.9
+2017-06-27 11:15,USD,FOMC Member Harker Speaks,Medium,,,
+2017-06-27 13:00,USD,Fed Chair Yellen Speaks,High,,,
+2017-06-27 17:30,USD,FOMC Member Kashkari Speaks,Medium,,,
+2017-06-27 22:00,NZD,RBNZ Statement of Intent,Medium,,,
+2017-06-28 00:00,EUR,ECB President Draghi Speaks,High,,,
+2017-06-28 00:00,EUR,German Import Prices m/m,Low,-0.6%,-0.1%,-1.0%
+2017-06-28 00:00,EUR,M3 Money Supply y/y,Medium,5.0%,4.9%,5.0%
+2017-06-28 00:00,EUR,Private Loans y/y,Low,2.5%,2.4%,2.6%
+2017-06-28 00:00,GBP,BOE Gov Carney Speaks,High,,,
+2017-06-28 00:00,GBP,Nationwide HPI m/m,Low,0.1%,-0.2%,1.1%
+2017-06-28 00:00,JPY,BOJ Gov Kuroda Speaks,High,,,
+2017-06-28 00:00,USD,Prelim Wholesale Inventories m/m,Low,0.2%,-0.5%,0.3%
+2017-06-28 02:00,CHF,UBS Consumption Indicator,Low,,1.34,1.39
+2017-06-28 04:00,CHF,UBS Economic Expectations,Low,,30.8,20.7
+2017-06-28 05:00,EUR,Italian Prelim CPI m/m,Low,0.1%,-0.2%,-0.1%
+2017-06-28 08:30,USD,Goods Trade Balance,Low,-66.2B,-67.1B,-65.9B
+2017-06-28 09:30,CAD,BOC Gov Poloz Speaks,High,,,
+2017-06-28 10:00,USD,Pending Home Sales m/m,Medium,0.9%,-1.7%,-0.8%
+2017-06-28 10:30,USD,Crude Oil Inventories,High,-2.1M,-2.5M,0.1M
+2017-06-28 14:20,CAD,Gov Council Member Patterson Speaks,Low,,,
+2017-06-28 16:30,USD,Bank Stress Test Results,Low,,,
+2017-06-28 19:50,JPY,Retail Sales y/y,Low,2.6%,3.2%,2.0%
+2017-06-28 21:00,AUD,HIA New Home Sales m/m,Low,,0.8%,1.1%
+2017-06-29 00:00,GBP,M4 Money Supply m/m,Low,1.3%,1.3%,-0.1%
+2017-06-29 00:00,GBP,Mortgage Approvals,Low,64K,65K,65K
+2017-06-29 00:00,NZD,ANZ Business Confidence,Medium,,14.9,24.8
+2017-06-29 00:00,USD,Final GDP Price Index q/q,Low,2.2%,2.2%,1.9%
+2017-06-29 00:00,USD,Unemployment Claims,High,241K,242K,244K
+2017-06-29 02:00,EUR,German GfK Consumer Climate,Low,10.4,10.4,10.6
+2017-06-29 03:00,EUR,Spanish Flash CPI y/y,Medium,1.6%,1.9%,1.5%
+2017-06-29 04:30,GBP,Net Lending to Individuals m/m,Medium,4.0B,4.2B,5.3B
+2017-06-29 08:30,USD,Final GDP q/q,High,1.2%,1.2%,1.4%
+2017-06-29 10:30,USD,Natural Gas Storage,Low,50B,61B,46B
+2017-06-29 15:29,EUR,German Prelim CPI m/m,Medium,0.0%,-0.2%,0.2%
+2017-06-29 18:45,NZD,Building Consents m/m,Low,,-7.4%,7.0%
+2017-06-29 19:01,GBP,GfK Consumer Confidence,Low,-7,-5,-10
+2017-06-29 19:30,JPY,Household Spending y/y,Low,-0.7%,-1.4%,-0.1%
+2017-06-29 19:50,JPY,Prelim Industrial Production m/m,Low,-3.1%,4.0%,-3.3%
+2017-06-29 21:00,CNY,Manufacturing PMI,Medium,51.0,51.2,51.7
+2017-06-29 21:30,AUD,Private Sector Credit m/m,Low,0.4%,0.4%,0.4%
+2017-06-30 00:00,CAD,IPPI m/m,Low,0.4%,0.6%,-0.2%
+2017-06-30 00:00,CAD,RMPI m/m,Medium,-0.6%,1.6%,-1.8%
+2017-06-30 00:00,CNY,Non-Manufacturing PMI,Medium,,54.5,54.9
+2017-06-30 00:00,EUR,CPI Flash Estimate y/y,Medium,1.2%,1.4%,1.3%
+2017-06-30 00:00,EUR,French Prelim CPI m/m,Low,0.0%,0.0%,0.0%
+2017-06-30 00:00,GBP,Final GDP q/q,Medium,0.2%,0.2%,0.2%
+2017-06-30 00:00,GBP,Index of Services 3m/3m,Low,0.3%,0.1%,0.2%
+2017-06-30 00:00,GBP,Revised Business Investment q/q,Low,0.6%,0.6%,0.6%
+2017-06-30 00:00,JPY,National Core CPI y/y,Low,0.4%,0.3%,0.4%
+2017-06-30 00:00,JPY,Tokyo Core CPI y/y,Low,0.2%,0.1%,0.0%
+2017-06-30 00:00,JPY,Unemployment Rate,Low,2.8%,2.8%,3.1%
+2017-06-30 00:00,USD,Core PCE Price Index m/m,Medium,0.1%,0.1%,0.1%
+2017-06-30 00:00,USD,Personal Income m/m,Low,0.3%,0.3%,0.4%
+2017-06-30 00:00,USD,Personal Spending m/m,Medium,0.1%,0.4%,0.1%
+2017-06-30 00:00,USD,Revised UoM Inflation Expectations,Low,,2.6%,2.6%
+2017-06-30 01:00,JPY,Housing Starts y/y,Low,-1.1%,1.9%,-0.3%
+2017-06-30 02:00,EUR,German Retail Sales m/m,Medium,0.3%,-0.2%,0.5%
+2017-06-30 02:45,EUR,French Consumer Spending m/m,Low,0.5%,0.4%,1.0%
+2017-06-30 03:00,CHF,KOF Economic Barometer,Medium,102.5,102.0,105.5
+2017-06-30 03:55,EUR,German Unemployment Change,Low,-10K,-7K,7K
+2017-06-30 04:30,GBP,Current Account,High,-17.2B,-12.1B,-16.9B
+2017-06-30 05:00,EUR,Core CPI Flash Estimate y/y,Medium,1.0%,0.9%,1.1%
+2017-06-30 05:19,EUR,Italian 10-y Bond Auction,Low,,2.15|1.5,2.16|1.3
+2017-06-30 08:30,CAD,GDP m/m,High,0.2%,0.5%,0.2%
+2017-06-30 09:45,USD,Chicago PMI,Medium,58.1,59.4,65.7
+2017-06-30 10:00,USD,Revised UoM Consumer Sentiment,Medium,94.5,94.5,95.1
+2017-06-30 10:30,CAD,BOC Business Outlook Survey,High,,,

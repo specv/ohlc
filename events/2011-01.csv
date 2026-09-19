@@ -1,0 +1,346 @@
+datetime,currency,title,impact,forecast,previous,actual
+2011-01-02 20:00,CNY,Non-Manufacturing PMI,Low,,53.2,56.5
+2011-01-03 00:00,USD,Construction Spending m/m,Low,0.2%,0.7%,0.4%
+2011-01-03 00:00,USD,ISM Manufacturing Prices,Low,71.2,69.5,72.5
+2011-01-03 03:15,EUR,Spanish Manufacturing PMI,Medium,,50.0,51.5
+2011-01-03 03:30,CHF,Manufacturing PMI,Medium,61.7,61.8,59.6
+2011-01-03 03:45,EUR,Italian Manufacturing PMI,Medium,52.3,52.0,54.7
+2011-01-03 03:50,EUR,French Final Manufacturing PMI,Low,56.3,56.3,57.2
+2011-01-03 03:55,EUR,German Final Manufacturing PMI,Low,60.9,60.9,60.7
+2011-01-03 04:00,EUR,Final Manufacturing PMI,Low,56.9,56.8,57.1
+2011-01-03 10:00,USD,ISM Manufacturing PMI,High,57.0,56.6,57.0
+2011-01-03 17:30,AUD,AIG Manufacturing Index,Low,,47.6,46.3
+2011-01-04 00:00,EUR,Italian Prelim CPI m/m,Low,0.2%,0.0%,0.4%
+2011-01-04 00:00,GBP,M4 Money Supply m/m,Low,0.4%,0.7%,-0.8%
+2011-01-04 00:00,GBP,Mortgage Approvals,Low,47K,47K,48K
+2011-01-04 00:00,GBP,Net Lending to Individuals m/m,Medium,0.9B,1.5B,0.7B
+2011-01-04 00:33,AUD,Commodity Prices y/y,Medium,,45.7%,47.7%
+2011-01-04 03:00,EUR,Spanish Unemployment Change,Medium,,24.3K,-10.2K
+2011-01-04 03:55,EUR,German Unemployment Change,Medium,-12K,-8K,3K
+2011-01-04 04:30,GBP,Final Manufacturing PMI,High,57.3,57.5,58.3
+2011-01-04 05:00,EUR,CPI Flash Estimate y/y,Medium,2.0%,1.9%,2.2%
+2011-01-04 08:30,NZD,GDT Price Index,Low,,2.3%,5.8%
+2011-01-04 10:00,USD,Factory Orders m/m,Medium,-0.1%,-0.7%,0.7%
+2011-01-04 14:00,USD,FOMC Meeting Minutes,High,,,
+2011-01-04 15:29,USD,Total Vehicle Sales,Low,12.3M,12.3M,12.6M
+2011-01-04 18:50,JPY,Monetary Base y/y,Low,7.9%,7.6%,7.0%
+2011-01-04 19:58,AUD,HIA New Home Sales m/m,Medium,,2.4%,-0.2%
+2011-01-05 00:00,CAD,IPPI m/m,Low,0.4%,0.5%,0.5%
+2011-01-05 00:00,EUR,PPI m/m,Low,0.3%,0.4%,0.3%
+2011-01-05 03:15,EUR,Spanish Services PMI,Low,,48.3,46.2
+2011-01-05 03:45,EUR,Italian Services PMI,Low,53.6,54.4,50.2
+2011-01-05 03:50,EUR,French Final Services PMI,Low,54.1,54.1,54.9
+2011-01-05 03:55,EUR,German Final Services PMI,Low,58.3,58.3,59.2
+2011-01-05 04:00,EUR,Final Services PMI,Low,53.7,53.7,54.2
+2011-01-05 04:30,GBP,Construction PMI,Medium,51.1,51.8,49.1
+2011-01-05 05:00,EUR,Industrial New Orders m/m,Medium,1.3%,-4.2%,1.4%
+2011-01-05 05:05,EUR,German 10-y Bond Auction,Medium,,2.59|1.2,2.87|1.6
+2011-01-05 07:30,USD,Challenger Job Cuts y/y,Low,,-3.3%,-29.0%
+2011-01-05 08:15,USD,ADP Non-Farm Employment Change,High,101K,92K,297K
+2011-01-05 08:30,CAD,RMPI m/m,Medium,2.1%,2.1%,3.5%
+2011-01-05 10:00,USD,ISM Services PMI,High,55.6,55.0,57.1
+2011-01-05 10:30,USD,Crude Oil Inventories,Medium,-1.4M,-1.3M,-4.2M
+2011-01-05 17:26,AUD,AIG Services Index,Medium,,46.2,46.4
+2011-01-05 19:30,AUD,Building Approvals m/m,High,-3.6%,8.3%,-4.2%
+2011-01-05 22:45,JPY,10-y Bond Auction,Low,,1.19|2.4,1.21|3.0
+2011-01-06 00:00,EUR,Retail Sales m/m,Medium,0.3%,0.0%,-0.8%
+2011-01-06 00:00,GBP,BOE Credit Conditions Survey,Medium,,,
+2011-01-06 03:15,CHF,CPI m/m,Medium,-0.1%,0.2%,0.0%
+2011-01-06 04:27,CHF,Foreign Currency Reserves,High,,212B,203B
+2011-01-06 04:30,GBP,Final Services PMI,High,52.9,53.0,49.7
+2011-01-06 05:00,EUR,French 10-y Bond Auction,Medium,,2.87|1.9,3.36|2.0
+2011-01-06 05:38,GBP,10-y Bond Auction,Medium,,3.45|1.8,3.69|2.0
+2011-01-06 06:00,EUR,German Factory Orders m/m,Medium,1.0%,1.6%,5.2%
+2011-01-06 08:30,USD,Unemployment Claims,High,400K,391K,409K
+2011-01-06 10:00,CAD,Ivey PMI,High,53.3,57.5,50.0
+2011-01-06 10:30,USD,Natural Gas Storage,Low,-135B,-136B,-135B
+2011-01-07 00:00,CAD,Unemployment Rate,High,7.7%,7.6%,7.6%
+2011-01-07 00:00,EUR,Final GDP q/q,Low,0.4%,0.4%,0.3%
+2011-01-07 00:00,EUR,German Trade Balance,Low,14.5B,14.2B,11.8B
+2011-01-07 00:00,EUR,Italian Monthly Unemployment Rate,Low,8.6%,8.7%,8.7%
+2011-01-07 00:00,USD,Average Hourly Earnings m/m,Medium,0.2%,0.0%,0.1%
+2011-01-07 00:00,USD,Unemployment Rate,High,9.7%,9.8%,9.4%
+2011-01-07 01:45,CHF,Unemployment Rate,Low,3.6%,3.6%,3.6%
+2011-01-07 02:00,EUR,German Retail Sales m/m,Medium,0.6%,0.1%,-2.4%
+2011-01-07 02:45,EUR,French Trade Balance,Low,-4.0B,-3.7B,-3.9B
+2011-01-07 04:00,EUR,ECB President Trichet Speaks,Medium,,,
+2011-01-07 05:00,EUR,Unemployment Rate,Medium,10.1%,10.1%,10.1%
+2011-01-07 06:00,EUR,German Industrial Production m/m,Medium,-0.1%,3.0%,-0.7%
+2011-01-07 07:00,CAD,Employment Change,High,19.1K,15.2K,22.0K
+2011-01-07 08:30,USD,Non-Farm Employment Change,High,159K,71K,103K
+2011-01-07 09:30,USD,Fed Chairman Bernanke Testifies,High,,,
+2011-01-07 11:35,USD,President Obama Speaks,Low,,,
+2011-01-07 13:30,USD,FOMC Member Duke Speaks,Low,,,
+2011-01-07 15:00,USD,Consumer Credit m/m,Low,0.1B,7.0B,1.3B
+2011-01-07 16:30,USD,FOMC Member Evans Speaks,Medium,,,
+2011-01-08 16:30,USD,FOMC Member Yellen Speaks,Medium,,,
+2011-01-09 16:45,NZD,Trade Balance,Medium,-133M,-224M,-186M
+2011-01-09 17:30,AUD,AIG Construction Index,Low,,42.2,43.8
+2011-01-09 19:30,AUD,Retail Sales m/m,High,0.3%,-0.8%,0.3%
+2011-01-09 22:01,CNY,USD-Denominated Trade Balance,High,20.9B,22.9B,13.1B
+2011-01-10 02:45,EUR,French Industrial Production m/m,Medium,1.1%,-0.8%,2.3%
+2011-01-10 03:00,GBP,Halifax HPI m/m,High,-0.3%,-0.2%,-1.3%
+2011-01-10 03:15,CHF,Retail Sales y/y,High,2.2%,3.5%,2.5%
+2011-01-10 04:30,EUR,Sentix Investor Confidence,Low,11.9,9.7,10.6
+2011-01-10 07:00,EUR,ECB President Trichet Speaks,High,,,
+2011-01-10 08:30,CAD,Building Permits m/m,High,0.8%,-6.2%,-11.2%
+2011-01-10 10:30,CAD,BOC Business Outlook Survey,High,,,
+2011-01-10 13:05,CAD,Gov Council Member Cote Speaks,Low,,,
+2011-01-10 16:00,NZD,NZIER Business Confidence,High,,6,8
+2011-01-10 16:45,NZD,Building Consents m/m,Medium,,-1.8%,8.8%
+2011-01-10 19:00,GBP,BRC Retail Sales Monitor y/y,Medium,,0.7%,-0.3%
+2011-01-10 19:30,AUD,ANZ Job Advertisements m/m,High,,3.0%,2.0%
+2011-01-10 21:02,CNY,New Loans,Medium,365B,564B,481B
+2011-01-11 00:00,AUD,Goods Trade Balance,High,2.03B,2.56B,1.93B
+2011-01-11 00:00,CNY,M2 Money Supply y/y,Low,19.2%,19.5%,19.7%
+2011-01-11 00:00,JPY,Leading Indicators,Low,100.9%,97.2%,101.0%
+2011-01-11 00:00,USD,JOLTS Job Openings,Low,,3.33M,3.25M
+2011-01-11 07:30,USD,NFIB Small Business Index,Low,94.6,93.2,92.6
+2011-01-11 08:15,CAD,Housing Starts,High,179K,198K,172K
+2011-01-11 08:30,USD,FOMC Member Plosser Speaks,Medium,,,
+2011-01-11 10:00,USD,Final Wholesale Inventories m/m,Low,1.1%,1.7%,-0.2%
+2011-01-11 14:00,USD,FOMC Member Kocherlakota Speaks,Medium,,,
+2011-01-11 18:50,JPY,Bank Lending y/y,Low,,-2.0%,-1.9%
+2011-01-11 19:01,GBP,BRC Shop Price Index y/y,Low,,2.0%,2.1%
+2011-01-11 19:22,USD,RCM/TIPP Economic Optimism,Low,47.1,45.8,51.9
+2011-01-11 19:30,AUD,Home Loans m/m,High,-1.2%,2.2%,2.5%
+2011-01-12 00:00,JPY,Current Account,Low,0.99T,1.46T,1.15T
+2011-01-12 00:00,JPY,Economy Watchers Sentiment,Low,44.9,43.6,45.1
+2011-01-12 00:00,JPY,M2 Money Stock y/y,Low,2.6%,2.6%,2.3%
+2011-01-12 00:00,USD,10-y Bond Auction,Medium,,3.34|2.9,3.39|3.3
+2011-01-12 00:00,USD,FOMC Member Fisher Speaks,Medium,,,
+2011-01-12 00:00,USD,Federal Budget Balance,Medium,-81.1B,-150.4B,-80.0B
+2011-01-12 00:00,USD,Import Prices m/m,Medium,1.3%,1.5%,1.1%
+2011-01-12 00:00,USD,Treasury Sec Geithner Speaks,Medium,,,
+2011-01-12 02:45,EUR,French Gov Budget Balance,Low,,-133.1B,-140.7B
+2011-01-12 04:00,EUR,Italian Industrial Production m/m,Low,0.7%,-0.1%,1.1%
+2011-01-12 04:30,GBP,Goods Trade Balance,Medium,-8.2B,-8.6B,-8.7B
+2011-01-12 05:00,EUR,Industrial Production m/m,Medium,0.5%,0.7%,1.2%
+2011-01-12 08:30,CAD,NHPI m/m,Medium,0.1%,0.1%,0.3%
+2011-01-12 10:30,USD,Crude Oil Inventories,Medium,0.4M,-4.2M,-2.2M
+2011-01-12 13:00,CHF,Gov Board Member Jordan Speaks,High,,,
+2011-01-12 14:00,USD,Beige Book,Medium,,,
+2011-01-12 18:50,JPY,Core Machinery Orders m/m,Medium,2.1%,-1.4%,-3.0%
+2011-01-12 19:30,AUD,Employment Change,High,25.2K,55.2K,2.3K
+2011-01-12 21:00,NZD,ANZ Commodity Prices m/m,Low,,4.5%,2.0%
+2011-01-12 22:45,JPY,30-y Bond Auction,Low,,2.19|3.0,2.16|5.8
+2011-01-13 00:00,AUD,Unemployment Rate,High,5.1%,5.2%,5.0%
+2011-01-13 00:00,EUR,ECB Press Conference,High,,,
+2011-01-13 00:00,GBP,Industrial Production m/m,Low,0.5%,-0.1%,0.4%
+2011-01-13 00:00,GBP,Official Bank Rate,High,0.50%,0.50%,0.50%
+2011-01-13 00:00,USD,30-y Bond Auction,Low,,4.41|2.7,4.52|2.7
+2011-01-13 00:00,USD,Core PPI m/m,Medium,0.2%,0.3%,0.2%
+2011-01-13 00:00,USD,PPI m/m,High,0.8%,0.8%,1.1%
+2011-01-13 00:00,USD,Trade Balance,High,-40.8B,-38.4B,-38.3B
+2011-01-13 00:00,USD,Unemployment Claims,High,405K,410K,445K
+2011-01-13 01:00,JPY,Prelim Machine Tool Orders y/y,Low,,104.2%,63.5%
+2011-01-13 01:30,EUR,French Final CPI m/m,Low,0.4%,0.1%,0.5%
+2011-01-13 02:00,EUR,German WPI m/m,Low,0.6%,0.7%,1.8%
+2011-01-13 04:30,GBP,Manufacturing Production m/m,High,0.5%,0.6%,0.6%
+2011-01-13 07:00,GBP,Asset Purchase Facility,High,200B,200B,200B
+2011-01-13 07:45,EUR,Main Refinancing Rate,High,1.00%,1.00%,1.00%
+2011-01-13 08:30,CAD,Trade Balance,High,-2.0B,-1.5B,-0.1B
+2011-01-13 10:00,GBP,NIESR GDP Estimate,Medium,,0.6%,0.5%
+2011-01-13 10:30,USD,Natural Gas Storage,Low,-146B,-135B,-138B
+2011-01-13 13:00,USD,Fed Chairman Bernanke Speaks,High,,,
+2011-01-13 18:50,JPY,PPI y/y,Low,1.0%,0.9%,1.2%
+2011-01-13 21:00,CNY,CB Leading Index m/m,Low,,0.8%,0.5%
+2011-01-14 00:00,EUR,Final CPI y/y,Medium,2.2%,2.2%,2.2%
+2011-01-14 00:00,EUR,Trade Balance,Low,1.9B,3.5B,-1.9B
+2011-01-14 00:00,GBP,PPI Output m/m,Low,0.4%,0.4%,0.5%
+2011-01-14 00:00,USD,CPI m/m,Medium,0.4%,0.1%,0.5%
+2011-01-14 00:00,USD,CPI y/y,High,1.4%,1.1%,1.5%
+2011-01-14 00:00,USD,Core CPI m/m,High,0.1%,0.1%,0.1%
+2011-01-14 00:00,USD,Core Retail Sales m/m,High,0.7%,1.0%,0.5%
+2011-01-14 00:00,USD,Industrial Production m/m,Medium,0.5%,0.3%,0.8%
+2011-01-14 00:00,USD,Prelim UoM Inflation Expectations,Low,,3.0%,3.3%
+2011-01-14 00:00,USD,Retail Sales m/m,High,0.8%,0.8%,0.6%
+2011-01-14 02:00,EUR,German Final CPI m/m,Low,1.0%,1.0%,1.0%
+2011-01-14 03:15,CHF,PPI m/m,Medium,0.2%,-0.2%,0.3%
+2011-01-14 04:00,EUR,Italian Trade Balance,Low,-1.96B,-2.01B,-3.38B
+2011-01-14 04:30,GBP,PPI Input m/m,High,1.6%,0.9%,3.4%
+2011-01-14 05:00,EUR,Final Core CPI y/y,Medium,1.1%,1.1%,1.1%
+2011-01-14 08:30,CAD,New Motor Vehicle Sales m/m,Low,0.9%,-0.3%,0.3%
+2011-01-14 09:15,USD,Capacity Utilization Rate,Medium,75.6%,75.4%,76.0%
+2011-01-14 09:55,USD,Prelim UoM Consumer Sentiment,High,75.5,74.5,72.7
+2011-01-14 10:00,USD,Business Inventories m/m,Medium,0.7%,0.8%,0.2%
+2011-01-16 16:45,NZD,FPI m/m,Low,,-0.6%,-0.8%
+2011-01-16 18:30,AUD,MI Inflation Gauge m/m,Low,,0.4%,0.2%
+2011-01-16 19:01,GBP,Rightmove HPI m/m,Medium,,-3.0%,0.3%
+2011-01-16 19:30,AUD,New Motor Vehicle Sales m/m,Medium,,0.5%,0.8%
+2011-01-17 00:00,JPY,Consumer Confidence,Low,41.7,40.4,40.1
+2011-01-17 06:00,EUR,German Buba Monthly Report,Low,,,
+2011-01-17 07:15,USD,FOMC Member Plosser Speaks,Medium,,,
+2011-01-17 08:30,CAD,Foreign Securities Purchases,Medium,10.42B,9.71B,8.01B
+2011-01-17 15:29,EUR,Eurogroup Meetings,Medium,,,
+2011-01-17 16:00,NZD,REINZ HPI m/m,Medium,,1.9%,-0.6%
+2011-01-17 19:01,GBP,Nationwide Consumer Confidence,Medium,47,45,53
+2011-01-17 21:00,CNY,Foreign Direct Investment ytd/y,Low,,17.7%,17.4%
+2011-01-17 23:30,JPY,Revised Industrial Production m/m,Low,1.0%,1.0%,1.0%
+2011-01-18 00:00,CAD,Overnight Rate,High,1.00%,1.00%,1.00%
+2011-01-18 00:00,EUR,ZEW Economic Sentiment,Medium,17.3,15.5,25.4
+2011-01-18 00:00,GBP,Core CPI y/y,Low,2.6%,2.7%,2.9%
+2011-01-18 00:00,GBP,RICS House Price Balance,Medium,-43%,-44%,-39%
+2011-01-18 00:00,GBP,RPI y/y,Medium,4.8%,4.7%,4.8%
+2011-01-18 00:00,USD,Empire State Manufacturing Index,Medium,12.6,10.6,11.9
+2011-01-18 00:00,USD,TIC Long-Term Purchases,High,43.4B,28.9B,85.1B
+2011-01-18 04:30,GBP,CPI y/y,High,3.3%,3.3%,3.7%
+2011-01-18 04:38,GBP,ONS HPI y/y,Low,5.2%,5.5%,4.0%
+2011-01-18 05:00,EUR,German ZEW Economic Sentiment,High,6.5,4.3,15.4
+2011-01-18 08:30,NZD,GDT Price Index,Low,,5.8%,0.7%
+2011-01-18 09:00,CAD,BOC Rate Statement,High,,,
+2011-01-18 10:00,USD,NAHB Housing Market Index,Low,17,16,16
+2011-01-18 15:29,EUR,ECOFIN Meetings,Medium,,,
+2011-01-18 18:30,AUD,Westpac Consumer Sentiment,Medium,,0.2%,-5.7%
+2011-01-18 18:50,JPY,Tertiary Industry Activity m/m,Medium,0.6%,0.3%,0.6%
+2011-01-19 00:00,GBP,Average Earnings Index 3m/y,Medium,2.2%,2.1%,2.1%
+2011-01-19 00:00,GBP,Unemployment Rate,Low,7.9%,7.9%,7.9%
+2011-01-19 00:00,USD,Building Permits,High,0.56M,0.54M,0.64M
+2011-01-19 00:00,USD,Housing Starts,Medium,0.55M,0.55M,0.53M
+2011-01-19 04:00,EUR,Current Account,Medium,-10.2B,-9.6B,-11.2B
+2011-01-19 04:30,GBP,Claimant Count Change,High,-0.3K,-3.2K,-4.1K
+2011-01-19 05:00,GBP,CB Leading Index m/m,Low,,0.4%,0.0%
+2011-01-19 08:30,CAD,Manufacturing Sales m/m,Medium,0.6%,1.5%,-0.8%
+2011-01-19 10:30,CAD,BOC Monetary Policy Report,High,,,
+2011-01-19 11:15,CAD,BOC Press Conference,High,,,
+2011-01-19 12:00,GBP,MPC Member Posen Speaks,Medium,,,
+2011-01-19 16:45,NZD,CPI q/q,High,2.3%,1.1%,2.3%
+2011-01-19 19:00,AUD,MI Inflation Expectations,Medium,,2.8%,4.6%
+2011-01-19 21:00,CNY,CPI y/y,High,4.7%,5.1%,4.6%
+2011-01-20 00:00,CAD,Wholesale Sales m/m,Medium,0.3%,0.3%,1.2%
+2011-01-20 00:00,CNY,Fixed Asset Investment ytd/y,Medium,24.9%,24.9%,24.5%
+2011-01-20 00:00,CNY,GDP q/y,High,9.3%,9.6%,9.8%
+2011-01-20 00:00,CNY,Industrial Production y/y,Medium,13.5%,13.3%,13.5%
+2011-01-20 00:00,CNY,NBS Press Conference,Medium,,,
+2011-01-20 00:00,CNY,PPI y/y,Medium,5.6%,6.1%,5.9%
+2011-01-20 00:00,CNY,Retail Sales y/y,Low,18.9%,18.7%,19.1%
+2011-01-20 00:00,USD,CB Leading Index m/m,Low,0.7%,1.1%,1.0%
+2011-01-20 00:00,USD,Existing Home Sales,High,4.88M,4.70M,5.28M
+2011-01-20 00:00,USD,Philly Fed Manufacturing Index,High,20.7,24.3,19.3
+2011-01-20 00:00,USD,Unemployment Claims,High,422K,441K,404K
+2011-01-20 02:00,EUR,German PPI m/m,Medium,0.5%,0.2%,0.7%
+2011-01-20 04:00,EUR,ECB Monthly Bulletin,Medium,,,
+2011-01-20 05:00,CHF,UBS Economic Expectations,Medium,,-12.5,-18.4
+2011-01-20 06:00,GBP,CBI Industrial Order Expectations,Medium,-1,-3,-16
+2011-01-20 08:30,CAD,Leading Index m/m,Medium,0.4%,0.5%,0.5%
+2011-01-20 10:00,EUR,Consumer Confidence,Low,-12,-11,-11
+2011-01-20 10:30,USD,Natural Gas Storage,Low,-223B,-138B,-243B
+2011-01-20 11:00,USD,Crude Oil Inventories,Medium,-1.1M,-2.2M,2.6M
+2011-01-20 12:00,CHF,SNB Chairman Hildebrand Speaks,High,,,
+2011-01-20 16:29,NZD,BusinessNZ Manufacturing Index,Low,,52.7,53.1
+2011-01-20 16:45,NZD,Core Retail Sales m/m,High,0.6%,-1.6%,-0.2%
+2011-01-20 19:30,AUD,Import Prices q/q,Medium,0.9%,0.8%,-3.8%
+2011-01-20 23:30,JPY,All Industries Activity m/m,Medium,0.2%,-0.3%,-0.1%
+2011-01-21 00:00,CAD,Retail Sales m/m,Medium,0.5%,1.0%,1.3%
+2011-01-21 00:00,GBP,Prelim Mortgage Approvals,Medium,49K,45k,40K
+2011-01-21 00:00,NZD,Retail Sales m/m,High,1.3%,-2.4%,1.5%
+2011-01-21 04:00,EUR,German ifo Business Climate,High,110.0,109.8,110.3
+2011-01-21 04:30,GBP,Retail Sales m/m,High,-0.2%,0.4%,-0.8%
+2011-01-21 08:30,CAD,Core Retail Sales m/m,High,0.6%,0.9%,1.0%
+2011-01-21 09:00,EUR,Belgian NBB Business Climate,Medium,3.3,3.1,4.5
+2011-01-21 13:05,USD,President Obama Speaks,Low,,,
+2011-01-23 19:30,AUD,PPI q/q,High,0.5%,1.3%,0.1%
+2011-01-24 00:00,EUR,Flash Services PMI,Medium,54.2,54.2,55.2
+2011-01-24 00:00,EUR,French Flash Services PMI,Medium,55.2,54.9,57.1
+2011-01-24 00:00,EUR,German Flash Services PMI,Medium,59.2,59.2,60.0
+2011-01-24 03:00,EUR,French Flash Manufacturing PMI,Medium,56.8,57.2,54.3
+2011-01-24 03:30,EUR,German Flash Manufacturing PMI,Medium,61.1,60.7,60.2
+2011-01-24 04:00,EUR,Flash Manufacturing PMI,Medium,57.1,57.1,56.9
+2011-01-24 05:00,EUR,Industrial New Orders m/m,Medium,2.3%,1.4%,2.1%
+2011-01-24 13:00,GBP,MPC Member Sentance Speaks,Medium,,,
+2011-01-24 16:30,NZD,BusinessNZ Services Index,Low,,51.1,52.5
+2011-01-24 18:00,AUD,CB Leading Index m/m,Medium,,0.6%,0.3%
+2011-01-24 19:30,AUD,CPI q/q,High,0.7%,0.7%,0.4%
+2011-01-24 22:29,JPY,Monetary Policy Statement,High,,,
+2011-01-25 00:00,AUD,Trimmed Mean CPI q/q,Medium,0.8%,0.6%,0.3%
+2011-01-25 00:00,CAD,CPI m/m,Medium,0.1%,0.1%,0.0%
+2011-01-25 00:00,EUR,German GfK Consumer Climate,Medium,5.5,5.5,5.7
+2011-01-25 00:00,GBP,Index of Services 3m/3m,Low,0.6%,0.5%,0.5%
+2011-01-25 00:00,GBP,Public Sector Net Borrowing,High,18.2B,19.7B,15.3B
+2011-01-25 00:00,JPY,Overnight Call Rate,High,<0.10%,<0.10%,<0.10%
+2011-01-25 00:00,USD,HPI m/m,Low,-0.1%,0.2%,0.0%
+2011-01-25 02:00,CHF,UBS Consumption Indicator,Medium,,1.62,1.84
+2011-01-25 02:12,JPY,BOJ Press Conference,High,,,
+2011-01-25 02:45,EUR,French Consumer Spending m/m,Medium,0.4%,2.7%,0.6%
+2011-01-25 04:30,GBP,Prelim GDP q/q,High,0.5%,0.7%,-0.5%
+2011-01-25 07:00,CAD,Core CPI m/m,High,-0.2%,0.0%,-0.3%
+2011-01-25 09:00,USD,S&P/CS Composite-20 HPI y/y,Medium,-1.4%,-0.8%,-1.6%
+2011-01-25 09:59,USD,Richmond Manufacturing Index,Low,23,25,18
+2011-01-25 10:00,USD,CB Consumer Confidence,High,54.4,53.3,60.6
+2011-01-25 14:40,GBP,BOE Gov King Speaks,High,,,
+2011-01-25 18:50,JPY,SPPI y/y,Low,-1.3%,-1.1%,-1.3%
+2011-01-25 21:00,NZD,Credit Card Spending y/y,Low,,3.7%,2.0%
+2011-01-26 00:00,GBP,High Street Lending,Medium,29.9K,29.7K,28.7K
+2011-01-26 00:00,GBP,MPC Official Bank Rate Votes,High,1-0-8,1-0-8,2-0-7
+2011-01-26 00:00,JPY,BOJ Monthly Report,Medium,,,
+2011-01-26 00:00,NZD,RBNZ Rate Statement,High,,,
+2011-01-26 00:00,USD,FOMC Statement,High,,,
+2011-01-26 00:00,USD,President Obama Speaks,Medium,,,
+2011-01-26 02:00,EUR,German Import Prices m/m,Low,1.3%,1.2%,2.3%
+2011-01-26 04:00,EUR,Italian Retail Sales m/m,Low,0.1%,0.3%,-0.3%
+2011-01-26 04:30,GBP,MPC Asset Purchase Facility Votes,High,1-0-8,1-0-8,1-0-8
+2011-01-26 05:05,EUR,German 30-y Bond Auction,Low,,3.33|1.2,3.58|1.2
+2011-01-26 10:00,USD,New Home Sales,High,302K,280K,329K
+2011-01-26 10:30,USD,Crude Oil Inventories,Medium,0.9M,2.6M,4.8M
+2011-01-26 14:15,USD,Federal Funds Rate,High,<0.25%,<0.25%,<0.25%
+2011-01-26 15:00,NZD,Official Cash Rate,High,3.00%,3.00%,3.00%
+2011-01-26 15:29,All,WEF Annual Meetings,Medium,,,
+2011-01-26 18:30,AUD,MI Leading Index m/m,Medium,,0.3%,0.0%
+2011-01-26 18:50,JPY,Trade Balance,Medium,0.53T,0.54T,0.71T
+2011-01-27 00:00,USD,Durable Goods Orders m/m,Medium,1.6%,-0.1%,-2.5%
+2011-01-27 00:00,USD,Unemployment Claims,High,407K,403K,454K
+2011-01-27 06:00,GBP,CBI Realized Sales,Medium,37,56,37
+2011-01-27 08:30,USD,Core Durable Goods Orders m/m,High,0.9%,4.5%,0.5%
+2011-01-27 10:00,USD,Pending Home Sales m/m,High,0.9%,3.1%,2.0%
+2011-01-27 10:30,USD,Natural Gas Storage,Low,-121B,-243B,-174B
+2011-01-27 15:29,All,WEF Annual Meetings,Medium,,,
+2011-01-27 15:29,EUR,German Prelim CPI m/m,Medium,-0.3%,1.0%,-0.5%
+2011-01-27 18:30,JPY,Household Spending y/y,Medium,-0.6%,-0.4%,-3.3%
+2011-01-27 18:50,JPY,Monetary Policy Meeting Minutes,Medium,,,
+2011-01-27 19:01,GBP,GfK Consumer Confidence,Medium,-20,-21,-29
+2011-01-28 00:00,EUR,Private Loans y/y,Low,2.3%,2.0%,1.9%
+2011-01-28 00:00,EUR,Retail PMI,Low,,52.9,55.8
+2011-01-28 00:00,JPY,National Core CPI y/y,Low,-0.4%,-0.5%,-0.4%
+2011-01-28 00:00,JPY,Retail Sales y/y,Medium,0.6%,1.5%,-2.0%
+2011-01-28 00:00,JPY,Tokyo Core CPI y/y,Medium,-0.3%,-0.4%,-0.2%
+2011-01-28 00:00,JPY,Unemployment Rate,Low,5.1%,5.1%,4.9%
+2011-01-28 00:00,USD,Advance GDP Price Index q/q,Medium,1.7%,2.1%,0.3%
+2011-01-28 00:00,USD,Employment Cost Index q/q,Medium,0.5%,0.4%,0.4%
+2011-01-28 00:00,USD,Revised UoM Inflation Expectations,Low,,3.3%,3.4%
+2011-01-28 03:00,EUR,Spanish Unemployment Rate,Medium,20.1%,19.8%,20.3%
+2011-01-28 04:00,EUR,M3 Money Supply y/y,Medium,2.1%,2.1%,1.7%
+2011-01-28 05:19,EUR,Italian 10-y Bond Auction,Medium,,4.80|1.3,4.73|1.5
+2011-01-28 05:30,CHF,KOF Economic Barometer,High,2.09,2.11,2.10
+2011-01-28 06:00,USD,Treasury Sec Geithner Speaks,Medium,,,
+2011-01-28 08:00,CAD,BOC Gov Carney Speaks,Medium,,,
+2011-01-28 08:30,USD,Advance GDP q/q,High,3.5%,2.6%,3.2%
+2011-01-28 09:55,USD,Revised UoM Consumer Sentiment,Medium,73.1,72.7,74.2
+2011-01-28 15:29,All,WEF Annual Meetings,Medium,,,
+2011-01-29 15:29,All,WEF Annual Meetings,Medium,,,
+2011-01-30 15:29,All,WEF Annual Meetings,Medium,,,
+2011-01-30 16:45,NZD,Building Consents m/m,Medium,,7.8%,-18.6%
+2011-01-30 18:15,JPY,Final Manufacturing PMI,Low,,48.3,51.4
+2011-01-30 18:30,AUD,MI Inflation Gauge m/m,Low,,0.2%,0.4%
+2011-01-30 18:50,JPY,Prelim Industrial Production m/m,Medium,2.9%,1.0%,3.1%
+2011-01-30 19:30,AUD,Private Sector Credit m/m,Medium,0.3%,0.3%,0.2%
+2011-01-31 00:00,CAD,IPPI m/m,Low,0.6%,0.6%,0.7%
+2011-01-31 00:00,CAD,RMPI m/m,Medium,3.3%,3.5%,4.2%
+2011-01-31 00:00,JPY,Housing Starts y/y,Low,4.8%,6.8%,7.5%
+2011-01-31 00:00,NZD,Trade Balance,Medium,-15M,-186M,-250M
+2011-01-31 00:00,USD,Core PCE Price Index m/m,Medium,0.1%,0.1%,0.0%
+2011-01-31 00:00,USD,Personal Income m/m,Low,0.5%,0.4%,0.4%
+2011-01-31 00:00,USD,Personal Spending m/m,Medium,0.6%,0.3%,0.7%
+2011-01-31 02:00,EUR,German Retail Sales m/m,Medium,1.9%,-1.9%,-0.3%
+2011-01-31 05:00,EUR,CPI Flash Estimate y/y,Medium,2.4%,2.2%,2.4%
+2011-01-31 08:30,CAD,GDP m/m,High,0.2%,0.2%,0.4%
+2011-01-31 09:45,USD,Chicago PMI,Medium,65.5,68.6,68.8
+2011-01-31 14:00,USD,Loan Officer Survey,Low,,,
+2011-01-31 16:45,NZD,Labor Cost Index q/q,High,0.5%,0.6%,0.6%
+2011-01-31 17:25,AUD,AIG Manufacturing Index,Low,,46.3,46.7
+2011-01-31 19:30,AUD,HPI q/q,Medium,0.0%,-0.3%,0.7%
+2011-01-31 20:00,CNY,Manufacturing PMI,High,54.1,53.9,52.9
+2011-01-31 20:30,JPY,Average Cash Earnings y/y,Medium,0.9%,0.2%,-0.4%
+2011-01-31 21:05,NZD,ANZ Commodity Prices m/m,Low,,2.0%,3.8%
+2011-01-31 21:30,CNY,Caixin Manufacturing PMI,Medium,,54.4,54.5
+2011-01-31 22:30,AUD,Cash Rate,High,4.75%,4.75%,4.75%
+2011-01-31 22:45,JPY,10-y Bond Auction,Low,,1.21|3.0,1.24|2.7
