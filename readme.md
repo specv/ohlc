@@ -1,4 +1,4 @@
-# data — backtest 数据仓库
+# ohlc — K 线与经济事件数据仓库
 
 K 线与经济事件数据的实体目录。app（Kyline）端通过存储根目录 `~/.config/kyline/`
 下的软链访问：
@@ -12,6 +12,7 @@ K 线与经济事件数据的实体目录。app（Kyline）端通过存储根目
 tickers/                      品种 K 线（dataFolder 里只放品种，一个子目录一个品种）
   SPY/ QQQ/ VIX/ VXN/           1m 四品种（见下节）；日线 SPY/QQQ/VIX 2020 起、VXN 2026 起
   <成分股>/ × ~518              SPY/QQQ 成分股，仅日线全历史（见「成分股全历史」节）
+  XBTUSD/ ETHUSD/               BitMEX 加密 K 线（1m 逐日 + 1d 月度，bucketed API，2026-10 入库）
     <SYM>_1m_<YYYY-MM-DD>.csv     1m K 线，按天一个文件
     <SYM>_D_<YYYY-MM>.csv         日线，按月一个文件
 events/                       经济事件日历（Forex Factory），按月一个 CSV
@@ -92,5 +93,6 @@ IBKR 对齐）、含盘前盘后；只落盘完整日——当天的数据盘中
 
 ---
 
-本目录在 backtest 仓库内；`tickers/`、`events/` 与本 readme 当前为未跟踪
-文件，是否纳入版本管理由仓库使用者定夺。
+本仓库曾位于 backtest 仓库内的 `data/` 子目录，2026-10-11 起独立为
+`vibe/ohlc`（远端 `specv/ohlc`）；`tickers/`、`events/` 与本 readme 已全量
+入库，Kyline 经存储根软链访问，路径不变。
