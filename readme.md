@@ -10,10 +10,12 @@ K 线与经济事件数据的实体目录。app（Kyline）端通过存储根目
 
 ```
 tickers/                      品种 K 线（dataFolder 里只放品种，一个子目录一个品种）
-  SPY/ QQQ/ VIX/ VXN/
+  SPY/ QQQ/ VIX/ VXN/           1m 四品种（见下节）；日线 SPY/QQQ/VIX 2020 起、VXN 2026 起
+  <成分股>/ × ~518              SPY/QQQ 成分股，仅日线全历史（见「成分股全历史」节）
     <SYM>_1m_<YYYY-MM-DD>.csv     1m K 线，按天一个文件
     <SYM>_D_<YYYY-MM>.csv         日线，按月一个文件
 events/                       经济事件日历（Forex Factory），按月一个 CSV
+yahoo-daily-sync-state.json   成分股日线同步状态（断点续传/增量判断）
 readme.md                     本文件
 ```
 
@@ -51,6 +53,28 @@ IBKR 对齐）、含盘前盘后；只落盘完整日——当天的数据盘中
 `~/.config/kyline/live/`（当日文件，超 7 天自动清理），不进本目录。
 历史遗留：2026-08-21 ~ 09-18 期间日线曾在盘中写过半根并冻结（追加语义不会
 自行修正），2026-09-19 已按 Yahoo 1d 官方值重拉修复（40 根）。
+
+## 成分股全历史（scanline 扫描宇宙）
+
+2026-09-25 起新增：SPY/QQQ **当前成分股**（S&P500 503 + 纳指100 101 → 并集
+518）的日线全历史（各股自 IPO 起），供 scanline 扫描（也让 1Q EMA20 首次
+可扫：季线 EMA20 需 60 季收敛，2020 年起的短历史扫 1Q 恒空）。由
+`sync_yahoo_daily.py` 从 Yahoo v8 chart 接口全量拉取：
+
+- 成分名单：Wikipedia S&P500 成分表 + Nasdaq 官方 API（nasdaq100），
+  `BRK.B`→`BRK-B` Yahoo 记法；重跑自动跟随指数调仓更新宇宙
+- 请求必须走 curl_cffi 的 Chrome TLS 指纹（裸 python-requests 无论带不带
+  cookie 都被 429，2026-09 实测）；串行 + 1~2s 随机抖动，429/5xx 指数退避，
+  连续 3 品种限流即熔断中止
+- 落盘指纹与上节 Yahoo 段一致：裸 float 价格、整数 volume、
+  `average/barCount` 留空；只落完整日（美东 20:00 收尾语义），止于最近
+  完整交易日
+- **只写新建月份文件，绝不改动既有文件**（SPY/QQQ/VIX/VXN 的
+  IBKR/kyline 管理段不受影响；成分股目录全归本脚本管）；增量更新 = 直接
+  重跑，已到最新的品种自动跳过
+- 状态在 `data/yahoo-daily-sync-state.json`（每品种 last_bar/文件清单/
+  上次失败明细）；注意 SPY/QQQ 自身的既有月份更晚，state 里 last_bar 偏旧，
+  每轮重跑会白拉一次全历史（无副作用），属已知小浪费
 
 ## events/ — 经济事件日历
 
